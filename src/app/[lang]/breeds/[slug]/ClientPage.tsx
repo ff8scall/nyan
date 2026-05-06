@@ -42,7 +42,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
             src={imgError.master ? placeholders.master : (breed.image_master_path || placeholders.master)} 
             onError={() => handleImgError('master')}
             style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.8, filter: 'grayscale(10%) contrast(1.1)' }} 
-            alt={breed.name_en} 
+            alt={l === 'ko' ? `${breed.name_ko} 고양이 메인 아카이브 이미지` : `${breed.name_en} cat master archive image`} 
           />
           <div style={{ position: 'absolute', bottom: 0, left: 0, width: '100%', height: '50%', background: 'linear-gradient(to top, #000, transparent)' }} />
         </motion.div>
@@ -148,7 +148,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
                 src={imgError.frontal ? placeholders.master : (breed.image_frontal_path || placeholders.master)} 
                 onError={() => handleImgError('frontal')}
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
-                alt="Frontal face"
+                alt={l === 'ko' ? `${breed.name_ko} 고양이 정면 형태학적 분석` : `${breed.name_en} cat frontal morphology study`} 
               />
               <div style={{ position: 'absolute', bottom: '2rem', left: '2rem', color: '#fff', fontSize: '0.7rem', letterSpacing: '0.2em', textTransform: 'uppercase' }}>{dict.breed.frontal}</div>
             </motion.div>
@@ -161,7 +161,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
               <img 
                 src={breed.image_strict_profile_path || placeholders.master} 
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
-                alt="Strict profile"
+                alt={l === 'ko' ? `${breed.name_ko} 고양이 90도 측면 프로필` : `${breed.name_en} cat 90-degree profile`} 
               />
               <div style={{ position: 'absolute', bottom: '2rem', left: '2rem', color: '#fff', fontSize: '0.7rem', letterSpacing: '0.2em', textTransform: 'uppercase' }}>{dict.breed.strictProfile}</div>
             </motion.div>
@@ -173,7 +173,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
               <img 
                 src={breed.image_fullbody_side_path || placeholders.fullbody} 
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
-                alt="Side view"
+                alt={l === 'ko' ? `${breed.name_ko} 고양이 전신 측면 라인` : `${breed.name_en} cat full body lateral line`} 
               />
               <div style={{ position: 'absolute', bottom: '2rem', left: '2rem', color: '#fff', fontSize: '0.7rem', letterSpacing: '0.2em', textTransform: 'uppercase' }}>{dict.breed.lateralLine}</div>
             </motion.div>
@@ -187,7 +187,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
                 whileInView={{ opacity: 1 }} initial={{ opacity: 0 }}
                 style={{ aspectRatio: '1/1', borderRadius: '0.5rem', overflow: 'hidden', background: '#050505', position: 'relative' }}
               >
-                <img src={breed.image_eye_macro_path || placeholders.macro} style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Eye macro" />
+                <img src={breed.image_eye_macro_path || placeholders.macro} style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt={l === 'ko' ? `${breed.name_ko} 고양이 눈동자 매크로 촬영` : `${breed.name_en} cat eye macro focus`} />
                 <div style={{ position: 'absolute', top: '2rem', left: '2rem', color: '#fff', fontSize: '0.7rem', letterSpacing: '0.3em' }}>{dict.breed.eyeMaster}</div>
               </motion.div>
               

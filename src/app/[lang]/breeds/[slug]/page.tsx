@@ -69,8 +69,9 @@ export default async function BreedPage({
   }
 
   const isKo = lang === "ko";
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
   
-  // JSON-LD Schema
+  // JSON-LD Schema: Article & FAQ
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -83,7 +84,7 @@ export default async function BreedPage({
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://nyan.archive/${lang}/breeds/${slug}`
+      "@id": `${baseUrl}/${lang}/breeds/${slug}`
     }
   };
 
@@ -100,11 +101,41 @@ export default async function BreedPage({
     }))
   } : null;
 
+  // Breadcrumb Schema
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": isKo ? "홈" : "Home",
+        "item": `${baseUrl}/${lang}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": isKo ? "도감" : "Encyclopedia",
+        "item": `${baseUrl}/${lang}/breeds`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": isKo ? breed.name_ko : breed.name_en,
+        "item": `${baseUrl}/${lang}/breeds/${slug}`
+      }
+    ]
+  };
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
       {faqLd && (
         <script
