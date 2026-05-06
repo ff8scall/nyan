@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getAllBreedSlugs } from '@/lib/breeds';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://nyan.lego-sia.com';
   const slugs = await getAllBreedSlugs();
   const languages = ['en', 'ko'];
 

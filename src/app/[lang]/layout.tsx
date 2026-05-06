@@ -13,6 +13,11 @@ export async function generateStaticParams() {
 }
 
 import SmoothScroll from "@/components/SmoothScroll";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://nyan.lego-sia.com"),
+};
 
 export default async function LocaleLayout({
   children,

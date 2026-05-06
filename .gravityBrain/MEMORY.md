@@ -1,47 +1,23 @@
-# Memory & Context
+# 🧠 Memory & Context (Project NYAN)
 
-## 현재 상태 (Current Status)
-- **8종 마스터 패키지 시스템 완공**: 래그돌(Ragdoll)을 필두로 Hero, Morphology, Macro, Variant 등 품종별 8종의 고화질 에셋 파이프라인 구축 완료.
-- **WebP 최적화 엔진 가동**: 생성된 PNG를 웹 최적화용 WebP로 자동 변환하여 페이지 로딩 성능을 박물관 수준으로 상향 평준화.
-- **데이터 중심 UI 리팩토링**: 몸무게, 수명, 유전병 등 방대한 스펙 데이터를 통합한 고밀도 레이아웃(`ClientPage.tsx`) 안착.
+## 🏁 현재 상태 (Current Status) - 2026-05-06
+- **박물관급 아카이브 UI 완성**: 벵갈 품종을 필두로 52종 전 품종에 적용 가능한 박물관급 그리드 레이아웃과 가독성이 확보된 UI 디자인 시스템 구축 완료.
+- **다국어 시스템(i18n) 구축**: dictionaries.ts를 통해 영문/국문 UI 라벨링 및 데이터 코드(원산지, 체형) 자동 번역 시스템 완비.
+- **SEO 마스터 인프라 완비**: JSON-LD(Article, FAQ, Breadcrumb), Hreflang, Canonical, Sitemap, RSS, Robots.txt 등 최신 검색 엔진 최적화 전수 적용.
+- **글로벌 배포 성공**: GitHub 연동을 통한 Vercel 자동 배포 환경 구축 및 사이트 소유권 확인(Google/Naver/Bing) 완료.
 
-## ✅ 작업 현황 (Work Progress)
-- [x] 래그돌(Ragdoll) 8종 마스터 에셋 생성 및 최적화 완료.
-- [x] `ClientPage.tsx` 레이아웃 결함(공백, 크롭) 수선 및 데이터 연동 완료.
-- [x] `generate_masterpiece.py`를 전 품종 자동 배치 가동용으로 고도화.
+## 🛠 주요 변경 사항 (Recent Changes)
+- ClientPage.tsx: 요약 섹션 풀와이드 개편, 텍스트 명도 최적화, 3열 수평 정렬 그리드 시스템 도입.
+- page.tsx: 고급 SEO 구조화 데이터 삽입 및 다국어 메타데이터 튜닝.
+- sitemap.ts / ss.xml: 동적 콘텐츠 배포 인프라 신설.
+- expert_sources: CFA/TICA 등 공식 협회 출처 연동 및 타입 안정성 확보.
 
-## 🚀 진행 중인 작업 (In Progress)
-- **전 품종(29종) 리마스터 배치 실행**: 래그돌을 제외한 나머지 모든 품종에 대해 8종 마스터 패키지 자동 생성 및 WebP 최적화 중.
-- **지식 자산화**: 생성된 에셋과 데이터의 유기적 결합을 위한 JSON 데이터 정제 작업 병행.
+## 📅 향후 작업 (Next Steps)
+1. **전 품종 데이터 마이그레이션**: 현재 벵갈에 적용된 상세 데이터 스키마(기원 역사, 추천 용품 등)를 나머지 51개 품종 JSON에 일괄 이식.
+2. **커머스 연동 (Phase 2)**: ecommended_items 섹션에 실제 제휴(Affiliate) 링크를 매칭하여 수익화 모델 테스트.
+3. **이미지 에셋 전수 검사**: FLUX로 생성된 52종 x 8개 에셋의 품질을 박물관급 기준에 맞춰 최종 검수 및 누락분 재생성.
 
-## 단기 목표 (Short-term Goals)
-1. 백그라운드에서 진행 중인 29종 품종의 8종 패키지(총 232장) 생성 완료 여부 모니터링.
-2. 생성 완료된 품종들의 UI 렌더링 무결성 및 데이터 매핑 전수 검사.
-3. 전 품종 리마스터링 완료 후 최종 시스템 안정화 및 지식 전수 문서 마감.
-
-## 🏆 최초 인정 버전 (First Approved Version - v1.1)
-- **날짜**: 2026-05-06
-- **업데이트**: 
-  - `mCat` → `Nyan` 프로젝트명 및 폴더 구조 일원화.
-  - 원본 PNG 외부 보관(`Nyan_originals`) 및 웹용 WebP 프로젝트 보관 이원화 (Git 최적화).
-  - GitHub 원격 저장소(`nyan.git`) 연동 및 최초 푸시 완료.
-- **특징**: "Lightweight & Scalable" - 대용량 에셋의 외부 분산 관리를 통한 기동성 확보.
-- **핵심 설정**:
-  - **Prompt**: `An ultra-sharp, professional museum-grade studio photograph of a {breed} cat. The cat is sitting elegantly on a large grey concrete pedestal. Deep solid black background. Extreme razor-sharp focus on the cat's eyes and face, intricate micro-details of every single hair and whisker. Dramatic professional studio lighting, high contrast, vivid and crisp textures. Shot on 100mm macro lens, 8k resolution, ultra-detailed, cinematic masterpiece.`
-  - **Negative**: `blurry, bokeh, out of focus, soft focus, fuzzy, low resolution, oversaturated, plastic, cartoon, illustration, human, dog, flower`
-  - **Steps**: 40
-  - **CFG**: 1.0
-
-# 🧠 Antigravity Memory Sync (2026-05-06)
-
-## 📌 현재 진행 상황 (Current Status)
-- **상위 30종 마스터피스 완성**: 맨크스(Manx)를 포함한 상위 30종의 8종 에셋 패키지 생성이 완료됨.
-- **52종 전 품종 데이터 보강**: `personality_ko`, `care_ko`, `known_risks`, `economics` 등 박물관급 표준 규격으로 52종 전 품종 데이터 주입 완료.
-- **파이프라인 구축**: `generate_rest_of_catalog.py` (나머지 22종 재생성용) 준비 완료.
-- **국문 로컬라이제이션 완공**: `dictionaries.ts`의 `ko` 섹션을 완전 한글화하고, 주요 원산지 및 체형 데이터를 보강하여 박물관급 톤앤매너 확보.
-- **UI 결함 수선**: 상세 페이지 Morphology Grid 섹션에서 불필요하게 노출되던 '...' 텍스트 제거 완료.
-
-## 🎯 단기 목표 (Next Steps)
-1. **나머지 카탈로그 재생성**: `generate_rest_of_catalog.py`의 주석을 해제하고 실행하여 30위 밖 품종들의 이미지를 최신 데이터 기반으로 전면 갱신.
-2. **UI 최종 검수**: 상세 페이지에서 보강된 데이터들이 레이아웃에 맞게 잘 렌더링되는지 전 품종 전수 확인.
-3. **SEO 최적화**: 보강된 데이터를 바탕으로 각 품종 페이지의 메타 태그 및 키워드 연동 확인.
+## 📜 프로젝트 연혁 (History)
+- **2026-05-06**: 공식 도메인 (https://nyan.lego-sia.com) 확정 및 시스템 전반(Sitemap, RSS, Metadata, JSON-LD) URL 동기화 완료.
+- **2026-05-06**: UI/UX 대규모 개편 및 SEO 인프라 통합 구축. Vercel 배포 및 검색 콘솔 등록 완료.
+- **2026-05-05**: 50종 품종 이미지 FLUX 생성 및 JSON 데이터 스키마 정립.

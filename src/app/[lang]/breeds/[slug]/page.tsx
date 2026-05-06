@@ -15,7 +15,7 @@ export async function generateMetadata({
   if (!breed) return { title: "Breed Not Found" };
 
   const isKo = lang === "ko";
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://nyan.lego-sia.com";
   
   // JSON에 meta_tags가 있으면 사용, 없으면 기본값 생성
   const title = breed.meta_tags?.title || 
@@ -69,7 +69,7 @@ export default async function BreedPage({
   }
 
   const isKo = lang === "ko";
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://nyan.lego-sia.com";
   
   // JSON-LD Schema: Article & FAQ
   const jsonLd = {

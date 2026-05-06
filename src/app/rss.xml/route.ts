@@ -2,7 +2,7 @@ import { getAllBreedSlugs, getBreedBySlug } from '@/lib/breeds';
 import { NextResponse } from 'next/server';
 
 export async function GET() {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://nyan.lego-sia.com';
   const slugs = await getAllBreedSlugs();
   
   // RSS feed typically uses one primary language, we'll use English as fallback but can serve both
