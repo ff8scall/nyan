@@ -2,6 +2,10 @@
   "id": "peterbald",
   "name_en": "Peterbald",
   "name_ko": "피터볼드",
+  "aliases_en": [
+    "Petersburg Hairless",
+    "Petersburg Sphynx"
+  ],
   "aliases_ko": [
     "상트페테르부르크의 무모종",
     "엘프 고양이"
@@ -18,7 +22,7 @@
     "all_colors"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 4,
@@ -43,23 +47,57 @@
     "성격이 매우 사교적이고 지능이 높아 집사와 끊임없이 소통하고 대화하는 것을 즐김",
     "털이 거의 없어 털 빠짐 스트레스가 없으며 집사의 체온을 나누는 것을 좋아하는 따뜻한 성격임"
   ],
+  "pros_en": [
+    "Unique beauty combining elegant Oriental lines with a hairless or velvet texture",
+    "Highly social and intelligent; excels at complex communication with owners",
+    "Zero shedding; intensely affectionate cats that love sharing body heat"
+  ],
   "cons": [
     "피부에서 나오는 유분을 제거하기 위해 정기적인 목욕과 세심한 피부 관리가 필수적임",
     "털이 없어 온도 변화에 매우 민감하므로 여름에는 자외선 차단, 겨울에는 보온에 각별히 신경 써야 함",
     "외로움을 매우 많이 타는 '껌딱지' 성격이라 혼자 오래 두면 심한 분리불안을 느낄 수 있음"
   ],
+  "cons_en": [
+    "Requires regular bathing to manage skin oils as there is no fur to absorb them",
+    "Extremely sensitive to temperature; needs UV protection in summer and warmth in winter",
+    "Prone to separation anxiety; thrives on constant companionship and can be 'clingy'"
+  ],
+  "good_for": [
+    "독특하고 미래지향적인 외모의 고양이를 찾는 얼리어답터 집사",
+    "고양이와 끊임없이 소통하고 상호작용하는 것을 삶의 낙으로 삼는 분",
+    "털 빠짐에 예민하지만 피부 관리를 위한 부지런함을 갖춘 가정"
+  ],
+  "good_for_en": [
+    "Early adopters seeking a unique, futuristic, and sophisticated feline companion",
+    "Owners who prioritize deep emotional bonding and constant interaction",
+    "Households sensitive to shedding but willing to commit to regular skin maintenance"
+  ],
+  "think_twice_if": [
+    "바쁜 일상으로 인해 매주 목욕이나 피부 관리를 해주기 어려운 환경",
+    "고양이가 혼자 조용히 시간을 보내기를 바라는 정적인 집사",
+    "실내 온도 조절이 어렵거나 고양이 옷 입히기를 원치 않는 분"
+  ],
+  "think_twice_if_en": [
+    "People with busy schedules unable to provide weekly bathing and skin care",
+    "Owners who prefer a quiet, independent cat that doesn't demand constant attention",
+    "Environments where temperature control is difficult or for those who dislike dressing cats"
+  ],
   "economics": {
     "price_range_ko": "2,500,000원 - 5,500,000원 이상 (초희귀 품종)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$2,500 - $5,000+ (Extremely rare breed)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Peterbald is a cat breed of Russian origin. It was created in Saint Petersburg in 1994 from an experimental mating of an Oriental Shorthair and a Don Sphynx.",
+  "summary_en": "The Peterbald is a sophisticated Russian breed known for its hairless appearance and elegant Oriental body lines.",
   "summary_ko": "러시아에서 탄생한 우아한 무모종으로, 털 날림이 거의 없고 지능이 매우 높으며 집사와 대화하는 것을 즐기는 다정한 품종입니다.",
-  "appearance_en": "Hairless or minimal velvet coat, long tapering oriental lines, extra-large flared ears, slender and graceful.",
+  "appearance_en": "Features slender Oriental lines, large flared ears, and a coat ranging from completely hairless to a soft velvet or brush texture.",
   "appearance_ko": "털이 없거나 아주 미세한 솜털로 덮여 있으며, 샴처럼 길고 가느다란 오리엔탈 체형과 커다란 귀가 상징입니다. 우아한 선과 독특한 피부 질감이 특징입니다.",
-  "personality_en": "Highly social, intelligent, and vocal. Peterbalds are very people-oriented and are often described as 'dog-like' because they love to follow their owners and be involved in everything they do.",
-  "personality_ko": "성격은 매우 외향적이고 다정합니다. 집사와의 소통을 무척 좋아하여 다양한 목소리로 대화를 시도하며, 집사의 어깨 위에 올라타거나 무릎을 차지하는 것을 즐기는 '껌딱지' 성향이 매우 강합니다. 지능이 높아 상황 판단이 빠르고 감수성이 풍부합니다.",
-  "care_en": "Requires regular sponge baths or full baths to manage skin oils, as they lack fur to absorb them. They are sensitive to extreme temperatures and need protection from both cold and direct sunlight.",
-  "care_ko": "피부에서 유분이 많이 나오므로 주 1~2회 정도 따뜻한 물로 닦아주거나 목욕을 시켜주어야 피부 질환을 예방할 수 있습니다. 털이 없어 외부 충격에 피부가 다치기 쉬우므로 실내 환경을 안전하게 유지해야 하며, 항상 보온에 각별히 신경 써야 합니다.",
+  "personality_en": "Extremely extroverted, inquisitive, and vocal. They form intense bonds and often follow their owners from room to room.",
+  "personality_ko": "성격은 매우 외향적이고 다정합니다. 집사와의 소통을 무척 좋아하여 다양한 목소리로 대화를 시도하며, 집사의 어깨 위에 올라타거나 무릎을 차지하는 것을 즐기는 '껌딱지' 성향이 매우 강합니다.",
+  "care_en": "Requires frequent sponge baths to manage skin oils. Must be protected from direct sunlight and kept warm in cooler climates.",
+  "care_ko": "피부에서 유분이 많이 나오므로 주 1~2회 정도 따뜻한 물로 닦아주거나 목욕을 시켜주어야 피부 질환을 예방할 수 있습니다. 항상 보온에 각별히 신경 써야 합니다.",
+  "health_notes_ko": "자연 발생종이 아닌 개량종임에도 유전적으로 건강한 편입니다. 다만 무모종 특성상 피부 건조증이나 햇빛 화상에 대한 세심한 관리가 평생의 핵심입니다.",
+  "health_notes_en": "Generally healthy, though skin protection is the primary lifelong concern. Susceptibility to sun damage and dry skin requires consistent monitoring.",
   "known_risks": [
     {
       "name_en": "Skin sensitivity",
@@ -75,56 +113,90 @@
   "faq": [
     {
       "question_ko": "스핑크스와 무엇이 다른가요?",
-      "answer_ko": "스핑크스는 체형이 조금 더 묵직한 반면, 피터볼드는 훨씬 더 날씬하고 긴 '오리엔탈' 체형입니다. 또한 피터볼드는 털이 아예 없는 것부터 짧은 털이 있는 것까지 피부 타입이 더 다양합니다."
+      "answer_ko": "스핑크스는 체형이 조금 더 묵직한 반면, 피터볼드는 훨씬 더 날씬하고 긴 '오리엔탈' 체형입니다. 또한 피터볼드는 털이 아예 없는 것부터 짧은 털이 있는 것까지 피부 타입이 더 다양합니다.",
+      "question_en": "How are they different from Sphynx?",
+      "answer_en": "While Sphynx have a sturdier build, Peterbalds have much slimmer, elongated 'Oriental' lines. Peterbalds also have a wider variety of coat types, from total hairlessness to brush-like textures."
     },
     {
       "question_ko": "추위를 많이 타나요?",
-      "answer_ko": "네, 털이 없어 체온 조절 능력이 낮으므로 겨울철에는 반드시 옷을 입혀주거나 실내 온도를 높게 유지해 주어야 합니다."
+      "answer_ko": "네, 털이 없어 체온 조절 능력이 낮으므로 겨울철에는 반드시 옷을 입혀주거나 실내 온도를 높게 유지해 주어야 합니다.",
+      "question_en": "Do they get cold easily?",
+      "answer_en": "Yes, without fur to insulate them, they have low thermal regulation. They must wear sweaters in winter or live in high-temperature environments."
+    },
+    {
+      "question_ko": "목욕을 싫어하지 않나요?",
+      "answer_ko": "대부분의 피터볼드는 어릴 때부터 정기적으로 목욕을 해온 덕분에 물에 대한 거부감이 적은 편입니다. 오히려 따뜻한 물에서의 스파를 즐기기도 합니다.",
+      "question_en": "Do they dislike baths?",
+      "answer_en": "Since they require regular bathing from a young age, most are very accustomed to water. Some even enjoy the warmth and relaxation of a bath session."
+    },
+    {
+      "question_ko": "지능이 높은가요?",
+      "answer_ko": "고양이 중에서도 매우 영리한 편에 속합니다. 퍼즐 장난감을 잘 풀며, 집사의 행동을 관찰하고 따라 하거나 문을 여는 등의 행동을 하기도 합니다.",
+      "question_en": "How intelligent are they?",
+      "answer_en": "They are highly intelligent and observant. They are great at solving puzzle toys and may even learn to open doors or mimic their owner's actions."
+    },
+    {
+      "question_ko": "알레르기가 있는 사람에게 안전한가요?",
+      "answer_ko": "털이 날리지 않아 유리한 점은 있지만, 고양이 알레르기는 침이나 피부 유분(Fel d 1 단백질)에서도 발생하므로 입양 전 반드시 직접 접촉해 보는 것이 중요합니다.",
+      "question_en": "Are they hypoallergenic?",
+      "answer_en": "While the lack of fur helps, allergies are often caused by proteins in saliva and skin oils. It is essential to spend time with one before adopting if you have allergies."
     }
   ],
   "visual_comparison_tip": "스핑크스보다 얼굴과 몸이 더 길쭉하고 가느다란 '오리엔탈' 체형이며, 귀가 훨씬 더 크고 뾰족한지 확인하세요.",
+  "visual_comparison_tip_en": "Look for much slimmer, more elongated body lines and larger, more pointed ears compared to the Sphynx.",
   "meta_tags": {
-    "title": "피터볼드 고양이 백과: 피터볼드 고양이 백과: 피터볼드 도감: 우아한 무모종, 성격, 피부 관리, 스핑크스와의 차이점 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "러시아의 신비, 피터볼드의 모든 것. 오리엔탈 바디와 큰 귀, 실제 분양가와 다정한 성격을 nyan에서 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "피터볼드 고양이: 성격, 무모종 피부 관리, 스핑크스와 차이점 | nyan",
+    "title_en": "Peterbald Cat: Skin Care & Breed Standard | nyan",
+    "description_ko": "러시아의 신비로운 우아함, 피터볼드의 모든 것. 오리엔탈 실루엣과 무모종의 매력, 피부 관리법과 실제 분양가를 nyan에서 확인하세요.",
+    "description_en": "Discover the elegant Russian Peterbald. Learn about their Oriental lines, social intelligence, and specialized skin care in our museum-grade archive.",
+    "keywords_ko": [
       "피터볼드",
-      "피터볼드고양이",
       "무모종고양이",
       "러시아고양이",
-      "오리엔탈고양이",
+      "스핑크스비교",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Peterbald",
+      "Russian hairless cat",
+      "Oriental cat",
+      "skin care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/peterbald/peterbald_hero.webp",
-  "image_macro_path": "/images/Nyan/peterbald_macro.png",
   "image_fullbody_path": "/images/Nyan/peterbald/peterbald_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/peterbald/peterbald_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "유전적으로 건강한 편이지만 무모종 특성상 피부 건조증이나 햇빛 화상에 대한 주의가 필요합니다.",
-  "local_rarity_ko": "국내에서 스핑크스보다 훨씬 희귀한 초희귀 품종입니다. 오리엔탈 품종 특유의 긴 실루엣을 사랑하는 전문 집사들 사이에서 최고의 드림묘로 꼽히는 품종입니다.",
-  "similar_breed_ids": [
-    "oriental-shorthair",
-    "sphynx",
-    "siamese"
-  ],
   "image_fullbody_side_path": "/images/Nyan/peterbald/peterbald_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/peterbald/peterbald_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/peterbald/peterbald_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/peterbald/peterbald_coat_texture.webp",
   "image_variant_path": "/images/Nyan/peterbald/peterbald_variant_full_body.webp",
-  "origin_history_ko": "피터볼드 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "피터볼드의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "oriental-shorthair",
+    "sphynx",
+    "siamese"
+  ],
+  "origin_history_ko": "1994년 러시아 상트페테르부르크에서 올가 미로노바(Olga Mironova)에 의해 탄생했습니다. 돈 스핑크스와 오리엔탈 쇼트헤어의 교배를 통해 우아한 바디 라인을 가진 무모종이 완성되었습니다.",
+  "origin_history_en": "Created in 1994 in St. Petersburg, Russia by Olga Mironova. The breed resulted from experimental matings between a Don Sphynx and an Oriental Shorthair to achieve a sleek, hairless cat with Oriental lines.",
+  "grooming_tips_ko": "털 대신 피부 관리가 핵심입니다. 주 1~2회 전용 세정액이나 따뜻한 물로 유분을 닦아주고, 발가락 사이와 귀 안쪽의 유분이 쌓이지 않도록 세심하게 닦아주어야 합니다.",
+  "grooming_tips_en": "Skin maintenance is vital. Use gentle wipes or warm water 1-2 times a week to remove oils, paying special attention to skin folds, toes, and large ears where oil accumulates.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "무형광 유아용 고양이 의류",
+      "item_name_en": "Hypoallergenic Feline Apparel",
+      "reason_ko": "털이 없는 피부를 직접 보호하고 체온을 유지하며 자외선을 차단하기 위한 필수 아이템",
+      "reason_en": "Protects sensitive skin from sun damage and maintains body heat in hairless breeds"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "저자극성 무알콜 피부 세정 티슈",
+      "item_name_en": "Alcohol-Free Skin Wipes",
+      "reason_ko": "피부 유분을 자극 없이 닦아내어 피부 트러블과 냄새를 방지",
+      "reason_en": "Safely removes excess skin oils to prevent irritation and maintain hygiene without drying out the skin"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +210,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "피터볼드",
+    "name": "Peterbald",
     "taxonRank": "Breed",
-    "description": "피터볼드 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Peterbald cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 피터볼드 고양이의 전신 모습",
@@ -151,5 +223,17 @@
     "eye_macro": "피터볼드 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "피터볼드 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "피터볼드 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an elegant Peterbald cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the Oriental features and large ears of a Peterbald",
+    "full_body_front": "Front view showing the slender and muscular build of the Peterbald",
+    "full_body_side": "Lateral view showcasing the whip-like tail and graceful silhouette",
+    "strict_profile": "90-degree profile view for anatomical study of the Peterbald breed",
+    "eye_macro": "Macro shot of the almond-shaped eyes of a Peterbald cat",
+    "coat_texture": "Detailed photo of the unique skin texture (hairless or velvet)",
+    "variant_full_body": "Showcase of various skin patterns and textures found in the breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

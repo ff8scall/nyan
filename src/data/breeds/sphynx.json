@@ -2,6 +2,11 @@
   "id": "sphynx",
   "name_en": "Sphynx",
   "name_ko": "스핑크스",
+  "aliases_en": [
+    "Canadian Hairless",
+    "The Naked Cat",
+    "Velvet Cat"
+  ],
   "aliases_ko": [
     "털 없는 고양이",
     "벨벳 고양이"
@@ -17,7 +22,7 @@
   "common_colors": [
     "all_colors"
   ],
-  "weight_min_kg": 3.0,
+  "weight_min_kg": 3,
   "weight_max_kg": 5.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -43,23 +48,57 @@
     "모든 품종 중 가장 사람을 잘 따르는 '개냥이' 중의 '개냥이'임",
     "매우 똑똑하고 눈치가 빨라 집사의 감정을 잘 케어해줌"
   ],
+  "pros_en": [
+    "Zero shedding means clothes and bedding stay clean from fur",
+    "Exceptional friendliness; one of the most affectionate and social breeds",
+    "Highly intelligent and perceptive, offering deep emotional connection"
+  ],
   "cons": [
     "털이 없어 피부의 유분이 그대로 남으므로 매주 목욕이 필수적임",
     "추위와 더위에 매우 취약하여 실내 온도 조절과 옷 입히기가 필수임",
     "피부 질환 및 심장 유전병(HCM) 관리에 많은 비용과 정성이 들어감"
   ],
+  "cons_en": [
+    "Lack of fur causes oil buildup; weekly baths are mandatory",
+    "Highly sensitive to temperature extremes; requires climate control and clothing",
+    "Requires significant effort and cost for skin care and heart health monitoring"
+  ],
+  "good_for": [
+    "고양이 털 날림에 예민하거나 알레르기 관리가 필요한 분",
+    "고양이와 하루 종일 붙어있고 깊은 유대를 원하는 분",
+    "부지런하게 스킨케어와 목욕을 시켜줄 준비가 된 분"
+  ],
+  "good_for_en": [
+    "Owners sensitive to cat fur or needing easier allergy management",
+    "People who want a 'velcro' cat that follows them everywhere",
+    "Those ready for a committed skin care and bathing routine"
+  ],
+  "think_twice_if": [
+    "목욕이나 귀 청소 등 정기적인 케어를 귀찮아하는 분",
+    "실내 온도를 항상 일정하게 유지하기 어려운 환경",
+    "고양이가 혼자 있는 시간이 길어 외로움을 많이 탈 경우"
+  ],
+  "think_twice_if_en": [
+    "Owners who find frequent bathing and ear cleaning burdensome",
+    "Homes where maintaining a stable indoor temperature is difficult",
+    "People who are away for long periods, as this breed hates being alone"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 200,000원 - 300,000원 (스킨케어 포함)"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 200,000원 - 300,000원",
+    "monthly_care_cost_en": "Approx. $150 - $250"
   },
   "summary_en": "The Sphynx cat is a breed of cat known for its lack of a coat, though it is not truly hairless.",
   "summary_ko": "털이 없는 독특한 외모 속에 천사 같은 마음을 숨긴 '반전 매력'의 소유자입니다. 사람의 온기를 찾아 품속으로 파고드는 가장 사랑스러운 동반자입니다.",
-  "appearance_en": "Lack of fur, with skin that feels like chamois or suede. They have large ears, a rounded belly, and a muscular body. Their skin is heavily wrinkled, especially around the shoulders and neck.",
+  "appearance_en": "Lack of fur, with skin that feels like suede. They have large ears, a rounded belly, and muscular build. Their skin is heavily wrinkled, especially around the shoulders and neck.",
   "appearance_ko": "가죽처럼 부드러운 피부와 복숭아 솜털 같은 미세한 털이 특징입니다. 배가 볼록한 '포트 벨리(Pot belly)' 체형과 커다란 귀, 그리고 풍부한 피부 주름이 신비로운 느낌을 줍니다.",
-  "personality_en": "Extremely affectionate, energetic, and intelligent. They are known for their 'velcro-like' attachment to their owners and often greet them at the door.",
+  "personality_en": "Extremely affectionate, energetic, and intelligent. They are known for their 'velcro-like' attachment to their owners and friendly nature.",
   "personality_ko": "고양이 중 가장 사교적이며 집사에게서 한시도 떨어지려 하지 않는 '껌딱지'입니다. 사람뿐만 아니라 다른 동물과도 완벽하게 어울리며, 지능이 높아 집사의 말을 잘 알아듣습니다.",
-  "care_en": "Requires regular baths to remove body oils that their skin produces. They also need ear cleaning and nail care. Protection from extreme temperatures and sunlight is essential.",
+  "care_en": "Requires regular baths to remove body oils. They also need ear cleaning and protection from extreme temperatures and sunlight.",
   "care_ko": "털이 기름을 흡수하지 못하므로 매주 목욕을 시켜주지 않으면 피부병이 생길 수 있습니다. 체온 조절 능력이 없으므로 여름에는 자외선 차단, 겨울에는 따뜻한 옷 입히기가 필수입니다.",
+  "health_notes_ko": "비대성 심근증(HCM)과 피부 감염에 대한 세심한 주의가 필요하며, 특히 자외선 노출 시 피부 화상을 입기 쉬우므로 일광욕 시 각별히 주의해야 합니다.",
+  "health_notes_en": "Vigilance regarding HCM and potential skin infections is crucial. Their lack of fur also makes them highly susceptible to sunburn; limit exposure to direct intense sunlight.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,55 +114,90 @@
   "faq": [
     {
       "question_ko": "알레르기가 있는 사람도 키울 수 있나요?",
-      "answer_ko": "털 날림이 없어 훨씬 낫지만, 알레르기 유발 성분은 피부의 침과 각질에도 존재합니다. 따라서 알레르기가 심한 분은 분양 전 반드시 반응을 테스트해야 합니다."
+      "answer_ko": "털 날림이 없어 훨씬 낫지만, 알레르기 유발 성분은 피부의 침과 각질에도 존재합니다. 따라서 알레르기가 심한 분은 사전 테스트가 필수입니다.",
+      "question_en": "Can people with allergies own them?",
+      "answer_en": "They are easier to manage as there is no flying fur, but allergens still exist in saliva and skin cells. Testing for a reaction before adoption is essential."
     },
     {
       "question_ko": "매일 닦아줘야 하나요?",
-      "answer_ko": "네, 피부에서 나오는 기름기가 옷이나 이불에 묻을 수 있으므로 매일 물티슈나 젖은 수건으로 몸을 닦아주는 관리가 필요합니다."
+      "answer_ko": "네, 피부에서 나오는 기름기가 가구나 옷에 묻을 수 있으므로 매일 물티슈나 젖은 수건으로 몸을 닦아주는 관리가 권장됩니다.",
+      "question_en": "Do they need daily wiping?",
+      "answer_en": "Yes, their skin oils can transfer to furniture or clothes. Daily wiping with a damp cloth or pet wipes is recommended to maintain hygiene."
+    },
+    {
+      "question_ko": "정말 털이 하나도 없나요?",
+      "answer_ko": "완전히 대머리인 것은 아닙니다. 아주 미세한 솜털이 온몸을 덮고 있어 만졌을 때 복숭아나 세무 가죽 같은 부드러운 느낌이 납니다.",
+      "question_en": "Are they completely hairless?",
+      "answer_en": "Not entirely. They are covered with a very fine down that is almost invisible to the eye but gives the skin a suede or peach-like feel when touched."
+    },
+    {
+      "question_ko": "목욕을 좋아하나요?",
+      "answer_ko": "어릴 때부터 정기적으로 목욕을 시킨 스핑크스들은 대체로 물을 두려워하지 않고 목욕 시간을 즐기는 경우가 많습니다.",
+      "question_en": "Do they like baths?",
+      "answer_en": "Since they require weekly baths from a young age, most Sphynx cats grow up to be very comfortable with water and many actually enjoy their spa time."
+    },
+    {
+      "question_ko": "왜 이렇게 체온이 높게 느껴지나요?",
+      "answer_ko": "실제 체온이 다른 고양이보다 높은 것은 아니지만, 열을 차단해 줄 털이 없어 피부의 온기가 직접적으로 전달되기 때문에 더 뜨겁게 느껴집니다.",
+      "question_en": "Why do they feel so warm?",
+      "answer_en": "Their internal body temperature is the same as other cats, but because there's no fur to act as insulation, you feel their body heat directly against your skin."
     }
   ],
   "visual_comparison_tip": "데본 렉스와 얼굴이 비슷하지만 털이 완전히 없는지, 그리고 피부의 주름이 풍부한지 확인하세요.",
+  "visual_comparison_tip_en": "Similar face to the Devon Rex but look for total hairlessness and prominent skin wrinkles.",
   "meta_tags": {
-    "title": "스핑크스 고양이 백과: 스핑크스 고양이 백과: 스핑크스 고양이 도감: 성격, 피부 관리법, 털 안 빠지는 고양이 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "세상에서 가장 다정한 스핑크스의 모든 것. 털 없는 고양이의 피부 관리 비결과 놀라운 친화력, 실제 분양가와 유지 비용을 확인하세요.",
-    "keywords": [
+    "title_ko": "스핑크스 고양이: 성격, 피부 관리, 털 안 빠지는 고양이 | nyan",
+    "title_en": "Sphynx Cat: Skin Care & Health | nyan",
+    "description_ko": "세상에서 가장 다정한 스핑크스의 모든 것. 털 없는 고양이의 피부 관리 비결과 놀라운 친화력, 실제 분양가와 유지 비용을 확인하세요.",
+    "description_en": "Discover the affectionate world of the Sphynx. Skin care secrets for hairless cats, social nature, costs, and health tips in museum-grade detail.",
+    "keywords_ko": [
       "스핑크스고양이",
-      "털없는고양이",
-      "스핑크스분양가",
-      "개냥이추천",
+      "털안빠지는고양이",
+      "개냥이",
+      "스킨케어",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Sphynx cat",
+      "hairless cat",
+      "social cat",
+      "skin care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/sphynx/sphynx_hero.webp",
-  "image_macro_path": "/images/Nyan/sphynx_macro.png",
   "image_fullbody_path": "/images/Nyan/sphynx/sphynx_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/sphynx/sphynx_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비대성 심근증(HCM)과 피부 감염에 대한 세심한 주의가 필요합니다.",
-  "local_rarity_ko": "국내에서 털 날림이 없는 유일한 대안으로 각광받고 있습니다. 매니아층이 매우 두터우며, 털 관리가 힘든 노년층이나 알레르기가 있는 집사들에게도 인기 있는 품종입니다.",
-  "similar_breed_ids": [
-    "peterbald",
-    "donskoy",
-    "devon-rex"
-  ],
   "image_fullbody_side_path": "/images/Nyan/sphynx/sphynx_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/sphynx/sphynx_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/sphynx/sphynx_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/sphynx/sphynx_coat_texture.webp",
   "image_variant_path": "/images/Nyan/sphynx/sphynx_variant_full_body.webp",
-  "origin_history_ko": "스핑크스 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "스핑크스의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "peterbald",
+    "donskoy",
+    "devon-rex"
+  ],
+  "origin_history_ko": "1966년 캐나다 토론토에서 태어난 '프룬(Prune)'이라는 털 없는 고양이가 기원입니다. 자연적인 유전자 변이로 발생하였으며, 이후 체계적인 브리딩을 통해 정식 품종으로 확립되었습니다.",
+  "origin_history_en": "Originated from a hairless kitten named Prune born in Toronto, Canada, in 1966. Developed through selective breeding to stabilize the natural mutation.",
+  "grooming_tips_ko": "최소 주 1회 자극 없는 샴푸로 목욕시키고, 귀지가 많이 생기므로 매일 귀 세정을 해주어야 합니다. 발톱 사이의 유분기도 꼼꼼히 닦아주세요.",
+  "grooming_tips_en": "Bathing at least once a week with a gentle shampoo is required. They produce significant earwax, needing daily cleaning. Don't forget to wipe oil from between their claws.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고양이 전용 스킨케어 밤 & 샴푸",
+      "item_name_en": "Pet Skin Balm & Gentle Shampoo",
+      "reason_ko": "피부 보호막을 유지하고 유분기로 인한 트러블을 예방하기 위한 필수 아이템",
+      "reason_en": "Essential for maintaining the skin barrier and preventing breakouts from oil buildup"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "순면 소재 고양이 옷",
+      "item_name_en": "Soft Cotton Cat Clothing",
+      "reason_ko": "피부 보호 및 체온 유지를 위해 통기성이 좋은 천연 소재 옷 권장",
+      "reason_en": "Breathable cotton clothing is highly recommended for temperature regulation and skin protection"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -137,9 +211,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "스핑크스",
+    "name": "Sphynx",
     "taxonRank": "Breed",
-    "description": "스핑크스 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Sphynx cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 스핑크스 고양이의 전신 모습",
@@ -148,7 +222,19 @@
     "full_body_side": "스핑크스 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "스핑크스 품종 표준을 보여주는 완벽한 측면 두상 프로필",
     "eye_macro": "스핑크스 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "스핑크스 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "coat_texture": "스핑크스 고양이의 부드럽고 독특한 피부 질감을 보여주는 초근접 사진",
     "variant_full_body": "스핑크스 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Sphynx cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the large ears and wrinkled skin of a Sphynx",
+    "full_body_front": "Front view of a Sphynx showing its muscular and hairless build",
+    "full_body_side": "Lateral full body photo showcasing the unique Pot belly silhouette",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes and skin texture around them",
+    "coat_texture": "Macro photo of the fine suede-like skin texture",
+    "variant_full_body": "Full body view showing various skin color variants of the Sphynx"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

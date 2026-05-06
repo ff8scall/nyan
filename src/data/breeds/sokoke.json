@@ -2,6 +2,11 @@
   "id": "sokoke",
   "name_en": "Sokoke",
   "name_ko": "소코케",
+  "aliases_en": [
+    "Khadzonzos",
+    "African Shorthair",
+    "Tree Bark Cat"
+  ],
   "aliases_ko": [
     "나무껍질 무늬 고양이",
     "아프리카의 보석"
@@ -18,7 +23,7 @@
     "brown_tabby"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 1,
@@ -43,88 +48,152 @@
     "아프리카 야생에서 온 자연 발생 종으로 신체 능력이 매우 뛰어나고 건강함",
     "집사와의 유대감을 중시하며 강아지처럼 영리하고 민첩한 성격을 가졌음"
   ],
+  "pros_en": [
+    "Possesses a unique 'wood-grain' pattern that is visually breathtaking and unique",
+    "A natural landrace from Africa with exceptional athletic ability and robust health",
+    "Highly intelligent and loyal, often described as having a dog-like devotion to owners"
+  ],
   "cons": [
     "활동량이 엄청나게 많아 좁은 실내 공간에서는 에너지를 발산하기 어려울 수 있음",
     "추위에 매우 취약하므로 항상 따뜻한 실내 온도를 유지해 주는 세심한 관리가 필요함",
     "전 세계적으로 개체 수가 극히 적은 초희귀 품종이라 입양이 거의 불가능에 가까움"
   ],
+  "cons_en": [
+    "Extreme energy levels require significant space and constant mental stimulation",
+    "Highly sensitive to cold due to their African heritage and very short coat",
+    "One of the rarest breeds in the world, making them nearly impossible to acquire"
+  ],
+  "good_for": [
+    "세상에 단 하나뿐인 독보적인 패턴의 고양이를 사랑하는 컬렉터 성향의 집사",
+    "에너지가 넘치는 고양이와 함께 적극적으로 놀아주고 교감할 수 있는 활동적인 분",
+    "희귀 품종의 보존과 건강 관리에 깊은 관심을 가진 숙련된 애묘가"
+  ],
+  "good_for_en": [
+    "Connoisseurs who appreciate the rarest and most unique patterns in the feline world",
+    "Active owners who can provide the high level of engagement and exercise they crave",
+    "Experienced cat lovers dedicated to the preservation of a rare natural landrace"
+  ],
+  "think_twice_if": [
+    "조용하고 독립적인 고양이를 원하거나 집을 자주 비우는 직장인",
+    "겨울철 실내 온도를 따뜻하게 유지하기 어려운 환경에 거주하는 경우",
+    "활동 반경이 좁은 원룸이나 수직 공간이 부족한 아파트 생활"
+  ],
+  "think_twice_if_en": [
+    "Individuals seeking a low-energy, independent, or sedentary companion",
+    "Homes where maintaining a consistently warm indoor temperature is difficult",
+    "Small apartments lacking the vertical space needed for their athletic leaps"
+  ],
   "economics": {
     "price_range_ko": "3,000,000원 - 7,000,000원 이상 (초희귀 품종)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$3,000 - $7,000+ (Extremely rare)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Sokoke is a natural breed of domestic cat, developed from the Sokoke forest area of Kenya. It is a lean, medium-sized cat with a unique wood-grain pattern.",
+  "summary_en": "The Sokoke is a rare, natural breed of domestic cat from the Sokoke forest of Kenya, renowned for its unique 'wood-grain' tabby pattern and athletic grace.",
   "summary_ko": "케냐의 숲에서 발견된 희귀 품종으로, 야생의 날렵함과 집고양이의 영리함을 동시에 가졌으며 물을 두려워하지 않는 용감한 고양이입니다.",
-  "appearance_en": "Lean and athletic with 'tree bark' tabby pattern, very short glossy coat, and a distinctive 'tip-toe' gait.",
+  "appearance_en": "Lean, athletic, and long-legged. Features a short, glossy coat with a modified tabby pattern that resembles the grain of a tree.",
   "appearance_ko": "나무껍질을 닮은 독특한 마블 무늬(우드브레인 패턴)와 매우 짧고 매끄러운 털이 특징입니다. 뒷다리가 길어 마치 까치발로 걷는 듯한 독특한 걸음걸이를 보입니다.",
-  "personality_en": "Active, intelligent, and highly social. Sokokes form very deep bonds with their owners and are often described as having a dog-like loyalty. They are very sensitive to their owner's emotions and enjoy being part of all household activities.",
+  "personality_en": "Deeply social, intelligent, and communicative. They form intense bonds with their families and are very sensitive to human emotions.",
   "personality_ko": "지능이 매우 높고 에너지가 넘칩니다. 집사와 함께하는 모든 활동에 참여하고 싶어 하며, 집사의 감정 변화를 예민하게 감지하여 위로해 주는 섬세한 성격을 가졌습니다. 독립적이기보다는 공동체 의식이 강해 가족 구성원 모두와 깊은 유대감을 형성하는 것을 좋아합니다.",
-  "care_en": "Minimal grooming is required due to their short coat. They need plenty of space to run and jump, and they are very sensitive to cold temperatures. They thrive on interactive play and mental stimulation.",
+  "care_en": "Requires minimal grooming but needs extra protection from the cold. High-energy levels mean they must have ample vertical space and interactive toys.",
   "care_ko": "털 관리는 거의 필요 없지만, 아프리카 출신답게 추위에 매우 민감하므로 실내 온도를 항상 따뜻하게 유지해야 합니다. 엄청난 순발력과 활동량을 소화할 수 있는 높은 캣타워와 넓은 공간이 필수적이며, 지능적인 놀이를 통해 에너지를 발산시켜 주어야 합니다.",
+  "health_notes_ko": "자연 발생 종으로 매우 건강하며 알려진 유전 질환이 거의 없는 강인한 품종입니다. 다만 얇은 피모로 인한 저체온증을 항상 주의해야 합니다.",
+  "health_notes_en": "A naturally healthy landrace with no known breed-specific genetic issues. The primary health concern is susceptibility to cold and hypothermia due to their thin coat.",
   "known_risks": [
     {
-      "name_en": "No specific breed-related issues",
-      "name_ko": "특이 유전병 없음",
-      "severity_note": "Low"
+      "name_en": "Hypothermia susceptibility",
+      "name_ko": "저체온증 취약",
+      "severity_note": "Moderate (Climate related)"
     }
   ],
   "faq": [
     {
       "question_ko": "무늬가 정말 나무 같나요?",
-      "answer_ko": "네, 소코케의 무늬는 뱅갈의 로제트나 일반 태비와는 완전히 다릅니다. 마치 샌딩된 나무의 나뭇결이나 나이테처럼 정교하고 번진 듯한 독특한 질감을 보여줍니다."
+      "answer_ko": "네, 소코케의 무늬는 뱅갈의 로제트나 일반 태비와는 완전히 다릅니다. 마치 샌딩된 나무의 나뭇결이나 나이테처럼 정교하고 번진 듯한 독특한 질감을 보여줍니다.",
+      "question_en": "Is the pattern really like tree bark?",
+      "answer_en": "Yes, the 'wood-grain' tabby is unique to Sokokes. It looks like the intricate rings of a cross-sectioned tree or the texture of sanded wood."
     },
     {
       "question_ko": "야생 고양이인가요?",
-      "answer_ko": "아프리카 숲에서 자연 발생한 종이지만, 현재는 공식 품종으로 인정받아 사람과 함께 살기에 적합한 성격을 가진 집고양이로 분류됩니다."
+      "answer_ko": "아프리카 숲에서 자연 발생한 종이지만, 현재는 공식 품종으로 인정받아 사람과 함께 살기에 적합한 성격을 가진 집고양이로 분류됩니다.",
+      "question_en": "Are they wild cats?",
+      "answer_en": "They are a natural landrace developed in the wild, but they are fully domestic cats recognized by major registries for their social and home-friendly temperament."
+    },
+    {
+      "question_ko": "물을 좋아하나요?",
+      "answer_ko": "네, 소코케는 물에 대한 거부감이 거의 없으며 수영 실력도 뛰어납니다. 호기심이 많아 물이 든 욕조나 싱크대에 뛰어들기도 합니다.",
+      "question_en": "Do they like water?",
+      "answer_en": "Yes, many Sokokes are confident swimmers and are fascinated by water. It is not uncommon for them to join their owners in the bathroom or play in sinks."
+    },
+    {
+      "question_ko": "까치발로 걷는다는 게 사실인가요?",
+      "answer_ko": "네, 뒷다리가 앞다리보다 긴 신체 구조상 걸을 때 마치 까치발을 든 것처럼 보입니다. 이는 이들의 폭발적인 점프력과 질주 속도의 원천이기도 합니다.",
+      "question_en": "Do they really walk on tip-toe?",
+      "answer_en": "Their hind legs are longer than their front legs, giving them a distinct 'tip-toe' gait. This unique anatomy allows for incredible speed and powerful leaps."
+    },
+    {
+      "question_ko": "얼마나 희귀한가요?",
+      "answer_ko": "전 세계적으로 등록된 개체 수가 수백 마리에 불과할 정도로 드뭅니다. 전문 브리더들도 소수에 불과하여 입양을 위해서는 수년의 대기가 필요할 수 있습니다.",
+      "question_en": "How rare are they?",
+      "answer_en": "They are considered one of the rarest breeds globally, with only a few hundred registered worldwide. Finding a reputable breeder often involves international searching and long waitlists."
     }
   ],
   "visual_comparison_tip": "일반적인 뱅갈이나 태비와 달리, 무늬가 마치 나무의 나이테나 껍질처럼 복잡하게 얽힌 '우드그레인(Wood-grain)' 패턴인지 확인하세요.",
+  "visual_comparison_tip_en": "Distinguish from Bengals or other tabbies by their intricate 'wood-grain' pattern and their unique long-legged, tip-toe stance.",
   "meta_tags": {
-    "title": "소코케 고양이 백과: 소코케 고양이 백과: 소코케 도감: 나무껍질 무늬의 비밀, 아프리카 야생 고양이 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "세상에서 가장 희귀한 고양이 소코케의 모든 것. 신비로운 나무껍질 무늬와 놀라운 신체 능력, 실제 분양가와 관리법을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "소코케 고양이 가이드: 성격, 희귀 나무껍질 무늬, 관리법 | nyan",
+    "title_en": "Sokoke Cat: Rare Wood-grain Pattern & Care | nyan",
+    "description_ko": "세상에서 가장 희귀한 고양이 소코케의 모든 것. 신비로운 나무껍질 무늬와 놀라운 신체 능력, 실제 분양가와 희귀성을 nyan에서 확인하세요.",
+    "description_en": "Discover the 'African Gem', the Sokoke. Learn about their unique wood-grain coat, athletic nature, rarity, and specialized care in our museum-grade archive.",
+    "keywords_ko": [
       "소코케",
-      "소코케고양이",
-      "나무껍질무늬고양이",
-      "아프리카고양이",
       "희귀고양이",
+      "나무껍질무늬",
+      "아프리카고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Sokoke cat",
+      "rare cat breed",
+      "wood-grain tabby",
+      "African cat breed",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/sokoke/sokoke_hero.webp",
-  "image_macro_path": "/images/Nyan/sokoke_macro.png",
   "image_fullbody_path": "/images/Nyan/sokoke/sokoke_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/sokoke/sokoke_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종으로 매우 건강하며 알려진 유전 질환이 거의 없는 강인한 품종입니다.",
-  "local_rarity_ko": "전 세계적으로도 개체 수가 몇 백 마리에 불과한 초희귀 품종이며 국내에는 실물이 존재하지 않을 가능성이 매우 높습니다. 살아있는 자연의 예술품을 소장하고 싶은 집사들에게 꿈의 품종입니다.",
-  "similar_breed_ids": [
-    "egyptian-mau",
-    "bengal",
-    "ocicat"
-  ],
   "image_fullbody_side_path": "/images/Nyan/sokoke/sokoke_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/sokoke/sokoke_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/sokoke/sokoke_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/sokoke/sokoke_coat_texture.webp",
   "image_variant_path": "/images/Nyan/sokoke/sokoke_variant_full_body.webp",
-  "origin_history_ko": "소코케 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "소코케의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "egyptian-mau",
+    "bengal",
+    "ocicat"
+  ],
+  "origin_history_ko": "1978년 케냐 소코케 아라부코 숲 근처 농장에서 자넷 슬레이터가 발견한 고양이들이 시초입니다. 이후 덴마크의 글로리아 몰드럽이 품종으로 발전시켜 전 세계에 알려지게 되었습니다.",
+  "origin_history_en": "Discovered in 1978 in the Arabuko Sokoke Forest of Kenya by Jeni Slater. The breed was later established and shared globally by Gloria Moeldrup from Denmark.",
+  "grooming_tips_ko": "털이 매우 짧고 몸에 밀착되어 있어 주 1회 가벼운 빗질만으로 충분합니다. 다만 피부가 얇고 유분이 적으므로 잦은 목욕보다는 따뜻한 물수건으로 닦아주는 것을 권장합니다.",
+  "grooming_tips_en": "The short, tight coat needs only minimal attention—a light weekly brushing is plenty. Because their skin is thin, use warm damp cloths for cleaning rather than frequent baths.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "프리미엄 원목 캣타워 (천장 고정형)",
+      "item_name_en": "Premium Solid Wood Cat Tower (Ceiling-Mounted)",
+      "reason_ko": "소코케의 폭발적인 도약과 질주를 견디고 나무 위 생활 본능을 충족시키기 위함",
+      "reason_en": "Satisfies their natural forest-dwelling instincts while providing a sturdy base for their high-speed leaps"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고양이 전용 온열 담요",
+      "item_name_en": "Heated Cat Blanket",
+      "reason_ko": "아프리카 기원의 품종으로서 한국의 추운 겨울을 안전하게 보내기 위한 필수 아이템",
+      "reason_en": "A vital necessity for helping this thin-coated African breed stay warm during colder months"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
-    {
-      "source_name": "CFA (The Cat Fanciers' Association)",
-      "url": "https://cfa.org"
-    },
     {
       "source_name": "TICA (The International Cat Association)",
       "url": "https://tica.org"
@@ -133,9 +202,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "소코케",
+    "name": "Sokoke",
     "taxonRank": "Breed",
-    "description": "소코케 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Sokoke cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 소코케 고양이의 전신 모습",
@@ -146,5 +215,17 @@
     "eye_macro": "소코케 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "소코케 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "소코케 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a graceful Sokoke cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the alert expression and unique markings of a Sokoke",
+    "full_body_front": "Front view of a Sokoke showcasing its slender, athletic build and long legs",
+    "full_body_side": "Lateral view highlighting the distinctive wood-grain tabby pattern on its coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Sokoke breed",
+    "eye_macro": "Macro shot of the intense amber eyes and detailed iris patterns of a Sokoke cat",
+    "coat_texture": "Detailed photo of the fine, close-lying coat with its bark-like texture",
+    "variant_full_body": "Showcase of the unique brown tabby markings in the Sokoke breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "high"
 }

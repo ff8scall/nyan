@@ -2,6 +2,11 @@
   "id": "siamese",
   "name_en": "Siamese",
   "name_ko": "샴",
+  "aliases_en": [
+    "Meezer",
+    "Siamese Cat",
+    "Wichianmat"
+  ],
   "aliases_ko": [
     "샤미즈",
     "타이 고양이",
@@ -47,14 +52,46 @@
     "털 관리가 거의 필요 없을 정도로 관리가 쉬운 단모종임",
     "지능이 매우 높아 훈련이나 산책(일부)이 가능할 정도임"
   ],
+  "pros_en": [
+    "Highly social and communicative, offering the highest level of interaction",
+    "Very easy to maintain short coat requiring minimal grooming",
+    "High intelligence makes them trainable and highly responsive to owners"
+  ],
   "cons": [
     "목소리가 매우 크고 말이 많아 조용한 환경을 원하는 집사에게는 부적합함",
     "외로움을 매우 많이 타서 1인 가구가 장시간 비우면 분리불안이 생길 수 있음",
     "주목받는 것을 좋아해 집사가 다른 일을 할 때 계속 방해할 수 있음"
   ],
+  "cons_en": [
+    "Extremely vocal; not suitable for owners who prefer a quiet home",
+    "Highly prone to separation anxiety if left alone for long periods",
+    "Demand constant attention and may interrupt your activities"
+  ],
+  "good_for": [
+    "고양이와 대화하고 깊은 유대감을 쌓고 싶은 분",
+    "털 관리에 드는 시간을 최소화하고 싶은 분",
+    "활발하고 영리한 '개냥이'를 찾는 초보 집사"
+  ],
+  "good_for_en": [
+    "Owners who want a deeply interactive and 'talkative' companion",
+    "People who want a low-maintenance grooming routine",
+    "Beginners looking for an intelligent and affectionate 'puppy-cat'"
+  ],
+  "think_twice_if": [
+    "조용하고 평온한 환경을 최우선으로 생각하는 분",
+    "집을 자주 비우거나 고양이가 혼자 있는 시간이 긴 경우",
+    "고양이가 계속 말을 걸고 따라다니는 것이 부담스러운 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who prioritize a quiet and peaceful environment",
+    "People who are away from home for long stretches of time",
+    "Those who might find constant vocalization and following overwhelming"
+  ],
   "economics": {
     "price_range_ko": "600,000원 - 1,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 100,000원 - 150,000원"
+    "price_range_en": "$600 - $1,500 (Cattery standard)",
+    "monthly_care_cost": "약 100,000원 - 150,000원",
+    "monthly_care_cost_en": "Approx. $80 - $120"
   },
   "summary_en": "The Siamese cat is one of the first distinctly recognized breeds of Asian cat, derived from the Wichianmat landrace.",
   "summary_ko": "태국 왕실의 사랑을 받았던 '고양이의 여왕'입니다. 짙은 포인트 컬러와 사파이어처럼 푸른 눈, 그리고 집사에게 끊임없이 말을 거는 수다스러운 성격이 매력적인 대표적 개냥이입니다.",
@@ -64,6 +101,8 @@
   "personality_ko": "사람을 미칠 듯이 좋아하고 교감 능력이 매우 뛰어납니다. 집사가 가는 곳마다 따라다니며 특유의 크고 독특한 목소리로 말을 거는 '수다쟁이'입니다. 외로움을 많이 타서 집사와 항상 함께하고 싶어 합니다.",
   "care_en": "Their short, fine coat needs minimal grooming—a quick weekly brush is enough. They are highly active and need lots of mental stimulation and interactive play to stay happy.",
   "care_ko": "털 관리가 매우 쉬워 빗질보다는 쓰다듬어 주는 것만으로도 관리가 됩니다. 에너지가 넘치고 지능이 높으므로 단순한 놀이보다는 지능적인 놀이나 풍부한 환경 구성이 중요합니다.",
+  "health_notes_ko": "치과 질환과 아밀로이드증(간 질환)에 대한 정기적인 모니터링이 권장되며, 특히 마른 체형을 유지하기 위한 고단백 식단과 체중 관리가 건강 수명 유지에 중요합니다.",
+  "health_notes_en": "Regular monitoring for dental diseases and amyloidosis (liver issues) is recommended. Maintaining a lean body through high-quality nutrition and weight management is key to their longevity.",
   "known_risks": [
     {
       "name_en": "Amyloidosis",
@@ -79,55 +118,90 @@
   "faq": [
     {
       "question_ko": "왜 이렇게 많이 우나요?",
-      "answer_ko": "샴에게 울음소리는 의사소통 수단입니다. 배가 고프거나, 심심하거나, 단순히 집사의 관심을 원할 때 끊임없이 말을 거는 성격 때문입니다."
+      "answer_ko": "샴에게 울음소리는 의사소통 수단입니다. 배가 고프거나, 심심하거나, 단순히 집사의 관심을 원할 때 끊임없이 말을 거는 성격 때문입니다.",
+      "question_en": "Why do they vocalize so much?",
+      "answer_en": "Vocalization is the Siamese cat's primary way of communicating. They 'talk' when they are hungry, bored, or simply want your attention."
     },
     {
       "question_ko": "나이가 들면 털색이 진해지나요?",
-      "answer_ko": "네, 샴의 포인트 컬러는 체온이 낮은 부위에서 더 진하게 나타납니다. 나이가 들면서 체온 조절 능력이 변하거나 환경에 따라 몸 전체의 색이 조금씩 진해질 수 있습니다."
+      "answer_ko": "네, 샴의 포인트 컬러는 체온이 낮은 부위에서 더 진하게 나타납니다. 나이가 들면서 체온 조절 능력이 변하거나 환경에 따라 몸 전체의 색이 조금씩 진해질 수 있습니다.",
+      "question_en": "Does their coat darken with age?",
+      "answer_en": "Yes, their points are temperature-dependent and appear darker in cooler areas. As they age or their environment changes, their overall coat color may darken."
+    },
+    {
+      "question_ko": "샴 고양이는 똑똑한가요?",
+      "answer_ko": "네, 매우 영리합니다. 문을 열거나, 물건을 가져오거나, 집사의 기분을 파악하는 능력이 매우 뛰어납니다.",
+      "question_en": "Are Siamese cats intelligent?",
+      "answer_en": "Absolutely. They are highly intelligent and capable of learning complex tricks, opening doors, and intuitively sensing their owner's emotions."
+    },
+    {
+      "question_ko": "혼자 두면 안 되나요?",
+      "answer_ko": "사교성이 극도로 높은 품종이라 장시간 혼자 두면 심한 스트레스를 받습니다. 직장인 집사라면 다른 고양이 친구를 만들어 주는 것을 강력히 추천합니다.",
+      "question_en": "Can they be left alone?",
+      "answer_en": "They are highly social and thrive on company. Long periods of isolation can cause significant stress; they are best suited for multi-pet households or owners who spend lots of time at home."
+    },
+    {
+      "question_ko": "포인트 무늬는 태어날 때부터 있나요?",
+      "answer_ko": "아니요, 샴 고양이는 태어날 때는 모두 하얀색입니다. 생후 몇 주가 지나면서 코, 귀, 발 등 온도가 낮은 부위부터 서서히 포인트 무늬가 나타납니다.",
+      "question_en": "Are they born with their points?",
+      "answer_en": "No, Siamese kittens are born pure white. Their points only begin to develop several weeks after birth as they are exposed to cooler temperatures outside the womb."
     }
   ],
   "visual_comparison_tip": "발리네즈와 무늬는 똑같지만 털이 아주 짧고 몸매가 더 날렵한 '오리엔탈' 체형인지 확인하세요.",
+  "visual_comparison_tip_en": "Identical pattern to the Balinese but with very short hair and a leaner, more 'oriental' body type.",
   "meta_tags": {
-    "title": "샴 고양이 백과: 샴 고양이 백과: 샴 고양이 도감: 성격, 울음소리, 포인트 컬러의 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "고양이계의 수다쟁이 샴의 모든 것. 집사와의 깊은 유대감과 똑똑한 성격, 실제 분양가와 울음소리 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "샴 고양이: 성격, 울음소리, 포인트 컬러 | nyan",
+    "title_en": "Siamese Cat: Vocalization & Care | nyan",
+    "description_ko": "고양이계의 수다쟁이 샴의 모든 것. 집사와의 깊은 유대감과 똑똑한 성격, 실제 분양가와 울음소리 관리법을 박물관급 디테일로 확인하세요.",
+    "description_en": "Everything about the talkative Siamese cat. Deep bonding, intelligence, costs, and vocalization tips in museum-grade detail.",
+    "keywords_ko": [
       "샴고양이",
       "샤미즈",
       "수다쟁이고양이",
       "개냥이",
       "nyan"
+    ],
+    "keywords_en": [
+      "Siamese cat",
+      "vocal cat",
+      "colorpoint",
+      "intelligent cat",
+      "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/siamese/siamese_hero.webp",
-  "image_macro_path": "/images/Nyan/siamese_macro.png",
   "image_fullbody_path": "/images/Nyan/siamese/siamese_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/siamese/siamese_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, long hair, bulky body, green eyes",
-  "health_notes_ko": "치과 질환과 아밀로이드증(간 질환)에 대한 정기적인 모니터링이 권장됩니다.",
-  "local_rarity_ko": "국내에서 가장 인지도 높은 품종 중 하나입니다. 합리적인 분양가와 뛰어난 애교 덕분에 국민 고양이 수준으로 사랑받고 있으며, 초보 집사들에게도 강력 추천되는 품종입니다.",
-  "similar_breed_ids": [
-    "oriental-shorthair",
-    "balinese",
-    "burmese"
-  ],
   "image_fullbody_side_path": "/images/Nyan/siamese/siamese_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/siamese/siamese_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/siamese/siamese_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/siamese/siamese_coat_texture.webp",
   "image_variant_path": "/images/Nyan/siamese/siamese_variant_full_body.webp",
-  "origin_history_ko": "샴 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "샴의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "oriental-shorthair",
+    "balinese",
+    "burmese"
+  ],
+  "origin_history_ko": "태국의 고대 문서 '탐라 매우(Tamra Maew)'에 기록된 유서 깊은 품종으로, 19세기 말 서구권에 처음 소개되었습니다. 태국 왕실의 수호자로 여겨졌던 고귀한 혈통입니다.",
+  "origin_history_en": "Recorded in the ancient Thai manuscript 'Tamra Maew', they were first introduced to the West in the late 19th century. They were once revered as guardians of the Thai royal family.",
+  "grooming_tips_ko": "단모종 중에서도 관리가 매우 쉽습니다. 주기적인 빗질보다는 손으로 쓰다듬어 주는 교감이 중요하며, 포인트 컬러 유지를 위해 실내 온도를 적절히 유지해 주세요.",
+  "grooming_tips_en": "Very low-maintenance shorthair. Regular interaction and petting are more important than brushing. Maintain a stable indoor temperature to help regulate their point colors.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "상호작용 낚싯대 장난감",
+      "item_name_en": "Interactive Wand Toy",
+      "reason_ko": "집사와 끊임없이 소통하고 놀고 싶어 하는 샴의 욕구 충족",
+      "reason_en": "Satisfies the Siamese cat's need for constant interaction and play with their owner"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "지능 발달 먹이 퍼즐",
+      "item_name_en": "Intelligence Food Puzzle",
+      "reason_ko": "영리한 두뇌를 자극하여 지루함으로 인한 과도한 울음 방지",
+      "reason_en": "Stimulates their clever minds to prevent excessive vocalization caused by boredom"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -141,9 +215,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "샴",
+    "name": "Siamese",
     "taxonRank": "Breed",
-    "description": "샴 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Siamese cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 샴 고양이의 전신 모습",
@@ -154,5 +228,17 @@
     "eye_macro": "샴 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "샴 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "샴 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Siamese cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the distinctive colorpoint facial features of a Siamese",
+    "full_body_front": "Front view of a Siamese showing its slender and athletic build",
+    "full_body_side": "Lateral full body photo showcasing the elegant silhouette and points",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the brilliant blue eyes and iris patterns of a Siamese",
+    "coat_texture": "Macro photo of the fine and glossy coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Siamese"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

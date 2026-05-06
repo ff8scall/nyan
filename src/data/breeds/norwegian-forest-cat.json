@@ -2,6 +2,11 @@
   "id": "norwegian-forest-cat",
   "name_en": "Norwegian Forest Cat",
   "name_ko": "노르웨이 숲",
+  "aliases_en": [
+    "Skogkatt",
+    "Norsk Skogkatt",
+    "Wegie"
+  ],
   "aliases_ko": [
     "놀숲",
     "위기(Wegie)"
@@ -17,8 +22,8 @@
   "common_colors": [
     "all_colors"
   ],
-  "weight_min_kg": 4.0,
-  "weight_max_kg": 9.0,
+  "weight_min_kg": 4,
+  "weight_max_kg": 9,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
   "grooming_level": 4,
@@ -43,23 +48,57 @@
     "지능이 높아 집사와의 정서적 교감이 뛰어남",
     "야생적인 아름다움과 온순한 성격의 완벽한 조화"
   ],
+  "pros_en": [
+    "A naturally robust breed with very few genetic health issues",
+    "Highly intelligent, allowing for deep emotional bonding with owners",
+    "A perfect balance of wild beauty and a gentle, sweet nature"
+  ],
   "cons": [
     "이중모 특성상 환절기 털 빠짐이 매우 심함",
     "높은 곳을 오르내리는 본능이 강해 튼튼한 캣타워 필수",
     "대형묘라 사료 및 용품 비용이 일반 고양이보다 많이 듦"
   ],
+  "cons_en": [
+    "Heavy seasonal shedding due to their thick double coat",
+    "Strong climbing instincts require sturdy, high-quality cat trees",
+    "Higher maintenance costs (food, supplies) compared to average-sized cats"
+  ],
+  "good_for": [
+    "장모종의 아름다움을 사랑하고 빗질을 즐기는 분",
+    "건강하고 튼튼한 체력을 가진 고양이를 선호하는 분",
+    "아이들이나 다른 반려동물이 있는 활기찬 가정"
+  ],
+  "good_for_en": [
+    "Owners who love longhair beauty and enjoy regular grooming",
+    "People who prefer a naturally healthy and robust cat breed",
+    "Active households with children or other pets"
+  ],
+  "think_twice_if": [
+    "집안에 털이 날리는 것을 극도로 싫어하는 분",
+    "고양이가 오르내릴 수 있는 수직 공간 확보가 어려운 경우",
+    "대형묘를 케어하기 위한 체력이나 공간이 부족한 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who cannot tolerate high amounts of shedding in the home",
+    "Homes that lack the space for essential vertical climbing structures",
+    "People who may find the care of a large, heavy cat physically demanding"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 220,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 220,000원",
+    "monthly_care_cost_en": "Approx. $120 - $180"
   },
   "summary_en": "The Norwegian Forest Cat is a breed of domestic cat native to Northern Europe, adapted to a very cold climate.",
   "summary_ko": "북유럽 신화 속 여신의 수레를 끌었다는 전설의 주인공입니다. 혹독한 추위를 견뎌내기 위한 방수 코트와 튼튼한 근육을 가진, 숲의 정령 같은 신비로움을 간직한 품종입니다.",
-  "appearance_en": "A large, strong cat with a sturdy body, long legs, and a bushy tail. They have a distinctive double coat that is water-repellent and a triangular-shaped head.",
-  "appearance_ko": "단단한 골격과 웅장한 실루엣을 가진 대형묘입니다. 물을 튕겨내는 방수 기능의 빽빽한 이중모와 목 주변의 화려한 장식털이 특징이며, 정삼각형에 가까운 머리 형태가 메인쿤과 구분되는 포인트입니다.",
-  "personality_en": "Intelligent, friendly, and independent. They are natural climbers and enjoy being at high vantage points, yet they remain very devoted to their families.",
+  "appearance_en": "A large, strong cat with a sturdy body, long legs, and a bushy tail. They have a water-repellent double coat and a triangular-shaped head.",
+  "appearance_ko": "단단한 골격과 웅장한 실루엣을 가진 대형묘입니다. 물을 튕겨내는 방수 기능의 빽빽한 이중모와 목 주변의 화려한 장식털이 특징이며, 정삼각형에 가까운 머리 형태가 특징입니다.",
+  "personality_en": "Intelligent, friendly, and independent. They are natural climbers and enjoy being at high vantage points.",
   "personality_ko": "지능이 매우 높고 상황 판단이 빠릅니다. 집사 곁을 지키는 다정한 면모와 혼자만의 시간을 즐기는 독립적인 면모가 공존하며, 나무를 타듯 높은 곳에 오르는 것을 매우 좋아합니다.",
-  "care_en": "Their thick coat requires regular brushing, especially during shedding seasons. As active large cats, they need sturdy climbing structures and high-quality nutrition.",
+  "care_en": "Their thick coat requires regular brushing, especially during shedding seasons. They need sturdy climbing structures due to their size.",
   "care_ko": "털이 잘 엉키는 편은 아니지만 모량이 많아 주 2~3회 이상의 정기적인 빗질이 필요합니다. 대형묘 전용 캣타워와 같이 활동량을 해소할 수 있는 수직 공간이 반드시 확보되어야 합니다.",
+  "health_notes_ko": "비대성 심근증(HCM)과 당뇨병에 대한 정기적인 건강 검진이 권장되며, 자연 발생종 특유의 건강함을 유지하기 위한 식단 관리가 중요합니다.",
+  "health_notes_en": "Regular screenings for HCM and diabetes are recommended. Maintaining their natural robustness requires a balanced diet suited for large, active breeds.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,55 +114,90 @@
   "faq": [
     {
       "question_ko": "메인쿤과 어떻게 다른가요?",
-      "answer_ko": "노르웨이 숲은 콧날이 직선이고 얼굴이 삼각형인 반면, 메인쿤은 콧날이 꺾여 있고 주둥이가 더 각진 형태입니다. 또한 노르웨이 숲의 뒷다리가 앞다리보다 약간 더 깁니다."
+      "answer_ko": "노르웨이 숲은 콧날이 직선이고 얼굴이 삼각형인 반면, 메인쿤은 콧날이 꺾여 있고 주둥이가 더 각진 형태입니다. 또한 노르웨이 숲의 뒷다리가 앞다리보다 약간 더 깁니다.",
+      "question_en": "How are they different from Maine Coons?",
+      "answer_en": "Norwegian Forest Cats have a straight profile and triangular head, while Maine Coons have a concave profile and more squared muzzle. Also, Wegies have slightly longer hind legs."
     },
     {
       "question_ko": "아파트에서 키우기엔 너무 크지 않나요?",
-      "answer_ko": "체구는 크지만 성격이 조용하고 차분하여 실내 생활에 매우 잘 적응합니다. 다만 평면적인 면적보다 수직적인 높이(캣타워 등)를 확보해 주는 것이 중요합니다."
+      "answer_ko": "체구는 크지만 성격이 조용하고 차분하여 실내 생활에 매우 잘 적응합니다. 다만 평면적인 면적보다 수직적인 높이(캣타워 등)를 확보해 주는 것이 중요합니다.",
+      "question_en": "Are they too large for apartments?",
+      "answer_en": "Despite their size, their calm nature makes them excellent indoor pets. Prioritizing vertical space like tall cat trees is more important than total floor area."
+    },
+    {
+      "question_ko": "물놀이를 좋아하나요?",
+      "answer_ko": "방수 코트를 가진 품종답게 물에 대한 거부감이 적은 편입니다. 세면대나 욕조에서 떨어지는 물방울을 가지고 노는 것을 즐기기도 합니다.",
+      "question_en": "Do they like water?",
+      "answer_en": "Thanks to their water-repellent coats, they are often less fearful of water than other breeds and may enjoy playing with dripping taps or in basins."
+    },
+    {
+      "question_ko": "겨울에 털이 더 많아지나요?",
+      "answer_ko": "네, 겨울에는 추위를 견디기 위해 속털이 빽빽하게 자라나고 목 주변의 장식털(러프)이 매우 풍성해집니다. 여름에는 반대로 털이 가벼워집니다.",
+      "question_en": "Does their coat change in winter?",
+      "answer_en": "Yes, they develop a dense undercoat and a magnificent ruff around the neck to withstand cold winters, which they then shed as the weather warms up."
+    },
+    {
+      "question_ko": "지능이 어느 정도인가요?",
+      "answer_ko": "매우 영리하여 문을 열거나 간단한 트릭을 금방 배웁니다. 상황 판단력이 뛰어나 집사의 감정을 잘 배려하는 것으로 알려져 있습니다.",
+      "question_en": "How intelligent are they?",
+      "answer_en": "They are highly intelligent problem-solvers who can learn to open doors or perform tricks. They are also known for their emotional intelligence toward their owners."
     }
   ],
   "visual_comparison_tip": "메인쿤보다 얼굴형이 정삼각형에 가깝고, 콧날이 꺾이지 않고 직선으로 뻗어 있는지를 확인하세요.",
+  "visual_comparison_tip_en": "Look for a triangular head shape and a perfectly straight profile without a nose break, unlike the Maine Coon.",
   "meta_tags": {
-    "title": "노르웨이 숲 고양이 백과: 노르웨이 숲 고양이 백과: 노르웨이 숲 고양이 도감: 성격, 털 빠짐, 메인쿤과 차이점 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "북유럽 숲의 정령 노르웨이 숲 고양이의 모든 것. 강인한 건강 상태와 똑똑한 성격, 실제 분양가와 유지 비용을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "노르웨이 숲 고양이: 성격, 털 관리, 메인쿤과 차이점 | nyan",
+    "title_en": "Norwegian Forest Cat: Coat Care & Health | nyan",
+    "description_ko": "북유럽 숲의 정령 노르웨이 숲 고양이의 모든 것. 강인한 건강 상태와 똑똑한 성격, 실제 분양가와 유지 비용을 박물관급 디테일로 확인하세요.",
+    "description_en": "The spirit of the Nordic forests, the Norwegian Forest Cat. Robust health, intelligence, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "노르웨이숲",
       "놀숲",
-      "대형묘",
-      "고양이비교",
+      "대형묘관리",
+      "메인쿤비교",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Norwegian Forest Cat",
+      "Wegie",
+      "large cat care",
+      "double coat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_hero.webp",
-  "image_macro_path": "/images/Nyan/norwegian-forest-cat_macro.png",
   "image_fullbody_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비대성 심근증(HCM)과 당뇨병에 대한 정기적인 건강 검진이 권장됩니다.",
-  "local_rarity_ko": "국내에서 '놀숲'이라는 애칭으로 큰 인기를 얻고 있으며, 한국의 기후와도 잘 맞아 건강하게 키우기 좋은 품종으로 평가받습니다.",
-  "similar_breed_ids": [
-    "maine-coon",
-    "siberian",
-    "turkish-angora"
-  ],
   "image_fullbody_side_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_coat_texture.webp",
   "image_variant_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_variant_full_body.webp",
-  "origin_history_ko": "노르웨이 숲 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "노르웨이 숲의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "maine-coon",
+    "siberian",
+    "turkish-angora"
+  ],
+  "origin_history_ko": "노르웨이의 추운 겨울을 나기 위해 자연적으로 발생한 품종으로, 노르웨이에서는 '스코그캇(Skogkatt)'이라 불립니다. 1970년대에 노르웨이 국묘(National Cat)로 지정되었습니다.",
+  "origin_history_en": "A natural breed developed to survive harsh Norwegian winters, known locally as 'Skogkatt'. They were designated as the National Cat of Norway in the 1970s.",
+  "grooming_tips_ko": "봄과 가을 환절기에는 죽은 속털이 엉키지 않도록 매일 빗질이 필요합니다. 물을 밀어내는 모질 특성상 목욕 시 샴푸가 털 속까지 잘 스며들도록 세심하게 씻겨주어야 합니다.",
+  "grooming_tips_en": "Daily brushing is required during seasonal changes to prevent matting of the undercoat. Their water-repellent coat requires careful soaking and rinsing during baths.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "원목형 대형 캣타워",
+      "item_name_en": "Solid Wood Extra-Large Cat Tree",
+      "reason_ko": "높은 곳을 좋아하는 습성과 대형묘의 무게를 지탱할 수 있는 견고함",
+      "reason_en": "Essential for satisfying their climbing instincts while supporting their significant weight"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "장모용 핀 브러쉬 & 일자 빗",
+      "item_name_en": "Longhair Pin Brush & Steel Comb",
+      "reason_ko": "풍성한 장식털과 이중모의 엉킴을 방지하고 윤기를 유지",
+      "reason_en": "Prevents tangles in their dense double coat and maintains the luster of their ruff"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -137,9 +211,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "노르웨이 숲",
+    "name": "Norwegian Forest Cat",
     "taxonRank": "Breed",
-    "description": "노르웨이 숲 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Norwegian Forest Cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 노르웨이 숲 고양이의 전신 모습",
@@ -150,5 +224,17 @@
     "eye_macro": "노르웨이 숲 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "노르웨이 숲 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "노르웨이 숲 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Norwegian Forest Cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the triangular face and straight profile of a Wegie",
+    "full_body_front": "Front view of a Norwegian Forest Cat showing its robust and powerful build",
+    "full_body_side": "Lateral full body photo showcasing the luxurious ruff and bushy tail",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the alert eyes and iris patterns of a Norwegian Forest Cat",
+    "coat_texture": "Macro photo of the dense, water-repellent double coat",
+    "variant_full_body": "Full body view showing various color variants of the Norwegian Forest Cat"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

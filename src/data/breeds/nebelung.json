@@ -18,7 +18,7 @@
     "silver_blue"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
   "grooming_level": 4,
@@ -43,23 +43,55 @@
     "집사에 대한 충성심이 매우 강하고 수줍음이 많아 조용하고 깊은 정서적 유대를 원하는 분께 완벽함",
     "매우 똑똑하고 정숙하며 집안의 질서를 잘 지키는 기품 있는 성격임"
   ],
+  "pros_en": [
+    "Exquisite ethereal beauty with shimmering silver-blue fur and vivid emerald eyes",
+    "Fiercely loyal and devoted; perfect for owners seeking a deep, quiet emotional bond",
+    "Highly intelligent, well-mannered, and respects the household order with dignity"
+  ],
   "cons": [
     "낯가림이 매우 심해 낯선 사람이나 시끄러운 환경에서 큰 스트레스를 받고 숨을 수 있음",
     "실크 같은 긴 털은 엉키기 쉬우므로 주 3회 이상의 정성스러운 빗질이 필수적임",
     "국내외적으로 개체 수가 매우 적어 전문 캐터리를 통해 입양하기까지 오랜 기다림이 필요함"
   ],
+  "cons_en": [
+    "Extremely shy with strangers; loud or chaotic environments can cause significant stress",
+    "Silky long coat is prone to matting and requires consistent, dedicated brushing",
+    "Very rare breed globally, often involving long waitlists and limited breeder availability"
+  ],
+  "good_for": [
+    "은청색 안개 같은 신비로운 장모종 고양이의 매력에 푹 빠진 분",
+    "조용하고 평화로운 가정 환경에서 고양이와 단둘이 깊은 교감을 나누고 싶은 집사",
+    "러시안 블루의 지적인 성격과 장모종의 화려함을 모두 선호하는 분"
+  ],
+  "good_for_en": [
+    "Fanciers captivated by the misty, silver-blue allure of a rare longhair breed",
+    "Quiet households looking for a devoted companion to share a peaceful life",
+    "Owners who appreciate both the Russian Blue's intellect and longhair elegance"
+  ],
+  "think_twice_if": [
+    "어린아이들이나 손님이 자주 방문하여 집안이 항상 소란스러운 환경",
+    "바빠서 주 3회 이상의 세심한 빗질과 털 관리를 해주기 어려운 경우",
+    "고양이가 처음 본 사람에게도 바로 달려가 반겨주길 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Loud, busy homes with frequent visitors or active young children",
+    "Owners with limited time for the required frequent and meticulous grooming sessions",
+    "People who want an extroverted cat that is immediately friendly with everyone"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,500,000원 이상",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $4,000+ (Rare breed standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $110 - $160"
   },
-  "summary_en": "The Nebelung is a rare breed of domestic cat. Nebelungs have long bodies, wide-set green eyes, long and silky coats, and mild dispositions.",
+  "summary_en": "The Nebelung is a rare and elegant long-haired breed, essentially a long-haired Russian Blue, known for its silver-blue coat and gentle soul.",
   "summary_ko": "'안개의 피조물'이라는 이름답게 우아하고 신비로운 분위기를 자아내며, 집사에게만 마음을 여는 일편단심 성격의 고양이입니다.",
-  "appearance_en": "Solid blue coat with a silver sheen, semi-long silky fur, elegant foreign-type body, and vivid green eyes.",
+  "appearance_en": "Semi-long, silky double coat of shimmering silver-blue, brilliant green eyes, and a graceful, athletic build.",
   "appearance_ko": "러시안 블루의 장모종 버전으로, 은빛 광택이 도는 짙은 청색 털과 신비로운 초록색 눈이 특징입니다. 안개처럼 몽환적인 분위기를 풍기는 긴 털과 날렵한 몸매를 가졌습니다.",
-  "personality_en": "Gentle, quiet, and somewhat shy with strangers. Nebelungs form very strong, life-long bonds with their chosen owners and are extremely loyal. They prefer a calm, quiet environment.",
-  "personality_ko": "매우 부드럽고 정숙하며 조심성이 많습니다. 낯선 사람에게는 수줍음을 타며 숨기도 하지만, 자신이 선택한 집사에게는 평생 동안 변치 않는 충성심과 깊은 애정을 보여주는 '일편단심' 고양이입니다. 조용한 환경을 선호하며 집안의 질서를 존중하는 기품 있는 성격입니다.",
-  "care_en": "Their silky coat requires regular brushing (2-3 times a week) to prevent mats and maintain its luster. They thrive in peaceful households and need a stable routine to feel secure.",
-  "care_ko": "실크 같은 털이 엉키지 않도록 주 3회 이상의 꼼꼼한 빗질이 필요합니다. 성격이 예민하고 변화를 싫어하므로 안정적인 실내 환경과 규칙적인 생활 패턴을 제공해 주는 것이 정서적 안정에 매우 중요합니다.",
+  "personality_en": "Gentle, reserved, and extremely loyal to their chosen humans. They prefer a calm and predictable routine.",
+  "personality_ko": "매우 부드럽고 정숙하며 조심성이 많습니다. 낯선 사람에게는 수줍음을 타지만, 집사에게는 평생 동안 깊은 충성심을 보여주는 '일편단심' 고양이입니다.",
+  "care_en": "Requires regular brushing to prevent mats in the silky fur. Thrives on stability and a quiet home environment.",
+  "care_ko": "실크 같은 털이 엉키지 않도록 주 3회 이상의 꼼꼼한 빗질이 필수입니다. 예민하고 변화를 싫어하므로 안정적인 실내 환경과 규칙적인 생활 패턴이 중요합니다.",
   "known_risks": [
     {
       "name_en": "No specific breed-related issues",
@@ -70,23 +102,36 @@
   "faq": [
     {
       "question_ko": "러시안 블루와 똑같나요?",
-      "answer_ko": "유전적으로는 러시안 블루를 기반으로 하지만, 털의 길이에 따라 단모는 러블, 장모는 네벨룽으로 구분됩니다. 성격은 네벨룽이 조금 더 내성적이고 차분한 편입니다."
+      "answer_ko": "유전적으로는 러시안 블루를 기반으로 하지만, 털의 길이에 따라 단모는 러시안 블루, 장모는 네벨룽으로 구분합니다. 성격은 네벨룽이 조금 더 내성적이고 조용한 편입니다.",
+      "question_en": "Are they the same as Russian Blues?",
+      "answer_en": "They share the same genetic foundation, but are distinguished by coat length. Nebelungs are more reserved and introverted than their shorthair cousins."
     },
     {
-      "question_ko": "눈 색깔은 언제 변하나요?",
-      "answer_ko": "아기 고양이 때는 노란색이나 호박색일 수 있지만, 생후 2년 정도가 지나 성묘가 되면 선명한 에메랄드 녹색으로 고정됩니다."
+      "question_ko": "왜 이름이 네벨룽인가요?",
+      "answer_ko": "독일어로 안개를 뜻하는 'Nebel'과 중세 독일 서사시 '니벨룽겐의 노래'에서 유래했습니다. 안개처럼 신비로운 은청색 털의 이미지를 상징합니다.",
+      "question_en": "Where does the name come from?",
+      "answer_en": "The name is derived from the German word 'Nebel' (mist) and the medieval Germanic saga 'Nibelungenlied', reflecting their misty, silver-blue appearance."
     }
   ],
   "visual_comparison_tip": "러시안 블루와 똑같은 은청색 털과 녹색 눈을 가졌지만, 털이 길고 꼬리가 풍성한 장식털로 덮여 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Look for the classic silver-blue coat and green eyes, but with a semi-long, silky coat and a magnificent plumed tail.",
   "meta_tags": {
-    "title": "네벨룽 고양이 백과: 네벨룽 고양이 백과: 네벨룽 도감: 안개의 생명체, 성격, 장모 러시안 블루 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "은청색 안개의 신비, 네벨룽의 모든 것. 실크 같은 긴 털과 에메랄드 눈, 실제 분양가와 내성적인 성격 관리법을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "네벨룽 고양이: 성격, 안개 코트, 희귀 품종 | nyan",
+    "title_en": "Nebelung Cat: The 'Mist' Coat & Care | nyan",
+    "description_ko": "은청색 안개의 신비, 네벨룽의 모든 것. 실크 같은 긴 털과 에메랄드 눈, 실제 분양가와 내성적인 성격 관리법을 확인하세요.",
+    "description_en": "The silver-blue spirit of the mist, the Nebelung. Discover their silky long hair, emerald eyes, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "네벨룽",
-      "네벨룽고양이",
-      "안개고양이",
       "장모러시안블루",
+      "은빛고양이",
       "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Nebelung cat",
+      "longhaired Russian Blue",
+      "misty cat",
+      "rare cat breed",
       "nyan"
     ]
   },
@@ -94,32 +139,40 @@
   "image_macro_path": "/images/Nyan/nebelung_macro.png",
   "image_fullbody_path": "/images/Nyan/nebelung/nebelung_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/nebelung/nebelung_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종을 기반으로 하여 매우 건강하지만, 신장 질환에 대한 정기적인 관리가 권장됩니다.",
-  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 드문 품종입니다. 러시안 블루의 매력에 긴 털의 우아함까지 더해져, 고양이 매니아들 사이에서 '유니콘'과 같은 대접을 받는 품종입니다.",
-  "similar_breed_ids": [
-    "russian-blue",
-    "siamese",
-    "turkish-angora"
-  ],
   "image_fullbody_side_path": "/images/Nyan/nebelung/nebelung_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/nebelung/nebelung_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/nebelung/nebelung_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/nebelung/nebelung_coat_texture.webp",
   "image_variant_path": "/images/Nyan/nebelung/nebelung_variant_full_body.webp",
-  "origin_history_ko": "네벨룽 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "네벨룽의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생 종을 기반으로 하여 매우 튼튼하며 알려진 유전병이 거의 없어 고양이 중에서도 장수하는 편에 속합니다.",
+  "health_notes_en": "Extremely robust due to their natural-foundation ancestry, typically enjoying a long and healthy lifespan.",
+  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 드문 품종입니다. 신비로운 분위기 덕분에 매니아들 사이에서 '유니콘' 같은 존재로 불립니다.",
+  "similar_breed_ids": [
+    "russian-blue",
+    "siamese",
+    "turkish-angora"
+  ],
+  "origin_history_ko": "1980년대 초 미국에서 코라(Cora)라는 이름의 검은 단모종과 러시안 블루 사이에서 태어난 '지크프리드'와 '브룬힐데'라는 두 마리의 은청색 장모 고양이로부터 시작되었습니다. 이름은 이들이 가진 몽환적인 분위기에 맞춰 명명되었습니다.",
+  "origin_history_en": "Developed in the early 1980s in the US from two silver-blue long-haired kittens named Siegfried and Brunhilde. Their unique look led to the creation of a breed standard based on the Russian Blue type.",
+  "grooming_tips_ko": "부드러운 이중모는 잘 엉키지는 않으나 윤기를 위해 주 2~3회 빗질이 권장됩니다. 목욕 시 털이 촘촘하므로 샴푸가 속까지 닿도록 충분히 헹궈주시는 것이 중요합니다.",
+  "grooming_tips_en": "While the silky double coat is somewhat resistant to matting, brushing 2-3 times a week is recommended for luster. Ensure thorough rinsing during baths to reach the dense undercoat.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "실크 코트 전용 장모 콤",
+      "item_name_en": "Silk-Coat Longhair Comb",
+      "reason_ko": "네벨룽의 가늘고 긴 실크 질감 털을 엉킴 없이 부드럽게 관리하기 위함",
+      "reason_en": "Perfect for detangling their fine, silky semi-long hair without breakage"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "프리미엄 원목 캣 하우스",
+      "item_name_en": "Premium Wooden Cat Hideout",
+      "reason_ko": "수줍음이 많은 네벨룽이 낯선 사람으로부터 자신을 보호하고 쉴 수 있는 안정적인 은신처",
+      "reason_en": "Provides a secure and dignified sanctuary for this reserved and quiet breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -133,18 +186,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "네벨룽",
+    "name": "Nebelung",
     "taxonRank": "Breed",
-    "description": "네벨룽 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Nebelung cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 네벨룽 고양이의 전신 모습",
-    "face_portrait": "네벨룽 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "face_portrait": "네벨룽 고양이의 특징적인 얼굴 이목구비와 에메랄드 눈이 강조된 초근접 초상화",
     "full_body_front": "네벨룽 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "네벨룽 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "네벨룽 고양이의 우아한 장모 실루엣과 풍성한 꼬리를 확인할 수 있는 측면 전신 사진",
     "strict_profile": "네벨룽 품종 표준을 보여주는 완벽한 측면 두상 프로필",
-    "eye_macro": "네벨룽 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "네벨룽 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "eye_macro": "네벨룽 고양이 특유의 신비로운 녹색 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "네벨룽 고양이의 부드럽고 빛나는 은청색 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "네벨룽 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Nebelung cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the vivid green eyes and misty blue face of a Nebelung",
+    "full_body_front": "Front view of a Nebelung showing its graceful and athletic body",
+    "full_body_side": "Lateral full body photo showcasing the long, silver-blue silky coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the brilliant emerald eyes and iris patterns of a Nebelung",
+    "coat_texture": "Macro photo of the shimmering, fine, and silky silver-blue coat texture",
+    "variant_full_body": "Full body view showing the characteristic silver-blue solid variant of the Nebelung"
   }
 }

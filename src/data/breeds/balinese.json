@@ -21,7 +21,7 @@
     "lilac"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 20,
   "grooming_level": 3,
@@ -46,23 +46,55 @@
     "사람을 매우 좋아하고 감수성이 풍부하여 집사와 깊은 정서적 유대감을 형성함",
     "지능이 매우 높아 훈련이 가능하며 집사와 대화하는 것을 즐기는 사교적인 성격"
   ],
+  "pros_en": [
+    "Combines Siamese intelligence with elegant long hair; minimal matting due to lack of undercoat",
+    "Deeply affectionate and emotionally intuitive, forming strong bonds with owners",
+    "Highly intelligent and trainable; thrives on social interaction and 'conversations'"
+  ],
   "cons": [
     "목소리가 크고 수다스러워 조용한 환경을 원하는 집사에게는 스트레스가 될 수 있음",
     "외로움을 매우 많이 타서 혼자 오래 두면 분리불안이나 우울감을 느낄 수 있음",
     "에너지가 넘쳐서 집안 곳곳을 누비며 관심을 요구하므로 많은 놀이 시간이 필요함"
   ],
+  "cons_en": [
+    "Loud and persistent vocalization may be stressful for those seeking a quiet environment",
+    "Highly prone to separation anxiety; thrives on constant companionship",
+    "Demands high levels of attention and interactive play due to peak energy levels"
+  ],
+  "good_for": [
+    "샴의 성격을 좋아하면서 장모종의 화려함을 원하는 분",
+    "고양이와 끊임없이 소통하고 깊은 정서적 교감을 나누고 싶은 분",
+    "재택근무자나 집에 머무는 시간이 많아 고양이와 많은 시간을 보낼 수 있는 분"
+  ],
+  "good_for_en": [
+    "Owners who love the Siamese personality but want longhair beauty",
+    "People seeking a communicative and emotionally deep companion",
+    "Those who spend significant time at home and can provide constant attention"
+  ],
+  "think_twice_if": [
+    "고양이의 크고 잦은 울음소리에 예민한 분",
+    "바빠서 고양이를 집안에 혼자 두는 시간이 긴 경우",
+    "독립적이고 조용한 고양이를 선호하는 분"
+  ],
+  "think_twice_if_en": [
+    "Owners sensitive to frequent and loud vocalization",
+    "People who are away from home for most of the day",
+    "Those who prefer a quiet, independent, or self-sufficient pet"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
   "summary_en": "The Balinese is a long-haired breed of domestic cat with Siamese-style point coloration and sapphire-blue eyes.",
   "summary_ko": "샴의 영리함과 장모종의 화려함을 동시에 갖춘 품종으로, 발레리나처럼 우아한 움직임 때문에 '발리니즈'라는 이름을 얻었습니다.",
-  "appearance_en": "Elegant lithe body, essentially a longhaired Siamese with a distinctive plumed tail and deep blue eyes.",
+  "appearance_en": "Elegant lithe body, essentially a longhaired Siamese with a plumed tail and deep blue eyes.",
   "appearance_ko": "샴 고양이의 장모종 버전으로, 우아하고 날씬한 몸매와 화려하고 풍성한 깃털 같은 꼬리가 특징입니다. 깊고 푸른 사파이어색 눈을 가졌습니다.",
-  "personality_en": "Highly social, intelligent, and vocal. They form very strong bonds with their owners and are often described as 'velcro cats' who follow their people everywhere.",
-  "personality_ko": "성격은 샴과 매우 비슷하여 매우 수다스럽고 사교적입니다. 집사에게 자신의 감정을 목소리로 표현하는 것을 좋아하며, 항상 곁에 머물고 싶어 하는 '껌딱지' 성향이 강합니다. 지능이 높아 집사의 기분을 잘 살피는 섬세한 성격입니다.",
-  "care_en": "Their single coat is easy to maintain with regular brushing as it doesn't mat easily. They need significant mental stimulation and companionship to thrive.",
-  "care_ko": "속털이 없어 털 엉킴이 적으므로 주 2회 정도의 빗질로도 충분히 아름다운 자태를 유지할 수 있습니다. 하지만 매우 영리하고 사교적이므로 혼자 두는 시간을 최소화하고 지적인 놀이를 지속적으로 제공해 주어야 합니다.",
+  "personality_en": "Highly social, intelligent, and vocal. They form very strong bonds and are often called 'velcro cats'.",
+  "personality_ko": "성격은 샴과 매우 비슷하여 수다스럽고 사교적입니다. 집사에게 자신의 감정을 목소리로 표현하는 것을 좋아하며, 항상 곁에 머물고 싶어 하는 '껌딱지' 성향이 강합니다.",
+  "care_en": "Easy to maintain single coat. They need significant mental stimulation and companionship.",
+  "care_ko": "속털이 없어 털 엉킴이 적으므로 주 2회 정도의 빗질로도 충분합니다. 하지만 매우 영리하고 사교적이므로 지적인 놀이와 교감이 필수적입니다.",
   "known_risks": [
     {
       "name_en": "Amyloidosis",
@@ -78,23 +110,36 @@
   "faq": [
     {
       "question_ko": "진짜 발리 출신인가요?",
-      "answer_ko": "아니요, 미국에서 개발된 품종입니다. 움직임이 발리 섬의 무용수처럼 우아하다고 해서 '발리네즈'라는 이름이 붙여졌습니다."
+      "answer_ko": "아니요, 미국에서 개발된 품종입니다. 움직임이 발리 섬의 무용수처럼 우아하다고 해서 '발리네즈'라는 이름이 붙여졌습니다.",
+      "question_en": "Are they really from Bali?",
+      "answer_en": "No, the breed was developed in the US. They were named 'Balinese' because their graceful movements reminded breeders of Balinese dancers."
     },
     {
       "question_ko": "알레르기가 적나요?",
-      "answer_ko": "일부 연구에 따르면 샴과 발리네즈는 알레르기 유발 단백질을 적게 배출한다고 알려져 있습니다. 하지만 개인차가 크므로 반드시 사전에 확인이 필요합니다."
+      "answer_ko": "샴과 발리네즈는 알레르기 유발 단백질(Fel d 1)을 타 품종보다 적게 배출하는 것으로 알려져 있어, 알레르기가 있는 분들에게 대안이 되기도 합니다.",
+      "question_en": "Are they hypoallergenic?",
+      "answer_en": "They are known to produce lower levels of Fel d 1 protein, making them a better choice for some allergy sufferers, though individual reactions vary."
     }
   ],
   "visual_comparison_tip": "샴과 무늬와 눈 색깔은 같지만, 털이 길고 특히 꼬리가 깃털처럼 화려한지 확인하세요.",
+  "visual_comparison_tip_en": "Same points and blue eyes as a Siamese, but look for a long, silky coat and a luxurious plumed tail.",
   "meta_tags": {
-    "title": "발리네즈 고양이 백과: 발리네즈 고양이 백과: 발리네즈 고양이 도감: 성격, 털 빠짐, 샴과의 차이점 완벽 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "우아한 발레리나 발리네즈의 모든 것. 샴의 지능과 장모종의 아름다움을 가진 발리네즈의 실제 분양가와 수다스러운 성격 관리법을 확인하세요.",
-    "keywords": [
+    "title_ko": "발리네즈 고양이: 성격, 털 관리, 샴과의 차이 | nyan",
+    "title_en": "Balinese Cat: Coat Care & Health | nyan",
+    "description_ko": "우아한 발레리나 발리네즈의 모든 것. 샴의 지능과 장모종의 아름다움을 가진 발리네즈의 실제 분양가와 수다스러운 성격 관리법을 확인하세요.",
+    "description_en": "The graceful dancer of the feline world, the Balinese. Siamese personality with longhair beauty. Costs, 'velcro' nature, and care in museum-grade detail.",
+    "keywords_ko": [
       "발리네즈",
-      "발리네즈고양이",
       "장모샴",
       "우아한고양이",
       "개냥이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Balinese cat",
+      "longhaired Siamese",
+      "graceful cat",
+      "vocal cat",
       "nyan"
     ]
   },
@@ -102,32 +147,40 @@
   "image_macro_path": "/images/Nyan/balinese_macro.png",
   "image_fullbody_path": "/images/Nyan/balinese/balinese_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/balinese/balinese_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "치과 질환과 아밀로이드증에 대한 주의가 필요하며, 정기적인 건강 검진이 권장됩니다.",
-  "local_rarity_ko": "국내에서 샴에 비해 훨씬 희귀하며 전문 캐터리가 적어 입양을 위해서는 긴 기다림이 필요할 수 있습니다. 희소성과 우아한 외모 덕분에 매니아층이 매우 확고한 품종입니다.",
-  "similar_breed_ids": [
-    "siamese",
-    "javanese",
-    "somali"
-  ],
   "image_fullbody_side_path": "/images/Nyan/balinese/balinese_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/balinese/balinese_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/balinese/balinese_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/balinese/balinese_coat_texture.webp",
   "image_variant_path": "/images/Nyan/balinese/balinese_variant_full_body.webp",
-  "origin_history_ko": "발리네즈 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "발리네즈의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "치과 질환과 아밀로이드증에 대한 주의가 필요하며, 정기적인 건강 검진이 권장됩니다.",
+  "health_notes_en": "Awareness of dental issues and amyloidosis is required; regular vet check-ups are recommended.",
+  "local_rarity_ko": "국내에서 샴에 비해 훨씬 희귀하며 전문 캐터리가 적어 입양이 다소 어려울 수 있는 프리미엄 품종입니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "javanese",
+    "somali"
+  ],
+  "origin_history_ko": "1920년대 샴 고양이 사이에서 태어난 장모종 돌연변이가 시초입니다. 처음에는 단순히 '장모종 샴'으로 불렸으나 1950년대에 정식 품종으로 인정받으며 '발리네즈'라는 독자적인 이름을 얻었습니다.",
+  "origin_history_en": "Trace back to longhaired kittens born naturally in Siamese litters in the 1920s. Originally called 'Longhaired Siamese', they were officially recognized and renamed 'Balinese' in the 1950s.",
+  "grooming_tips_ko": "속털이 없는 싱글 코트라 털 엉킴이 거의 없습니다. 주 2회 정도 가볍게 빗질해 주어 화려한 꼬리의 풍성함을 유지해 주세요. 지능이 높으므로 양치나 발톱 깎기 교육이 수월합니다.",
+  "grooming_tips_en": "The single coat makes grooming easy as it rarely mats. Brush twice weekly to maintain the plume of the tail. Their high intelligence makes them receptive to dental and nail care training.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "부드러운 천 소재 고양이 터널",
+      "item_name_en": "Soft Fabric Cat Tunnel",
+      "reason_ko": "매우 활동적이고 호기심 많은 발리네즈가 에너지를 발산하고 숨바꼭질을 즐길 수 있는 공간",
+      "reason_en": "Provides an outlet for their high energy and satisfies their love for hide-and-seek games"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "다양한 소리가 나는 낚싯대 장난감",
+      "item_name_en": "Multi-Sound Teaser Wand",
+      "reason_ko": "수다스럽고 상호작용을 좋아하는 품종 특성에 맞춰 시각과 청각을 동시에 자극",
+      "reason_en": "Engages both sight and hearing to satisfy a vocal breed that thrives on interactive play"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -141,9 +194,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "발리네즈",
+    "name": "Balinese",
     "taxonRank": "Breed",
-    "description": "발리네즈 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Balinese cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 발리네즈 고양이의 전신 모습",
@@ -154,5 +207,15 @@
     "eye_macro": "발리네즈 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "발리네즈 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "발리네즈 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Balinese cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the sapphire blue eyes and oriental features of a Balinese",
+    "full_body_front": "Front view of a Balinese showing its slender, oriental build",
+    "full_body_side": "Lateral full body photo showcasing the long, silky coat and plumed tail",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the deep blue eyes and iris patterns of a Balinese cat",
+    "coat_texture": "Macro photo of the silky, single-layer longhair coat",
+    "variant_full_body": "Full body view showing various color point variants of the Balinese"
   }
 }

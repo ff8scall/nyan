@@ -312,8 +312,12 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '2rem' }}>
                 {breed.recommended_items.map((item, idx) => (
                   <div key={idx} style={{ padding: '3rem', background: '#0a0a0a', border: '1px solid #1a1a1a', borderRadius: '1rem' }}>
-                    <div style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '1.2rem', fontWeight: 400 }}>{item.item_name}</div>
-                    <div style={{ fontSize: '1rem', color: '#aaa', lineHeight: '1.7', fontWeight: 300 }}>{item.reason}</div>
+                    <div style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '1.2rem', fontWeight: 400 }}>
+                      {l === 'ko' ? (item.item_name_ko || (item as any).item_name) : (item.item_name_en || item.item_name_ko || (item as any).item_name)}
+                    </div>
+                    <div style={{ fontSize: '1rem', color: '#aaa', lineHeight: '1.7', fontWeight: 300 }}>
+                      {l === 'ko' ? (item.reason_ko || (item as any).reason) : (item.reason_en || item.reason_ko || (item as any).reason)}
+                    </div>
                   </div>
                 ))}
               </div>
@@ -364,7 +368,7 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
 
            <div style={{ maxWidth: '800px', margin: '0 auto', textAlign: 'center' }}>
               <p style={{ color: '#444', fontSize: '0.8rem', lineHeight: '1.8', fontStyle: 'italic' }}>
-                * Disclaimer: This archive is for educational purposes. Consult a veterinarian for health-related decisions.
+                * {dict.breed.vetDisclaimer}
               </p>
            </div>
         </section>

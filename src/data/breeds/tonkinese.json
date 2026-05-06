@@ -2,6 +2,10 @@
   "id": "tonkinese",
   "name_en": "Tonkinese",
   "name_ko": "통키니즈",
+  "aliases_en": [
+    "Tonk",
+    "Siamese-Burmese Hybrid"
+  ],
   "aliases_ko": [
     "통키"
   ],
@@ -47,23 +51,57 @@
     "아쿠아마린 색상의 아름다운 눈을 가졌으며, 털이 부드럽고 관리가 매우 쉬움",
     "사람과 노는 것을 매우 좋아해 장난감을 가져오거나 어깨에 올라가는 등 유대감이 깊음"
   ],
+  "pros_en": [
+    "Combines Siamese intelligence with Burmese affection for an ideal social pet",
+    "Stunning aquamarine eyes and a soft, low-maintenance 'mink' coat",
+    "Highly interactive; known for 'shoulder-riding' and playing fetch with owners"
+  ],
   "cons": [
     "혼자 있는 것을 매우 싫어하며, 관심이 부족하면 말썽을 피우거나 우울해할 수 있음",
     "매우 영리하여 집 안의 모든 공간을 탐험하고 사고를 칠 가능성이 큼",
     "목소리가 샴보다는 낮지만 여전히 크고 개성이 강해 소음에 민감하면 힘들 수 있음"
   ],
+  "cons_en": [
+    "Dislikes solitude; can become destructive or depressed without constant company",
+    "Extremely clever; will find ways to open cabinets and explore forbidden areas",
+    "While softer than a Siamese, they are still quite vocal and communicative"
+  ],
+  "good_for": [
+    "샴의 지능과 버미즈의 부드러움을 모두 갖춘 '밸런스형' 고양이를 찾는 분",
+    "고양이와 적극적으로 교감하고 대화하며 하루 종일 함께하고 싶은 집사",
+    "이미 다른 반려동물이 있어 조화롭게 지낼 수 있는 사교적인 고양이를 찾는 분"
+  ],
+  "good_for_en": [
+    "Owners looking for a perfectly balanced cat with both intelligence and warmth",
+    "People who want a deeply interactive companion involved in all daily activities",
+    "Homes with other pets seeking a highly adaptable and social feline friend"
+  ],
+  "think_twice_if": [
+    "집을 자주 비우거나 고양이가 조용하고 독립적이길 바라는 분",
+    "고양이가 어깨에 올라오거나 계속 따라다니는 행동이 부담스럽게 느껴질 때",
+    "매우 영리한 고양이가 벌이는 각종 호기심 어린 사고를 견디기 어려운 경우"
+  ],
+  "think_twice_if_en": [
+    "Individuals who spend most of their day outside or prefer a hands-off pet",
+    "Owners who might find a 'clingy' or constantly following cat overwhelming",
+    "Environments where a highly curious and active 'troublemaker' is not welcome"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,000,000원",
-    "monthly_care_cost": "약 100,000원 - 170,000원"
+    "price_range_en": "$1,500 - $3,000 (Breed standard)",
+    "monthly_care_cost": "약 100,000원 - 170,000원",
+    "monthly_care_cost_en": "Approx. $80 - $140"
   },
-  "summary_en": "The Tonkinese are a domestic cat breed produced by crossbreeding between the Siamese and Burmese.",
+  "summary_en": "The Tonkinese is a vibrant and social breed developed by crossing the Siamese and Burmese, known for its incredible affection and beautiful mink coat.",
   "summary_ko": "샴의 영리함과 버미즈의 다정함을 물려받은 통키니즈는 완벽한 반려묘의 대명사입니다. 밍크처럼 부드러운 털과 보석 같은 아쿠아 눈동자가 조화로운 아름다운 고양이입니다.",
-  "appearance_en": "Medium-sized with a well-muscled body. Their most distinctive feature is their almond-shaped aqua-colored eyes and their mink-like soft coat.",
+  "appearance_en": "Features a medium-sized muscular body and almond-shaped eyes in a rare aquamarine color. Their soft coat comes in three distinct patterns: Mink, Pointed, and Solid.",
   "appearance_ko": "중간 크기의 균형 잡힌 근육질 몸매를 가졌습니다. 아몬드 모양의 신비로운 아쿠아색(청록색) 눈이 가장 큰 특징이며, 밍크 코트처럼 부드럽고 조밀한 털이 매력적입니다.",
-  "personality_en": "Highly social, affectionate, and intelligent. They enjoy being the center of attention and get along well with other pets.",
+  "personality_en": "Outgoing, playful, and deeply loving. They are true 'people cats' that love to be in the middle of everything and get along with everyone.",
   "personality_ko": "사람을 진심으로 사랑하는 사교적인 성격입니다. 가족의 모든 일에 참견하기를 좋아하며, 강아지나 다른 고양이와도 아주 잘 지내는 '인싸' 고양이입니다.",
-  "care_en": "Very low grooming needs. Mental stimulation and companionship are the most important aspects of their care.",
+  "care_en": "Low maintenance grooming—a weekly brush is plenty. The most important care aspect is providing social interaction and mental stimulation.",
   "care_ko": "털 관리는 주 1회 가벼운 빗질만으로도 충분합니다. 다만 집사와 소통하는 것을 매우 중요하게 생각하므로 매일 대화를 나누고 함께 놀아주는 시간이 반드시 필요합니다.",
+  "health_notes_ko": "대체로 건강하지만 샴 혈통의 영향으로 치주 질환이나 아밀로이드증에 대한 주의가 필요합니다. 사교적인 만큼 정서적 건강을 위한 풍부한 놀이가 중요합니다.",
+  "health_notes_en": "Generally robust, but they share genetic predispositions with their parent breeds, such as potential dental issues or amyloidosis. Mental health and social bonding are vital for their overall well-being.",
   "known_risks": [
     {
       "name_en": "Periodontal disease",
@@ -79,55 +117,90 @@
   "faq": [
     {
       "question_ko": "눈 색깔이 왜 파란색이 아닌가요?",
-      "answer_ko": "통키니즈의 상징인 '밍크' 패턴은 샴의 파란 눈과 버미즈의 노란 눈이 섞여 신비로운 아쿠아(청록)색을 띠게 됩니다."
+      "answer_ko": "통키니즈의 상징인 '밍크' 패턴은 샴의 파란 눈과 버미즈의 노란 눈이 섞여 신비로운 아쿠아(청록)색을 띠게 됩니다.",
+      "question_en": "Why aren't their eyes blue?",
+      "answer_en": "The signature 'aqua' eye color is unique to the Mink pattern, resulting from the genetic combination of the Siamese blue and Burmese yellow/gold eyes."
     },
     {
       "question_ko": "혼자 잘 있나요?",
-      "answer_ko": "아니요, 외로움을 많이 타는 편이라 1인 가구보다는 항상 누군가 있거나 다른 반려동물이 있는 집이 좋습니다."
+      "answer_ko": "아니요, 외로움을 많이 타는 편이라 1인 가구보다는 항상 누군가 있거나 다른 반려동물이 있는 집이 좋습니다.",
+      "question_en": "Do they tolerate being alone?",
+      "answer_en": "Not well. They are highly social and can become lonely or bored if left alone for long periods. They thrive best in homes where someone is usually around."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "아니요, 털 빠짐이 적은 편이며 털이 아주 짧고 조밀해 관리가 매우 쉽습니다. 정기적인 빗질만으로 충분합니다.",
+      "question_en": "Do they shed a lot?",
+      "answer_en": "No, they are relatively low-shedding cats. Their coat is short and close-lying, making them one of the easiest breeds to maintain in terms of grooming."
+    },
+    {
+      "question_ko": "훈련이 가능한가요?",
+      "answer_ko": "네, 매우 영리하여 강아지처럼 물건을 가져오거나 이름을 부르면 달려오는 등 다양한 훈련이 가능합니다.",
+      "question_en": "Are they trainable?",
+      "answer_en": "Yes, their high intelligence and desire for interaction make them very trainable. Many learn to play fetch, walk on a harness, or perform simple tricks."
+    },
+    {
+      "question_ko": "목소리가 큰가요?",
+      "answer_ko": "샴보다는 덜 날카롭지만, 여전히 수다스럽습니다. 집사에게 자신의 기분이나 요구 사항을 다양한 톤으로 표현하는 것을 즐깁니다.",
+      "question_en": "Are they vocal?",
+      "answer_en": "They are talkative but usually have a sweeter, less insistent voice than the Siamese. They will 'converse' with you throughout the day."
     }
   ],
-  "visual_comparison_tip": "샴 고양이보다 체형이 둥글고 버미즈보다는 가늘며, 눈 색깔이 하늘색과 초록색의 중간인 '아쿠아' 색상이라면 통키니즈일 확률이 높습니다.",
+  "visual_comparison_tip": "샴 고양이보다 체형이 둥글고 버미즈보다는 가늘며, 눈 색깔이 하늘색과 초록색의 중간인 '아쿠아' 색상인지 확인하세요.",
+  "visual_comparison_tip_en": "Look for a body type between the slender Siamese and cobby Burmese, and check for the unique aquamarine eye color.",
   "meta_tags": {
-    "title": "통키니즈 고양이 백과: 통키니즈 고양이 백과: 통키니즈 고양이 도감: 아쿠아 블루 눈의 사교왕, 성격 및 관리법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "샴과 버미즈의 완벽한 조화, 통키니즈. 신비로운 아쿠아 눈동자와 부드러운 밍크 코트를 가진 통키니즈의 모든 것을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "통키니즈 고양이 가이드: 성격, 신비로운 아쿠아 눈동자, 관리법 | nyan",
+    "title_en": "Tonkinese Cat: Aquamarine Eyes & Mink Coat | nyan",
+    "description_ko": "샴과 버미즈의 완벽한 조화, 통키니즈의 모든 것. 신비로운 아쿠아 눈동자와 부드러운 밍크 코트를 가진 사교왕 통키니즈를 nyan에서 확인하세요.",
+    "description_en": "Discover the affectionate Tonkinese. Learn about their unique aqua eyes, silky mink coat, social personality, and care requirements in our museum-grade archive.",
+    "keywords_ko": [
       "통키니즈",
-      "사교적인고양이",
       "아쿠아눈고양이",
-      "단모종",
+      "밍크코트고양이",
+      "개냥이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Tonkinese cat",
+      "aqua eyed cat",
+      "mink pattern cat",
+      "social cat breeds",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/tonkinese/tonkinese_hero.webp",
-  "image_macro_path": "/images/Nyan/tonkinese_macro.png",
   "image_fullbody_path": "/images/Nyan/tonkinese/tonkinese_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/tonkinese/tonkinese_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "대체로 건강하지만 샴의 혈통을 이어받아 치주 질환이나 아밀로이드증에 주의해야 할 수 있습니다.",
-  "local_rarity_ko": "국내에서도 매력적인 외모와 성격으로 인지도가 높아지고 있으며, 전문 캐터리를 통해 꾸준히 입양되고 있습니다.",
-  "similar_breed_ids": [
-    "siamese",
-    "burmese",
-    "balinese"
-  ],
   "image_fullbody_side_path": "/images/Nyan/tonkinese/tonkinese_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/tonkinese/tonkinese_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/tonkinese/tonkinese_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/tonkinese/tonkinese_coat_texture.webp",
   "image_variant_path": "/images/Nyan/tonkinese/tonkinese_variant_full_body.webp",
-  "origin_history_ko": "통키니즈 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "통키니즈의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "burmese",
+    "balinese"
+  ],
+  "origin_history_ko": "1930년대 '웡 마우(Wong Mau)'라는 고양이를 시작으로 1960년대 캐나다와 미국의 브리더들이 샴과 버미즈의 장점을 합쳐 공식 품종으로 발전시켰습니다.",
+  "origin_history_en": "Traces back to a cat named 'Wong Mau' in the 1930s. The breed was later refined in the 1960s by breeders in Canada and the US who aimed for the perfect blend of Siamese and Burmese.",
+  "grooming_tips_ko": "털이 짧고 조밀하여 관리가 매우 쉽습니다. 주 1회 부드러운 브러시로 빗어주면 밍크 같은 윤기가 유지됩니다. 높은 지능을 고려해 훈련을 병행한 그루밍이 효과적입니다.",
+  "grooming_tips_en": "The short, dense coat requires minimal effort. A quick weekly brushing with a soft brush keeps their mink-like fur gleaming. They respond well to grooming sessions paired with training rewards.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "프리미엄 원목 캣 워커 (벽면형)",
+      "item_name_en": "Wall-Mounted Premium Cat Walkers",
+      "reason_ko": "활동적이고 어깨에 오르길 좋아하는 통키니즈의 등반 욕구를 안전하게 충족",
+      "reason_en": "Safely satisfies their high-energy nature and instinctive desire for vertical exploration"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "클리커 훈련 스타터 키트",
+      "item_name_en": "Clicker Training Starter Kit",
+      "reason_ko": "영리한 통키니즈와 교감하고 다양한 묘기를 가르치기 위한 최적의 도구",
+      "reason_en": "The perfect tool for bonding with and challenging the high intelligence of this breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -141,9 +214,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "통키니즈",
+    "name": "Tonkinese",
     "taxonRank": "Breed",
-    "description": "통키니즈 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Tonkinese cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 통키니즈 고양이의 전신 모습",
@@ -154,5 +227,17 @@
     "eye_macro": "통키니즈 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "통키니즈 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "통키니즈 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Tonkinese cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the stunning aquamarine eyes and sweet expression of a Tonkinese",
+    "full_body_front": "Front view of a Tonkinese showcasing its well-balanced and muscular body",
+    "full_body_side": "Lateral full body photo highlighting the smooth mink-patterned coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Tonkinese breed",
+    "eye_macro": "Macro shot of the unique aquamarine eyes and detailed iris patterns of a Tonkinese",
+    "coat_texture": "Macro photo of the soft, dense, and silky mink coat texture",
+    "variant_full_body": "Showcase of the Mink, Pointed, and Solid pattern variations in the Tonkinese breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

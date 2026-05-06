@@ -2,6 +2,10 @@
   "id": "turkish-van",
   "name_en": "Turkish Van",
   "name_ko": "터키시 반",
+  "aliases_en": [
+    "Swimming Cat",
+    "The Van Cat"
+  ],
   "aliases_ko": [
     "수영하는 고양이",
     "터키의 보물"
@@ -21,7 +25,7 @@
     "blue"
   ],
   "weight_min_kg": 4.5,
-  "weight_max_kg": 9.0,
+  "weight_max_kg": 9,
   "lifespan_min_years": 12,
   "lifespan_max_years": 17,
   "grooming_level": 3,
@@ -46,23 +50,57 @@
     "지능이 높고 에너지가 넘쳐 집사와 함께하는 동적인 놀이에 최고임",
     "장모종임에도 속털이 없어 털 엉킴이 적고 관리가 매우 쉬움"
   ],
+  "pros_en": [
+    "A rare breed that genuinely enjoys swimming and playing in water",
+    "High intelligence and energy make them ideal for active, interactive play",
+    "Single coat with no undercoat results in minimal matting and easy grooming"
+  ],
   "cons": [
-    "활동량이 매우 많아 좁은 공간에서는 스트레스를 받거나 사고를 칠 수 있음",
+    "활동량이 매우 많아 좁은 공간에서는 스트레스가 되거나 사고를 칠 수 있음",
     "덩치가 크고 힘이 세서 물건을 떨어뜨리거나 집안을 어지럽히기 쉬움",
     "관심받는 것을 좋아해 집사가 바쁠 때도 계속해서 놀이를 요구함"
   ],
+  "cons_en": [
+    "Peak activity levels require ample space; may become destructive if bored",
+    "Large, powerful build can lead to knocked-over items and general household chaos",
+    "Demanding of attention; will persistently seek interaction even when the owner is busy"
+  ],
+  "good_for": [
+    "고양이와 함께 물놀이나 수영을 즐기는 특별한 경험을 원하는 분",
+    "에너지가 넘치는 대형묘와 함께 활기찬 일상을 보내고 싶은 분",
+    "매일 털 관리에 많은 시간을 쓰기 어렵지만 장모종의 미학을 원하는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking the unique experience of a cat that loves water and swimming",
+    "People looking for a large, energetic, and adventurous feline companion",
+    "Those who want a longhair aesthetic but with lower grooming maintenance"
+  ],
+  "think_twice_if": [
+    "좁은 원룸이나 활동량이 제한된 주거 환경에 거주하는 분",
+    "어항이나 개방형 화장실(변기) 관리가 철저하지 못한 환경",
+    "조용하고 가만히 앉아있는 고양이를 선호하는 분"
+  ],
+  "think_twice_if_en": [
+    "Living in a small apartment or restricted space where a large cat might feel trapped",
+    "Homes with open aquariums or toilets where a water-loving cat could cause trouble",
+    "Owners who prefer a calm, sedentary, or quiet lap cat"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$2,000 - $4,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Turkish Van is a semi-long-haired breed of domestic cat, which was developed in the United Kingdom from a selection of cats obtained from various cities of modern Turkey.",
+  "summary_en": "The Turkish Van is a semi-long-haired breed of domestic cat, famously known as the 'Swimming Cat'.",
   "summary_ko": "터키 반 호수 근처에서 유래한 '수영하는 고양이'로, 강인한 체력과 독특한 무늬, 그리고 물에 대한 두려움이 없는 용맹한 품종입니다.",
-  "appearance_en": "Large muscular 'swimming cat', cashmere-like texture coat, color only on head and tail (Van pattern).",
-  "appearance_ko": "머리와 꼬리에만 무늬가 있고 몸은 하얀 '반(Van)' 패턴이 상징입니다. 방수 기능이 있는 캐시미어 같은 털을 가졌으며, 고양이 중 드물게 물놀이를 즐기는 것으로 유명합니다.",
-  "personality_en": "Extremely active, intelligent, and social. They are known for their love of water and their desire to participate in all household activities. They are often described as having dog-like loyalty.",
-  "personality_ko": "에너지가 넘치고 매우 영리합니다. 물에 대한 거부감이 전혀 없어 함께 목욕이나 물놀이를 즐길 수 있는 유일무이한 고양이입니다. 집사에게 매우 헌신적이며, 높은 곳을 정복하고 뛰어다니는 것을 즐기는 활동가입니다.",
-  "care_en": "Requires regular brushing to maintain their silky coat, although it mats less than other long-haired breeds. They need plenty of space and mental stimulation. Their love for water means they may try to join you in the shower.",
-  "care_ko": "속털이 없어 털 관리는 매우 쉽지만, 대형묘 특유의 활동량을 해소해 줄 수 있는 넓은 공간과 튼튼한 캣타워가 필수입니다. 물을 좋아하므로 화장실 변기 뚜껑을 닫아두거나 어항 관리에 주의해야 합니다.",
+  "appearance_en": "Large muscular body with a cashmere-like water-repellent coat. Color is restricted to the head and tail (Van pattern).",
+  "appearance_ko": "머리와 꼬리에만 무늬가 있고 몸은 하얀 '반(Van)' 패턴이 상징입니다. 방수 기능이 있는 캐시미어 같은 털을 가졌으며, 수영을 즐기는 것으로 유명합니다.",
+  "personality_en": "Extremely active, intelligent, and social. They are famous for their love of water and dog-like loyalty.",
+  "personality_ko": "에너지가 넘치고 매우 영리합니다. 물에 대한 거부감이 전혀 없어 함께 목욕이나 물놀이를 즐길 수 있는 특별한 고양이입니다. 집사에게 매우 헌신적입니다.",
+  "care_en": "Minimal grooming needed due to single coat. They require significant space and mental stimulation.",
+  "care_ko": "속털이 없어 털 관리는 쉽지만, 대형묘의 활동량을 해소해 줄 넓은 공간과 튼튼한 캣타워가 필수입니다. 물을 좋아하므로 안전한 수분 환경 관리가 필요합니다.",
+  "health_notes_ko": "전체적으로 매우 건강한 품종이지만, 대형묘에게 흔한 비대성 심근증(HCM)에 대한 정기 검진을 권장합니다. 체중 조절에 신경 써서 관절 건강을 유지해야 합니다.",
+  "health_notes_en": "A robustly healthy breed, though regular HCM screenings common for large cats are advised. Maintaining a healthy weight is crucial to prevent strain on their large frame.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -78,55 +116,90 @@
   "faq": [
     {
       "question_ko": "정말 수영을 하나요?",
-      "answer_ko": "네, 많은 터키시 반들이 욕조나 수영장에서 스스로 헤엄을 치는 모습을 보입니다. 이는 야생 시절 호수에서 물고기를 잡던 습성이 남아있기 때문입니다."
+      "answer_ko": "네, 많은 터키시 반들이 욕조나 수영장에서 스스로 헤엄을 치는 모습을 보입니다. 이는 야생 시절 호수에서 물고기를 잡던 습성이 남아있기 때문입니다.",
+      "question_en": "Do they really swim?",
+      "answer_en": "Yes, many Turkish Vans will naturally swim in bathtubs or pools. This trait is believed to originate from their ancestors catching fish in Lake Van."
     },
     {
       "question_ko": "터키시 앙고라와 다른 점이 무엇인가요?",
-      "answer_ko": "가장 큰 차이는 덩치와 무늬입니다. 터키시 반은 훨씬 크고 묵직하며, 몸통이 비어 있고 머리와 꼬리에만 색이 있는 '반 패턴'이 필수적입니다."
+      "answer_ko": "가장 큰 차이는 덩치와 무늬입니다. 터키시 반은 훨씬 크고 묵직하며, 머리와 꼬리에만 색이 있는 '반 패턴'이 특징입니다.",
+      "question_en": "How are they different from Turkish Angoras?",
+      "answer_en": "The main differences are size and pattern. Turkish Vans are much larger and sturdier, and must have the 'Van pattern' (color only on head and tail)."
+    },
+    {
+      "question_ko": "여름에 더위를 많이 타나요?",
+      "answer_ko": "속털이 없어서 다른 장모종에 비해서는 더위에 잘 견디는 편입니다. 또한 물놀이를 통해 체온을 조절하는 영리한 모습도 보입니다.",
+      "question_en": "Do they struggle in the heat?",
+      "answer_en": "Thanks to their lack of an undercoat, they handle warmer weather better than many other longhairs. They also use their love of water to cool down effectively."
+    },
+    {
+      "question_ko": "다 자라는 데 얼마나 걸리나요?",
+      "answer_ko": "대형묘 품종답게 성장이 느린 편입니다. 완전히 성묘의 체격과 털의 자태를 갖추는 데는 보통 3년에서 5년 정도가 소요됩니다.",
+      "question_en": "How long do they take to mature?",
+      "answer_en": "As a large breed, they develop slowly. It can take between 3 to 5 years for a Turkish Van to reach full physical size and for their coat to reach its prime."
+    },
+    {
+      "question_ko": "반 패턴이 아닌 터키시 반도 있나요?",
+      "answer_ko": "품종 표준에 따르면 머리와 꼬리에만 무늬가 있는 것이 정석이지만, 가끔 몸통에 한두 개의 작은 반점이 있는 경우도 허용됩니다. 하지만 몸 전체가 하얀 경우는 없습니다.",
+      "question_en": "Are there non-Van pattern Turkish Vans?",
+      "answer_en": "According to breed standards, the color should be restricted to the head and tail, though one or two small spots on the body are acceptable. A fully white cat would not be a Turkish Van."
     }
   ],
-  "visual_comparison_tip": "터키시 앙고라와 비슷하지만 덩치가 훨씬 크고, 머리와 꼬리에만 무늬가 있는 '반(Van)' 패턴인지 확인하세요.",
+  "visual_comparison_tip": "터키시 앙고라보다 훨씬 크고 묵직하며, 몸통은 하얗고 머리와 꼬리에만 무늬가 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Much larger and sturdier than a Turkish Angora; the body must be white with color only on the head and tail.",
   "meta_tags": {
-    "title": "터키시 반 고양이 백과: 터키시 반 고양이 백과: 터키시 반 도감: 성격, 수영하는 습성, 반(Van) 패턴의 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "수영하는 고양이 터키시 반의 모든 것. 물을 좋아하는 독특한 성격과 강인한 체력, 실제 분양가와 관리 팁을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "터키시 반 고양이 가이드: 성격, 수영 습성, 반 패턴 | nyan",
+    "title_en": "Turkish Van Cat: Swimming & Care | nyan",
+    "description_ko": "수영하는 고양이 터키시 반의 모든 것. 물을 좋아하는 독특한 성격과 강인한 체력, 실제 분양가와 관리 팁을 nyan에서 확인하세요.",
+    "description_en": "The swimming legend of Turkey, the Turkish Van. Discover their love for water, the unique Van pattern, and costs in our museum-grade archive.",
+    "keywords_ko": [
       "터키시반",
       "수영하는고양이",
       "반패턴",
-      "대형묘",
+      "대형묘성격",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Turkish Van",
+      "swimming cat",
+      "Van pattern",
+      "large cat care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/turkish-van/turkish-van_hero.webp",
-  "image_macro_path": "/images/Nyan/turkish-van_macro.png",
   "image_fullbody_path": "/images/Nyan/turkish-van/turkish-van_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/turkish-van/turkish-van_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "전체적으로 매우 건강한 품종이지만, 대형묘에게 흔한 비대성 심근증(HCM) 정기 검진은 권장됩니다.",
-  "local_rarity_ko": "국내에서 매우 희귀하고 특별한 대접을 받는 품종입니다. 수영하는 습성 덕분에 유튜브나 SNS에서 큰 화제가 되기도 하며, 강인한 체력과 독특한 외모를 선호하는 집사들에게 최고의 워너비 품종입니다.",
-  "similar_breed_ids": [
-    "turkish-angora",
-    "maine-coon",
-    "norwegian-forest-cat"
-  ],
   "image_fullbody_side_path": "/images/Nyan/turkish-van/turkish-van_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/turkish-van/turkish-van_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/turkish-van/turkish-van_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/turkish-van/turkish-van_coat_texture.webp",
   "image_variant_path": "/images/Nyan/turkish-van/turkish-van_variant_full_body.webp",
-  "origin_history_ko": "터키시 반 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "터키시 반의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "turkish-angora",
+    "maine-coon",
+    "norwegian-forest-cat"
+  ],
+  "origin_history_ko": "터키 동부 반 호수(Lake Van) 지역에서 수천 년 동안 고립되어 발달한 자연 발생 품종입니다. 1950년대 영국 브리더들에 의해 서구 사회에 소개되면서 현대적인 품종으로 정립되었습니다.",
+  "origin_history_en": "A natural breed that developed in isolation around Lake Van in eastern Turkey for thousands of years. Introduced to the West in the 1950s by British breeders.",
+  "grooming_tips_ko": "방수 기능이 있는 싱글 코트라 털이 뭉치지 않아 주 1~2회 빗질만으로도 충분합니다. 물을 좋아하므로 목욕이 매우 쉬운 편이지만, 털이 물을 튕겨내므로 샴푸 전 털을 충분히 적시는 시간이 필요합니다.",
+  "grooming_tips_en": "The water-repellent single coat is easy to manage; weekly brushing is sufficient. While they love water, their fur sheds moisture effectively, so soaking them before shampooing takes effort.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고양이용 안전 수영장 (폴딩식)",
+      "item_name_en": "Folding Pet Swimming Pool",
+      "reason_ko": "터키시 반의 가장 큰 특징인 수영 본능을 집에서도 안전하고 즐겁게 충족시켜 주기 위함",
+      "reason_en": "Perfect for safely satisfying the breed's unique and instinctive love for swimming at home"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고강도 원목 캣타워 (초대형)",
+      "item_name_en": "Heavy-Duty Extra Large Cat Tower",
+      "reason_ko": "9kg까지 성장하는 근육질 대형묘의 격렬한 움직임과 점프를 견딜 수 있는 견고한 수직 공간",
+      "reason_en": "Provides a sturdy vertical space to withstand the jumps of a muscular cat that can weigh up to 9kg"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -140,9 +213,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "터키시 반",
+    "name": "Turkish Van",
     "taxonRank": "Breed",
-    "description": "터키시 반 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Turkish Van cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 터키시 반 고양이의 전신 모습",
@@ -153,5 +226,17 @@
     "eye_macro": "터키시 반 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "터키시 반 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "터키시 반 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Turkish Van cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the Van pattern markings on the head and alert ears",
+    "full_body_front": "Front view of a Turkish Van showing its powerful and substantial build",
+    "full_body_side": "Lateral full body photo showcasing the white body and colored tail Van pattern",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes (often odd-eyed) of a Turkish Van cat",
+    "coat_texture": "Macro photo of the water-repellent, cashmere-like single coat",
+    "variant_full_body": "Full body view showing various color variants (Red, Cream, etc.) of the Turkish Van"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

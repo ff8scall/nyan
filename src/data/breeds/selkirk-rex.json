@@ -2,6 +2,11 @@
   "id": "selkirk-rex",
   "name_en": "Selkirk Rex",
   "name_ko": "셀커크 렉스",
+  "aliases_en": [
+    "Sheep Cat",
+    "Poodle Cat",
+    "Cat in Sheep's Clothing"
+  ],
   "aliases_ko": [
     "양 고양이",
     "푸들 캣",
@@ -18,8 +23,8 @@
   "common_colors": [
     "all_colors"
   ],
-  "weight_min_kg": 3.0,
-  "weight_max_kg": 7.0,
+  "weight_min_kg": 3,
+  "weight_max_kg": 7,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 4,
@@ -44,23 +49,57 @@
     "성격이 매우 온화하고 인내심이 강해 아이들이나 다른 반려동물과도 아주 잘 지냄",
     "단단하고 묵직한 체형을 가져 건강미가 넘치며 집사의 무릎을 좋아하는 애교쟁이임"
   ],
+  "pros_en": [
+    "Dense, curly 'sheep-like' coat offers a unique and incredibly cuddly aesthetic",
+    "Exceptional patience and gentle temperament; ideal for children and other pets",
+    "Sturdy and robust build paired with a deeply affectionate 'lap cat' personality"
+  ],
   "cons": [
     "털이 매우 빽빽하고 곱슬거려 엉키기 매우 쉬우므로 매일 세심한 빗질이 필수적임",
     "눈 주변이나 귀의 털도 곱슬거려 눈물 관리나 귀 청소 등 위생 관리에 신경을 써야 함",
     "털 빠짐이 적지 않으며 곱슬털 사이에 죽은 털이 갇혀 있어 꼼꼼한 케어가 필요함"
   ],
+  "cons_en": [
+    "Highly prone to matting; requires daily, careful grooming to maintain the coat",
+    "Curly fur around eyes and ears necessitates frequent hygiene checks to prevent issues",
+    "Sheds more than other Rex breeds; trapped dead hair requires active removal"
+  ],
+  "good_for": [
+    "양이나 푸들을 닮은 복슬복슬한 곱슬 고양이를 꿈꾸는 분",
+    "느긋하고 공격성 없는 성격의 반려묘를 찾는 아이가 있는 가정",
+    "장모종의 미학보다는 곱슬털 특유의 포근한 촉감을 선호하는 분"
+  ],
+  "good_for_en": [
+    "Owners dreaming of a fluffy, curly cat that resembles a sheep or a poodle",
+    "Families with children seeking a laid-back, non-aggressive companion",
+    "Fanciers who prefer the unique tactile experience of curly fur over typical longhair"
+  ],
+  "think_twice_if": [
+    "매일 꼼꼼하게 빗질해주고 털 관리를 해줄 시간적 여유가 부족한 분",
+    "털 날림과 털 빠짐에 예민하여 청결 유지가 중요한 환경",
+    "곱슬털 관리를 위한 정기적인 목욕과 위생 케어가 부담스러운 경우"
+  ],
+  "think_twice_if_en": [
+    "People with busy schedules unable to commit to detailed daily grooming",
+    "Owners sensitive to shedding and those requiring a near-spotless home environment",
+    "Those who find frequent bathing and ear/eye hygiene tasks burdensome"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 130,000원 - 220,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 130,000원 - 220,000원",
+    "monthly_care_cost_en": "Approx. $100 - $180"
   },
-  "summary_en": "The Selkirk Rex is a breed of cat with highly curled hair. It is distinguished from other Rex breeds by its heavy, sturdy build and round head.",
-  "summary_ko": "자고 일어난 듯 헝클어진 머리가 매력인 '양 고양이'입니다. 다른 렉스종과 달리 브리티시 쇼트헤어의 골격을 물려받아 튼튼하고 묵직한 체형을 가졌으며, 온몸을 덮은 빽빽한 곱슬털은 만질 때마다 구름 같은 포근함을 선사합니다.",
-  "appearance_en": "A large, sturdy cat with a cobby body type. They have a round head, round eyes, and a distinctive coat that is densely curled and soft to the touch. Their whiskers are also curled.",
-  "appearance_ko": "단단하고 굵은 골격을 가진 '코비(Cobby)' 체형입니다. 얼굴은 동글동글하며 뺨이 통통하게 올라와 있습니다. 가장 큰 특징은 역시 '양털' 같은 곱슬털로, 단모와 장모 모두 존재하며 수염까지 곱슬거리는 것이 특징입니다. 인위적인 느낌보다는 자연스럽게 헝클어진 듯한 컬이 매력 포인트입니다.",
-  "personality_en": "Patient, loving, and tolerant. Selkirk Rexes have a sweet and mellow temperament, inheriting the laid-back nature of the British Shorthair and the playfulness of the Persian.",
-  "personality_ko": "매우 느긋하고 참을성이 많습니다. 사람의 손길을 좋아하고 안겨있는 것을 즐기는 전형적인 '무릎 고양이'입니다. 공격성이 낮고 다른 반려동물과도 금방 친구가 되는 사교적인 성격이라 다묘 가정이나 아이가 있는 집에도 아주 잘 어울립니다.",
-  "care_en": "Requires regular, gentle brushing to prevent mats without straightening the curls. They need more frequent baths than some other breeds due to the oiliness of their thick coat.",
-  "care_ko": "털이 매우 빽빽하여 주 3회 이상의 꼼꼼한 빗질이 필요합니다. 다만 너무 세게 빗으면 컬이 풀릴 수 있으므로 부드럽게 엉킨 곳을 풀어주는 것이 노하우입니다. 피부에서 유분이 많이 나오는 편이라 주기적인 목욕과 귀 청소가 권장됩니다.",
+  "summary_en": "The Selkirk Rex is a breed of cat with highly curled hair, distinguished by its sturdy build and round head.",
+  "summary_ko": "자고 일어난 듯 헝클어진 머리가 매력인 '양 고양이'입니다. 튼튼하고 묵직한 체형을 가졌으며, 온몸을 덮은 빽빽한 곱슬털은 구름 같은 포근함을 선사합니다.",
+  "appearance_en": "Large, sturdy cat with a round head and densely curled, soft fur. Their whiskers are also curled.",
+  "appearance_ko": "단단하고 굵은 골격을 가진 '코비' 체형입니다. 얼굴은 동글동글하며 뺨이 통통합니다. 털은 물론 수염까지 곱슬거리는 것이 특징이며, 자연스럽게 헝클어진 듯한 컬이 매력입니다.",
+  "personality_en": "Patient, loving, and tolerant. They have a sweet and mellow temperament, often becoming perfect lap cats.",
+  "personality_ko": "매우 느긋하고 참을성이 많습니다. 사람의 손길을 좋아하고 안겨있는 것을 즐기는 전형적인 '무릎 고양이'입니다. 다른 반려동물과도 금방 친구가 되는 사교적인 성격입니다.",
+  "care_en": "Requires regular, gentle brushing. They may need more frequent baths due to the oiliness of their thick coat.",
+  "care_ko": "털이 매우 빽빽하여 주 3회 이상의 꼼꼼한 빗질이 필요합니다. 피부에서 유분이 나오는 편이라 주기적인 목욕과 귀 청소가 권장됩니다. 컬이 풀리지 않게 부드럽게 빗겨주세요.",
+  "health_notes_ko": "비대성 심근증(HCM)과 다낭성 신장병(PKD)에 대한 유전적 모니터링이 필요하며, 특히 빽빽한 곱슬털로 인한 피부 트러블이 없는지 정기적으로 확인해야 합니다.",
+  "health_notes_en": "Periodic screening for HCM and PKD is recommended. Due to their dense curls, monitoring for skin irritation or fungal infections under the coat is also important.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -76,56 +115,90 @@
   "faq": [
     {
       "question_ko": "털이 안 빠지는 편인가요?",
-      "answer_ko": "아니요, 셀커크 렉스는 털이 상당히 많이 빠지는 편에 속합니다. 곱슬털 사이에 빠진 털이 갇혀 있는 경우가 많으므로 주기적으로 빗질해서 제거해 주어야 합니다."
+      "answer_ko": "아니요, 셀커크 렉스는 렉스종 중에서도 털이 상당히 많이 빠지는 편입니다. 곱슬털 사이에 죽은 털이 갇혀 있으므로 빗질을 통해 주기적으로 제거해 주어야 합니다.",
+      "question_en": "Are they low-shedding?",
+      "answer_en": "No, they shed more than Devon or Cornish Rexes. Dead hair often gets trapped in the curls, so regular brushing is necessary to remove it."
     },
     {
       "question_ko": "직모인 개체도 태어나나요?",
-      "answer_ko": "네, 같은 배에서 태어난 새끼 중에서도 곱슬털이 아닌 직모(Straight)를 가진 아이들이 태어날 수 있습니다. 이들은 '셀커크 스트레이트'라고 불립니다."
+      "answer_ko": "네, 유전적으로 곱슬이 아닌 직모를 가진 아이들도 태어날 수 있습니다. 이들은 '셀커크 스트레이트'라고 불리며, 털 모양만 다를 뿐 성격과 골격은 같습니다.",
+      "question_en": "Are there straight-haired ones?",
+      "answer_en": "Yes, kittens with straight hair can be born in the same litter. They are called 'Selkirk Straights' and share the same personality and build."
+    },
+    {
+      "question_ko": "수염도 곱슬인가요?",
+      "answer_ko": "네, 셀커크 렉스는 수염까지도 귀엽게 곱슬거리는 특징이 있습니다. 이는 부러지기 쉬우므로 얼굴 주변을 만질 때 주의해야 합니다.",
+      "question_en": "Are their whiskers curly too?",
+      "answer_en": "Yes, one of the breed's hallmarks is their curly whiskers. Note that they can be more brittle than straight whiskers, so gentle handling is advised."
+    },
+    {
+      "question_ko": "성격이 예민한가요?",
+      "answer_ko": "전혀 그렇지 않습니다. 오히려 고양이 중에서도 매우 느긋하고 포용력이 넓은 편입니다. 시끄러운 환경에서도 크게 당황하지 않는 대범함을 가졌습니다.",
+      "question_en": "Do they have sensitive personalities?",
+      "answer_en": "Quite the opposite. They are known for being very laid-back and tolerant, often remaining calm even in busy or noisy environments."
+    },
+    {
+      "question_ko": "목욕을 자주 시켜야 하나요?",
+      "answer_ko": "빽빽한 털에 유분이 쌓이기 쉽습니다. 한 달에 한 번 정도 전용 샴푸로 목욕을 시켜주면 털의 컬이 더 살아나고 위생 유지에 도움이 됩니다.",
+      "question_en": "Do they need frequent baths?",
+      "answer_en": "Their dense coat can trap oils. A monthly bath with the right shampoo can actually help define their curls and maintain skin hygiene."
     }
   ],
-  "visual_comparison_tip": "다른 렉스종보다 덩치가 훨씬 크고 골격이 굵으며, 브리티시 쇼트헤어처럼 얼굴이 둥근 곱슬 고양이인지 확인하세요.",
+  "visual_comparison_tip": "다른 렉스종보다 덩치가 훨씬 크고 골격이 굵으며, 얼굴이 브리티시 쇼트헤어처럼 둥근지 확인하세요.",
+  "visual_comparison_tip_en": "Much larger and sturdier than other Rexes; look for the round British Shorthair-like facial structure.",
   "meta_tags": {
-    "title": "셀커크 렉스 고양이 백과: 셀커크 렉스 고양이 백과: 셀커크 렉스 도감: 양 닮은 고양이, 성격, 곱슬털 관리 비법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "복슬복슬한 양의 매력, 셀커크 렉스의 모든 것. 빽빽한 곱슬털의 비밀과 인내심 강한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "셀커크 렉스 고양이: 성격, 양 닮은 곱슬털 관리 | nyan",
+    "title_en": "Selkirk Rex Cat: Curly Coat & Care | nyan",
+    "description_ko": "복슬복슬한 양의 매력, 셀커크 렉스의 모든 것. 빽빽한 곱슬털의 비밀과 인내심 강한 성격, 실제 분양가를 확인하세요.",
+    "description_en": "The sheep of the cat world, the Selkirk Rex. Discover their plush curls, mellow temperament, costs, and grooming tips in museum-grade detail.",
+    "keywords_ko": [
       "셀커크렉스",
       "양고양이",
       "곱슬고양이",
-      "브리티시렉스",
-      "푸들고양이",
+      "무릎고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Selkirk Rex",
+      "curly cat",
+      "poodle cat",
+      "mellow cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/selkirk-rex/selkirk-rex_hero.webp",
-  "image_macro_path": "/images/Nyan/selkirk-rex_macro.png",
   "image_fullbody_path": "/images/Nyan/selkirk-rex/selkirk-rex_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/selkirk-rex/selkirk-rex_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비대성 심근증(HCM)과 다낭성 신장병(PKD)에 대한 유전적 모니터링이 필요합니다.",
-  "local_rarity_ko": "국내 프리미엄 캐터리 시장에서 인기가 급상승 중인 품종입니다. 양을 닮은 독특한 비주얼과 천사 같은 성격 덕분에 '워너비 반려묘'로 꼽히는 경우가 많습니다.",
-  "similar_breed_ids": [
-    "british-shorthair",
-    "persian",
-    "laperm"
-  ],
   "image_fullbody_side_path": "/images/Nyan/selkirk-rex/selkirk-rex_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/selkirk-rex/selkirk-rex_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/selkirk-rex/selkirk-rex_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/selkirk-rex/selkirk-rex_coat_texture.webp",
   "image_variant_path": "/images/Nyan/selkirk-rex/selkirk-rex_variant_full_body.webp",
-  "origin_history_ko": "셀커크 렉스 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "셀커크 렉스의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "british-shorthair",
+    "persian",
+    "laperm"
+  ],
+  "origin_history_ko": "1987년 미국 몬태나주의 보호소에서 발견된 '미스 디페스토(Miss DePesto)'라는 곱슬털 고양이가 시초입니다. 이후 브리티시 쇼트헤어, 페르시안 등과 교배하여 튼튼하고 둥근 현재의 체형을 갖추게 되었습니다.",
+  "origin_history_en": "Originates from a curly-haired kitten named Miss DePesto found in a Montana shelter in 1987. Bred with British Shorthairs and Persians to develop its sturdy, round standard.",
+  "grooming_tips_ko": "털이 빽빽해 엉킴이 잘 발생하지만 너무 자주 빗으면 컬이 풀립니다. 주 3회 정도 성긴 빗으로 부드럽게 빗겨주시고, 피부 유분 관리를 위해 한 달에 한 번 정도의 목욕이 권장됩니다.",
+  "grooming_tips_en": "Brushing 3 times a week with a wide-toothed comb prevents mats while preserving curls. Monthly baths help manage the natural skin oils common in this breed.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "성긴 금속제 일자 빗 (콤)",
+      "item_name_en": "Wide-Toothed Metal Comb",
+      "reason_ko": "셀커크 렉스 특유의 컬을 망가뜨리지 않으면서 빽빽한 털 속 엉킴만 효과적으로 제거하기 위한 도구",
+      "reason_en": "Effectively removes tangles from dense fur without straightening or damaging the signature curls"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "저자극 유분 세정 샴푸",
+      "item_name_en": "Hypoallergenic Degreasing Shampoo",
+      "reason_ko": "피부 유분이 많은 품종 특성에 맞춰 털 뭉침을 방지하고 피부 건강을 유지",
+      "reason_en": "Prevents coat clumping and maintains skin health for a breed prone to higher oil production"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -139,9 +212,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "셀커크 렉스",
+    "name": "Selkirk Rex",
     "taxonRank": "Breed",
-    "description": "셀커크 렉스 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Selkirk Rex cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 셀커크 렉스 고양이의 전신 모습",
@@ -152,5 +225,17 @@
     "eye_macro": "셀커크 렉스 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "셀커크 렉스 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "셀커크 렉스 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Selkirk Rex cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the round face and curly whiskers of a Selkirk Rex",
+    "full_body_front": "Front view of a Selkirk Rex showing its sturdy and muscular build",
+    "full_body_side": "Lateral full body photo showcasing the dense, woolly, curly coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the soft, round eyes and iris patterns of a Selkirk Rex",
+    "coat_texture": "Macro photo of the thick and curly 'sheep-like' coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Selkirk Rex"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

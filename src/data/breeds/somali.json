@@ -2,6 +2,10 @@
   "id": "somali",
   "name_en": "Somali",
   "name_ko": "소말리",
+  "aliases_en": [
+    "Longhair Abyssinian",
+    "Fox Cat"
+  ],
   "aliases_ko": [
     "여우 고양이",
     "장모종 아비시니안"
@@ -20,7 +24,7 @@
     "blue",
     "fawn"
   ],
-  "weight_min_kg": 3.0,
+  "weight_min_kg": 3,
   "weight_max_kg": 5.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -46,23 +50,57 @@
     "지능이 매우 높고 영리하여 집사와의 상호작용과 놀이 학습 능력이 뛰어남",
     "사교성이 좋아 가족 모두와 잘 지내며 집안의 활력소 역할을 함"
   ],
+  "pros_en": [
+    "Exquisite fox-like aesthetics with a stunning, plumed tail",
+    "Highly intelligent and quick-witted; excels at interactive play and learning",
+    "Exceptionally social; brings vibrant energy and joy to the entire family"
+  ],
   "cons": [
     "엄청난 활동량으로 인해 매일 충분한 놀이 시간을 제공하지 않으면 스트레스를 받음",
     "호기심이 너무 많아 집안의 모든 물건을 탐험하고 떨어뜨릴 수 있어 주의가 필요함",
     "풍성한 털 때문에 정기적인 빗질이 필요하며 털 빠짐이 적지 않음"
   ],
+  "cons_en": [
+    "Extreme energy levels require significant daily playtime to prevent stress",
+    "Intense curiosity can lead to household items being explored or knocked over",
+    "Requires regular grooming to manage their lush coat and moderate shedding"
+  ],
+  "good_for": [
+    "고양이와 함께 역동적으로 놀아주고 훈련시키고 싶은 분",
+    "여우를 연상시키는 화려한 장모종의 미학을 선호하는 분",
+    "집안의 모든 일에 참견하는 사교적인 반려묘를 원하는 가정"
+  ],
+  "good_for_en": [
+    "Owners who enjoy active play, training, and dynamic interaction",
+    "People who appreciate the wild, fox-like aesthetic of a longhair breed",
+    "Families seeking a social, 'busybody' cat involved in everything"
+  ],
+  "think_twice_if": [
+    "조용히 잠만 자는 인형 같은 고양이를 원하는 분",
+    "바빠서 매일 충분한 사냥 놀이와 활동량을 채워주기 어려운 경우",
+    "높은 곳에 올라가 물건을 건드리는 것을 참기 어려운 환경"
+  ],
+  "think_twice_if_en": [
+    "Owners seeking a quiet, sedentary lap cat",
+    "People with busy schedules unable to provide hours of daily exercise",
+    "Environments where climbing and exploring high surfaces is unwelcome"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 220,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 220,000원",
+    "monthly_care_cost_en": "Approx. $120 - $180"
   },
   "summary_en": "The Somali cat is a long-haired version of the Abyssinian, known for its fox-like appearance and bushy tail.",
   "summary_ko": "아비시니안의 영리함에 화려한 장식털을 더한 '여우 고양이'입니다. 여우처럼 풍성한 꼬리와 오묘한 틱 코트를 가진 소말리는 집안 어디서든 눈에 띄는 존재감을 발휘하는 지적인 동반자입니다.",
-  "appearance_en": "Medium-sized with a lithe, athletic body. They feature a long, silky, ticked coat and an exceptionally bushy tail. Their large ears and almond-shaped eyes give them a wild, alert look.",
-  "appearance_ko": "가늘고 긴 다리와 탄탄한 몸매를 가진 '세미 포린(Semi-foreign)' 체형입니다. 한 가닥의 털에 여러 색이 섞인 틱(Ticked) 코트가 장모로 나타나 여우와 같은 느낌을 주며, 특히 몸길이만큼 풍성한 꼬리가 가장 큰 특징입니다.",
-  "personality_en": "Intelligent, active, and highly social. Somalis are very people-oriented and love to be involved in all aspects of their owner's life. They are natural climbers and enjoy high places.",
-  "personality_ko": "지능이 매우 높고 에너지가 넘칩니다. 사람을 무척 좋아하여 집사의 모든 일에 참여하고 싶어 하는 '참견쟁이'입니다. 영리하여 문을 열거나 물건을 물어오는 등 개냥이 같은 면모를 자주 보여줍니다.",
-  "care_en": "Requires regular brushing to prevent tangles in their long, fine fur. As high-energy cats, they need plenty of space to climb and play. Mental stimulation is key to preventing boredom.",
-  "care_ko": "털이 매우 가늘어 잘 엉킬 수 있으므로 주 3회 이상의 정기적인 빗질이 필요합니다. 수직 공간을 매우 좋아하므로 높은 캣타워가 필수적이며, 똑똑한 두뇌를 자극할 수 있는 다양한 장난감을 제공해 주어야 합니다.",
+  "appearance_en": "Medium-sized with a lithe, athletic body. They feature a long, silky, ticked coat and an exceptionally bushy tail.",
+  "appearance_ko": "가늘고 긴 다리와 탄탄한 몸매를 가진 '세미 포린' 체형입니다. 한 가닥의 털에 여러 색이 섞인 틱(Ticked) 코트가 장모로 나타나 여우 같은 느낌을 주며, 풍성한 꼬리가 특징입니다.",
+  "personality_en": "Intelligent, active, and highly social. Somalis are people-oriented and love to be involved in all aspects of life.",
+  "personality_ko": "지능이 매우 높고 에너지가 넘칩니다. 사람을 무척 좋아하여 집사의 모든 일에 참여하고 싶어 하는 '참견쟁이'입니다. 영리하여 문을 열거나 물건을 물어오기도 합니다.",
+  "care_en": "Requires regular brushing to prevent tangles. They need plenty of space to climb and mental stimulation.",
+  "care_ko": "털 가림이 매우 가늘어 잘 엉킬 수 있으므로 주 3회 이상의 정기적인 빗질이 필요합니다. 수직 공간을 매우 좋아하므로 높은 캣타워가 필수적이며, 지능적인 두뇌 자극이 필요합니다.",
+  "health_notes_ko": "피루베이트 키나아제 결핍증(PKD)과 잇몸 질환에 대한 주의가 필요하며, 특히 영리한 두뇌를 가진 만큼 지루함으로 인한 행동 장애가 생기지 않도록 풍부한 환경을 조성해야 합니다.",
+  "health_notes_en": "Attention to Pyruvate Kinase Deficiency (PKD) and dental health is recommended. Their high intelligence necessitates environmental enrichment to prevent stress-related behavioral issues.",
   "known_risks": [
     {
       "name_en": "Pyruvate Kinase Deficiency (PKD)",
@@ -78,55 +116,90 @@
   "faq": [
     {
       "question_ko": "여우와 피가 섞였나요?",
-      "answer_ko": "아니요, 외모가 여우를 닮았을 뿐 순수한 고양이 품종입니다. 아비시니안에서 자연적으로 발생한 장모종을 품종화한 것입니다."
+      "answer_ko": "아니요, 외모가 여우를 닮았을 뿐 순수한 고양이 품종입니다. 아비시니안에서 자연적으로 발생한 장모종 유전자를 고정하여 탄생했습니다.",
+      "question_en": "Are they part fox?",
+      "answer_en": "No, it's just their appearance. They are a purebred cat breed developed from the naturally occurring longhair gene in Abyssinians."
     },
     {
       "question_ko": "산책이 가능한가요?",
-      "answer_ko": "네, 아비시니안 계열답게 호기심이 많고 대범하여 하네스 교육을 통해 산책을 즐기는 개체가 많습니다. 다만 항상 안전에 유의해야 합니다."
+      "answer_ko": "네, 아비시니안 계열답게 호기심이 많고 대범하여 하네스 교육을 통해 산책을 즐기는 개체가 많습니다. 다만 안전한 환경 확보가 최우선입니다.",
+      "question_en": "Can they go for walks?",
+      "answer_en": "Yes, many Somalis are bold enough to enjoy walks on a harness. However, safety and a secure environment should always be the priority."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "장모종 중에서는 속털이 적어 덜 엉키는 편이지만, 털 빠짐 자체는 적지 않습니다. 특히 꼬리의 풍성함을 유지하려면 주기적인 빗질이 필수입니다.",
+      "question_en": "Do they shed much?",
+      "answer_en": "They shed a moderate amount. While their silky coat is less prone to matting than other longhairs, they still require regular brushing to manage loose fur and maintain their tail's plume."
+    },
+    {
+      "question_ko": "물건을 잘 떨어뜨리나요?",
+      "answer_ko": "네, 매우 호기심이 많고 앞발 사용이 능숙하여 선반 위의 물건을 건드리거나 바닥으로 떨어뜨리는 장난을 좋아할 수 있습니다. 깨지기 쉬운 물건은 치워두는 것이 좋습니다.",
+      "question_en": "Do they knock things over?",
+      "answer_en": "Somalis are very curious and dexterous with their paws. They may explore high shelves and 'test' gravity by batting objects off, so keeping valuables secure is wise."
+    },
+    {
+      "question_ko": "혼자서도 잘 지내나요?",
+      "answer_ko": "사람의 동반을 매우 필요로 하는 품종입니다. 장시간 혼자 방치되면 지루함과 외로움을 느껴 가구 파손 등의 문제 행동을 보일 수 있으므로 동료 고양이가 있는 것이 좋습니다.",
+      "question_en": "Do they tolerate being alone?",
+      "answer_en": "They are people-oriented and crave involvement. Long periods of solitude can lead to boredom and destructive behavior. They thrive best in homes where they have company."
     }
   ],
   "visual_comparison_tip": "아비시니안과 무늬와 체형은 같지만, 털이 길고 특히 꼬리가 여우처럼 풍성한지를 확인하세요.",
+  "visual_comparison_tip_en": "Identical build and ticking to an Abyssinian, but with long fur and a distinctly bushy, fox-like tail.",
   "meta_tags": {
-    "title": "소말리 고양이 백과: 소말리 고양이 백과: 소말리 고양이 도감: 여우 닮은 외모, 성격, 털 관리 팁 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "여우 고양이 소말리의 모든 것. 아비시니안의 영리함과 장모종의 화려함을 겸비한 소말리의 실제 분양가와 활동량 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "소말리 고양이: 성격, 여우 닮은 외모, 관리 | nyan",
+    "title_en": "Somali Cat: Fox-like Looks & Care | nyan",
+    "description_ko": "여우 고양이 소말리의 모든 것. 아비시니안의 영리함과 장모종의 화려함을 겸비한 소말리의 실제 분양가와 활동량 관리법을 확인하세요.",
+    "description_en": "The fox of the feline world, the Somali. Abyssinian intelligence with longhair flair. Costs, energy levels, and care in museum-grade detail.",
+    "keywords_ko": [
       "소말리",
-      "소말리고양이",
       "여우고양이",
-      "장모종고양이",
+      "장모아비시니안",
+      "활발한고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Somali cat",
+      "fox-like cat",
+      "longhair Abyssinian",
+      "active cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/somali/somali_hero.webp",
-  "image_macro_path": "/images/Nyan/somali_macro.png",
   "image_fullbody_path": "/images/Nyan/somali/somali_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/somali/somali_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "피루베이트 키나아제 결핍증(PKD)과 잇몸 질환에 대한 주의가 필요합니다.",
-  "local_rarity_ko": "국내에서 아비시니안에 비해 상대적으로 희귀한 품종으로, 여우를 닮은 외모에 매료된 매니아 집사들에게 인기가 높습니다. 희소성 덕분에 분양가가 높은 편에 속합니다.",
-  "similar_breed_ids": [
-    "abyssinian",
-    "maine-coon",
-    "turkish-angora"
-  ],
   "image_fullbody_side_path": "/images/Nyan/somali/somali_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/somali/somali_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/somali/somali_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/somali/somali_coat_texture.webp",
   "image_variant_path": "/images/Nyan/somali/somali_variant_full_body.webp",
-  "origin_history_ko": "소말리 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "소말리의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "abyssinian",
+    "maine-coon",
+    "turkish-angora"
+  ],
+  "origin_history_ko": "아비시니안의 장모종 버전으로, 20세기 중반 미국 브리더들에 의해 독자적인 품종으로 확립되었습니다. 이름은 아비시니아(현재의 에티오피아)의 이웃 국가인 소말리아에서 유래했습니다.",
+  "origin_history_en": "The long-haired version of the Abyssinian, established as a distinct breed in the mid-20th century by US breeders. Named after Somalia, the neighbor of Ethiopia (Abyssinia).",
+  "grooming_tips_ko": "실크 같은 털은 잘 엉키지 않지만, 꼬리의 풍성함을 유지하고 죽은 털을 제거하기 위해 주 3회 빗질이 권장됩니다. 지능이 높으므로 목욕 후 보상을 주는 긍정 강화 교육이 효과적입니다.",
+  "grooming_tips_en": "While their silky coat resists matting, brushing 3 times a week maintains the tail's fullness. Their high intelligence makes them receptive to positive reinforcement during grooming.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "천장 고정식 고단 캣폴",
+      "item_name_en": "High Ceiling-to-Floor Cat Pole",
+      "reason_ko": "엄청난 점프력과 높은 곳을 좋아하는 본능을 안전하게 해소해 주는 필수 공간",
+      "reason_en": "Safely accommodates their incredible jumping ability and instinctive need for high vantage points"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "지능형 사냥 장난감 (자동)",
+      "item_name_en": "Interactive Smart Hunting Toy",
+      "reason_ko": "집사가 없을 때도 영리한 소말리의 지적 호기심과 에너지를 소모시켜 줌",
+      "reason_en": "Engages their high intelligence and exhausts excess energy when the owner is away"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -140,9 +213,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "소말리",
+    "name": "Somali",
     "taxonRank": "Breed",
-    "description": "소말리 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Somali cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 소말리 고양이의 전신 모습",
@@ -153,5 +226,17 @@
     "eye_macro": "소말리 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "소말리 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "소말리 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Somali cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the wild, alert eyes and large ears of a Somali",
+    "full_body_front": "Front view of a Somali showing its lithe and athletic build",
+    "full_body_side": "Lateral full body photo showcasing the exceptionally bushy tail and ticked coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the almond-shaped eyes and iris patterns of a Somali cat",
+    "coat_texture": "Macro photo of the fine, silky, and ticked longhair coat",
+    "variant_full_body": "Full body view showing various color variants (Ruddy, Red, etc.) of the Somali"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

@@ -43,26 +43,58 @@
     "집사에 대한 충성심과 애착이 매우 강해 정서적으로 깊은 유대감을 형성할 수 있음",
     "단모종에 속털이 없어 털 빠짐이 적고 관리가 매우 쉬우며 영리한 두뇌를 가짐"
   ],
+  "pros_en": [
+    "A legendary symbol of luck in Thailand with stunning silver-blue fur and a heart-shaped face",
+    "Intensely loyal and affectionate; forms a profound emotional bond with their owner",
+    "Low-shedding single coat makes grooming effortless; exceptionally intelligent and perceptive"
+  ],
   "cons": [
     "소음이나 갑작스러운 변화에 매우 예민하여 조용하고 안정적인 환경이 필수적임",
     "집사의 관심을 독점하려는 경향이 있어 다묘 가정에서는 질투심을 보일 수 있음",
     "국내외적으로 개체 수가 매우 적어 순종 코랏을 만나기가 매우 어려운 희귀 품종임"
   ],
+  "cons_en": [
+    "Highly sensitive to noise and sudden changes; requires a calm and stable home",
+    "Can be possessive of owner attention, potentially showing jealousy in multi-pet homes",
+    "Extremely rare globally, making it difficult to find authentic pedigree Korats"
+  ],
+  "good_for": [
+    "조용하고 평화로운 환경에서 고양이와 일대일로 깊게 교감하고 싶은 분",
+    "러시안 블루와 비슷하지만 더 희귀하고 독특한 하트 모양 외모를 선호하는 분",
+    "행운과 번영의 의미를 담은 신비로운 반려묘를 찾는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking a deep, one-on-one emotional connection in a quiet home",
+    "People who prefer rare breeds with unique aesthetics like the heart-shaped face",
+    "Those looking for a mystical companion symbolizing luck and prosperity"
+  ],
+  "think_twice_if": [
+    "어린아이들이나 활동적인 다른 반려동물로 인해 집안이 항상 시끄러운 경우",
+    "고양이가 혼자 있는 시간이 많아 관심을 충분히 주지 못하는 환경",
+    "큰 소리나 진동이 잦은 번화가에 거주하여 고양이가 스트레스를 받을 수 있는 경우"
+  ],
+  "think_twice_if_en": [
+    "Loud or chaotic households with very young children or high-energy pets",
+    "Busy owners who cannot provide the constant attention and presence this breed craves",
+    "Homes near busy streets or sources of frequent loud noise and vibration"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,000,000원 이상 (희귀 품종)",
-    "monthly_care_cost": "약 110,000원 - 170,000원"
+    "price_range_en": "$2,000 - $4,000+ (Rare breed standard)",
+    "monthly_care_cost": "약 110,000원 - 170,000원",
+    "monthly_care_cost_en": "Approx. $80 - $130"
   },
-  "summary_en": "The Korat is a silver-blue-colored cat breed that originated in Thailand. It is a symbol of good luck and prosperity in its native country.",
-  "summary_ko": "태국에서 결혼 선물로 주어질 만큼 귀한 '행운의 메신저'입니다. 얼굴 전체가 사랑스러운 하트 모양을 띠고 있으며, 은빛 광택이 흐르는 푸른 털과 보석 같은 초록색 눈을 가진 신비로운 고양이입니다.",
-  "appearance_en": "Medium-sized with a muscular, semi-cobby body. They are famous for their silver-blue coat with silver-tipped hairs and their unique heart-shaped head. Their large eyes turn from amber to luminous green as they mature.",
-  "appearance_ko": "근육이 잘 발달한 '세미 코비(Semi-cobby)' 체형으로 작지만 단단한 느낌을 줍니다. 이마, 눈썹, 턱 라인이 모두 하트 모양을 그리는 독특한 얼굴형이 상징입니다. 털은 짧고 속털이 없으며, 털끝에 은빛이 돌아 움직일 때마다 빛이 납니다. 눈 색깔은 성묘가 되면 선명한 에메랄드 그린으로 변합니다.",
-  "personality_en": "Deeply affectionate, loyal, and social with their families. They have keen senses and prefer quiet environments. They are very intelligent and can be quite possessive of their owners.",
-  "personality_ko": "가족에 대한 사랑이 매우 깊고 충직합니다. 집사를 졸졸 따라다니며 교감하는 것을 좋아하지만, 예민한 감각을 가지고 있어 시끄러운 환경보다는 조용한 교감을 선호합니다. 영리하여 상황 판단이 빠르고 집사의 기분을 잘 살피는 섬세한 성격입니다.",
-  "care_en": "Minimal grooming is needed due to their single coat. They thrive in calm environments and require plenty of interaction. They are known for their exceptional hearing and sense of smell.",
-  "care_ko": "털 관리는 매우 쉽지만, 소음에 예민하므로 큰 소리가 나는 가전제품이나 복잡한 환경은 피하는 것이 좋습니다. 집사와의 긴밀한 유대감을 원하므로 매일 규칙적인 놀이와 대화 시간을 갖는 것이 정서 안정에 큰 도움이 됩니다.",
+  "summary_en": "The Korat is a silver-blue-colored cat breed that originated in Thailand. It is a symbol of good luck and prosperity.",
+  "summary_ko": "태국에서 결혼 선물로 주어질 만큼 귀한 '행운의 메신저'입니다. 얼굴 전체가 사랑스러운 하트 모양을 띠고 있으며, 은빛 광택이 흐르는 푸른 털과 보석 같은 초록색 눈을 가진 고양이입니다.",
+  "appearance_en": "Muscular body with a heart-shaped head and luminous green eyes. Their coat is a single layer of silver-blue fur.",
+  "appearance_ko": "작지만 단단한 '세미 코비' 체형입니다. 이마, 눈썹, 턱 라인이 모두 하트 모양을 그리는 독특한 얼굴형이 상징입니다. 털은 짧고 속털이 없으며, 털끝에 은빛이 돌아 움직일 때마다 빛이 납니다.",
+  "personality_en": "Deeply affectionate, loyal, and sensitive. They have keen senses and prefer quiet, stable environments.",
+  "personality_ko": "가족에 대한 사랑이 매우 깊고 충직합니다. 집사를 졸졸 따라다니며 교감하는 것을 좋아하지만, 예민한 감각을 가지고 있어 조용한 분위기를 선호합니다.",
+  "care_en": "Minimal grooming is needed due to their single coat. They thrive in calm environments with plenty of interaction.",
+  "care_ko": "털 관리는 매우 쉽습니다. 하지만 소음에 예민하므로 조용한 환경 조성이 중요하며, 집사와의 유대감을 위해 매일 규칙적인 대화 시간을 갖는 것이 좋습니다.",
   "known_risks": [
     {
-      "name_en": "Gangliosidosis",
+      "name_en": "Gangliosidosis (GM1/GM2)",
       "name_ko": "강글리오시드증",
       "severity_note": "Moderate to High"
     },
@@ -75,23 +107,36 @@
   "faq": [
     {
       "question_ko": "러시안 블루와 어떻게 다른가요?",
-      "answer_ko": "가장 큰 차이는 얼굴형입니다. 러블은 쐐기형 얼굴인 반면 코랏은 하트 모양입니다. 또한 코랏은 속털이 없는 싱글 코트라 털이 몸에 더 밀착되어 있습니다."
+      "answer_ko": "가장 큰 차이는 얼굴형입니다. 러블은 쐐기형 얼굴인 반면 코랏은 하트 모양입니다. 또한 코랏은 속털이 없는 싱글 코트라 털이 몸에 더 밀착되어 있습니다.",
+      "question_en": "How are they different from Russian Blues?",
+      "answer_en": "The face shape is key; Russian Blues have a wedge-shaped head while Korats have a heart-shaped one. Korats also have a single-layer coat that lies closer to the body."
     },
     {
       "question_ko": "행운을 정말 가져다주나요?",
-      "answer_ko": "태국 전통에 따르면 코랏은 번영과 행복을 상징합니다. 특히 농부들에게는 비를 부르는 영물로, 신혼부부에게는 행복한 가정을 부르는 행운의 상징으로 여겨졌습니다."
+      "answer_ko": "태국 전통에 따르면 코랏은 번영과 행복을 상징합니다. 비를 부르는 영물로 여겨지기도 했으며, 신혼부부에게 선물하는 전통이 있을 정도로 귀한 대접을 받습니다.",
+      "question_en": "Do they really bring luck?",
+      "answer_en": "In Thai tradition, the Korat (Si-Sawat) symbolizes prosperity. They were historically gifted to newlyweds to ensure a happy, wealthy home and were once used in rainmaking ceremonies."
     }
   ],
-  "visual_comparison_tip": "러시안 블루와 비슷해 보이지만, 코랏은 얼굴이 하트 모양이고 눈 색깔이 반드시 '에메랄드 그린'인지 확인하세요.",
+  "visual_comparison_tip": "얼굴이 하트 모양이고 눈 색깔이 반드시 '에메랄드 그린'인지 확인하세요. 러시안 블루보다 몸집이 조금 더 작고 단단합니다.",
+  "visual_comparison_tip_en": "Look for a heart-shaped face and luminous emerald green eyes. They are slightly smaller and more compact than Russian Blues.",
   "meta_tags": {
-    "title": "코랏 고양이 백과: 코랏 고양이 백과: 코랏 도감: 성격, 하트 모양 얼굴, 태국의 행운 고양이 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "태국의 보물, 코랏의 모든 것. 은청색 실크 코트와 에메랄드 눈, 실제 분양가와 예민한 성격 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "코랏 고양이: 성격, 하트 얼굴의 비밀, 행운 | nyan",
+    "title_en": "Korat Cat: The 'Heart' Face & Care | nyan",
+    "description_ko": "태국의 보물, 코랏의 모든 것. 은청색 실크 코트와 에메랄드 눈, 실제 분양가와 예민한 성격 관리법을 확인하세요.",
+    "description_en": "The silver-blue good luck charm of Thailand, the Korat. Discover their heart-shaped face, emerald eyes, and sensitive nature in museum-grade detail.",
+    "keywords_ko": [
       "코랏",
+      "행운의고양이",
+      "하트모양고양이",
       "태국고양이",
-      "은청색고양이",
-      "하트얼굴고양이",
-      "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Korat cat",
+      "Si-Sawat",
+      "lucky cat",
+      "heart face cat",
       "nyan"
     ]
   },
@@ -99,32 +144,40 @@
   "image_macro_path": "/images/Nyan/korat_macro.png",
   "image_fullbody_path": "/images/Nyan/korat/korat_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/korat/korat_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "매우 드물게 강글리오시드증(GM1/GM2)이라는 유전병이 나타날 수 있으므로 브리더를 통한 확인이 필요합니다.",
-  "local_rarity_ko": "국내에서 거의 찾아보기 힘든 희귀 품종입니다. 러시안 블루와 혼동되는 경우가 많지만, 하트 모양의 얼굴과 눈 색깔의 차이를 아는 매니아들에게는 최고의 보물로 여겨집니다.",
-  "similar_breed_ids": [
-    "russian-blue",
-    "chartreux",
-    "british-shorthair"
-  ],
   "image_fullbody_side_path": "/images/Nyan/korat/korat_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/korat/korat_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/korat/korat_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/korat/korat_coat_texture.webp",
   "image_variant_path": "/images/Nyan/korat/korat_variant_full_body.webp",
-  "origin_history_ko": "코랏 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "코랏의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "드물게 강글리오시드증(GM1/GM2) 유전병이 나타날 수 있으며, 지방층이 얇아 마취에 민감하므로 수술 시 주의가 필요합니다.",
+  "health_notes_en": "Genetic screening for Gangliosidosis is vital. They are also known for anesthesia sensitivity due to low body fat.",
+  "local_rarity_ko": "국내에서 거의 찾아보기 힘든 매우 희귀한 품종입니다. 정식 캐터리를 통해서만 만날 수 있는 고귀한 품종입니다.",
+  "similar_breed_ids": [
+    "russian-blue",
+    "chartreux",
+    "british-shorthair"
+  ],
+  "origin_history_ko": "14세기 태국의 '고양이 시집(Tamra Maew)'에도 기록된 아주 오래된 품종입니다. 태국 북서부 코랏 지방에서 유래했으며, 태국인들은 이 고양이를 '시사왓(Si-Sawat)'이라 부르며 행운의 상징으로 귀하게 여겼습니다.",
+  "origin_history_en": "Documented in the Thai 'Cat-Book Poems' (Tamra Maew) dating back to the 14th century. Originating from the Korat province, they are traditionally known as 'Si-Sawat' and valued as living talismans of prosperity.",
+  "grooming_tips_ko": "속털이 없는 싱글 코트라 털 빠짐이 매우 적어 주 1회 가벼운 빗질만으로도 충분합니다. 다만 피부가 예민할 수 있으므로 부드러운 브러시를 사용해 주시고, 예민한 청력을 보호하기 위해 조용한 환경에서 빗질해 주세요.",
+  "grooming_tips_en": "The single coat is low-shedding and only needs weekly brushing. Use a soft brush for their sensitive skin and maintain a quiet atmosphere to keep their sensitive hearing at ease.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급형 무소음 정수기",
+      "item_name_en": "Ultra-Quiet Ceramic Fountain",
+      "reason_ko": "작은 소음에도 예민하게 반응하는 코랏이 스트레스 없이 충분한 수분을 섭취하도록 유도",
+      "reason_en": "Ensures hydration without triggering stress in a breed highly sensitive to mechanical noise"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "프리미엄 펠트 숨바꼭질 하우스",
+      "item_name_en": "Premium Felt Hideaway Cave",
+      "reason_ko": "안정감을 중시하는 코랏이 소음으로부터 자신을 보호하고 쉴 수 있는 아늑한 은신처",
+      "reason_en": "Provides a secure, sound-dampening retreat for a cat that values peace and stability"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +191,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "코랏",
+    "name": "Korat",
     "taxonRank": "Breed",
-    "description": "코랏 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Korat cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 코랏 고양이의 전신 모습",
@@ -151,5 +204,15 @@
     "eye_macro": "코랏 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "코랏 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "코랏 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Korat cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the heart-shaped head and emerald eyes of a Korat",
+    "full_body_front": "Front view of a Korat showing its sturdy and muscular semi-cobby build",
+    "full_body_side": "Lateral full body photo showcasing the silver-blue coat with silver tipping",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the luminous green eyes and iris patterns of a Korat cat",
+    "coat_texture": "Macro photo of the fine, silky, silver-blue single coat",
+    "variant_full_body": "Full body view showing the classic silver-blue appearance of the Korat"
   }
 }

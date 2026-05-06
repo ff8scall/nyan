@@ -46,23 +46,55 @@
     "매우 똑똑하며 문을 열거나 물건을 가져오는 훈련이 가능함",
     "다른 반려동물 및 아이들과의 친화력이 뛰어남"
   ],
+  "pros_en": [
+    "Exceptionally loyal and devoted to owners, often described as 'dog-like'",
+    "Highly intelligent and capable of learning tricks like opening doors or fetching",
+    "Excellent compatibility with children and other pets, including dogs"
+  ],
   "cons": [
     "유전적인 척추 문제(맨크스 증후군)에 대한 주의가 필요함",
     "점프력이 매우 좋아 높은 곳에 물건을 두기 어려움",
     "속털이 빽빽하여 털 빠짐이 적지 않음"
   ],
+  "cons_en": [
+    "Genetic predisposition to spinal issues (Manx Syndrome) requires vigilant care",
+    "Incredible jumping power makes it hard to keep items safe on high surfaces",
+    "Dense double coat results in significant shedding and needs regular attention"
+  ],
+  "good_for": [
+    "꼬리가 없는 독특한 외형과 토끼 같은 걸음걸이를 사랑하는 분",
+    "강아지 같은 충성심을 가진 고양이를 찾는 가정",
+    "아이들이나 다른 강아지가 있어 사교적인 고양이가 필요한 환경"
+  ],
+  "good_for_en": [
+    "Owners who appreciate their unique tailless look and rabbit-like gait",
+    "Families seeking a loyal and dog-like feline companion",
+    "Lively households with children or dogs where a social cat is essential"
+  ],
+  "think_twice_if": [
+    "유전병(맨크스 증후군) 케어에 대한 경제적, 심리적 부담이 큰 경우",
+    "매일 빽빽한 이중모를 빗겨주고 청소하기 어려운 분",
+    "고양이가 높은 곳에 올라가는 것을 제한해야 하는 환경"
+  ],
+  "think_twice_if_en": [
+    "Owners concerned about the potential medical costs of Manx-related spinal issues",
+    "People unable to commit to frequent grooming of a dense double coat",
+    "Environments where high-surface climbing must be strictly limited"
+  ],
   "economics": {
     "price_range_ko": "2,500,000원 - 5,000,000원 (국내 매우 희귀)",
-    "monthly_care_cost": "약 120,000원 - 200,000원"
+    "price_range_en": "$1,500 - $4,000 (US standard; rare in Korea)",
+    "monthly_care_cost": "약 120,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
   "summary_en": "The Manx is an ancient breed known for its lack of a tail and its dog-like devotion to its owners.",
   "summary_ko": "영국 맨 섬에서 온 '꼬리 없는 행운아'로, 강아지 같은 충성심과 토끼 같은 걸음걸이를 가진 사랑스러운 고양이입니다.",
-  "appearance_en": "Taillessness is the most distinguishing feature. They have a round head, round eyes, and a sturdy, compact body with hind legs longer than front legs, creating a hopping gait.",
-  "appearance_ko": "꼬리가 없는 것이 가장 큰 특징이며, 둥근 얼굴과 둥근 눈을 가졌습니다. 뒷다리가 앞다리보다 길어 마치 토끼처럼 깡충거리며 걷는 듯한 독특한 실루엣을 보입니다.",
-  "personality_en": "Playful, intelligent, and very loyal. They often follow their owners from room to room like a puppy.",
-  "personality_ko": "장난기 가득하고 영리하며, 주인을 방마다 졸졸 따라다니는 '개냥이' 성격을 가졌습니다. 가족 구성원 모두와 깊은 유대감을 형성하는 것을 좋아합니다.",
-  "care_en": "Regular brushing is needed for their dense coat. Watch their weight as they can easily become overweight.",
-  "care_ko": "이중묘를 가지고 있어 죽은 털 제거를 위한 주 2~3회 빗질이 중요합니다. 골격이 튼튼하지만 비만이 되면 척추에 무리가 갈 수 있으므로 체중 관리에 신경 써야 합니다.",
+  "appearance_en": "Taillessness is the most distinguishing feature. They have a round build and hind legs longer than front legs.",
+  "appearance_ko": "꼬리가 없는 것이 상징이며, 둥근 얼굴과 둥근 몸매를 가졌습니다. 뒷다리가 앞다리보다 길어 마치 토끼처럼 깡충거리며 걷는 듯한 독특한 실루엣을 보입니다.",
+  "personality_en": "Playful, intelligent, and very loyal. They often follow their owners like a puppy.",
+  "personality_ko": "장난기 가득하고 영리하며, 주인을 방마다 졸졸 따라다니는 '개냥이' 성격을 가졌습니다. 가족 모두와 깊은 유대감을 형성하는 사교적인 품종입니다.",
+  "care_en": "Regular brushing is needed for their dense double coat. Weight management is crucial.",
+  "care_ko": "빽빽한 이중모라 죽은 털 제거를 위한 주 2~3회 빗질이 중요합니다. 골격이 튼튼하지만 비만이 되면 척추에 무리가 갈 수 있으므로 체중 관리에 신경 써야 합니다.",
   "known_risks": [
     {
       "name_en": "Manx Syndrome",
@@ -78,34 +110,77 @@
   "faq": [
     {
       "question_ko": "정말 꼬리가 아예 없나요?",
-      "answer_ko": "완전히 없는 '럼피(Rumpy)'부터 짧은 꼬리가 있는 경우까지 다양하지만, 도감용으로는 럼피 개체가 가장 전형적입니다."
+      "answer_ko": "완전히 없는 '럼피(Rumpy)'부터 짧은 꼬리가 있는 경우까지 다양하지만, 전형적인 맨크스는 꼬리 대신 움푹 들어간 홈이 있는 럼피 개체를 말합니다.",
+      "question_en": "Are they completely tailless?",
+      "answer_en": "They range from 'Rumpy' (no tail) to 'Stumpy' (short tail). The 'Rumpy' is the most prized for show standards and lacks a tail entirely."
     },
     {
       "question_ko": "맨크스 증후군이 무엇인가요?",
-      "answer_ko": "꼬리가 없는 유전자가 척추 전체에 영향을 주어 발생하는 신경계 질환으로, 전문 캐터리를 통한 건강 확인이 필수입니다."
+      "answer_ko": "꼬리가 없는 유전자가 척추 전체에 영향을 주어 발생하는 신경계 질환입니다. 척추가 너무 짧아져 배변 조절 등에 문제가 생길 수 있으므로 전문 캐터리 확인이 필수입니다.",
+      "question_en": "What is Manx Syndrome?",
+      "answer_en": "A condition where the tailless gene causes the spine to shorten too much, leading to neurological issues. Always source from breeders who screen for this."
     }
   ],
+  "visual_comparison_tip": "꼬리가 아예 없는지 확인하고, 옆에서 봤을 때 엉덩이가 머리보다 높고 뒷다리가 튼튼한지 확인하세요.",
+  "visual_comparison_tip_en": "Look for total taillessness and a 'hopping' gait caused by hind legs being longer than front legs.",
+  "meta_tags": {
+    "title_ko": "맨크스 고양이: 성격, 꼬리 없는 비밀, 건강 | nyan",
+    "title_en": "Manx Cat: Taillessness & Health | nyan",
+    "description_ko": "영국 맨 섬의 행운아 맨크스의 모든 것. 꼬리 없는 독특한 외모와 강아지 같은 성격, 실제 분양가와 유전병 관리법을 확인하세요.",
+    "description_en": "The tailless wonder from the Isle of Man, the Manx. Discover their 'hopping' gait, loyal nature, costs, and health tips in museum-grade detail.",
+    "keywords_ko": [
+      "맨크스",
+      "꼬리없는고양이",
+      "맹크스",
+      "강아지같은고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Manx cat",
+      "tailless cat",
+      "Isle of Man cat",
+      "loyal cat",
+      "nyan"
+    ]
+  },
   "image_master_path": "/images/Nyan/manx/manx_hero.webp",
-  "image_frontal_path": "/images/Nyan/manx/manx_face_portrait.webp",
+  "image_macro_path": "/images/Nyan/manx_macro.png",
   "image_fullbody_path": "/images/Nyan/manx/manx_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/manx/manx_face_portrait.webp",
   "image_fullbody_side_path": "/images/Nyan/manx/manx_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/manx/manx_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/manx/manx_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/manx/manx_coat_texture.webp",
   "image_variant_path": "/images/Nyan/manx/manx_variant_full_body.webp",
-  "origin_history_ko": "맨크스 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "맨크스의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "맨크스 증후군과 척추 관련 질환에 대한 정기적인 모니터링이 필수적입니다.",
+  "health_notes_en": "Regular monitoring for Manx Syndrome and spinal health is essential for this breed.",
+  "local_rarity_ko": "국내에서는 매우 희귀한 품종으로, 전문 캐터리가 거의 없어 해외 입양을 고려해야 할 만큼 만나기 어려운 품종입니다.",
+  "similar_breed_ids": [
+    "japanese-bobtail",
+    "british-shorthair",
+    "cymric"
+  ],
+  "origin_history_ko": "영국 본토와 아일랜드 사이의 맨 섬(Isle of Man)에서 수 세기 동안 고립되어 발달한 자연 발생 품종입니다. 꼬리 없는 유전자가 섬 내에서 고착화되어 탄생한 신비로운 역사를 가지고 있습니다.",
+  "origin_history_en": "A natural breed that developed in isolation on the Isle of Man. The tailless trait became fixed within the island's cat population over hundreds of years.",
+  "grooming_tips_ko": "빽빽한 이중모를 가지고 있어 속털 관리가 중요합니다. 주 2~3회 슬리커 브러시를 사용하여 죽은 털을 제거해 주세요. 꼬리가 있어야 할 부분의 신경이 예민할 수 있으므로 만질 때 주의가 필요합니다.",
+  "grooming_tips_en": "The dense double coat requires focus on the undercoat. Use a slicker brush 2-3 times a week. Be gentle near the tail area, as the nerve endings can be sensitive.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고강도 원목 스텝 (계단)",
+      "item_name_en": "Heavy-Duty Wooden Pet Steps",
+      "reason_ko": "점프력이 좋지만 척추에 무리가 갈 수 있는 맨크스의 관절과 척추 건강을 보호하기 위함",
+      "reason_en": "Protects the spine and joints of a breed that loves to jump but is prone to spinal issues"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "체중 조절용 다이어트 사료",
+      "item_name_en": "Weight Management Formula",
+      "reason_ko": "비만이 될 경우 척추 질환(맨크스 증후군) 위험이 급격히 높아지므로 철저한 체중 관리 필수",
+      "reason_en": "Crucial for preventing obesity, which can exacerbate genetic spinal complications"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -119,18 +194,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "맨크스",
+    "name": "Manx",
     "taxonRank": "Breed",
-    "description": "맨크스 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Manx cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 맨크스 고양이의 전신 모습",
     "face_portrait": "맨크스 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
     "full_body_front": "맨크스 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "맨크스 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "맨크스 고양이의 꼬리 없는 실루엣과 높은 엉덩이를 확인할 수 있는 측면 전신 사진",
     "strict_profile": "맨크스 품종 표준을 보여주는 완벽한 측면 두상 프로필",
     "eye_macro": "맨크스 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "맨크스 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "coat_texture": "맨크스 고양이의 빽빽한 이중모 질감을 보여주는 초근접 사진",
     "variant_full_body": "맨크스 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Manx cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the round facial features of a Manx",
+    "full_body_front": "Front view of a Manx showing its sturdy and compact build",
+    "full_body_side": "Lateral full body photo showcasing the complete lack of a tail and high hindquarters",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the round eyes and iris patterns of a Manx cat",
+    "coat_texture": "Macro photo of the dense double coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Manx cat"
   }
 }

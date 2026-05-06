@@ -24,7 +24,7 @@
     "mi-ke"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
   "grooming_level": 2,
@@ -49,23 +49,55 @@
     "지능이 매우 높고 사교적이라 집사와 '대화'를 나누거나 물건을 물어오는 놀이를 좋아함",
     "속털이 거의 없어 털 빠짐과 엉킴이 적으며 관리가 매우 쉬운 건강한 품종임"
   ],
+  "pros_en": [
+    "Adorable rabbit-like tail and unique history as the model for 'Maneki-neko'",
+    "Highly intelligent and social; enjoys 'talking' to owners and playing fetch",
+    "Low-maintenance coat with minimal shedding and tangling due to lack of an undercoat"
+  ],
   "cons": [
     "활동량이 매우 많아 집사에게 끊임없이 상호작용과 놀이를 요구함",
     "목소리가 매우 다양하고 수다스러운 편이라 조용한 환경을 원하는 집사에게는 부적합함",
     "꼬리 모양이 개체마다 다르지만 기형이 아닌 품종 특성이므로 이에 대한 이해가 필요함"
   ],
+  "cons_en": [
+    "Very high energy levels require constant interaction and enrichment",
+    "Extremely vocal and 'talkative'; may not suit owners seeking a quiet home",
+    "Each tail is unique; its unusual shape is a breed trait, not a deformity"
+  ],
+  "good_for": [
+    "고양이와 적극적으로 소통하고 다양한 지능 놀이를 즐기고 싶은 분",
+    "행운의 상징인 마네키네코의 역사와 전통을 사랑하는 분",
+    "아이들이나 다른 반려동물이 많은 활기찬 가정"
+  ],
+  "good_for_en": [
+    "Owners who want an interactive cat for communication and brain games",
+    "Fans of Japanese culture and the legend of the 'Lucky Cat'",
+    "Active households with children or multiple pets"
+  ],
+  "think_twice_if": [
+    "조용하고 가만히 있는 인형 같은 고양이를 원하는 분",
+    "수다스러운 울음소리에 예민한 주거 환경이나 성격",
+    "꼬리가 짧은 것에 대해 신체적 결함으로 오해할 수 있는 경우"
+  ],
+  "think_twice_if_en": [
+    "Owners looking for a quiet, low-energy lap cat",
+    "People living in thin-walled apartments or those sensitive to vocal cats",
+    "Those who might perceive the bobbed tail as a defect rather than a trait"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 110,000원 - 170,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 110,000원 - 170,000원",
+    "monthly_care_cost_en": "Approx. $90 - $140"
   },
-  "summary_en": "The Japanese Bobtail is a breed of domestic cat with an unusual bobtail more closely resembling the tail of a rabbit than that of other cats.",
+  "summary_en": "The Japanese Bobtail is a breed of domestic cat with an unusual bobtail more closely resembling the tail of a rabbit.",
   "summary_ko": "행운의 상징 '마네키네코'의 실제 주인공입니다. 토끼를 닮은 짧은 꼬리가 상징이며, 수천 년 동안 일본에서 사랑받아온 영물입니다. 지능이 매우 높고 사람을 좋아하여 가족의 일원이 되는 것을 진심으로 즐기는 고양이입니다.",
-  "appearance_en": "Medium-sized with a lean, semi-foreign body. Their most striking feature is their bobbed tail, which is unique to each cat. They have triangular heads, high cheekbones, and large, alert ears.",
-  "appearance_ko": "날씬하고 우아한 '세미 포린(Semi-foreign)' 체형을 가졌습니다. 얼굴형은 전형적인 정삼각형에 가까우며 높은 광대뼈와 크고 뾰족한 귀가 영리한 인상을 줍니다. 가장 큰 특징인 꼬리는 보통 5~7cm 정도로, 개체마다 말린 모양과 털의 방향이 제각각인 세상에 하나뿐인 훈장입니다.",
-  "personality_en": "Highly active, intelligent, and social. They are known for being very vocal with a wide range of tones, often described as 'singing' to their owners. They enjoy fetching and interactive play.",
-  "personality_ko": "매우 영리하고 사교적입니다. 집사와 '대화'하는 것을 좋아하여 노래하는 듯한 다양한 목소리를 내며, 물건을 물어오거나 숨바꼭질을 즐기는 등 지능적인 놀이에서 큰 즐거움을 느낍니다. 낯선 사람과도 금방 친해지는 외향적인 성격입니다.",
-  "care_en": "Requires minimal grooming due to their single coat, which lacks an undercoat. They need significant mental and physical stimulation and love to be involved in household activities.",
-  "care_ko": "속털이 없어 털 엉킴이 거의 없고 관리가 매우 쉽습니다. 주 1~2회 빗질로도 충분합니다. 하지만 에너지가 넘치고 지능이 높으므로, 지루함을 느끼지 않도록 다양한 장난감과 집사의 적극적인 관심이 필요합니다.",
+  "appearance_en": "Medium-sized with a lean body. Their most striking feature is their bobbed tail, which is unique to each cat like a fingerprint.",
+  "appearance_ko": "날씬하고 우아한 '세미 포린' 체형을 가졌습니다. 정삼각형 얼굴형과 높은 광대뼈가 영리한 인상을 줍니다. 꼬리는 보통 5~7cm 정도로, 개체마다 말린 모양과 털의 방향이 제각각인 세상에 하나뿐인 훈장입니다.",
+  "personality_en": "Highly active, intelligent, and social. They are vocal with a wide range of tones and enjoy fetching.",
+  "personality_ko": "매우 영리하고 사교적입니다. 집사와 '대화'하는 것을 좋아하여 노래하는 듯한 다양한 목소리를 내며, 물건을 물어오거나 숨바꼭질을 즐기는 등 지능적인 놀이에서 큰 즐거움을 느낍니다.",
+  "care_en": "Requires minimal grooming due to their single coat. They need significant mental and physical stimulation.",
+  "care_ko": "속털이 없어 털 엉킴이 거의 없고 관리가 매우 쉽습니다. 주 1~2회 빗질로도 충분합니다. 하지만 에너지가 넘치고 지능이 높으므로, 적극적인 놀이와 관심이 필수적입니다.",
   "known_risks": [
     {
       "name_en": "Tail spinal issues",
@@ -81,23 +113,36 @@
   "faq": [
     {
       "question_ko": "꼬리가 잘린 건가요?",
-      "answer_ko": "아니요, 유전적으로 타고난 자연스러운 꼬리입니다. 밥테일(Bobtail)은 '짧게 잘린 듯한 꼬리'라는 뜻이지만, 실제로는 인위적인 수술 없이 태어날 때부터 짧은 꼬리를 가집니다."
+      "answer_ko": "아니요, 유전적으로 타고난 자연스러운 꼬리입니다. 실제로는 인위적인 수술 없이 태어날 때부터 짧은 꼬리를 가집니다.",
+      "question_en": "Is their tail docked?",
+      "answer_en": "No, it's a natural genetic mutation. They are born with their short, bobbed tails without any surgical intervention."
     },
     {
       "question_ko": "마네키네코랑 정말 똑같나요?",
-      "answer_ko": "네, 앞발을 들고 복을 부르는 '마네키네코' 인형은 재패니즈 밥테일 중에서도 '미케(삼색)' 무늬를 모델로 만들어졌습니다."
+      "answer_ko": "네, 앞발을 들고 복을 부르는 '마네키네코' 인형은 재패니즈 밥테일 중에서도 '미케(삼색)' 무늬를 모델로 만들어졌습니다.",
+      "question_en": "Is this the real 'Maneki-neko'?",
+      "answer_en": "Yes, the traditional lucky cat figurine is modeled after the Mi-Ke (calico) variant of the Japanese Bobtail."
     }
   ],
-  "visual_comparison_tip": "맹크스와 달리 꼬리가 아예 없는 것이 아니라, 5~7cm 정도의 짧은 털 뭉치(Pom-pom) 형태인지 확인하세요.",
+  "visual_comparison_tip": "맹크스와 달리 꼬리가 아예 없는 것이 아니라, 5~7cm 정도의 짧은 털 뭉치 형태인지 확인하세요.",
+  "visual_comparison_tip_en": "Unlike the Manx, they have a short 5-7cm 'pom-pom' tail rather than being completely tailless.",
   "meta_tags": {
-    "title": "재패니즈 밥테일 고양이 백과: 재패니즈 밥테일 고양이 백과: 재패니즈 밥테일 도감: 성격, 짧은 꼬리의 비밀, 마네키네코 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "복을 부르는 고양이, 재패니즈 밥테일의 모든 것. 짧은 꼬리의 매력과 영리한 지능, 실제 분양가와 다정한 성격을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "재패니즈 밥테일 고양이: 성격, 짧은 꼬리의 비밀 | nyan",
+    "title_en": "Japanese Bobtail Cat: The Bobtail & Care | nyan",
+    "description_ko": "복을 부르는 고양이, 재패니즈 밥테일의 모든 것. 짧은 꼬리의 매력과 영리한 지능, 실제 분양가와 다정한 성격을 확인하세요.",
+    "description_en": "The lucky legend of Japan, the Japanese Bobtail. Discover their unique tail, 'singing' voice, and costs in museum-grade detail.",
+    "keywords_ko": [
       "재패니즈밥테일",
       "밥테일고양이",
       "마네키네코",
       "짧은꼬리고양이",
-      "개냥이추천",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Japanese Bobtail",
+      "lucky cat",
+      "short tail cat",
+      "vocal cat",
       "nyan"
     ]
   },
@@ -105,32 +150,40 @@
   "image_macro_path": "/images/Nyan/japanese-bobtail_macro.png",
   "image_fullbody_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종이라 매우 건강하며 고양이 중에서도 장수하는 편에 속합니다.",
-  "local_rarity_ko": "국내에서도 독특한 외모와 좋은 의미 덕분에 꾸준한 인기를 얻고 있습니다. 특히 짧은 꼬리의 귀여운 뒷모습에 매료된 집사들에게 최고의 품종으로 꼽힙니다.",
-  "similar_breed_ids": [
-    "manx",
-    "siamese",
-    "turkish-angora"
-  ],
   "image_fullbody_side_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_coat_texture.webp",
   "image_variant_path": "/images/Nyan/japanese-bobtail/japanese-bobtail_variant_full_body.webp",
-  "origin_history_ko": "재패니즈 밥테일 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "재패니즈 밥테일의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생 종이라 매우 건강하며 고양이 중에서도 장수하는 편에 속합니다.",
+  "health_notes_en": "A naturally occurring breed with robust health and a tendency for a long lifespan.",
+  "local_rarity_ko": "국내에서도 독특한 외모와 좋은 의미 덕분에 꾸준한 인기를 얻고 있습니다. 짧은 꼬리의 귀여운 뒷모습이 큰 매력 포인트입니다.",
+  "similar_breed_ids": [
+    "manx",
+    "siamese",
+    "turkish-angora"
+  ],
+  "origin_history_ko": "천 년 전 고대 일본의 왕궁에서 쥐를 잡기 위해 길러진 것이 시초입니다. 불운을 가져온다고 믿었던 긴 꼬리와 달리, 짧은 꼬리는 행운의 상징으로 여겨져 수 세기 동안 일본 예술과 신화의 중심이 되었습니다.",
+  "origin_history_en": "Bred in Japanese imperial palaces over a thousand years ago. Unlike long tails which were once feared, the bobtail was seen as a symbol of luck, featuring prominently in Japanese art and folklore.",
+  "grooming_tips_ko": "속털이 거의 없는 싱글 코트라 관리가 매우 쉽습니다. 주 1회 가벼운 빗질로 윤기를 유지해 주세요. 꼬리 부분은 뼈 구조가 특이하므로 빗질 시 너무 강한 힘을 주지 않도록 주의해야 합니다.",
+  "grooming_tips_en": "The single coat is easy to maintain; once a week brushing is enough. Be gentle when grooming the tail area, as the bone structure is unique and sensitive.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "물어오기용 소프트 볼 장난감",
+      "item_name_en": "Soft Fetch Balls",
+      "reason_ko": "물건을 물어오는 것을 좋아하는 밥테일의 본능을 충족시키는 최고의 놀이 도구",
+      "reason_en": "Perfect for satisfying their instinctive love for fetching and interactive play"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "지능형 퍼즐 피더",
+      "item_name_en": "Interactive Puzzle Feeder",
+      "reason_ko": "높은 지능을 가진 개체가 식사 시간을 지적인 도전으로 즐길 수 있도록 유도",
+      "reason_en": "Turns mealtime into a mental challenge to engage their high intelligence"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -144,9 +197,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "재패니즈 밥테일",
+    "name": "Japanese Bobtail",
     "taxonRank": "Breed",
-    "description": "재패니즈 밥테일 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Japanese Bobtail cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 재패니즈 밥테일 고양이의 전신 모습",
@@ -157,5 +210,15 @@
     "eye_macro": "재패니즈 밥테일 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "재패니즈 밥테일 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "재패니즈 밥테일 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Japanese Bobtail cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the triangular head and high cheekbones of a Japanese Bobtail",
+    "full_body_front": "Front view of a Japanese Bobtail showing its lean and athletic build",
+    "full_body_side": "Lateral full body photo showcasing the unique bobbed tail and silken coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the alert eyes and iris patterns of a Japanese Bobtail",
+    "coat_texture": "Macro photo of the silky single coat texture",
+    "variant_full_body": "Full body view showing the 'Mi-Ke' (calico) pattern variant of the Japanese Bobtail"
   }
 }

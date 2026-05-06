@@ -18,8 +18,8 @@
   "common_colors": [
     "all_colors"
   ],
-  "weight_min_kg": 3.0,
-  "weight_max_kg": 7.0,
+  "weight_min_kg": 3,
+  "weight_max_kg": 7,
   "lifespan_min_years": 13,
   "lifespan_max_years": 15,
   "grooming_level": 2,
@@ -44,23 +44,55 @@
     "지능이 매우 높고 적응력이 뛰어나 여행이나 산책을 함께 즐기기에 최적화된 품종임",
     "다른 반려동물이나 아이들과도 금방 친구가 되는 놀라운 사회성을 가졌음"
   ],
+  "pros_en": [
+    "Striking wild appearance paired with a surprisingly gentle and devoted personality",
+    "Highly intelligent and adaptable; one of the best breeds for travel or leash walking",
+    "Remarkable social skills; integrates seamlessly with children and other pets"
+  ],
   "cons": [
     "매우 드문 품종이라 전문 캐터리를 찾기가 어렵고 분양가가 높은 편임",
     "짧은 꼬리(밥테일)는 유전적 특징이지만 척추 건강에 대한 주기적인 체크가 필요할 수 있음",
     "활동량이 적지 않아 지루함을 느끼지 않도록 풍부한 놀이 환경이 제공되어야 함"
   ],
+  "cons_en": [
+    "Extremely rare breed; finding a reputable breeder can be difficult and expensive",
+    "The signature short tail requires periodic spinal health monitoring",
+    "Requires constant mental stimulation and environmental enrichment to prevent boredom"
+  ],
+  "good_for": [
+    "강아지처럼 주인과 산책하거나 야외 활동을 공유하고 싶은 집사",
+    "살쾡이 같은 카리스마 넘치는 외모와 애교 많은 반전 매력을 원하는 분",
+    "다른 개나 고양이가 이미 있는 다묘/다견 가정"
+  ],
+  "good_for_en": [
+    "Owners who want a dog-like companion for walks and outdoor adventures",
+    "Fanciers seeking a wild look combined with an intensely affectionate temperament",
+    "Multi-pet households looking for a highly compatible and social newcomer"
+  ],
+  "think_twice_if": [
+    "고양이가 집안에서 조용히 잠만 자는 내성적인 성격을 원하는 분",
+    "털 빠짐이 적은 단모종을 선호하거나 빗질 관리에 소홀할 수 있는 환경",
+    "척추나 관절 건강 관리에 대한 세심한 관심이 어려운 경우"
+  ],
+  "think_twice_if_en": [
+    "People who prefer a quiet, sedentary, or independent 'lap cat'",
+    "Owners sensitive to shedding or those unable to commit to regular brushing",
+    "Homes unable to provide the necessary health monitoring for spinal integrity"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,500,000원",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
-  "summary_en": "The American Bobtail is an uncommon breed of domestic cat which was developed in the late 1960s. It is most notable for its stubby 'bobbed' tail and its dog-like personality.",
+  "summary_en": "The American Bobtail is an uncommon breed known for its stubby 'bobbed' tail and its dog-like personality.",
   "summary_ko": "'야생의 외모를 가진 순둥이'로 불리며, 강아지처럼 영리하고 집사를 잘 따르는 짧은 꼬리 고양이입니다.",
-  "appearance_en": "Natural short tail (1/3 to 1/2 length), sturdy rectangular body, 'wild' look with a dense double coat.",
-  "appearance_ko": "자연적으로 짧은 꼬리(정상 길이의 1/3~1/2)와 직사각형의 튼튼한 몸집이 특징입니다. 이중모의 빽빽한 털 덕분에 야생적인 분위기를 풍깁니다.",
-  "personality_en": "Extremely social, intelligent, and easy-going. They are often compared to dogs because of their loyalty and ability to learn tricks or walk on a leash. They are very sensitive to human emotions and make excellent therapy cats.",
-  "personality_ko": "성격이 매우 대담하고 우호적입니다. 집사에 대한 애착이 강해 문 앞에서 기다리거나 물건을 물어오는 등 강아지 같은 행동을 자주 합니다. 환경 변화에 대한 적응력이 매우 뛰어나 함께 여행하거나 외출하는 것을 즐기기도 합니다.",
-  "care_en": "Requires regular brushing to manage their dense double coat, especially during shedding seasons. They need plenty of mental stimulation and interactive play to satisfy their high intelligence.",
-  "care_ko": "털이 빽빽하고 층이 많으므로 주 2~3회 이상의 정기적인 빗질이 필요합니다. 지능이 매우 높으므로 단순한 놀이보다는 난이도 있는 장난감이나 집사와 함께하는 훈련을 병행해 주는 것이 정서 발달에 매우 좋습니다.",
+  "appearance_en": "Natural short tail, sturdy rectangular body, and a 'wild' look with a dense double coat.",
+  "appearance_ko": "자연적으로 짧은 꼬리와 직사각형의 튼튼한 몸집이 특징입니다. 이중모의 빽빽한 털 덕분에 야생적인 분위기를 풍기며, 꼬리는 정상 길이의 1/3~1/2 정도입니다.",
+  "personality_en": "Extremely social, intelligent, and easy-going. Often compared to dogs for their loyalty.",
+  "personality_ko": "성격이 매우 대담하고 우호적입니다. 집사 어깨에 올라타거나 물건을 물어오는 등 강아지 같은 행동을 자주 하며, 환경 변화에 대한 적응력이 매우 뛰어납니다.",
+  "care_en": "Requires regular brushing to manage the dense double coat. Needs plenty of mental stimulation.",
+  "care_ko": "털이 빽빽하므로 주 2~3회 이상의 정기적인 빗질이 필요합니다. 지능이 높으므로 난이도 있는 장난감이나 집사와 함께하는 훈련을 통해 정서적 만족감을 주어야 합니다.",
   "known_risks": [
     {
       "name_en": "Spinal issues (due to short tail)",
@@ -76,23 +108,36 @@
   "faq": [
     {
       "question_ko": "정말 산책이 가능한가요?",
-      "answer_ko": "네, 아메리칸 밥테일은 적응력이 매우 뛰어나고 호기심이 많아 하네스 교육을 통해 함께 산책하거나 여행하는 집사들이 많습니다."
+      "answer_ko": "네, 아메리칸 밥테일은 적응력이 매우 뛰어나고 호기심이 많아 하네스 교육을 통해 함께 산책하거나 여행하는 집사들이 많습니다.",
+      "question_en": "Can they really go for walks?",
+      "answer_en": "Yes, their adaptable and curious nature makes them excellent candidates for leash training and traveling with their owners."
     },
     {
       "question_ko": "꼬리가 아예 없는 건가요?",
-      "answer_ko": "아니요, 맹크스와 달리 짧지만 분명한 꼬리가 존재하며, 이 꼬리는 매우 유연하게 움직입니다."
+      "answer_ko": "아니요, 맹크스와 달리 짧지만 분명한 꼬리가 존재하며, 이 꼬리는 매우 유연하게 움직이고 감정을 표현하는 데 사용됩니다.",
+      "question_en": "Are they completely tailless?",
+      "answer_en": "No, unlike the Manx, they have a short but clearly visible tail that is flexible and expressive."
     }
   ],
-  "visual_comparison_tip": "재재패니즈 밥테일보다 덩치가 크고 근육질이며, 꼬리가 조금 더 길고 유연한지 확인하세요.",
+  "visual_comparison_tip": "재패니즈 밥테일보다 덩치가 훨씬 크고 근육질이며, 꼬리가 조금 더 굵고 유연한지 확인하세요.",
+  "visual_comparison_tip_en": "Larger and more muscular than a Japanese Bobtail; look for a thicker, more flexible short tail.",
   "meta_tags": {
-    "title": "아메리칸 밥테일 고양이 백과: 아메리칸 밥테일 고양이 백과: 아메리칸 밥테일 도감: 성격, 짧은 꼬리의 특징, 야생적인 매력 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "거실의 레트리버, 아메리칸 밥테일의 모든 것. 짧은 꼬리의 비밀과 영리한 지능, 실제 분양가와 다정한 성격을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "아메리칸 밥테일 고양이: 성격, 짧은 꼬리의 비밀 | nyan",
+    "title_en": "American Bobtail Cat: Short Tail & Care | nyan",
+    "description_ko": "거실의 레트리버, 아메리칸 밥테일의 모든 것. 짧은 꼬리의 비밀과 영리한 지능, 실제 분양가와 다정한 성격을 nyan에서 확인하세요.",
+    "description_en": "The wild-looking 'Golden Retriever' of cats, the American Bobtail. Discover their stubby tail, intelligent nature, and care in museum-grade detail.",
+    "keywords_ko": [
       "아메리칸밥테일",
       "밥테일고양이",
-      "짧은꼬리고양이",
+      "산책냥",
       "개냥이추천",
-      "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "American Bobtail",
+      "short tailed cat",
+      "leash cat",
+      "wild look cat",
       "nyan"
     ]
   },
@@ -100,32 +145,40 @@
   "image_macro_path": "/images/Nyan/american-bobtail_macro.png",
   "image_fullbody_path": "/images/Nyan/american-bobtail/american-bobtail_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/american-bobtail/american-bobtail_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종이라 대체로 건강하지만, 짧은 꼬리와 관련된 척추 문제가 발생할 수 있으므로 주의 깊은 관찰이 필요합니다.",
-  "local_rarity_ko": "국내에서 매우 보기 힘든 희귀 품종입니다. 야생적인 카리스마와 개냥이의 다정함을 동시에 원하는 고급 집사들 사이에서 선망의 대상이 되는 품종입니다.",
-  "similar_breed_ids": [
-    "japanese-bobtail",
-    "pixie-bob",
-    "maine-coon"
-  ],
   "image_fullbody_side_path": "/images/Nyan/american-bobtail/american-bobtail_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/american-bobtail/american-bobtail_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/american-bobtail/american-bobtail_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/american-bobtail/american-bobtail_coat_texture.webp",
   "image_variant_path": "/images/Nyan/american-bobtail/american-bobtail_variant_full_body.webp",
-  "origin_history_ko": "아메리칸 밥테일 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "아메리칸 밥테일의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생 종이라 대체로 건강하지만, 짧은 꼬리와 관련된 척추 말단 건강 상태를 주기적으로 체크하는 것이 좋습니다.",
+  "health_notes_en": "A robust natural breed, though periodic checks of the lower spine related to the short tail are advised.",
+  "local_rarity_ko": "국내에서는 매우 보기 힘든 희귀 품종으로, 전문 캐터리를 통해서만 만날 수 있는 프리미엄 반려묘입니다.",
+  "similar_breed_ids": [
+    "japanese-bobtail",
+    "pixie-bob",
+    "maine-coon"
+  ],
+  "origin_history_ko": "1960년대 후반 미국 애리조나주에서 발견된 짧은 꼬리의 새끼 고양이 '요디(Yodi)'가 시초입니다. 야생 살쾡이와의 교배설이 있었으나 연구 결과 순수한 집고양이의 자연 변종임이 밝혀졌습니다.",
+  "origin_history_en": "Traced back to a short-tailed kitten named Yodi found in Arizona in the late 1960s. Despite their wild look, they are a pure domestic breed developed through natural selection.",
+  "grooming_tips_ko": "이중모의 특성상 털이 엉키기 쉬우므로 주 2~3회 빗질해 주세요. 특히 환절기에는 털 빠짐이 늘어날 수 있습니다. 영리하여 발톱 깎기나 양치질 교육이 매우 잘 되는 편입니다.",
+  "grooming_tips_en": "The dense double coat requires brushing 2-3 times a week to prevent mats. They are highly trainable, making nail trimming and dental care easier than with most breeds.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급형 가슴줄 (H형 하네스)",
+      "item_name_en": "Premium H-Style Harness",
+      "reason_ko": "산책과 외출을 즐기는 아메리칸 밥테일의 탈출을 방지하고 편안한 보행을 지원하기 위한 필수품",
+      "reason_en": "Essential for safely enjoying walks and outdoor adventures with this adaptable breed"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "지능 개발용 퍼즐 장난감",
+      "item_name_en": "Interactive Intelligence Puzzle",
+      "reason_ko": "높은 지능을 가진 아메리칸 밥테일의 두뇌를 자극하여 지루함으로 인한 스트레스를 예방",
+      "reason_en": "Provides vital mental stimulation for a highly intelligent breed to prevent boredom"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -139,18 +192,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "아메리칸 밥테일",
+    "name": "American Bobtail",
     "taxonRank": "Breed",
-    "description": "아메리칸 밥테일 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the American Bobtail cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 아메리칸 밥테일 고양이의 전신 모습",
     "face_portrait": "아메리칸 밥테일 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
     "full_body_front": "아메리칸 밥테일 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "아메리칸 밥테일 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "아메리칸 밥테일 고양이의 짧은 꼬리와 야생적인 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "아메리칸 밥테일 품종 표준을 보여주는 완벽한 측면 두상 프로필",
     "eye_macro": "아메리칸 밥테일 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "아메리칸 밥테일 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "coat_texture": "아메리칸 밥테일 고양이의 빽빽한 이중모 질감을 보여주는 초근접 사진",
     "variant_full_body": "아메리칸 밥테일 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an American Bobtail cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the alert expression and hunting look of an American Bobtail",
+    "full_body_front": "Front view of an American Bobtail showing its powerful and substantial build",
+    "full_body_side": "Lateral full body photo showcasing the signature short tail and shaggy coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes and iris patterns of an American Bobtail cat",
+    "coat_texture": "Macro photo of the dense, shaggy double coat texture",
+    "variant_full_body": "Full body view showing various tabby patterns of the American Bobtail"
   }
 }

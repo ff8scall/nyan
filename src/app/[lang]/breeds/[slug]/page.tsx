@@ -17,16 +17,23 @@ export async function generateMetadata({
   const isKo = lang === "ko";
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://nyan.lego-sia.com";
   
-  // JSON에 meta_tags가 있으면 사용, 없으면 기본값 생성
-  const title = breed.meta_tags?.title || 
-    (isKo ? `${breed.name_ko} 고양이 정보: 성격, 수명, 특징 | nyan` : `${breed.name_en} Cat: Personality, Lifespan, Traits | nyan`);
-  const description = breed.meta_tags?.description || 
-    (isKo ? `${breed.name_ko}의 모든 것. 박물관급 디테일로 확인하는 품종 가이드.` : `All about ${breed.name_en}. A museum-grade guide to the breed.`);
+  // SEO Metadata logic: Priority (lang-specific) > (generic field if matches lang or simple fallback) > (hardcoded fallback)
+  const title = isKo 
+    ? (breed.meta_tags?.title_ko || breed.meta_tags?.title || `${breed.name_ko} 고양이 정보: 성격, 수명, 특징 | nyan`)
+    : (breed.meta_tags?.title_en || (lang === 'en' && breed.meta_tags?.title ? null : breed.meta_tags?.title) || `${breed.name_en} Cat: Personality, Lifespan, Traits | nyan`);
+  
+  const description = isKo
+    ? (breed.meta_tags?.description_ko || breed.meta_tags?.description || `${breed.name_ko}의 모든 것. 박물관급 디테일로 확인하는 품종 가이드.`)
+    : (breed.meta_tags?.description_en || (lang === 'en' && breed.meta_tags?.description ? null : breed.meta_tags?.description) || `All about ${breed.name_en}. A museum-grade guide to the breed.`);
+
+  const keywords = isKo
+    ? (breed.meta_tags?.keywords_ko || breed.meta_tags?.keywords || [breed.name_ko, "고양이", "도감", "nyan"])
+    : (breed.meta_tags?.keywords_en || [breed.name_en, "cat", "encyclopedia", "nyan"]);
 
   return {
     title,
     description,
-    keywords: breed.meta_tags?.keywords || [breed.name_en, breed.name_ko, "cat", "nyan"],
+    keywords,
     alternates: {
       canonical: `${baseUrl}/${lang}/breeds/${slug}`,
       languages: {

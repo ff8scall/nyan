@@ -2,6 +2,10 @@
   "id": "savannah",
   "name_en": "Savannah",
   "name_ko": "사바나 캣",
+  "aliases_en": [
+    "Serval Hybrid",
+    "Safari Cat"
+  ],
   "aliases_ko": [
     "서벌 하이브리드"
   ],
@@ -19,8 +23,8 @@
     "black",
     "black_smoke"
   ],
-  "weight_min_kg": 5.0,
-  "weight_max_kg": 11.0,
+  "weight_min_kg": 5,
+  "weight_max_kg": 11,
   "lifespan_min_years": 12,
   "lifespan_max_years": 20,
   "grooming_level": 1,
@@ -45,26 +49,60 @@
     "지능이 매우 높아 문을 열거나 수도꼭지를 트는 등 고도의 문제 해결 능력을 보임",
     "물을 좋아하고 산책이 가능할 정도로 활동적이며 집사와의 다이나믹한 놀이가 가능함"
   ],
+  "pros_en": [
+    "Stunning wild appearance that brings the majesty of a Serval into the home",
+    "Highly intelligent problem-solvers capable of learning complex tasks and tricks",
+    "Exceptional athletic ability; many enjoy water, leash walking, and interactive play"
+  ],
   "cons": [
     "상상 이상의 엄청난 활동량과 점프력을 가지고 있어 일반적인 가정환경에서 감당하기 어려울 수 있음",
     "야생성이 남아 있어 서벌의 피가 진한 세대(F1, F2)는 초보자가 키우기에 매우 위험하고 힘듦",
     "분양가가 매우 비싸고, 식단이나 환경 조성에 막대한 비용과 노력이 소요됨"
   ],
+  "cons_en": [
+    "Requires immense space and enrichment to manage their high energy and vertical leap",
+    "Early generations (F1, F2) retain significant wild traits, making them unsuitable for beginners",
+    "Extremely high initial cost and ongoing maintenance expenses for diet and habitat"
+  ],
+  "good_for": [
+    "고양이를 넘어 야생 동물의 카리스마를 실내에서 경험하고 싶은 분",
+    "강아지보다 더 활동적이고 지능적인 파트너와 다이나믹한 삶을 즐길 준비가 된 집사",
+    "넓은 주거 공간과 고양이 전용 활동실을 제공할 수 있는 환경"
+  ],
+  "good_for_en": [
+    "Owners seeking the charisma of a wild predator within a domestic setting",
+    "Active individuals who want an intelligent, dog-like partner for adventurous play",
+    "Homes with significant square footage and high ceilings for vertical movement"
+  ],
+  "think_twice_if": [
+    "조용히 무릎 위에 앉아 있는 평범한 고양이를 기대하는 분",
+    "층간 소음이 걱정되는 아파트나 좁은 공간에서 거주하는 경우",
+    "야생성이 있는 대형 동물을 통제하거나 케어해 본 경험이 없는 초보 집사"
+  ],
+  "think_twice_if_en": [
+    "People looking for a traditional, sedentary lap cat",
+    "Apartment dwellers concerned about noise and the physical impact of a large, leaping cat",
+    "Beginners without experience managing high-energy or hybrid breeds"
+  ],
   "economics": {
     "price_range_ko": "5,000,000원 - 30,000,000원 이상 (세대에 따라 차이)",
-    "monthly_care_cost": "약 250,000원 - 500,000원"
+    "price_range_en": "$5,000 - $30,000+ (Varies greatly by generation)",
+    "monthly_care_cost": "약 250,000원 - 500,000원",
+    "monthly_care_cost_en": "Approx. $200 - $400"
   },
-  "summary_en": "The Savannah is a hybrid cat breed. It is a cross between a serval and a domestic cat.",
+  "summary_en": "The Savannah is a large, exotic hybrid cat known for its exceptional height, intelligence, and striking Serval-like appearance.",
   "summary_ko": "압도적인 크기와 카리스마 넘치는 외모로 '고양이계의 슈퍼모델'이라 불리며, 강아지처럼 산책이 가능할 정도의 활동량과 지능을 가졌습니다.",
-  "appearance_en": "Serval hybrid, exceptionally tall and lean, large ears, hooded eyes, and distinctive spotted pattern.",
+  "appearance_en": "The tallest domestic cat breed, featuring large ears, long legs, and a spotted coat. They have distinct 'tear streaks' on their face like a cheetah.",
   "appearance_ko": "아프리카 서벌과의 교배로 태어나 고양이 중 가장 키가 크고 날씬합니다. 커다란 귀와 눈가의 눈물 자국(Tear streak), 그리고 화려한 스포티드 무늬가 야생 그 자체입니다.",
-  "personality_en": "Highly active, curious, and intelligent. They are often compared to dogs for their loyalty and ability to learn commands.",
+  "personality_en": "Extremely active, adventurous, and curious. They bond deeply with their owners and are often compared to dogs in their loyalty and behavior.",
   "personality_ko": "에너지가 폭발적이며 지루한 것을 참지 못합니다. 집사와 함께 수영을 하거나 산책을 나가는 것을 즐기며, 매우 논리적이고 영리한 사고방식을 가지고 있습니다.",
-  "care_en": "Requires a significant amount of space and mental stimulation. Their diet often requires high-quality protein and sometimes raw feeding.",
+  "care_en": "Requires vertical space and mental challenges to prevent boredom. Diet often includes high-protein raw meat for optimal health in early generations.",
   "care_ko": "단순한 실내 사육보다는 넓은 공간과 다양한 놀이 기구가 필수입니다. 높은 곳을 아주 잘 올라가므로 집 안의 모든 물건을 안전하게 배치해야 하며, 세대에 따라 법적 규제가 있을 수 있습니다.",
+  "health_notes_ko": "하이브리드 종이라 유전병은 적지만, 심장 비대증(HCM)에 대한 정기적인 스크리닝이 권장됩니다. 특히 대형묘에게 흔한 타우린 결핍에 민감할 수 있습니다.",
+  "health_notes_en": "Generally robust but requires screening for HCM. Early generations may have unique nutritional requirements, particularly regarding taurine levels and raw diets.",
   "known_risks": [
     {
-      "name_en": "Hypertrophic Cardiomyopathy",
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
       "name_ko": "비대성 심근증",
       "severity_note": "Moderate"
     },
@@ -77,61 +115,91 @@
   "faq": [
     {
       "question_ko": "얼마나 커지나요?",
-      "answer_ko": "F1 세대의 경우 어깨높이가 40~45cm에 달하며, 몸길이도 일반 고양이의 두 배 이상 커질 수 있습니다."
+      "answer_ko": "F1 세대의 경우 어깨높이가 40~45cm에 달하며, 몸길이도 일반 고양이의 두 배 이상 커질 수 있습니다.",
+      "question_en": "How large do they grow?",
+      "answer_en": "Early generations (F1) can stand up to 45cm at the shoulder and are significantly longer and taller than any standard domestic cat."
     },
     {
       "question_ko": "강아지랑 잘 지내나요?",
-      "answer_ko": "네, 활동량이 비슷하고 성격이 대범한 대형견들과는 아주 좋은 친구가 될 수 있습니다."
+      "answer_ko": "네, 활동량이 비슷하고 성격이 대범한 대형견들과는 아주 좋은 친구가 될 수 있습니다.",
+      "question_en": "Do they get along with dogs?",
+      "answer_en": "Yes, they often pair well with active, confident dogs who can match their energy levels and play style."
+    },
+    {
+      "question_ko": "아파트에서 키울 수 있나요?",
+      "answer_ko": "가능은 하지만 매우 어렵습니다. 엄청난 점프력 때문에 높은 가구 위가 순식간에 난장판이 될 수 있으며, 충분한 활동량을 해소하지 못하면 파괴적인 행동을 할 수 있습니다.",
+      "question_en": "Can they live in an apartment?",
+      "answer_en": "It is challenging. Their incredible vertical leap means no shelf is safe, and without adequate space and exercise, they may become destructive due to boredom."
+    },
+    {
+      "question_ko": "서벌과 사바나 캣의 차이는 무엇인가요?",
+      "answer_ko": "서벌은 완전한 야생동물이며, 사바나 캣은 서벌과 집고양이의 교배종입니다. 세대(F1~F5)가 내려갈수록 성격은 더 유순해지고 몸집은 약간씩 작아지는 경향이 있습니다.",
+      "question_en": "What is the difference between a Serval and a Savannah?",
+      "answer_en": "A Serval is a pure wild animal. A Savannah is a hybrid cross between a Serval and a domestic cat. As generations progress (F1 to F5), they become more domestic in temperament and slightly smaller in size."
+    },
+    {
+      "question_ko": "물을 정말 좋아하나요?",
+      "answer_ko": "네, 많은 사바나 캣들이 샤워기 물소리에 흥분하거나 집사와 함께 욕조에 들어가는 것을 즐깁니다. 물놀이는 이들의 에너지를 식히는 좋은 방법입니다.",
+      "question_en": "Do they really like water?",
+      "answer_en": "Yes, it is common for Savannahs to play in sinks, bathtubs, or even join their owners in the shower. Water play is an excellent form of enrichment for them."
     }
   ],
   "visual_comparison_tip": "뱅갈 고양이와 비슷해 보일 수 있지만, 사바나 캣은 다리가 훨씬 더 길고 귀가 훨씬 크며, 전체적인 체구가 훨씬 더 거대하고 슬림합니다.",
+  "visual_comparison_tip_en": "Compared to Bengals, Savannahs are much taller with longer legs, larger upright ears, and a more slender, elongated silhouette.",
   "meta_tags": {
-    "title": "사바나 캣 고양이 백과: 사바나 캣 고양이 백과: 사바나 캣 도감: 야생의 서벌을 닮은 초거대 고양이의 매력 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "거실 위의 표범, 사바나 캣. 압도적인 크기와 지능을 가진 사바나 캣의 세대별 특징과 케어 노하우를 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "사바나 캣 가이드: 성격, 세대별 특징, 서벌 하이브리드 관리법 | nyan",
+    "title_en": "Savannah Cat: F1-F5 Generations & Care | nyan",
+    "description_ko": "거실 위의 표범, 사바나 캣의 모든 것. 압도적인 크기와 지능을 가진 사바나 캣의 세대별 특징과 실제 분양가를 nyan에서 확인하세요.",
+    "description_en": "Discover the exotic Savannah cat. Learn about their Serval heritage, high intelligence, size variations by generation, and specialized care in our archive.",
+    "keywords_ko": [
       "사바나캣",
+      "서벌고양이",
       "대형고양이",
-      "서벌",
-      "하이브리드고양이",
       "산책고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Savannah cat",
+      "Serval hybrid",
+      "tallest cat breed",
+      "exotic cat care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/savannah/savannah_hero.webp",
-  "image_macro_path": "/images/Nyan/savannah_macro.png",
   "image_fullbody_path": "/images/Nyan/savannah/savannah_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/savannah/savannah_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "하이브리드 종이라 유전병은 적지만, 심장 비대증(HCM)에 대한 정기적인 스크리닝이 권장됩니다.",
-  "local_rarity_ko": "한국에서는 극소수만 사육되는 초희귀 품종이며, F1~F4 세대는 야생동물 보호법에 따라 사육 허가가 필요할 수 있습니다.",
-  "similar_breed_ids": [
-    "bengal",
-    "egyptian-mau",
-    "abyssinian"
-  ],
   "image_fullbody_side_path": "/images/Nyan/savannah/savannah_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/savannah/savannah_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/savannah/savannah_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/savannah/savannah_coat_texture.webp",
   "image_variant_path": "/images/Nyan/savannah/savannah_variant_full_body.webp",
-  "origin_history_ko": "사바나 캣 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "사바나 캣의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "bengal",
+    "egyptian-mau",
+    "abyssinian"
+  ],
+  "origin_history_ko": "1986년 4월 7일, 주디 프랭크(Judy Frank)가 수컷 서벌과 샴 고양이를 교배하여 첫 번째 사바나 캣 '사바나(Savannah)'를 탄생시켰습니다. 이후 1990년대 후반 패트릭 켈리와 조이스 스로우페가 품종 기준을 확립하였습니다.",
+  "origin_history_en": "The first Savannah was born in 1986 after a cross between a male Serval and a Siamese, bred by Judy Frank. The breed was further developed and standardized in the late 1990s by Patrick Kelley and Joyce Sroufe.",
+  "grooming_tips_ko": "단모종이라 털 관리는 매우 쉽지만, 워낙 힘이 세고 활동적이므로 발톱 정리에 주의가 필요합니다. 물을 좋아하므로 목욕은 놀이처럼 즐겁게 진행할 수 있습니다.",
+  "grooming_tips_en": "Grooming is minimal due to their short coat, but keeping their powerful claws trimmed is essential. Their love for water often makes bath time an enjoyable bonding experience.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고강도 천장 밀착형 캣폴",
+      "item_name_en": "Heavy-Duty Floor-to-Ceiling Cat Tree",
+      "reason_ko": "사바나 캣의 폭발적인 점프력과 무게를 견딜 수 있는 견고한 수직 공간 확보",
+      "reason_en": "Provides a safe and sturdy vertical outlet for their exceptional jumping ability and large size"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고양이 전용 러닝휠 (대형)",
+      "item_name_en": "Large Cat Exercise Wheel",
+      "reason_ko": "실내에서 해소하기 어려운 엄청난 활동량을 안전하게 분출하도록 유도",
+      "reason_en": "An essential tool for burning off high energy levels in an indoor environment"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
-    {
-      "source_name": "CFA (The Cat Fanciers' Association)",
-      "url": "https://cfa.org"
-    },
     {
       "source_name": "TICA (The International Cat Association)",
       "url": "https://tica.org"
@@ -140,9 +208,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "사바나 캣",
+    "name": "Savannah",
     "taxonRank": "Breed",
-    "description": "사바나 캣 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Savannah cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 사바나 캣 고양이의 전신 모습",
@@ -153,5 +221,17 @@
     "eye_macro": "사바나 캣 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "사바나 캣 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "사바나 캣 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Savannah cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the exotic facial markings and large ears of a Savannah",
+    "full_body_front": "Front view of a Savannah showcasing its tall and powerful stature",
+    "full_body_side": "Lateral view highlighting the long legs and distinctive spotted coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Savannah breed",
+    "eye_macro": "Macro shot of the intense gaze and amber iris patterns of a Savannah cat",
+    "coat_texture": "Detailed photo of the coarse, spotted coat texture",
+    "variant_full_body": "Showcase of different Savannah generations and color patterns"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "high"
 }

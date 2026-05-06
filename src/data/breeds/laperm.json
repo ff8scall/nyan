@@ -43,23 +43,55 @@
     "성격이 매우 다정하고 사람의 관심을 즐기며 집사에게 안겨있는 것을 좋아하는 개냥이임",
     "곱슬털 덕분에 일반적인 고양이보다 알레르기 유발이 상대적으로 적다는 평이 있음"
   ],
+  "pros_en": [
+    "Unique and stunning curly coat, often called the 'Poodle' of the cat world",
+    "Extremely affectionate; thrives on human interaction and loves being a 'lap cat'",
+    "Hypoallergenic qualities are often reported due to the unique texture of the curly fur"
+  ],
   "cons": [
     "독특한 털의 질감을 유지하기 위해 정기적인 빗질과 세심한 털 관리가 필요함",
     "털이 엉키기 시작하면 풀기 어려우므로 어릴 때부터 빗질 교육이 필수적임",
     "국내에서 매우 희귀한 품종이라 전문적인 정보나 캐터리를 찾기가 어려움"
   ],
+  "cons_en": [
+    "Requires consistent grooming to maintain the definition and texture of the curls",
+    "Matting can be difficult to resolve; early grooming training is essential",
+    "Very rare breed, making it challenging to find local information or reputable breeders"
+  ],
+  "good_for": [
+    "흔치 않은 독특한 외모와 곱슬털의 부드러운 질감을 사랑하는 분",
+    "집사와 항상 붙어있고 싶어 하는 다정한 성격의 고양이를 원하는 분",
+    "고양이 알레르기가 걱정되지만 반려묘와 함께하고 싶은 예비 집사"
+  ],
+  "good_for_en": [
+    "Owners who appreciate rare aesthetics and the soft texture of curly fur",
+    "People seeking a deeply affectionate companion that stays close to its owner",
+    "Prospective owners with mild cat allergies looking for a potentially better fit"
+  ],
+  "think_twice_if": [
+    "고양이의 털 관리나 정기적인 그루밍에 시간을 투자하기 어려운 분",
+    "고양이가 아주 독립적이고 혼자만의 시간을 즐기길 기대하는 환경",
+    "성장 과정에서 털이 빠졌다가 다시 자라는 특유의 변화를 이해하기 어려운 분"
+  ],
+  "think_twice_if_en": [
+    "Those unable to commit to the specialized grooming required for curly coats",
+    "Owners who prefer an independent pet that doesn't crave constant attention",
+    "People who might be concerned by the natural coat-loss cycles common in kittens"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원",
-    "monthly_care_cost": "약 120,000원 - 190,000원"
+    "price_range_en": "$1,000 - $3,000 (Cattery standard)",
+    "monthly_care_cost": "약 120,000원 - 190,000원",
+    "monthly_care_cost_en": "Approx. $100 - $150"
   },
-  "summary_en": "The LaPerm is a breed of cat whose coat is distinguished by its curly or wavy texture, resulting from a natural mutation.",
+  "summary_en": "The LaPerm is a unique breed known for its distinctive curly or wavy coat, which originated from a natural mutation on an Oregon farm.",
   "summary_ko": "농장에서 우연히 발견된 곱슬털 고양이에서 유래했으며, 부드러운 성격과 독특한 질감의 코트 덕분에 만지는 재미가 있는 품종입니다.",
-  "appearance_en": "Unique curly or wavy 'Gypsy Shag' coat, springy texture standing away from body, wedge-shaped head.",
-  "appearance_ko": "전신이 파마를 한 듯 뽀글뽀글한 곱슬털로 덮여 있는 '히피 고양이'입니다. 털이 몸에서 떠 있어 공기처럼 가벼운 느낌을 주며 알레르기 유발이 적은 편입니다.",
-  "personality_en": "Affectionate, active, and clever. LaPerms are very people-oriented and often seek out physical contact with their owners. They are quite smart and can learn to use their paws to open doors or get attention.",
-  "personality_ko": "외모만큼이나 성격도 매력적입니다. 사람의 무릎에 앉거나 어깨에 올라타는 것을 즐기는 '터치형 개냥이'입니다. 지능이 매우 높아 집사의 행동을 관찰하고 배우는 능력이 뛰어나며, 장난기가 많아 나이가 들어서도 활기차게 지냅니다.",
-  "care_en": "Despite the curls, their coat is relatively easy to care for and doesn't mat easily. A regular brush is needed to remove dead hair and maintain the wave's definition.",
-  "care_ko": "털이 엉키지 않을 것 같지만 의외로 관리가 필요합니다. 주 2~3회 정도의 빗질로 죽은 털을 제거해 주어야 특유의 가벼운 웨이브를 유지할 수 있습니다. 지능적인 놀이와 집사와의 교감이 무엇보다 중요한 품종입니다.",
+  "appearance_en": "Features a light, springy, and curly 'Gypsy Shag' coat that stands away from the body. Comes in both long and shorthair varieties.",
+  "appearance_ko": "전신이 파마를 한 듯 뽀글뽀글한 곱슬털로 덮여 있는 '히피 고양이'입니다. 털이 몸에서 떠 있어 공기처럼 가벼운 느낌을 주며, 긴 털과 짧은 털 두 가지 버전이 모두 존재합니다.",
+  "personality_en": "Affectionate, social, and clever. They often seek out physical contact and love perching on shoulders.",
+  "personality_ko": "매우 다정하고 사교적입니다. 사람의 무릎에 앉거나 어깨에 올라타는 것을 즐기는 '터치형 개냥이'이며, 지능이 높아 집사의 행동을 배우는 능력이 뛰어납니다.",
+  "care_en": "Curls are surprisingly easy to maintain but require regular brushing to manage shedding and maintain the wave.",
+  "care_ko": "털이 잘 엉키지 않는 편이지만, 주 2~3회 빗질로 죽은 털을 제거해 주어야 특유의 가벼운 웨이브가 유지됩니다. 지능적인 놀이와 집사와의 깊은 교감이 중요합니다.",
   "known_risks": [
     {
       "name_en": "No specific breed-related issues",
@@ -70,23 +102,36 @@
   "faq": [
     {
       "question_ko": "털이 안 빠지나요?",
-      "answer_ko": "아니요, 털은 빠지지만 곱슬거리는 특성상 공중에 날리기보다는 털 사이에 머물러 있어 관리가 조금 더 수월하게 느껴질 수 있습니다."
+      "answer_ko": "아니요, 털은 빠지지만 곱슬거리는 특성상 공중에 날리기보다는 털 사이에 머물러 있어 관리가 조금 더 수월하게 느껴질 수 있습니다. 알레르기 유발 물질 방출도 적은 편입니다.",
+      "question_en": "Do they not shed?",
+      "answer_en": "They do shed, but the curls help trap loose hairs, making management easier than with straight-haired breeds. They are often better for allergy sufferers."
     },
     {
       "question_ko": "태어날 때부터 곱슬인가요?",
-      "answer_ko": "재미있게도 라펌은 털이 아예 없이 태어나거나 직모로 태어났다가 생후 수개월 내에 털이 빠진 후 다시 곱슬로 자라는 경우가 많습니다."
+      "answer_ko": "재미있게도 라펌은 털이 아예 없이 태어나거나 직모로 태어났다가, 생후 수개월 내에 털이 한 번 빠진 후 다시 곱슬로 자라는 경우가 많습니다.",
+      "question_en": "Are they born curly?",
+      "answer_en": "Interestingly, many LaPerms are born bald or with straight hair. They often lose their initial coat in early months before the true curly fur grows in."
     }
   ],
-  "visual_comparison_tip": "데본 렉스나 코니시 렉스보다 털이 더 길고 불규칙한 웨이브(파마) 형태인지 확인하세요.",
+  "visual_comparison_tip": "데본 렉스보다 털이 더 길고 불규칙한 웨이브 형태인지 확인하세요. 꼬리 털도 솜사탕처럼 부풀어 있는 경우가 많습니다.",
+  "visual_comparison_tip_en": "Look for longer, more irregular waves than a Devon Rex. Their tails are often very fluffy, like a bottle brush or cotton candy.",
   "meta_tags": {
-    "title": "라펌 고양이 백과: 라펌 고양이 백과: 라펌 도감: 곱슬털의 비밀, 성격, 고양이계의 푸들 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "파마한 듯한 매력, 라펌의 모든 것. 곱슬거리는 털의 질감과 다정한 성격, 실제 분양가와 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "라펌 고양이: 성격, 곱슬털 관리, 고양이계의 푸들 | nyan",
+    "title_en": "LaPerm Cat: Curly Coat & Care | nyan",
+    "description_ko": "파마한 듯한 매력, 라펌의 모든 것. 곱슬거리는 털의 질감과 다정한 성격, 실제 분양가와 관리법을 확인하세요.",
+    "description_en": "The charming curly-haired LaPerm. Discover their unique 'Gypsy Shag' coat, affectionate nature, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "라펌",
-      "라펌고양이",
       "곱슬털고양이",
       "푸들고양이",
       "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "LaPerm cat",
+      "curly haired cat",
+      "poodle cat",
+      "rare cat breed",
       "nyan"
     ]
   },
@@ -94,32 +139,40 @@
   "image_macro_path": "/images/Nyan/laperm_macro.png",
   "image_fullbody_path": "/images/Nyan/laperm/laperm_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/laperm/laperm_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생적 돌연변이에서 시작된 품종이라 매우 튼튼하며 알려진 유전병이 거의 없습니다.",
-  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 곱슬거리는 털의 신비로움에 매료된 집사들이 해외 캐터리를 통해 입양하기도 합니다. 한 번 보면 잊을 수 없는 독보적인 존재감을 자랑합니다.",
-  "similar_breed_ids": [
-    "devon-rex",
-    "cornish-rex",
-    "selkirk-rex"
-  ],
   "image_fullbody_side_path": "/images/Nyan/laperm/laperm_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/laperm/laperm_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/laperm/laperm_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/laperm/laperm_coat_texture.webp",
   "image_variant_path": "/images/Nyan/laperm/laperm_variant_full_body.webp",
-  "origin_history_ko": "라펌 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "라펌의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생적 돌연변이에서 시작된 품종이라 매우 튼튼하며 알려진 유전병이 거의 없어 장수하는 편입니다.",
+  "health_notes_en": "Genetically robust due to their natural origin, with no specific breed-related hereditary diseases and a long lifespan.",
+  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 독보적인 존재감을 자랑하는 '움직이는 예술품' 같은 고양이입니다.",
+  "similar_breed_ids": [
+    "devon-rex",
+    "cornish-rex",
+    "selkirk-rex"
+  ],
+  "origin_history_ko": "1982년 미국 오리건주의 한 농장에서 '커리(Curly)'라는 이름의 고양이가 태어난 것이 시초입니다. 우연한 돌연변이로 탄생한 이 곱슬털은 곧 사람들을 매료시켰고, 2000년대 주요 고양이 협회에서 정식 품종으로 인정받았습니다.",
+  "origin_history_en": "Began in 1982 on a farm in Oregon with a kitten named 'Curly'. This spontaneous mutation for curly hair fascinated breeders, leading to formal recognition in the early 2000s.",
+  "grooming_tips_ko": "털이 뭉치지 않도록 주 2~3회 금속 빗으로 부드럽게 빗겨주세요. 목욕 후에는 드라이기보다 자연 건조를 해야 특유의 웨이브가 예쁘게 살아납니다.",
+  "grooming_tips_en": "Gently brush 2-3 times a week with a metal comb to prevent matting. For best results, let the coat air-dry after a bath to maintain the natural curl definition.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급 회전식 메탈 콤",
+      "item_name_en": "Professional Rotating Pin Comb",
+      "reason_ko": "라펌의 불규칙한 웨이브 속 엉킴을 자극 없이 풀어주고 죽은 털을 제거",
+      "reason_en": "Gently detangles the irregular waves without pulling or damaging the unique curl structure"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "저자극 고보습 샴푸",
+      "item_name_en": "Hypoallergenic Hydrating Shampoo",
+      "reason_ko": "곱슬털 특성상 건조해지기 쉬운 피부와 모발에 수분을 공급하여 탄력 유지",
+      "reason_en": "Maintains the elasticity and health of the curls by preventing dryness in the hair and skin"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -133,18 +186,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "라펌",
+    "name": "LaPerm",
     "taxonRank": "Breed",
-    "description": "라펌 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the LaPerm cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 라펌 고양이의 전신 모습",
-    "face_portrait": "라펌 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "face_portrait": "라펌 고양이의 특징적인 얼굴 이목구비와 곱슬거리는 수염이 강조된 초근접 초상화",
     "full_body_front": "라펌 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "라펌 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "라펌 고양이의 우아한 곱슬털 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "라펌 품종 표준을 보여주는 완벽한 측면 두상 프로필",
     "eye_macro": "라펌 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "라펌 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "coat_texture": "라펌 고양이의 부드럽고 독특한 곱슬 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "라펌 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a LaPerm cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the wedge-shaped face and curly whiskers of a LaPerm",
+    "full_body_front": "Front view of a LaPerm showing its semi-foreign athletic build and curly fur",
+    "full_body_side": "Lateral full body photo showcasing the unique 'Gypsy Shag' coat silhouette",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes and iris patterns of a LaPerm cat",
+    "coat_texture": "Macro photo of the springy, curly, and soft coat texture",
+    "variant_full_body": "Full body view showing various color and pattern variants of the LaPerm"
   }
 }

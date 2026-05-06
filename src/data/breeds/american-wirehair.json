@@ -18,7 +18,7 @@
     "all_colors"
   ],
   "weight_min_kg": 3.5,
-  "weight_max_kg": 7.0,
+  "weight_max_kg": 7,
   "lifespan_min_years": 14,
   "lifespan_max_years": 18,
   "grooming_level": 1,
@@ -43,23 +43,55 @@
     "아메리칸 쇼트헤어의 유전을 물려받아 매우 건강하고 잔병치레가 없는 튼튼한 체질임",
     "성격이 매우 원만하고 적응력이 좋아 처음 고양이를 키우는 사람에게 매우 적합함"
   ],
+  "pros_en": [
+    "Unique 'steel wool' coat offers a fascinating tactile experience and look",
+    "Inherits robust health from American Shorthair lineage; exceptionally long-lived",
+    "Even-tempered and highly adaptable; perfect for first-time cat owners"
+  ],
   "cons": [
     "독특한 털의 질감을 유지하기 위해 너무 자주 목욕을 시키면 안 되는 등 관리법이 독특함",
     "국내에서는 거의 볼 수 없는 매우 희귀한 품종이라 정보와 입양처가 한정적임",
     "털이 뻣뻣하고 곱슬거려 피부가 예민한 개체의 경우 피부병 여부를 잘 살펴야 함"
   ],
+  "cons_en": [
+    "Unique coat requires specific care; over-grooming or frequent bathing can damage it",
+    "Extremely rare globally, making it difficult to find reputable breeders",
+    "Coarse coat can lead to skin sensitivity in some individuals, requiring monitoring"
+  ],
+  "good_for": [
+    "고양이의 털 관리에 시간을 많이 쓰기 어렵지만 개성 있는 외모를 선호하는 분",
+    "오랜 시간 함께 건강하게 지낼 수 있는 튼튼한 장수 묘를 찾는 분",
+    "너무 시끄럽지 않으면서도 적당히 장난기 있는 조용한 반려 생활을 원하는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking a unique look without demanding grooming requirements",
+    "People looking for a healthy, robust companion that can live up to 20 years",
+    "Those who prefer a quiet but playful and socially mature pet"
+  ],
+  "think_twice_if": [
+    "부드럽고 실크 같은 촉감의 털을 가진 고양이를 만지고 싶은 분",
+    "희귀 품종이라 정보가 부족한 것에 대해 불안함을 느끼는 경우",
+    "적극적으로 집사에게 매달리기보다 적당한 거리감을 유지하는 성격이 맞지 않는 분"
+  ],
+  "think_twice_if_en": [
+    "People who specifically crave the touch of soft, silky, or smooth fur",
+    "Owners uncomfortable with the lack of widespread community data for rare breeds",
+    "Those who prefer an intensely clingy cat over one that values some independence"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,000,000원",
-    "monthly_care_cost": "약 100,000원 - 160,000원"
+    "price_range_en": "$1,200 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 100,000원 - 160,000원",
+    "monthly_care_cost_en": "Approx. $80 - $130"
   },
-  "summary_en": "The American Wirehair is a breed of domestic cat originating in upstate New York. It is best known for its unique 'wire' coat, which resulted from a natural mutation.",
+  "summary_en": "The American Wirehair is best known for its unique 'wire' coat, which resulted from a natural mutation in New York.",
   "summary_ko": "미국 뉴욕에서 발견된 돌연변이에서 시작된 품종으로, 특유의 거칠고 탄력 있는 곱슬털이 매력적인 개성파 고양이입니다.",
-  "appearance_en": "Unique 'steel wool' coat texture, dense and coarse crimped hair, muscular build similar to American Shorthair.",
+  "appearance_en": "Unique 'steel wool' coat texture, dense and coarse crimped hair, with a muscular build.",
   "appearance_ko": "철수세미나 양모처럼 거칠고 꼬불꼬불한 독특한 털 질감이 상징입니다. 근육질의 튼튼한 체형을 가졌으며 수염까지 곱슬거리는 경우가 많습니다.",
-  "personality_en": "Easy-going, affectionate, and intelligent. They are known for being quiet but active and get along well with all members of the family, including other pets.",
-  "personality_ko": "성격은 매우 차분하고 독립적이면서도 가족에게는 한없이 다정합니다. 아메리칸 쇼트헤어처럼 적응력이 뛰어나고 환경 변화에 대담하게 대처합니다. 헛울음이 거의 없고 조용한 편이라 아파트 생활에도 아주 잘 어울리는 성숙한 고양이입니다.",
-  "care_en": "Requires minimal grooming—in fact, too much brushing can damage the delicate wiry coat. They need occasional baths to manage skin oils, as the wiry coat doesn't always distribute oils effectively.",
-  "care_ko": "털 관리가 매우 독특합니다. 너무 자주 빗질하면 와이어 모양의 털이 손상될 수 있으므로 가벼운 빗질만 권장됩니다. 대신 털 사이로 유분이 쌓이기 쉬우므로 주기적인 목욕과 피부 상태 확인이 중요합니다.",
+  "personality_en": "Easy-going, affectionate, and intelligent. They are known for being quiet but active.",
+  "personality_ko": "성격은 매우 차분하고 독립적이면서도 가족에게는 다정합니다. 적응력이 뛰어나고 환경 변화에 대담하며, 헛울음이 거의 없는 성숙한 고양이입니다.",
+  "care_en": "Requires minimal grooming—over-brushing can damage the coat. Occasional baths help manage skin oils.",
+  "care_ko": "너무 자주 빗질하면 와이어 모양의 털이 손상될 수 있습니다. 털 사이로 유분이 쌓이기 쉬우므로 주기적인 피부 상태 확인과 가끔의 목욕이 권장됩니다.",
   "known_risks": [
     {
       "name_en": "No specific breed-related issues",
@@ -70,23 +102,36 @@
   "faq": [
     {
       "question_ko": "털을 만지면 아픈가요?",
-      "answer_ko": "아니요, 철사처럼 거칠게 보일 뿐 실제로는 탄력 있고 복슬복슬한 느낌입니다. 뻣뻣한 테디베어 인형을 만지는 것과 비슷한 독특한 즐거움을 줍니다."
+      "answer_ko": "아니요, 철사처럼 거칠게 보일 뿐 실제로는 탄력 있고 복슬복슬한 느낌입니다. 뻣뻣한 테디베어 인형을 만지는 것과 비슷한 독특한 즐거움을 줍니다.",
+      "question_en": "Does the coat feel prickly?",
+      "answer_en": "Not at all. While it looks coarse, it feels springy and dense, much like touching a high-quality woolly teddy bear."
     },
     {
       "question_ko": "아메리칸 쇼트헤어랑 가족인가요?",
-      "answer_ko": "네, 아메리칸 쇼트헤어에서 자연 발생한 돌연변이 품종이므로 체형과 성격 면에서 매우 유사한 형제 품종이라고 볼 수 있습니다."
+      "answer_ko": "네, 아메리칸 쇼트헤어에서 자연 발생한 돌연변이 품종이므로 체형과 성격 면에서 매우 유사한 형제 품종이라고 볼 수 있습니다.",
+      "question_en": "Are they related to American Shorthairs?",
+      "answer_en": "Yes, they originated from a natural mutation in an American Shorthair litter, making them very similar in build and temperament."
     }
   ],
-  "visual_comparison_tip": "아메리칸 쇼트헤어와 생김새는 비슷하지만, 털을 만졌을 때 부드럽지 않고 거칠고 탄력 있는 와이어(Wire) 느낌인지 확인하세요.",
+  "visual_comparison_tip": "생김새는 아메리칸 쇼트헤어와 비슷하지만, 털이 거칠고 탄력 있는 와이어(Wire) 느낌인지 확인하세요.",
+  "visual_comparison_tip_en": "Similar in build to the American Shorthair, but check for the unique, crimped, wiry texture of the coat.",
   "meta_tags": {
-    "title": "아메리칸 와이어헤어 고양이 백과: 아메리칸 와이어헤어 고양이 백과: 아메리칸 와이어헤어 도감: 철사 같은 털의 비밀, 성격, 관리 팁 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "세상에서 가장 특별한 털 질감, 아메리칸 와이어헤어의 모든 것. 거친 와이어 코트의 비밀과 튼튼한 건강 관리법, 실제 분양가를 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "아메리칸 와이어헤어 고양이: 성격, 철사 털의 비밀 | nyan",
+    "title_en": "American Wirehair Cat: Wire Coat & Health | nyan",
+    "description_ko": "세상에서 가장 특별한 털 질감, 아메리칸 와이어헤어의 모든 것. 거친 와이어 코트의 비밀과 튼튼한 건강 관리법, 실제 분양가를 확인하세요.",
+    "description_en": "The rugged New Yorker of the cat world, the American Wirehair. Discover their unique crimped coat, robust health, and costs in museum-grade detail.",
+    "keywords_ko": [
       "아메리칸와이어헤어",
-      "와이어헤어고양이",
       "철사고양이",
       "튼튼한고양이",
       "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "American Wirehair",
+      "crimped coat cat",
+      "rare cat breed",
+      "healthy cat",
       "nyan"
     ]
   },
@@ -94,32 +139,40 @@
   "image_macro_path": "/images/Nyan/american-wirehair_macro.png",
   "image_fullbody_path": "/images/Nyan/american-wirehair/american-wirehair_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/american-wirehair/american-wirehair_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종으로 유전병에 매우 강하며, 아메리칸 쇼트헤어의 혈통답게 매우 장수하는 품종입니다.",
-  "local_rarity_ko": "전 세계적으로도 개체 수가 적은 희귀 품종이며 국내에서는 실물을 보기가 거의 불가능할 정도로 귀합니다. 특별한 털 질감과 건강한 신체를 원하는 집사들에게 최고의 품종입니다.",
-  "similar_breed_ids": [
-    "american-shorthair",
-    "british-shorthair",
-    "laperm"
-  ],
   "image_fullbody_side_path": "/images/Nyan/american-wirehair/american-wirehair_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/american-wirehair/american-wirehair_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/american-wirehair/american-wirehair_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/american-wirehair/american-wirehair_coat_texture.webp",
   "image_variant_path": "/images/Nyan/american-wirehair/american-wirehair_variant_full_body.webp",
-  "origin_history_ko": "아메리칸 와이어헤어 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "아메리칸 와이어헤어의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생 종으로 유전병에 매우 강하며, 아메리칸 쇼트헤어의 혈통답게 튼튼하고 장수하는 품종입니다.",
+  "health_notes_en": "A highly robust natural breed with no specific genetic disorders and a long life expectancy.",
+  "local_rarity_ko": "전 세계적으로도 희귀한 품종이며 국내에서는 실물을 보기가 매우 어렵습니다. 건강한 신체와 독특한 개성을 동시에 원하는 집사들에게 인기가 높습니다.",
+  "similar_breed_ids": [
+    "american-shorthair",
+    "british-shorthair",
+    "laperm"
+  ],
+  "origin_history_ko": "1966년 미국 뉴욕의 한 농장에서 아메리칸 쇼트헤어 부모 사이에서 태어난 곱슬털 새끼 고양이 '아담(Adam)'이 시초입니다. 이 독특한 와이어 코트는 우성 유전자에 의해 유전됩니다.",
+  "origin_history_en": "The breed began with a curly-haired kitten named Adam born on a farm in upstate New York in 1966. Their wire coat is the result of a dominant genetic mutation.",
+  "grooming_tips_ko": "털이 끊어질 수 있으므로 강한 빗질보다는 손으로 가볍게 쓰다듬어 주거나 부드러운 브러시를 사용하세요. 털 사이의 유분이 피부염을 유발하지 않도록 가끔 목욕을 시켜주는 것이 좋습니다.",
+  "grooming_tips_en": "Use a soft brush or your hands; harsh grooming can break the delicate wiry hairs. Regular baths are recommended to manage skin oils and prevent irritation.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "저자극 고보습 피부 관리 샴푸",
+      "item_name_en": "Hypoallergenic Moisturizing Shampoo",
+      "reason_ko": "와이어 헤어 특유의 거친 털 사이로 유분이 쌓여 발생할 수 있는 피부 문제를 예방",
+      "reason_en": "Prevents skin issues that can arise from oil buildup within the dense, wiry coat"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "라텍스 소재 부드러운 마사지 브러시",
+      "item_name_en": "Soft Latex Massage Brush",
+      "reason_ko": "와이어 형태의 털을 손상시키지 않으면서 죽은 털만 부드럽게 제거하고 혈액순환을 도움",
+      "reason_en": "Gently removes dead hair and stimulates circulation without damaging the unique wiry structure"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -133,9 +186,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "아메리칸 와이어헤어",
+    "name": "American Wirehair",
     "taxonRank": "Breed",
-    "description": "아메리칸 와이어헤어 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the American Wirehair cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 아메리칸 와이어헤어 고양이의 전신 모습",
@@ -146,5 +199,15 @@
     "eye_macro": "아메리칸 와이어헤어 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "아메리칸 와이어헤어 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "아메리칸 와이어헤어 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an American Wirehair cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the crimped whiskers and alert expression of an American Wirehair",
+    "full_body_front": "Front view of an American Wirehair showing its sturdy and muscular build",
+    "full_body_side": "Lateral full body photo showcasing the wiry and coarse coat texture",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the bright eyes and iris patterns of an American Wirehair cat",
+    "coat_texture": "Macro photo of the wiry, crimped, and springy coat texture",
+    "variant_full_body": "Full body view showing various color variants of the American Wirehair"
   }
 }

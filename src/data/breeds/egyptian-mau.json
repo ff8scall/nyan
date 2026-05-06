@@ -20,7 +20,7 @@
     "smoke"
   ],
   "weight_min_kg": 2.7,
-  "weight_max_kg": 5.0,
+  "weight_max_kg": 5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 1,
@@ -45,23 +45,55 @@
     "집고양이 중 가장 빠른 속도(시속 약 48km)를 낼 수 있는 놀라운 신체 능력을 가짐",
     "구즈베리 그린(연녹색) 눈과 신비로운 외모로 고대 이집트의 우아함을 느낄 수 있음"
   ],
+  "pros_en": [
+    "The only naturally spotted domestic breed with immense historical and aesthetic rarity",
+    "Exceptional athleticism; the fastest of all domestic cats, reaching up to 30 mph",
+    "Stunning 'gooseberry green' eyes and mysterious gaze evoke ancient Egyptian royalty"
+  ],
   "cons": [
     "매우 예민하고 낯가림이 심해 낯선 사람이나 큰 소리에 큰 스트레스를 받을 수 있음",
     "엄청난 활동량을 가지고 있어 좁은 공간보다는 에너지를 발산할 수 있는 환경이 필요함",
     "국내외적으로 개체 수가 매우 적어 입양을 위해 긴 대기 시간과 높은 비용이 소요됨"
   ],
+  "cons_en": [
+    "Highly sensitive and prone to stress from loud noises or unfamiliar strangers",
+    "Extreme energy demands require significant space and daily high-intensity exercise",
+    "Extremely rare globally; adoption involves long waitlists and high premium costs"
+  ],
+  "good_for": [
+    "고양이의 예민한 감성을 이해하고 조용하며 안정적인 환경을 제공할 수 있는 집사",
+    "고대 역사와 자연 발생 품종의 순수성을 높게 평가하는 애묘가",
+    "빠른 속도와 민첩성을 가진 고양이와 적극적으로 놀아줄 수 있는 활동적인 분"
+  ],
+  "good_for_en": [
+    "Owners who can provide a calm, stable environment and respect their sensitive nature",
+    "Fanciers who value ancient history and the purity of naturally occurring breeds",
+    "Active people ready to engage in high-speed, interactive play sessions daily"
+  ],
+  "think_twice_if": [
+    "어린아이들이 소란스럽게 뛰어놀거나 손님이 자주 방문하는 시끄러운 환경",
+    "고양이의 마취 민감성 등 특수한 건강 관리에 대해 세심하게 챙기기 어려운 경우",
+    "고양이가 처음 본 사람에게도 바로 다가가 반겨주길 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Busy households with loud children or frequent visitors that might overwhelm a shy cat",
+    "Owners unable to commit to specialized veterinary care (e.g., anesthesia sensitivity)",
+    "People who expect a cat to be immediately extroverted and friendly with strangers"
+  ],
   "economics": {
     "price_range_ko": "2,500,000원 - 5,500,000원 이상 (희귀 품종)",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $4,000+ (Rare breed standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
-  "summary_en": "The Egyptian Mau is a small-to-medium-sized short-haired cat breed. They are one of the few naturally spotted breeds of domesticated cat.",
+  "summary_en": "The Egyptian Mau is a naturally spotted domestic cat, famous for its incredible speed and gooseberry green eyes.",
   "summary_ko": "고대 이집트 벽화 속 고양이의 직계 후손으로, 신비로운 점박이 무늬와 엄청난 순발력을 가진 살아있는 역사입니다.",
-  "appearance_en": "Natural spotted coat, distinctive gooseberry green eyes, athletic and graceful build, fast runner with skin flap.",
-  "appearance_ko": "인위적 교배 없이 자연적으로 발생한 점박이 무늬와 '구즈베리' 빛의 초록색 눈이 상징입니다. 뒷다리 사이에 피부 플랩이 있어 고양이 중 가장 빠른 속도로 달릴 수 있습니다.",
-  "personality_en": "Extremely loyal, sensitive, and intelligent. They are known for their 'musical' voices and their tendency to wag their tails like dogs when happy. They are shy with strangers but deeply devoted to their families.",
-  "personality_ko": "가족에게는 매우 헌신적이고 다정하지만, 낯선 사람에게는 매우 수줍음을 많이 타는 예민한 성격입니다. 기분이 좋으면 강아지처럼 꼬리를 흔들기도 하며, 노래하는 듯한 독특한 목소리로 집사와 대화하는 것을 좋아합니다.",
-  "care_en": "Minimal grooming is required, but they need significant mental stimulation and interactive play to prevent anxiety. They are sensitive to anesthesia and cold temperatures.",
-  "care_ko": "털 관리는 매우 쉽지만, 성격이 예민하므로 조용하고 안정적인 환경을 조성해 주는 것이 중요합니다. 엄청난 활동량을 해소해 줄 수 있는 놀이가 필수적이며, 추위에 약하므로 겨울철 온습도 관리에 신경 써야 합니다.",
+  "appearance_en": "Naturally spotted coat, gooseberry green eyes, and a lithe, athletic build with a distinctive 'belly flap'.",
+  "appearance_ko": "자연적으로 발생한 점박이 무늬와 연녹색의 '구즈베리' 눈이 상징입니다. 뒷다리 사이에 피부 플랩(Flap)이 있어 고양이 중 가장 빠른 속도로 달릴 수 있는 신체 구조를 가졌습니다.",
+  "personality_en": "Fiercely loyal to family but shy with strangers. Known for 'singing' and wagging their tails.",
+  "personality_ko": "가족에게는 매우 헌신적이지만 낯선 사람에게는 수줍음을 많이 타는 예민한 성격입니다. 기분이 좋으면 강아지처럼 꼬리를 흔들기도 하며, 노래하는 듯한 독특한 목소리로 대화합니다.",
+  "care_en": "Requires minimal grooming but high mental stimulation. Sensitive to cold and certain medications.",
+  "care_ko": "털 관리는 매우 쉽지만, 예민한 성격을 고려한 안정적인 환경이 중요합니다. 엄청난 활동량을 해소할 놀이가 필수이며, 추위에 약하고 마취제 등 약물에 민감할 수 있습니다.",
   "known_risks": [
     {
       "name_en": "Anesthesia sensitivity",
@@ -76,23 +108,37 @@
   ],
   "faq": [
     {
-      "question_ko": "얼마나 빠른가요?",
-      "answer_ko": "시속 48km 이상으로 달릴 수 있어 집고양이 중에서는 단연 1위입니다. 이는 특유의 다리 구조와 강력한 뒷다리 근육 덕분입니다."
+      "question_ko": "정말 그렇게 빠른가요?",
+      "answer_ko": "네, 시속 약 48km까지 달릴 수 있어 집고양이 중 가장 빠릅니다. 이는 특유의 유연한 피부 플랩과 강력한 뒷다리 근육 덕분입니다.",
+      "question_en": "Are they really that fast?",
+      "answer_en": "Yes, they can reach speeds of up to 30 mph, making them the fastest domestic cats. This is thanks to a unique skin flap and powerful hind legs."
     },
     {
-      "question_ko": "목소리가 특이한가요?",
-      "answer_ko": "네, 일반적인 '야옹' 소리보다는 짹짹거리거나 노래하는 듯한 다양한 소리를 내며 집사와 끊임없이 소통하려 합니다."
+      "question_ko": "점박이 무늬는 그린 건가요?",
+      "answer_ko": "아니요, 이집션 마우는 인위적 교배 없이 자연적으로 점무늬가 나타나는 유일한 품종입니다. 털뿐만 아니라 피부에도 점무늬가 있는 것이 특징입니다.",
+      "question_en": "Are their spots artificial?",
+      "answer_en": "No, they are the only naturally spotted domestic cat breed. Interestingly, their spots are not just on the fur but also on their skin."
     }
   ],
-  "visual_comparison_tip": "다른 점박이 고양이와 달리 눈 색깔이 반드시 '구즈베리 그린(연녹색)'이어야 하며, 뒷다리 사이에 피부가 늘어진 '플랩(Flap)'이 있는지 확인하세요.",
+  "visual_comparison_tip": "눈 색깔이 연녹색(Gooseberry Green)인지 확인하고, 뒷다리 사이에 늘어진 피부 플랩이 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Check for vivid gooseberry green eyes and the characteristic skin flap extending from the flank to the hind knee.",
   "meta_tags": {
-    "title": "이집션 마우 고양이 백과: 이집션 마우 고양이 백과: 이집션 마우 도감: 성격, 속도, 고대 이집트의 신비로운 외모 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "파라오가 사랑한 고양이, 이집션 마우의 모든 것. 자연 발생 점무늬와 놀라운 속도, 실제 분양가와 예민한 성격 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "이집션 마우 고양이: 성격, 속도, 구즈베리 눈 | nyan",
+    "title_en": "Egyptian Mau Cat: Speed & History | nyan",
+    "description_ko": "파라오가 사랑한 고양이, 이집션 마우의 모든 것. 자연 발생 점무늬와 놀라운 속도, 실제 분양가와 예민한 성격 관리법을 확인하세요.",
+    "description_en": "The spotted legend of ancient Egypt, the Egyptian Mau. Discover their incredible speed, unique green eyes, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "이집션마우",
       "가장빠른고양이",
-      "자연발생점박이",
-      "이집트고양이",
+      "점박이고양이",
+      "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Egyptian Mau",
+      "fastest cat",
+      "naturally spotted cat",
+      "rare breed",
       "nyan"
     ]
   },
@@ -100,32 +146,40 @@
   "image_macro_path": "/images/Nyan/egyptian-mau_macro.png",
   "image_fullbody_path": "/images/Nyan/egyptian-mau/egyptian-mau_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/egyptian-mau/egyptian-mau_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생 종이라 매우 건강하지만, 마취에 예민한 특성이 있으므로 병원 방문 시 주의가 필요합니다.",
-  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 귀한 품종입니다. 파라오의 고양이라는 수식어에 걸맞게 높은 분양가와 희소성을 가지며, 고양이 전문가들 사이에서도 선망의 대상이 되는 품종입니다.",
-  "similar_breed_ids": [
-    "ocicat",
-    "abyssinian",
-    "bengal"
-  ],
   "image_fullbody_side_path": "/images/Nyan/egyptian-mau/egyptian-mau_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/egyptian-mau/egyptian-mau_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/egyptian-mau/egyptian-mau_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/egyptian-mau/egyptian-mau_coat_texture.webp",
   "image_variant_path": "/images/Nyan/egyptian-mau/egyptian-mau_variant_full_body.webp",
-  "origin_history_ko": "이집션 마우 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "이집션 마우의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "자연 발생 종으로 유전병이 적으나 마취에 매우 민감하므로 수술 시 전문의와 상의가 반드시 필요합니다.",
+  "health_notes_en": "Generally healthy but notably sensitive to anesthesia, requiring caution during medical procedures.",
+  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 희귀한 품종입니다. 파라오의 고양이라는 수식어답게 신비로움과 희소성이 큰 품종입니다.",
+  "similar_breed_ids": [
+    "ocicat",
+    "abyssinian",
+    "bengal"
+  ],
+  "origin_history_ko": "기원전 1500년경 고대 이집트의 유물과 벽화에서 발견되는 점박이 고양이의 후손으로 추정됩니다. 제2차 세계대전으로 멸종 위기에 처했으나 1950년대 러시아 공주 나탈리 트루베츠코야에 의해 미국에서 부활했습니다.",
+  "origin_history_en": "Descended from spotted cats seen in ancient Egyptian artifacts dating back to 1500 BC. The breed was saved from extinction by Russian Princess Nathalie Troubetskoy in the 1950s.",
+  "grooming_tips_ko": "실크 같은 짧은 털은 관리가 매우 쉽습니다. 주 1회 가벼운 빗질로도 충분합니다. 다만 예민한 성향을 고려하여 빗질 시에도 부드럽게 다가가야 합니다.",
+  "grooming_tips_en": "The fine, silky coat is easy to maintain with weekly brushing. Due to their sensitive nature, use a soft touch during grooming sessions.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고성능 추적용 레이저 포인터",
+      "item_name_en": "High-Performance Pursuit Laser",
+      "reason_ko": "시속 48km로 달릴 수 있는 이집션 마우의 엄청난 속도와 민첩성을 충족시키기 위한 실내 놀이 도구",
+      "reason_en": "Ideal for satisfying the high-speed pursuit instincts of the fastest domestic cat breed"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "사계절 온열 고양이 침대",
+      "item_name_en": "Year-round Heated Cat Bed",
+      "reason_ko": "지방층이 적고 추위에 매우 예민한 이집션 마우의 체온을 안정적으로 유지",
+      "reason_en": "Crucial for providing warmth to a breed that is naturally sensitive to cold temperatures"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -139,18 +193,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "이집션 마우",
+    "name": "Egyptian Mau",
     "taxonRank": "Breed",
-    "description": "이집션 마우 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Egyptian Mau cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 이집션 마우 고양이의 전신 모습",
-    "face_portrait": "이집션 마우 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "face_portrait": "이집션 마우 고양이의 특징적인 구즈베리 그린 눈과 얼굴 이목구비가 강조된 초근접 초상화",
     "full_body_front": "이집션 마우 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "이집션 마우 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "이집션 마우 고양이의 자연스러운 점무늬와 날렵한 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "이집션 마우 품종 표준을 보여주는 완벽한 측면 두상 프로필",
-    "eye_macro": "이집션 마우 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "이집션 마우 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "eye_macro": "이집션 마우 고양이 특유의 신비로운 연녹색 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "이집션 마우 고양이의 부드럽고 독특한 자연 점박이 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "이집션 마우 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an Egyptian Mau cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the exotic gooseberry green eyes and alert gaze of an Egyptian Mau",
+    "full_body_front": "Front view of an Egyptian Mau showing its muscular and athletic build",
+    "full_body_side": "Lateral full body photo showcasing the natural spots and unique skin flap",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the vivid gooseberry green eyes and iris patterns of an Egyptian Mau",
+    "coat_texture": "Macro photo of the fine, silky, and naturally spotted coat texture",
+    "variant_full_body": "Full body view showing various silver and bronze variants of the Egyptian Mau"
   }
 }

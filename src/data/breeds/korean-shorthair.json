@@ -2,9 +2,15 @@
   "id": "korean-shorthair",
   "name_en": "Korean Shorthair",
   "name_ko": "코리안 쇼트헤어",
+  "aliases_en": [
+    "Koshot",
+    "Korean Domestic Shorthair",
+    "Chams-goyang-i"
+  ],
   "aliases_ko": [
     "코숏",
-    "참고양이"
+    "참고양이",
+    "한국 토종 고양이"
   ],
   "origin_country": "South Korea",
   "size_category": "medium",
@@ -24,8 +30,8 @@
     "white",
     "gray"
   ],
-  "weight_min_kg": 3.0,
-  "weight_max_kg": 7.0,
+  "weight_min_kg": 3,
+  "weight_max_kg": 7,
   "lifespan_min_years": 12,
   "lifespan_max_years": 18,
   "grooming_level": 1,
@@ -50,23 +56,57 @@
     "매우 영리하고 눈치가 빠르며 집사의 성향에 맞춰 행동하는 유연함을 가짐",
     "털 관리가 매우 쉽고 별도의 미용이 거의 필요하지 않음"
   ],
+  "pros_en": [
+    "Perfectly adapted to the local climate with exceptional immunity and almost no genetic diseases",
+    "Highly intelligent and perceptive; quickly learns to adapt to their owner's lifestyle",
+    "Extremely low maintenance; requires minimal grooming and no specialized styling"
+  ],
   "cons": [
     "품종 표준이 정해지지 않은 자연 발생종이라 개체마다 성격 차이가 매우 큼",
     "활동량이 많아 충분한 놀이 공간과 수직 공간이 확보되지 않으면 스트레스를 받을 수 있음",
     "식탐이 강한 개체가 많아 사료량을 조절하지 않으면 금방 비만이 됨 (일명 '돼냥이')"
   ],
+  "cons_en": [
+    "Varying temperaments due to being a natural breed without strict breed standards",
+    "Requires significant physical activity and vertical space to prevent stress-related issues",
+    "Strong food drive often leads to obesity (lovingly called 'Dwae-nyang-i') if diet isn't managed"
+  ],
+  "good_for": [
+    "건강하고 튼튼하며 잔병치레가 적은 고양이를 찾는 초보 집사",
+    "입양을 통해 생명 존중을 실천하고 한국 고유의 매력을 느끼고 싶은 분",
+    "다양한 무늬와 개성 중 자신과 꼭 맞는 인연을 찾고 싶은 분"
+  ],
+  "good_for_en": [
+    "First-time owners looking for a robust, healthy cat with minimal health issues",
+    "Adopters who want to practice life-saving by rescuing a local native cat",
+    "Those seeking a unique companion from a wide variety of patterns and personalities"
+  ],
+  "think_twice_if": [
+    "성격이 이미 고정된 정형화된 '품종 고양이'의 특성을 원하는 분",
+    "조용하고 얌전하게 무릎 위에만 앉아 있는 무릎냥이만을 기대하는 경우",
+    "활발한 사냥 놀이와 에너지 발산을 위한 시간을 내기 어려운 환경"
+  ],
+  "think_twice_if_en": [
+    "Owners looking for the predictable, standardized traits of a pedigree breed",
+    "People who expect a purely sedentary 'lap cat' without high energy needs",
+    "Households unable to dedicate time for active play and environmental enrichment"
+  ],
   "economics": {
     "price_range_ko": "무료 분양 - 100,000원 (보통 입양)",
-    "monthly_care_cost": "약 80,000원 - 150,000원"
+    "price_range_en": "Adoption based (usually $0 - $100 fee)",
+    "monthly_care_cost": "약 80,000원 - 150,000원",
+    "monthly_care_cost_en": "Approx. $60 - $120"
   },
-  "summary_en": "The Korean Shorthair is a natural breed of domestic cat from South Korea, known for its resilience and diverse coat patterns.",
+  "summary_en": "The Korean Shorthair is a resilient natural breed from South Korea, cherished for its intelligence, diverse patterns, and strong survival instincts.",
   "summary_ko": "우리 곁에서 가장 친숙하게 만날 수 있는 '코숏'으로, 개성 넘치는 무늬와 강한 면역력, 그리고 영리한 눈치로 사랑받는 한국의 고양이입니다.",
-  "appearance_en": "Native Korean domestic cat, diverse patterns (cheese, tuxedo, mackerel), medium sturdy build, active and healthy.",
+  "appearance_en": "Medium sturdy build with a diverse range of patterns including Cheese (Yellow Tabby), Tuxedo, and Mackerel. Highly adapted for agility.",
   "appearance_ko": "한국 토종 고양이로 고등어, 치즈, 턱시도 등 매우 다양한 무늬를 가집니다. 특정 표준은 없지만 대체로 근육질에 영리하며 한국 환경에 최적화된 강한 생존력을 보입니다.",
-  "personality_en": "Highly intelligent, adaptable, and active. They are known for being very affectionate to their families once trust is established.",
+  "personality_en": "Quick-witted and highly adaptable. While they may be cautious at first, they form deep, loyal bonds with their families.",
   "personality_ko": "생존 본능에서 기인한 뛰어난 지능과 적응력을 가졌습니다. 처음에는 경계심이 있을 수 있으나, 마음을 열면 그 누구보다 깊은 유대감을 형성하는 따뜻한 성격입니다.",
-  "care_en": "Requires minimal grooming. Regular play sessions are essential to satisfy their high activity levels.",
+  "care_en": "Excellent self-groomers. Requires regular interactive play to satisfy their hunting instincts and prevent weight gain.",
   "care_ko": "특별한 관리가 필요 없을 정도로 스스로 그루밍을 잘합니다. 다만 활동량이 많으므로 사냥 놀이를 통해 에너지를 발산해 주어야 건강을 유지할 수 있습니다.",
+  "health_notes_ko": "자연 발생종이라 유전적 결함이 거의 없으며, 전 세계 고양이 중에서도 건강 상태가 최상위에 속합니다. 다만 중성화 이후 비만을 주의해야 합니다.",
+  "health_notes_en": "A naturally developed breed with minimal genetic defects and exceptional overall health. Post-neutering weight management is the primary health concern.",
   "known_risks": [
     {
       "name_en": "Obesity",
@@ -82,72 +122,107 @@
   "faq": [
     {
       "question_ko": "코숏도 품종 고양이인가요?",
-      "answer_ko": "공식적으로 등록된 순종(Pedigree)은 아니지만, 한국의 자연 발생종으로서 독자적인 정체성을 인정받고 있습니다."
+      "answer_ko": "공식적으로 등록된 순종(Pedigree)은 아니지만, 한국의 자연 발생종으로서 독자적인 정체성을 인정받고 있습니다.",
+      "question_en": "Is the Korean Shorthair a pedigree breed?",
+      "answer_en": "While not formally registered as a pedigree breed like the Siamese, it is recognized as a unique natural breed native to the Korean peninsula."
     },
     {
       "question_ko": "어떤 무늬가 가장 인기가 많나요?",
-      "answer_ko": "밝고 다정한 느낌의 '치즈 태비'와 똑똑해 보이는 '고등어 태비', 세련된 '턱시도'가 골고루 사랑받고 있습니다."
+      "answer_ko": "밝고 다정한 느낌의 '치즈 태비'와 똑똑해 보이는 '고등어 태비', 세련된 '턱시도'가 골고루 사랑받고 있습니다.",
+      "question_en": "Which patterns are most popular?",
+      "answer_en": "The warm 'Cheese Tabby', the intelligent-looking 'Mackerel Tabby', and the sophisticated 'Tuxedo' are all widely beloved."
+    },
+    {
+      "question_ko": "길고양이와 코리안 쇼트헤어는 다른가요?",
+      "answer_ko": "한국의 길에서 생활하는 대부분의 고양이가 코리안 쇼트헤어 품종에 속합니다. 즉, 같은 고양이를 부르는 다른 명칭으로 이해하시면 됩니다.",
+      "question_en": "Is there a difference between street cats and Korean Shorthairs?",
+      "answer_en": "Most cats living on the streets in Korea belong to the Korean Shorthair breed. They are essentially different names for the same native feline population."
+    },
+    {
+      "question_ko": "수명이 얼마나 되나요?",
+      "answer_ko": "실내에서 적절한 케어를 받으며 생활할 경우 15년에서 20년까지도 건강하게 장수하는 경우가 많습니다.",
+      "question_en": "What is their average lifespan?",
+      "answer_en": "With proper indoor care and nutrition, they often live healthy lives for 15 to 20 years, outliving many pedigree breeds."
+    },
+    {
+      "question_ko": "성격이 사납지는 않나요?",
+      "answer_ko": "야생성이 남아있는 개체는 경계심이 강할 수 있지만, 어린 시절부터 사회화 과정을 거치면 매우 다정하고 애교 많은 '개냥이'가 됩니다.",
+      "question_en": "Are they aggressive?",
+      "answer_en": "While those in the wild may be cautious, with early socialization, they become incredibly affectionate and loyal companions, often acting like 'lap dogs'."
     }
   ],
   "visual_comparison_tip": "치즈 태비, 고등어 태비, 턱시도, 삼색이 등 한국인에게 가장 친숙한 무늬를 가졌으며, 아메리칸 쇼트헤어보다 얼굴이 더 갸름하고 다리가 긴 편입니다.",
+  "visual_comparison_tip_en": "Features familiar patterns like Cheese Tabby or Tuxedo; has a more slender face and longer legs compared to the American Shorthair.",
   "meta_tags": {
-    "title": "코리안 쇼트헤어 고양이 백과: 코리안 쇼트헤어 고양이 백과: 코리안 쇼트헤어 도감: 한국의 소중한 반려묘 코숏의 모든 것 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "가장 친근하지만 가장 특별한 우리 고양이, 코리안 쇼트헤어. 건강하고 영리한 코숏의 성격과 관리법을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "코리안 쇼트헤어(코숏) 도감: 성격, 무늬 종류, 건강 관리 | nyan",
+    "title_en": "Korean Shorthair Cat: Patterns & Care | nyan",
+    "description_ko": "가장 친근하지만 가장 특별한 우리 고양이, 코리안 쇼트헤어의 모든 것. 건강하고 영리한 코숏의 성격, 다양한 무늬(치즈, 고등어 등), 입양 팁을 nyan에서 확인하세요.",
+    "description_en": "Discover the resilient and intelligent Korean Shorthair. Learn about their diverse patterns, exceptional health, and loyal nature in our museum-grade archive.",
+    "keywords_ko": [
       "코리안쇼트헤어",
       "코숏",
       "고등어태비",
       "치즈태비",
-      "한국고양이",
+      "한국토종고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Korean Shorthair",
+      "Koshot",
+      "Korean cat breed",
+      "Cheese tabby",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/korean-shorthair/korean-shorthair_hero.webp",
-  "image_macro_path": "/images/Nyan/korean-shorthair_macro.png",
   "image_fullbody_path": "/images/Nyan/korean-shorthair/korean-shorthair_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/korean-shorthair/korean-shorthair_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자연 발생종이라 유전적 결함이 거의 없으며, 전 세계 고양이 중에서도 건강 상태가 최상위에 속합니다.",
-  "local_rarity_ko": "한국에서 가장 많이 볼 수 있는 친근한 존재이며, 유기묘 보호소나 길거리 구조를 통해 가족이 되는 경우가 가장 많습니다.",
-  "similar_breed_ids": [
-    "american-shorthair",
-    "japanese-bobtail",
-    "bengal"
-  ],
   "image_fullbody_side_path": "/images/Nyan/korean-shorthair/korean-shorthair_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/korean-shorthair/korean-shorthair_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/korean-shorthair/korean-shorthair_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/korean-shorthair/korean-shorthair_coat_texture.webp",
   "image_variant_path": "/images/Nyan/korean-shorthair/korean-shorthair_variant_full_body.webp",
-  "origin_history_ko": "코리안 쇼트헤어 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "코리안 쇼트헤어의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "american-shorthair",
+    "japanese-bobtail",
+    "bengal"
+  ],
+  "origin_history_ko": "한반도의 역사와 함께해온 자생종으로, 고구려 벽화나 조선시대 민화 등에 등장할 정도로 오랜 시간 한국인과 함께 살았습니다. 특정 육종가의 의도가 아닌 자연 선택에 의해 형성된 강인한 혈통입니다.",
+  "origin_history_en": "A natural breed that has lived alongside Koreans for centuries, appearing in ancient murals and traditional paintings. Their lineage is shaped by natural selection rather than intentional breeding.",
+  "grooming_tips_ko": "특별한 미용은 필요 없으나, 털 빠짐이 적지 않으므로 주 1~2회 빗질로 죽은 털을 제거해 주는 것이 좋습니다. 활동량이 많으므로 발톱 관리를 정기적으로 해주어야 가구나 장판의 손상을 방지할 수 있습니다.",
+  "grooming_tips_en": "Minimal grooming required, but weekly brushing helps manage shedding. Due to their high activity levels, regular nail trimming is recommended to protect your home environment.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "대형 캣타워 및 수직 공간",
+      "item_name_en": "Large Cat Tree & Vertical Space",
+      "reason_ko": "에너지가 넘치고 높은 곳을 좋아하는 코숏의 본능을 충족시키고 스트레스를 해소하기 위함",
+      "reason_en": "Essential for satisfying their natural climbing instincts and high energy levels"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "자동 급식기 또는 지능형 급식기",
+      "item_name_en": "Automatic or Puzzle Feeder",
+      "reason_ko": "식탐이 많은 개체의 식사량을 조절하여 비만을 예방하고 지능적 자극을 제공",
+      "reason_en": "Helps manage the strong food drive of this breed to prevent obesity while providing mental stimulation"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
-      "source_name": "CFA (The Cat Fanciers' Association)",
-      "url": "https://cfa.org"
+      "source_name": "Korean Society of Feline Medicine",
+      "url": "http://www.ksfm.or.kr"
     },
     {
-      "source_name": "TICA (The International Cat Association)",
-      "url": "https://tica.org"
+      "source_name": "Animal and Plant Quarantine Agency (Korea)",
+      "url": "https://www.qia.go.kr"
     }
   ],
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "코리안 쇼트헤어",
+    "name": "Korean Shorthair",
     "taxonRank": "Breed",
-    "description": "코리안 쇼트헤어 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Korean Shorthair (Koshot) breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 코리안 쇼트헤어 고양이의 전신 모습",
@@ -158,5 +233,17 @@
     "eye_macro": "코리안 쇼트헤어 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "코리안 쇼트헤어 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "코리안 쇼트헤어 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a sturdy Korean Shorthair cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the alert and intelligent expression of a Korean Shorthair",
+    "full_body_front": "Front view of a Korean Shorthair showing its athletic and resilient build",
+    "full_body_side": "Lateral view showcasing the agile silhouette and diverse coat pattern",
+    "strict_profile": "90-degree profile view for anatomical study of the native Korean cat",
+    "eye_macro": "Macro shot of the expressive eyes of a Korean Shorthair cat",
+    "coat_texture": "Detailed photo showing the dense and weather-resistant coat texture",
+    "variant_full_body": "Showcase of the various patterns like Tuxedo or Cheese Tabby found in the breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

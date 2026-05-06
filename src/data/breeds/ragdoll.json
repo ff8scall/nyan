@@ -2,6 +2,11 @@
   "id": "ragdoll",
   "name_en": "Ragdoll",
   "name_ko": "렉돌",
+  "aliases_en": [
+    "Puppy-cat",
+    "Floppy Cat",
+    "Gentle Giant"
+  ],
   "aliases_ko": [
     "래그돌",
     "헝겊인형 고양이"
@@ -25,7 +30,7 @@
     "cream"
   ],
   "weight_min_kg": 4.5,
-  "weight_max_kg": 9.0,
+  "weight_max_kg": 9,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 4,
@@ -50,14 +55,46 @@
     "활동량이 적어 아파트 생활에 최적화됨",
     "바닥에 누워 있는 성향이 강해 가구 파손 위험이 낮음"
   ],
+  "pros_en": [
+    "Virtually no aggression and gets along exceptionally well with children",
+    "Low activity levels make them perfectly suited for apartment living",
+    "Strong tendency to stay on the floor reduces risk of furniture damage"
+  ],
   "cons": [
     "중장모종으로 털 빠짐과 엉킴 관리에 시간이 필요함",
     "너무 온순하여 위험한 상황에서도 대처가 느릴 수 있음",
     "식탐이 강해 비만이 될 확률이 높음"
   ],
+  "cons_en": [
+    "Semi-long coat requires significant time for grooming and tangle management",
+    "So docile they may be slow to react in dangerous situations",
+    "High food drive leads to a higher risk of obesity"
+  ],
+  "good_for": [
+    "아이들이 있는 가정이나 온순한 동반자를 찾는 분",
+    "조용한 환경의 아파트 거주자",
+    "고양이의 털 관리와 교감을 즐기는 분"
+  ],
+  "good_for_en": [
+    "Families with children looking for a gentle companion",
+    "Owners living in apartments who prefer a quiet environment",
+    "People who enjoy spending time on coat care and bonding"
+  ],
+  "think_twice_if": [
+    "주기적인 빗질과 털 관리가 어려운 경우",
+    "매우 활동적이고 에너지가 넘치는 고양이를 원하는 분",
+    "작고 가벼운 체구의 고양이를 선호하는 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who cannot commit to regular brushing",
+    "Homes that need a highly active or athletic cat",
+    "People who prefer a small or lightweight breed"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$2,000 - $4,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
   "summary_en": "The Ragdoll is a large, blue-eyed, semi-longhaired cat with a docile and placid temperament.",
   "summary_ko": "사파이어 같은 푸른 눈과 구름 같은 털을 가진 렉돌은, 안아 올리면 인형처럼 몸을 맡기는 세상에서 가장 다정한 신사입니다.",
@@ -67,6 +104,8 @@
   "personality_ko": "지극히 온순하고 차분합니다. 안아 올리면 인형처럼 몸을 축 늘어뜨리는 특징 때문에 '렉돌(Ragdoll)'이라는 이름이 붙었으며, 사람을 잘 따라 '개냥이'의 대명사로 불립니다.",
   "care_en": "Requires regular grooming to prevent tangles. Their calm nature makes them excellent indoor companions, but they need interactive play to stay healthy.",
   "care_ko": "털이 잘 엉키지 않는 실크 질감이지만, 풍성한 모량을 유지하기 위해 주 2~3회 이상의 빗질이 권장됩니다. 활동량이 적으므로 집사가 적극적으로 놀이를 유도하여 체중을 관리해 주어야 합니다.",
+  "health_notes_ko": "비대성 심근증(HCM)에 대한 유전적 스크리닝과 신장 건강 관리가 중요하며, 특히 대형묘이므로 비만으로 인한 심장 부담을 줄이는 것이 핵심입니다.",
+  "health_notes_en": "Genetic screening for HCM and monitoring kidney health are crucial. For large breeds like Ragdolls, preventing obesity is vital to reduce strain on the heart.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -82,54 +121,90 @@
   "faq": [
     {
       "question_ko": "렉돌은 정말 통증을 못 느끼나요?",
-      "answer_ko": "아니요, 다른 고양이와 똑같이 통증을 느끼지만 성격이 매우 온순하여 반응이 얌전할 뿐입니다. 세심한 배려가 필요합니다."
+      "answer_ko": "아니요, 다른 고양이와 똑같이 통증을 느끼지만 성격이 매우 온순하여 반응이 얌전할 뿐입니다. 세심한 배려가 필요합니다.",
+      "question_en": "Do Ragdolls really not feel pain?",
+      "answer_en": "No, they feel pain just like any other cat. They are simply very docile and tend to react calmly, which requires extra attentiveness from the owner."
     },
     {
       "question_ko": "아이들과 키우기에 위험하지 않을까요?",
-      "answer_ko": "오히려 아이들의 거친 손길을 가장 잘 받아주는 품종 중 하나입니다. 하지만 고양이가 스트레스를 받지 않도록 아이들에게 올바른 상호작용법을 가르치는 것이 좋습니다."
+      "answer_ko": "오히려 아이들의 거친 손길을 가장 잘 받아주는 품종 중 하나입니다. 하지만 고양이가 스트레스를 받지 않도록 아이들에게 올바른 상호작용법을 가르치는 것이 좋습니다.",
+      "question_en": "Is it safe to keep them with children?",
+      "answer_en": "They are one of the best breeds for children due to their high tolerance. However, it's important to teach children how to interact respectfully with them."
+    },
+    {
+      "question_ko": "모든 렉돌은 파란 눈을 가지나요?",
+      "answer_ko": "네, 정통 렉돌은 반드시 맑고 푸른 눈을 가져야 합니다. 눈 색깔이 푸른색이 아니라면 라가머핀 등 다른 품종일 가능성이 높습니다.",
+      "question_en": "Do all Ragdolls have blue eyes?",
+      "answer_en": "Yes, standard Ragdolls must have clear blue eyes. If a cat has eyes of another color, it is likely a Ragamuffin or another related breed."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "장모종이므로 털 빠짐은 상당합니다. 다만 털의 질감이 실크처럼 매끄러워 다른 장모종에 비해 덜 엉키는 편이라 빗질 관리는 수월한 편입니다.",
+      "question_en": "Do they shed a lot?",
+      "answer_en": "As a longhair breed, shedding is significant. However, their silky coat is more resistant to matting than other breeds, making the grooming process relatively easier."
+    },
+    {
+      "question_ko": "혼자 두면 외로워하나요?",
+      "answer_ko": "사람에 대한 의존도가 매우 높은 '껌딱지' 품종입니다. 혼자 있는 시간이 너무 길면 분리 불안을 느낄 수 있으므로 다묘 가정이나 함께 시간을 많이 보낼 수 있는 분께 적합합니다.",
+      "question_en": "Do they get lonely easily?",
+      "answer_en": "They are highly social 'puppy-cats' that thrive on human attention. Long periods of isolation can cause stress; they are best suited for households with frequent company."
     }
   ],
   "visual_comparison_tip": "버만보다 체구가 훨씬 크고, 발 끝의 흰 '장갑' 무늬가 버만만큼 일정하게 나타나지 않을 수 있습니다.",
+  "visual_comparison_tip_en": "Significantly larger than a Birman; the white 'mitted' markings may not be as symmetrical as a Birman's standards.",
   "meta_tags": {
-    "title": "렉돌 고양이 백과: 렉돌 고양이 백과: 렉돌(Ragdoll) 고양이 도감: 성격, 털 빠짐, 분양가 완벽 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "푸른 눈의 천사 렉돌의 모든 것. 아이들과 함께 키우기 좋은 이유와 실제 유지 비용, 유전병 예방 팁을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "렉돌 고양이: 성격, 털 빠짐, 분양가 완벽 | nyan",
+    "title_en": "Ragdoll Cat: Shedding & Care | nyan",
+    "description_ko": "푸른 눈의 천사 렉돌의 모든 것. 아이들과 함께 키우기 좋은 이유와 실제 유지 비용, 유전병 예방 팁을 박물관급 디테일로 확인하세요.",
+    "description_en": "Everything about the blue-eyed angel, the Ragdoll. Discover why they are great with kids, monthly costs, and health tips in museum-grade detail.",
+    "keywords_ko": [
       "렉돌",
       "래그돌",
       "고양이품종",
       "거대묘",
       "nyan"
+    ],
+    "keywords_en": [
+      "Ragdoll",
+      "cat breed",
+      "large cat",
+      "docile cat",
+      "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/ragdoll/ragdoll_hero.webp",
-  "image_frontal_path": "/images/Nyan/ragdoll/ragdoll_face_portrait.webp",
   "image_fullbody_path": "/images/Nyan/ragdoll/ragdoll_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/ragdoll/ragdoll_face_portrait.webp",
   "image_fullbody_side_path": "/images/Nyan/ragdoll/ragdoll_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/ragdoll/ragdoll_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/ragdoll/ragdoll_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/ragdoll/ragdoll_coat_texture.webp",
   "image_variant_path": "/images/Nyan/ragdoll/ragdoll_variant_full_body.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
-  "health_notes_ko": "비대성 심근증(HCM)에 대한 유전적 스크리닝과 신장 건강 관리가 중요합니다.",
-  "local_rarity_ko": "국내 럭셔리 반려 문화에서 선호도 1위 품종이지만, 정통 혈통 캐터리는 예약 대기가 길 수 있습니다. 아파트 환경에 가장 적합한 '조용한 신사'입니다.",
   "similar_breed_ids": [
     "birman",
     "himalayan",
     "maine-coon"
   ],
-  "origin_history_ko": "렉돌 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "렉돌의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "origin_history_ko": "1960년대 미국 캘리포니아의 앤 베이커에 의해 개발되었습니다. 안아 올리면 인형처럼 축 늘어지는 특유의 온순함으로 유명하며, 1990년대 주요 고양이 협회에서 정식 품종으로 인정받았습니다.",
+  "origin_history_en": "Developed in California in the 1960s by Ann Baker. Known for their placid temperament and tendency to go limp like a ragdoll when picked up, they were officially recognized by major associations in the 1990s.",
+  "grooming_tips_ko": "실크 같은 털은 잘 엉키지 않지만, 풍성한 모량 관리를 위해 주 2~3회 빗질이 필요합니다. 특히 배와 겨드랑이 부분을 신경 써주어야 합니다.",
+  "grooming_tips_en": "Their silky coat doesn't mat easily, but 2-3 brushings per week are recommended to manage shedding and maintain volume. Pay special attention to the belly and underarms.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "전용 슬리커 브러쉬",
+      "item_name_en": "Professional Slicker Brush",
+      "reason_ko": "죽은 털 제거 및 모질 관리",
+      "reason_en": "Essential for removing dead undercoat and preventing mats"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "대형 스크래쳐",
+      "item_name_en": "Large-scale Scratcher",
+      "reason_ko": "스트레스 해소 및 발톱 관리",
+      "reason_en": "Provides a healthy outlet for natural scratching behaviors"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -143,9 +218,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "렉돌",
+    "name": "Ragdoll",
     "taxonRank": "Breed",
-    "description": "렉돌 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Ragdoll cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 렉돌 고양이의 전신 모습",
@@ -156,5 +231,17 @@
     "eye_macro": "렉돌 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "렉돌 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "렉돌 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Ragdoll cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the distinctive facial features of a Ragdoll",
+    "full_body_front": "Front view of a Ragdoll showing its sturdy build",
+    "full_body_side": "Lateral full body photo showcasing the elegant silhouette of a Ragdoll",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the mysterious blue eyes and iris patterns of a Ragdoll",
+    "coat_texture": "Macro photo of the soft and unique silky coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Ragdoll"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

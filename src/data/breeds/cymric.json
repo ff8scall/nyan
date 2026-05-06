@@ -18,7 +18,7 @@
     "all_colors"
   ],
   "weight_min_kg": 3.5,
-  "weight_max_kg": 6.0,
+  "weight_max_kg": 6,
   "lifespan_min_years": 10,
   "lifespan_max_years": 14,
   "grooming_level": 4,
@@ -43,23 +43,55 @@
     "성격이 매우 온화하고 사람을 잘 따르며 집사의 무릎을 좋아하는 다정한 개냥이임",
     "지능이 높고 충성심이 강해 집안의 평화를 지키는 든든한 동반자 역할을 함"
   ],
+  "pros_en": [
+    "Mysterious tailless appearance and unique 'rabbit-hop' gait are highly endearing",
+    "Exceptionally gentle and affectionate; a true 'lap cat' that thrives on human contact",
+    "Intelligent and loyal; acts as a steady and protective companion in the household"
+  ],
   "cons": [
     "꼬리가 없는 유전적 특징(맹크스 유전자)으로 인해 척추 관련 질환(맹크스 증후군) 위험이 있음",
     "이중모 장모종이라 털 빠짐이 상당하며 매일 정기적인 빗질과 털 관리가 필수적임",
     "뒷다리가 앞다리보다 길어 점프력이 매우 좋으므로 높은 곳의 물건 관리에 주의가 필요함"
   ],
+  "cons_en": [
+    "The same genetic trait that removes the tail (Manx gene) poses risks of spinal issues",
+    "Heavy shedding from a dense double coat requires daily grooming commitment",
+    "Powerful hind legs enable high jumps; requires 'cat-proofing' of high shelves"
+  ],
+  "good_for": [
+    "꼬리 없는 고양이의 독특한 매력과 장모종의 화려함을 동시에 즐기고 싶은 분",
+    "집사와 감정적으로 깊이 교감하며 하루 종일 곁을 지켜줄 고양이를 찾는 분",
+    "고양이의 건강 상태를 세심하게 관찰하고 유전적 소인에 대해 공부할 의지가 있는 집사"
+  ],
+  "good_for_en": [
+    "Owners who appreciate both the tailless mutation and the elegance of long fur",
+    "People seeking a deeply bonded companion that follows them throughout the house",
+    "Diligent owners willing to monitor health closely for potential genetic spinal issues"
+  ],
+  "think_twice_if": [
+    "고양이의 털 빠짐에 예민하거나 매일 빗질해 줄 시간이 부족한 경우",
+    "척추나 배변 관련 유전병 발병 가능성에 대해 심리적/경제적 부담을 느끼는 분",
+    "고양이가 아주 독립적이고 혼자만의 시간을 즐기길 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Those sensitive to cat fur or lacking time for intensive daily grooming sessions",
+    "Owners who find the possibility of genetic spinal or bowel issues too stressful",
+    "People who prefer an independent pet that doesn't require constant attention"
+  ],
   "economics": {
     "price_range_ko": "1,800,000원 - 3,800,000원",
-    "monthly_care_cost": "약 140,000원 - 220,000원"
+    "price_range_en": "$1,200 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 140,000원 - 220,000원",
+    "monthly_care_cost_en": "Approx. $110 - $170"
   },
-  "summary_en": "The Cymric is a breed of domestic cat. Some cat registries consider the Cymric simply a long-haired variety of the Manx breed, rather than a separate breed.",
+  "summary_en": "The Cymric is essentially a long-haired variety of the Manx cat, sharing the same tailless trait and sturdy, round build.",
   "summary_ko": "꼬리 대신 토끼처럼 깡충거리는 뒷다리 걸음걸이가 매력적인 품종으로, 장모종 특유의 풍성함과 맹크스의 다정함을 가졌습니다.",
-  "appearance_en": "Longhair version of Manx, tailless or short stump, round 'bear-like' appearance with a dense double coat.",
+  "appearance_en": "Long-haired version of the Manx; tailless or short-stumped, with a round, substantial body and dense plush coat.",
   "appearance_ko": "맹크스의 장모종 버전으로, 꼬리가 없거나 아주 짧은 것이 특징입니다. 둥글둥글한 얼굴과 곰 같은 실루엣, 그리고 아주 빽빽하고 부드러운 이중모를 가졌습니다.",
-  "personality_en": "Gentle, quiet, and highly affectionate. Cymrics are known for being people-oriented and are often described as having a dog-like loyalty. They are intelligent and enjoy following their owners around the house.",
-  "personality_ko": "매우 부드럽고 차분한 성격입니다. 가족에 대한 충성심이 강해 집사가 어디를 가든 졸졸 따라다니는 '개냥이' 성향이 있으며, 조용하면서도 다정한 눈빛으로 집사와 교감하는 것을 즐깁니다. 영리하여 장난감을 물어오거나 집안의 분위기를 잘 살피는 똑똑한 동반자입니다.",
-  "care_en": "Requires regular grooming to manage their thick double coat and prevent mats. They are generally healthy but can be susceptible to 'Manx syndrome', which affects the spine and bowels.",
-  "care_ko": "풍성한 이중모를 가졌으므로 매일 꼼꼼한 빗질을 통해 털 엉킴을 방지해야 합니다. 꼬리가 없는 유전적 특성상 척추가 짧아 발생할 수 있는 '맹크스 증후군'에 대한 정기적인 수의학적 검진이 필수적입니다. 점프력이 좋으므로 실내 수직 공간을 잘 마련해 주는 것이 좋습니다.",
+  "personality_en": "Gentle, quiet, and intensely loyal. Known as a 'puppy-cat' for their habit of following owners around.",
+  "personality_ko": "매우 부드럽고 차분한 성격입니다. 가족에 대한 충성심이 강해 집사가 어디를 가든 졸졸 따라다니는 '개냥이' 성향이 있으며, 영리하여 집안 분위기를 잘 살핍니다.",
+  "care_en": "Requires intensive daily grooming. Must be monitored for 'Manx syndrome' affecting the spine and bowels.",
+  "care_ko": "풍성한 이중모를 가졌으므로 매일 꼼꼼하게 빗질해야 합니다. 꼬리가 없는 유전적 특성상 척추 질환인 '맹크스 증후군'에 대한 정기적인 검진이 필수적입니다.",
   "known_risks": [
     {
       "name_en": "Manx syndrome (spinal issues)",
@@ -75,23 +107,36 @@
   "faq": [
     {
       "question_ko": "꼬리가 없는데 균형을 잘 잡나요?",
-      "answer_ko": "네, 킴릭은 뒷다리 근육이 매우 발달하여 꼬리 없이도 놀라운 점프력과 균형 감각을 보여줍니다. 다른 고양이보다 토끼처럼 깡충깡충 뛰는 듯한 걸음걸이가 특징입니다."
+      "answer_ko": "네, 킴릭은 뒷다리 근육이 매우 발달하여 꼬리 없이도 놀라운 점프력과 균형 감각을 보여줍니다. 토끼처럼 깡충거리는 듯한 특유의 걸음걸이가 특징입니다.",
+      "question_en": "Can they balance without a tail?",
+      "answer_en": "Yes, their powerful hindquarters compensate for the lack of a tail, providing excellent balance and jumping ability. They move with a unique rabbit-like hop."
     },
     {
       "question_ko": "맹크스와 무엇이 다른가요?",
-      "answer_ko": "유전적으로는 맹크스와 같지만, 털의 길이에 따라 단모는 맹크스, 장모는 킴릭으로 구분합니다."
+      "answer_ko": "유전적으로는 맹크스와 같지만, 털의 길이에 따라 단모는 맹크스, 장모는 킴릭으로 구분합니다. 이름은 '웨일스어'에서 유래되었습니다.",
+      "question_en": "How do they differ from the Manx?",
+      "answer_en": "They are genetically identical to the Manx; the only difference is coat length. Short-haired are Manx, and long-haired are Cymric. The name comes from 'Cymru', the Welsh name for Wales."
     }
   ],
-  "visual_comparison_tip": "맹크스와 똑같이 꼬리가 없거나 매우 짧지만, 털이 길고 풍성한 '장모종'인지 확인하세요.",
+  "visual_comparison_tip": "꼬리가 없거나 매우 짧으면서, 털이 길고 풍성한 이중모(Double coat)인지 확인하세요.",
+  "visual_comparison_tip_en": "Look for the complete lack of a tail combined with a long, thick, and plush double coat.",
   "meta_tags": {
-    "title": "킴릭 고양이 백과: 킴릭 고양이 백과: 킴릭 도감: 꼬리 없는 장모 고양이, 성격, 맹크스 증후군 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "신비로운 꼬리 없는 고양이 킴릭의 모든 것. 장모종의 우아함과 토끼 같은 걸음걸이, 실제 분양가와 건강 관리법을 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "킴릭 고양이: 성격, 꼬리 없는 장모 고양이 | nyan",
+    "title_en": "Cymric Cat: Tailless Trait & Care | nyan",
+    "description_ko": "신비로운 꼬리 없는 고양이 킴릭의 모든 것. 장모종의 우아함과 토끼 같은 걸음걸이, 실제 분양가와 건강 관리법을 확인하세요.",
+    "description_en": "The long-haired mystery of the Isle of Man, the Cymric. Discover their tailless trait, rabbit-hop gait, and care in museum-grade detail.",
+    "keywords_ko": [
       "킴릭",
-      "킴릭고양이",
       "꼬리없는고양이",
       "장모맹크스",
       "토끼고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Cymric cat",
+      "longhaired Manx",
+      "tailless cat",
+      "rabbit gait cat",
       "nyan"
     ]
   },
@@ -99,32 +144,40 @@
   "image_macro_path": "/images/Nyan/cymric_macro.png",
   "image_fullbody_path": "/images/Nyan/cymric/cymric_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/cymric/cymric_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "맹크스 증후군(Manx syndrome)으로 인한 배변 장애나 척추 문제를 예방하기 위해 전문 브리더를 통한 건강 확인이 중요합니다.",
-  "local_rarity_ko": "국내에서 맹크스보다 더 보기 힘든 매우 희귀한 품종입니다. 꼬리가 없는 신비로움과 장모종의 우아함을 동시에 원하는 집사들에게 최고의 가치를 지닌 고양이입니다.",
-  "similar_breed_ids": [
-    "manx",
-    "japanese-bobtail",
-    "persian"
-  ],
   "image_fullbody_side_path": "/images/Nyan/cymric/cymric_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/cymric/cymric_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/cymric/cymric_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/cymric/cymric_coat_texture.webp",
   "image_variant_path": "/images/Nyan/cymric/cymric_variant_full_body.webp",
-  "origin_history_ko": "킴릭 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "킴릭의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "맹크스 증후군으로 인한 배변 장애나 척추 문제를 예방하기 위해 전문 브리더를 통한 혈통 확인과 정기 검진이 매우 중요합니다.",
+  "health_notes_en": "Verification of bloodlines and regular spinal/bowel checkups are critical due to the potential for Manx syndrome.",
+  "local_rarity_ko": "국내에서 맹크스보다 더 보기 힘든 매우 희귀한 품종으로, 전문 캐터리를 통해서만 만날 수 있는 프리미엄 반려묘입니다.",
+  "similar_breed_ids": [
+    "manx",
+    "japanese-bobtail",
+    "persian"
+  ],
+  "origin_history_ko": "영국 맨 섬(Isle of Man)에서 발생한 맹크스 품종 중 장모 유전자를 가진 개체들을 캐나다 브리더들이 1960년대부터 독립된 품종으로 발전시켰습니다. '킴릭'이라는 이름은 웨일스어로 웨일스 사람을 뜻합니다.",
+  "origin_history_en": "Developed in Canada during the 1960s from long-haired kittens born in Manx litters on the Isle of Man. Though genetically Manx, the long-haired variety was standardized as a separate breed.",
+  "grooming_tips_ko": "이중모 장모종이므로 털 뭉침이 쉽게 발생합니다. 매일 금속 콤을 사용하여 속털까지 깊숙이 빗질해 주세요. 특히 꼬리가 없는 항문 주변은 청결 유지를 위해 털을 다듬어 주는 것이 좋습니다.",
+  "grooming_tips_en": "The dense double coat mats easily; daily brushing with a metal comb is required. It's often helpful to trim the fur around the tailless hindquarters to maintain hygiene.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급 장모용 메탈 콤 (빗)",
+      "item_name_en": "Premium Longhair Metal Comb",
+      "reason_ko": "킴릭의 매우 빽빽한 이중모 속까지 깊숙이 빗질하여 털 엉킴과 뭉침을 방지",
+      "reason_en": "Essential for reaching deep into the dense double coat to prevent painful matting"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "저자극 항문 주변 청결 티슈",
+      "item_name_en": "Hypoallergenic Pet Wipes",
+      "reason_ko": "꼬리가 없어 오염되기 쉬운 항문 주변을 자극 없이 청결하게 관리하기 위한 필수품",
+      "reason_en": "Helps maintain hygiene around the tailless area which can be prone to soiling"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,18 +191,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "킴릭",
+    "name": "Cymric",
     "taxonRank": "Breed",
-    "description": "킴릭 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Cymric cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 킴릭 고양이의 전신 모습",
     "face_portrait": "킴릭 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
     "full_body_front": "킴릭 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "킴릭 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "킴릭 고양이의 꼬리가 없는 특징적인 실루엣과 우아한 장모를 확인할 수 있는 측면 전신 사진",
     "strict_profile": "킴릭 품종 표준을 보여주는 완벽한 측면 두상 프로필",
     "eye_macro": "킴릭 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "킴릭 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "coat_texture": "킴릭 고양이의 빽빽하고 부드러운 이중모 질감을 보여주는 초근접 사진",
     "variant_full_body": "킴릭 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Cymric cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the sweet expression and round face of a Cymric",
+    "full_body_front": "Front view of a Cymric showing its sturdy and substantial cobby build",
+    "full_body_side": "Lateral full body photo showcasing the tailless silhouette and long flowing fur",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes and iris patterns of a Cymric cat",
+    "coat_texture": "Macro photo of the dense, plush, and long double coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Cymric"
   }
 }

@@ -2,6 +2,10 @@
   "id": "australian-mist",
   "name_en": "Australian Mist",
   "name_ko": "오스트레일리안 미스트",
+  "aliases_en": [
+    "Mist Cat",
+    "Spotted Mist"
+  ],
   "aliases_ko": [
     "안개 고양이",
     "스포티드 미스트"
@@ -23,8 +27,8 @@
     "gold",
     "peach"
   ],
-  "weight_min_kg": 3.0,
-  "weight_max_kg": 6.0,
+  "weight_min_kg": 3,
+  "weight_max_kg": 6,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 1,
@@ -49,23 +53,57 @@
     "성격이 매우 온순하고 집사에 대한 의존도가 높아 완벽한 실내 반려묘로 설계된 품종임",
     "단모종이라 관리가 매우 쉽고 아이들과도 잘 지내는 '패밀리 고양이'의 정석임"
   ],
+  "pros_en": [
+    "Beautifully subtle 'mist' pattern that offers a unique and elegant aesthetic",
+    "Perfect indoor companion with a highly tolerant and affectionate nature",
+    "Low-maintenance short coat and excellent compatibility with children"
+  ],
   "cons": [
     "국내에서는 거의 알려지지 않은 희귀 품종이라 실물을 보거나 분양받기가 매우 어려움",
     "사람과 함께 있는 것을 너무 좋아해 혼자 오래 두면 분리불안을 느낄 수 있음",
     "패턴이 너무 은은하여 뚜렷한 무늬를 선호하는 집사에게는 다소 밋밋해 보일 수 있음"
   ],
+  "cons_en": [
+    "Extremely rare outside Australia, making it difficult to find breeders",
+    "Highly social nature means they may suffer from separation anxiety if left alone",
+    "Subtle pattern might appear too faint for those preferring bold markings"
+  ],
+  "good_for": [
+    "어린아이가 있는 가정에서 함께 성장할 다정하고 인내심 강한 고양이를 찾는 분",
+    "털 관리에 많은 시간을 쓰기 어렵지만 고급스러운 장단모종의 매력을 원하는 분",
+    "집사 곁에서 조용히 시간을 보내는 '무릎 고양이'를 선호하는 분"
+  ],
+  "good_for_en": [
+    "Families with young children looking for a patient and gentle companion",
+    "Owners who want a low-maintenance coat without sacrificing aesthetic quality",
+    "People who enjoy the company of a devoted and affectionate lap cat"
+  ],
+  "think_twice_if": [
+    "장시간 집을 비워야 해서 고양이가 혼자 있는 시간이 아주 긴 환경",
+    "야생적이고 독립적인 성향이 강한 고양이를 선호하는 분",
+    "뱅갈처럼 아주 뚜렷하고 강렬한 무늬를 기대하는 경우"
+  ],
+  "think_twice_if_en": [
+    "Households where the cat will be left alone for long periods during the day",
+    "Owners who prefer a more independent or high-energy wild-type personality",
+    "Individuals expecting sharp, high-contrast markings like those of a Bengal"
+  ],
   "economics": {
     "price_range_ko": "1,800,000원 - 3,500,000원",
-    "monthly_care_cost": "약 110,000원 - 180,000원"
+    "price_range_en": "$1,500 - $3,000 (Cattery standard)",
+    "monthly_care_cost": "약 110,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $90 - $140"
   },
-  "summary_en": "The Australian Mist is a breed of cat developed in Australia. It was a cross between the Burmese, Abyssinian, and domestic shorthair cats.",
+  "summary_en": "The Australian Mist is the only cat breed native to Australia, bred for a gentle temperament and a unique 'misted' coat pattern.",
   "summary_ko": "호주에서 탄생한 유일한 품종으로, 온순한 성격과 안개처럼 은은한 무늬 덕분에 가정용 반려묘로 최적화된 고양이입니다.",
-  "appearance_en": "Moderate foreign type with a spotted or marbled coat, large lustrous green eyes, and a glossy short coat.",
+  "appearance_en": "Moderate build with large green eyes and a short, glossy coat. The pattern is 'misted', appearing as though viewed through a fine veil.",
   "appearance_ko": "스포티드(점박이) 또는 마블 무늬가 안개처럼 부드럽게 퍼진 코트가 특징입니다. 크고 빛나는 초록색 눈과 근육질의 균형 잡힌 몸매를 가졌습니다.",
-  "personality_en": "Extremely tolerant, social, and affectionate. They are known for their love of human company and are less likely to scratch or bite, making them ideal for families with young children.",
+  "personality_en": "Extremely tolerant and social. They are famous for being 'home-loving' cats that prefer human company over hunting or roaming.",
   "personality_ko": "참을성이 매우 강하고 사람을 무척 좋아합니다. 공격성이 거의 없어 어린아이가 있는 가정에서도 안심하고 기를 수 있으며, 집사의 무릎 위에 앉아 시간을 보내는 것을 인생의 낙으로 삼는 '무릎 고양이'의 정석입니다.",
-  "care_en": "Requires minimal grooming due to their short coat. They are primarily indoor cats and enjoy a stable home environment with plenty of interaction.",
+  "care_en": "Very easy to groom with a weekly brush. They thrive on stability and constant social interaction within the home.",
   "care_ko": "단모종이라 주 1회 가벼운 빗질만으로도 충분합니다. 실내 생활에 최적화된 품종이므로 안정적인 환경을 제공해 주어야 하며, 사람과의 교감을 무척 중요하게 생각하므로 매일 규칙적인 대화와 놀이 시간을 가져야 합니다.",
+  "health_notes_ko": "다양한 품종의 교배로 탄생하여 유전적으로 매우 건강하고 튼튼한 편입니다. 특별한 유전병 보고가 거의 없는 강인한 품종입니다.",
+  "health_notes_en": "Genetic health is generally excellent due to a broad foundation of Burmese, Abyssinian, and domestic breeds. No major breed-specific health issues reported.",
   "known_risks": [
     {
       "name_en": "No specific breed-related issues",
@@ -76,56 +114,90 @@
   "faq": [
     {
       "question_ko": "왜 이름이 미스트인가요?",
-      "answer_ko": "무늬가 선명하지 않고 마치 안개가 낀 것처럼 흐릿하고 은은하게 번져 있는 독특한 패턴 때문에 '미스트(안개)'라는 이름이 붙여졌습니다."
+      "answer_ko": "무늬가 선명하지 않고 마치 안개가 낀 것처럼 흐릿하고 은은하게 번져 있는 독특한 패턴 때문에 '미스트(안개)'라는 이름이 붙여졌습니다.",
+      "question_en": "Why is it called 'Mist'?",
+      "answer_en": "The name comes from their unique coat pattern, which looks as though it is seen through a fine mist or veil, rather than being sharp and distinct."
     },
     {
       "question_ko": "아이들과 정말 잘 지내나요?",
-      "answer_ko": "네, 오스트레일리안 미스트는 아이들의 거친 손길도 잘 참아줄 만큼 인내심이 강하기로 유명하여 '아이들의 가장 좋은 친구'라는 별명이 있습니다."
+      "answer_ko": "네, 오스트레일리안 미스트는 아이들의 거친 손길도 잘 참아줄 만큼 인내심이 강하기로 유명하여 '아이들의 가장 좋은 친구'라는 별명이 있습니다.",
+      "question_en": "Are they really good with kids?",
+      "answer_en": "Yes, they are exceptionally tolerant and patient, often allowing children to handle them more than most other breeds would tolerate."
+    },
+    {
+      "question_ko": "호주 밖에서도 분양이 가능한가요?",
+      "answer_ko": "가능하지만 매우 어렵습니다. 대부분의 개체가 호주 내에 머물고 있으며, 유럽이나 북미 일부 지역을 제외하면 정식 캐터리를 찾기가 매우 힘듭니다.",
+      "question_en": "Are they available outside Australia?",
+      "answer_en": "While possible, it's difficult. They are still quite rare globally, with most breeders located in Australia, the UK, and parts of Europe."
+    },
+    {
+      "question_ko": "사냥 본능이 강한가요?",
+      "answer_ko": "아니요, 번식 과정에서 실내 생활에 최적화되도록 선별되었기 때문에 사냥보다는 집사와의 상호작용에 훨씬 더 큰 관심을 보입니다.",
+      "question_en": "Do they have a strong hunting instinct?",
+      "answer_en": "No, they were specifically bred to be domestic indoor companions, prioritizing social interaction over the hunting instincts of their Abyssinian ancestors."
+    },
+    {
+      "question_ko": "털 관리가 쉬운가요?",
+      "answer_ko": "네, 매우 짧고 부드러운 털을 가지고 있어 주 1회 가벼운 빗질만으로도 훌륭한 상태를 유지할 수 있는 가장 관리하기 쉬운 품종 중 하나입니다.",
+      "question_en": "Is their coat easy to care for?",
+      "answer_en": "Yes, their short, dense coat is very low-maintenance. A quick weekly grooming is usually all that's required to keep them looking their best."
     }
   ],
   "visual_comparison_tip": "점박이 무늬가 뱅갈처럼 선명하지 않고, 마치 베일을 쓴 듯 뿌옇고 은은하게 번져 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Look for markings that appear 'blurred' or 'misted' rather than sharp and defined like a Bengal's spots.",
   "meta_tags": {
-    "title": "오스트레일리안 미스트 고양이 백과: 오스트레일리안 미스트 고양이 백과: 오스트레일리안 미스트 도감: 안개 고양이의 비밀, 성격, 관리법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "호주의 보석, 오스트레일리안 미스트의 모든 것. 안개 낀 듯한 신비로운 무늬와 온순한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "오스트레일리안 미스트 고양이: 성격, 무늬, 관리 | nyan",
+    "title_en": "Australian Mist Cat: Misted Coat & Health | nyan",
+    "description_ko": "호주의 보석 오스트레일리안 미스트의 모든 것. 안개 낀 듯한 신비로운 무늬와 온순한 성격, 실제 분양가와 관리 팁을 nyan에서 확인하세요.",
+    "description_en": "The gentle gem of Australia, the Australian Mist. Discover their unique misted coat, patient personality, and care tips in our museum-grade archive.",
+    "keywords_ko": [
       "오스트레일리안미스트",
       "안개고양이",
       "호주고양이",
       "온순한고양이",
-      "개냥이추천",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Australian Mist",
+      "misted cat",
+      "gentle cat breed",
+      "rare cat care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/australian-mist/australian-mist_hero.webp",
-  "image_macro_path": "/images/Nyan/australian-mist_macro.png",
   "image_fullbody_path": "/images/Nyan/australian-mist/australian-mist_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/australian-mist/australian-mist_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "다양한 품종의 교배로 탄생하여 유전적으로 매우 건강하고 튼튼한 편입니다.",
-  "local_rarity_ko": "호주 밖에서는 보기 힘든 희귀 품종으로 국내에는 정식 캐터리가 거의 없습니다. 안개 고양이라는 수식어처럼 신비롭고 따뜻한 매력을 찾는 분들에게 최고의 선택입니다.",
-  "similar_breed_ids": [
-    "burmese",
-    "abyssinian",
-    "bengal"
-  ],
   "image_fullbody_side_path": "/images/Nyan/australian-mist/australian-mist_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/australian-mist/australian-mist_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/australian-mist/australian-mist_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/australian-mist/australian-mist_coat_texture.webp",
   "image_variant_path": "/images/Nyan/australian-mist/australian-mist_variant_full_body.webp",
-  "origin_history_ko": "오스트레일리안 미스트 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "오스트레일리안 미스트의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "abyssinian",
+    "bengal"
+  ],
+  "origin_history_ko": "1970년대 호주의 브리더 트루다 스트레이드(Truda Straede)에 의해 버미즈, 아비시니안, 그리고 호주의 토착 단모종들을 교배하여 만들어졌습니다. 호주에서 공인된 유일한 자국 품종이라는 자부심을 가지고 있습니다.",
+  "origin_history_en": "Created in the 1970s by Australian breeder Truda Straede by crossing Burmese, Abyssinian, and domestic shorthairs. It is the only cat breed originating from and formally recognized in Australia.",
+  "grooming_tips_ko": "매우 짧고 부드러운 털을 가지고 있어 주 1회 가벼운 빗질만으로도 광택을 유지할 수 있습니다. 지능이 높고 온순하여 목욕이나 발톱 깎기 등 기초 관리 교육이 매우 쉽습니다.",
+  "grooming_tips_en": "Weekly brushing is enough to maintain the coat's shine. Their intelligent and docile nature makes them very receptive to early training for bathing and nail trimming.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "부드러운 실리콘 마사지 브러쉬",
+      "item_name_en": "Soft Silicone Massage Brush",
+      "reason_ko": "피부에 자극을 주지 않으면서 죽은 털을 효과적으로 제거하고 집사와의 유대감을 강화",
+      "reason_en": "Effectively removes loose fur without skin irritation while strengthening the bond through grooming"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "안정감을 주는 푹신한 도넛형 방석",
+      "item_name_en": "Calming Donut Cuddle Bed",
+      "reason_ko": "실내 생활을 즐기고 집사 근처에서 쉬는 것을 좋아하는 오스트레일리안 미스트를 위한 아늑한 휴식처",
+      "reason_en": "Provides a cozy resting spot for a breed that loves to stay indoors and near its owners"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -139,9 +211,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "오스트레일리안 미스트",
+    "name": "Australian Mist",
     "taxonRank": "Breed",
-    "description": "오스트레일리안 미스트 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Australian Mist cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 오스트레일리안 미스트 고양이의 전신 모습",
@@ -152,5 +224,17 @@
     "eye_macro": "오스트레일리안 미스트 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "오스트레일리안 미스트 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "오스트레일리안 미스트 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an Australian Mist cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the large, expressive green eyes of an Australian Mist",
+    "full_body_front": "Front view of an Australian Mist showing its balanced and muscular build",
+    "full_body_side": "Lateral full body photo showcasing the subtle misted pattern on the coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Australian Mist breed",
+    "eye_macro": "Macro shot of the vibrant eyes and iris patterns of an Australian Mist cat",
+    "coat_texture": "Detailed photo of the short, dense, and soft coat texture of the Australian Mist",
+    "variant_full_body": "Full body showcase of the Australian Mist's elegant and unique coat variations"
+  },
+  "image_generation_priority": "medium",
+  "visual_accuracy_difficulty": "medium"
 }

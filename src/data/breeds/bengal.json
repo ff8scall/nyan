@@ -22,7 +22,7 @@
     "snow"
   ],
   "weight_min_kg": 3.5,
-  "weight_max_kg": 7.0,
+  "weight_max_kg": 7,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
   "grooming_level": 2,
@@ -95,7 +95,7 @@
   "personality_en": "Highly active, intelligent, and curious. Bengals need a lot of interactive play and mental stimulation. They are one of the few cat breeds that enjoy playing in water.",
   "personality_ko": "활동량이 고양이 중 최고 수준이며 매우 영리합니다. 집사와 함께 물놀이를 하거나 높은 곳을 뛰어다니는 것을 즐깁니다. 호기심이 많아 집안 모든 곳을 탐험하며, 집사와 대화하는 것도 좋아합니다.",
   "care_en": "Minimal grooming is required due to their short coat. However, they need a large living space and plenty of high-energy toys to prevent boredom-driven destructive behavior.",
-  "care_ko": "털 관리는 매우 쉽지만, 넘치는 에너지를 해소해 줄 캣휠이나 대형 캣타워가 필수적입니다. 지능이 높으므로 단순한 낚싯대 놀이보다 난이도 있는 놀이가 필요하며, 물놀이 공간을 마련해 주면 매우 좋아합니다.",
+  "care_ko": "털 관리는 매우 쉬운 편이지만, 넘치는 에너지를 해소해 줄 캣휠이나 대형 캣타워가 필수적입니다. 지능이 높으므로 단순한 낚싯대 놀이보다 난이도 있는 놀이가 필요하며, 물놀이 공간을 마련해 주면 매우 좋아합니다.",
   "home_suitability_ko": "에너지가 매우 넘치기 때문에 수직 공간(캣타워, 선반)이 풍부한 넓은 주거 환경이 이상적입니다. 지능이 높으므로 지루함을 느끼지 않게 하는 환경 풍부화가 필수적이며, 활동량을 충분히 해소하지 못할 경우 스트레스를 받을 수 있습니다.",
   "home_suitability_en": "Ideal for spacious homes with plenty of vertical space (cat trees, shelves). Due to their high intelligence, environmental enrichment is essential to prevent boredom and stress.",
   "known_risks": [
@@ -127,13 +127,22 @@
   "visual_comparison_tip": "이집션 마우보다 덩치가 크고 근육질이며, 점무늬(Spot)가 아닌 도넛 모양의 로제트(Rosette) 무늬가 있는지 확인하세요.",
   "visual_comparison_tip_en": "They are larger and more muscular than Egyptian Maus; check for donut-shaped rosettes instead of simple spots.",
   "meta_tags": {
-    "title": "뱅갈 고양이 백과: 성격, 활동량, 로제트 무늬의 비밀 | nyan",
-    "description": "야생의 매력을 담은 뱅갈의 모든 것. 엄청난 활동량 관리법과 물을 좋아하는 습성, 실제 분양가와 로제트 무늬 퀄리티 확인법을 확인하세요.",
-    "keywords": [
+    "title_ko": "뱅갈 고양이: 성격, 활동량, 로제트 무늬 | nyan",
+    "title_en": "Bengal Cat: Activity & Rosettes | nyan",
+    "description_ko": "야생의 매력을 담은 뱅갈의 모든 것. 엄청난 활동량 관리법과 물을 좋아하는 습성, 실제 분양가와 로제트 무늬 확인법을 박물관급 디테일로 확인하세요.",
+    "description_en": "Discover the wild charm of the Bengal cat. Activity management, love for water, costs, and rosette quality guides in museum-grade detail.",
+    "keywords_ko": [
       "뱅갈고양이",
       "표범고양이",
       "로제트무늬",
       "활동량많은고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Bengal cat",
+      "leopard cat",
+      "rosettes",
+      "active cat",
       "nyan"
     ]
   },
@@ -141,38 +150,40 @@
   "image_macro_path": "/images/Nyan/bengal_macro.png",
   "image_fullbody_path": "/images/Nyan/bengal/bengal_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/bengal/bengal_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "image_fullbody_side_path": "/images/Nyan/bengal/bengal_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/bengal/bengal_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/bengal/bengal_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/bengal/bengal_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/bengal/bengal_variant_full_body.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
   "health_notes_ko": "진행성 망막 위축증(PRA)과 비대성 심근증(HCM)에 대한 유전적 모니터링이 필요합니다.",
+  "health_notes_en": "Genetic monitoring for Progressive Retinal Atrophy (PRA) and HCM is essential for this breed.",
   "local_rarity_ko": "국내 프리미엄 펫 시장에서 매우 인기 있는 품종입니다. 무늬의 선명도와 배열(로제트 퀄리티)에 따라 분양가 차이가 매우 큽니다.",
   "similar_breed_ids": [
     "egyptian-mau",
     "savannah",
     "ocicat"
   ],
-  "image_fullbody_side_path": "/images/Nyan/bengal/bengal_full_body_side.webp",
-  "image_strict_profile_path": "/images/Nyan/bengal/bengal_strict_profile.webp",
-  "image_eye_macro_path": "/images/Nyan/bengal/bengal_eye_macro.webp",
-  "image_coat_texture_path": "/images/Nyan/bengal/bengal_coat_texture.webp",
-  "image_variant_path": "/images/Nyan/bengal/bengal_variant_full_body.webp",
-  "origin_history_ko": "1960년대 미국에서 아시아 살쾡이(Asian Leopard Cat)와 집고양이를 교배하며 시작되었습니다. 야생의 외형을 유지하면서도 집고양이의 온순한 성격을 가진 품종을 만드는 것이 목표였으며, 1983년 TICA에 정식 등록되었습니다.",
+  "origin_history_ko": "1960년대 미국에서 아시아 살쾡이(Asian Leopard Cat)와 집고양이를 교배하며 시작되었습니다. 야생의 외형을 유지하면서도 온순한 성격을 가진 품종을 만드는 것이 목표였습니다.",
   "origin_history_en": "Developed in the USA in the 1960s by crossing Asian Leopard Cats with domestic cats, aiming for a wild look with a gentle temperament. Officially recognized by TICA in 1983.",
-  "grooming_tips_ko": "실크처럼 부드러운 모질 유지를 위해 주 1~2회 실리콘 브러쉬로 죽은 털을 제거해 주는 것이 좋습니다. 물을 좋아하는 특성을 활용해 주기적인 목욕 후 세심한 건조가 권장됩니다.",
-  "grooming_tips_en": "Brush 1-2 times weekly with a silicone brush to maintain its silky texture. Given their love for water, occasional baths followed by thorough drying are recommended.",
+  "grooming_tips_ko": "실크처럼 부드러운 모질 유지를 위해 주 1~2회 빗질이 권장됩니다. 물을 좋아하는 특성을 활용해 주기적인 목욕과 세심한 건조가 중요합니다.",
+  "grooming_tips_en": "Brush 1-2 times weekly to maintain its silky texture. Given their love for water, occasional baths followed by thorough drying are recommended.",
   "recommended_items": [
     {
-      "item_name": "지능 개발 퍼즐 토이",
-      "reason": "높은 지능을 가진 뱅갈의 지루함을 해소하고 두뇌 활동 촉진"
+      "item_name_ko": "지능 개발 퍼즐 토이",
+      "item_name_en": "Intelligence Puzzle Toy",
+      "reason_ko": "높은 지능을 가진 뱅갈의 지루함을 해소하고 두뇌 활동 촉진",
+      "reason_en": "Stimulates the high intelligence of Bengals and prevents boredom-driven behavior"
     },
     {
-      "item_name": "대형 캣휠 또는 수직 선반",
-      "reason": "폭발적인 에너지를 안전하게 해소할 수 있는 실내 활동 공간"
-    },
-    {
-      "item_name": "상호작용 낚싯대 장난감",
-      "reason": "집사와 함께하는 역동적인 놀이를 통해 유대감 형성"
+      "item_name_ko": "대형 캣휠 또는 수직 선반",
+      "item_name_en": "Large Cat Wheel or Vertical Shelves",
+      "reason_ko": "폭발적인 에너지를 안전하게 해소할 수 있는 실내 활동 공간",
+      "reason_en": "Provides a safe outlet for their explosive energy within an indoor environment"
     }
   ],
-  "vet_disclaimer_ko": "본 가이드는 품종 일반의 특성을 설명하며, 의학적 결정은 반드시 수의사와 상의하십시오.",
+  "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -186,9 +197,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "뱅갈",
+    "name": "Bengal",
     "taxonRank": "Breed",
-    "description": "뱅갈 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Bengal cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 뱅갈 고양이의 전신 모습",
@@ -199,5 +210,15 @@
     "eye_macro": "뱅갈 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "뱅갈 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "뱅갈 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Bengal cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the distinctive leopard-like facial features of a Bengal",
+    "full_body_front": "Front view of a Bengal showing its athletic and muscular build",
+    "full_body_side": "Lateral full body photo showcasing the graceful silhouette and rosettes",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the intense eyes and iris patterns of a Bengal",
+    "coat_texture": "Macro photo showing the glitter effect and silky texture of the Bengal coat",
+    "variant_full_body": "Full body view showing various color variants of the Bengal"
   }
 }

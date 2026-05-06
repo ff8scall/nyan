@@ -26,8 +26,8 @@
     "silver",
     "golden"
   ],
-  "weight_min_kg": 4.0,
-  "weight_max_kg": 8.0,
+  "weight_min_kg": 4,
+  "weight_max_kg": 8,
   "lifespan_min_years": 12,
   "lifespan_max_years": 17,
   "grooming_level": 2,
@@ -52,21 +52,53 @@
     "독립심이 강해 1인 가구(직장인)에게 적합",
     "단모종이라 털 엉킴이 거의 없음"
   ],
+  "pros_en": [
+    "Extremely calm, making them ideal for apartment living",
+    "Strong sense of independence, suitable for single-person households",
+    "Short, dense coat means virtually no tangles or matting"
+  ],
   "cons": [
     "식탐이 강해 비만이 되기 매우 쉬움",
     "먼저 다가와 안기는 '무릎 고양이' 성향은 적음",
     "완전한 성묘가 되기까지 성장이 매우 느림"
   ],
+  "cons_en": [
+    "Prone to obesity due to a high food drive",
+    "Less likely to be an active lap cat; they value their personal space",
+    "Slow maturation; it takes several years to reach full size and shape"
+  ],
+  "good_for": [
+    "조용하고 독립적인 동반자를 원하는 분",
+    "아파트나 좁은 실내에서 생활하는 분",
+    "관리가 쉬운 단모종을 선호하는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking a quiet and independent companion",
+    "People living in apartments or smaller indoor spaces",
+    "Those who prefer a low-maintenance shorthair breed"
+  ],
+  "think_twice_if": [
+    "항상 안겨있는 애교 많은 고양이를 기대하는 분",
+    "엄격한 사료량 조절과 체중 관리가 어려운 분",
+    "빠른 성장을 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who expect a cat that constantly wants to be held",
+    "People who find it difficult to manage a strict diet and weight",
+    "Those who prefer a breed that matures quickly"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 200,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $120 - $180"
   },
   "summary_en": "The British Shorthair is the pedigreed version of the traditional British farm cat, with a distinctively stocky body, dense coat, and broad face.",
   "summary_ko": "테디베어를 닮은 동글동글한 외모와 영국 신사다운 차분한 성격으로, 전 세계 집사들의 마음을 사로잡은 스테디셀러 품종입니다.",
   "appearance_en": "Known for its 'cobby' build, the British Shorthair has a broad chest, short legs, and a thick tail. Its most famous feature is the dense, plush coat and round face with prominent cheeks.",
   "appearance_ko": "짧고 굵은 목과 탄탄한 가슴, 그리고 무엇보다 빵빵한 볼살이 매력적인 둥근 얼굴이 특징입니다. 만지면 융단 같은 느낌을 주는 빽빽하고 탄력 있는 털을 가졌습니다.",
   "personality_en": "Calm, easy-going, and dignified. They are not as demanding of attention as other breeds and enjoy their independence while still being affectionate with their owners.",
-  "personality_ko": "매우 차분하고 독립적이며 예의가 바릅니다. 집사 곁에 머무는 것을 좋아하지만 안기는 것보다는 옆을 지키는 것을 선호하는 성숙한 성격의 소유자입니다.",
+  "personality_ko": "매우 차분하고 독립적이며 예의가 바릅니다. 집사 곁에 머무는 것을 좋아하지만 안기는 것보다는 옆을 지키는 것을 선호하는 성격의 소유자입니다.",
   "care_en": "Requires minimal grooming compared to longhaired breeds, but regular brushing is still needed to remove dead hair. Careful diet management is necessary as they are prone to obesity.",
   "care_ko": "털 빠짐은 보통이지만 털이 빽빽하므로 주 1~2회 빗질이 권장됩니다. 식탐이 많은 편이라 비만이 되지 않도록 엄격한 체중 관리가 필요합니다.",
   "known_risks": [
@@ -84,22 +116,36 @@
   "faq": [
     {
       "question_ko": "브리티시 쇼트헤어는 왜 안기는 걸 싫어하나요?",
-      "answer_ko": "독립심이 강한 품종 특성상 속박되는 것을 싫어할 뿐, 집사를 싫어하는 것이 아닙니다. 억지로 안기보다 곁에 앉아 교감하는 방식을 선호합니다."
+      "answer_ko": "독립심이 강한 품종 특성상 속박되는 것을 싫어할 뿐, 집사를 싫어하는 것이 아닙니다. 억지로 안기보다 곁에 앉아 교감하는 방식을 선호합니다.",
+      "question_en": "Why do they dislike being held?",
+      "answer_en": "Their independent nature means they value freedom of movement. It's not a lack of affection; they simply prefer being near you rather than being restrained."
     },
     {
       "question_ko": "성장이 느린 편인가요?",
-      "answer_ko": "네, 완전히 성묘가 되어 특유의 동그란 체형을 갖추기까지 보통 3년에서 5년 정도가 걸리는 대기만성형 품종입니다."
+      "answer_ko": "네, 완전히 성묘가 되어 특유의 동그란 체형을 갖추기까지 보통 3년에서 5년 정도가 걸리는 대기만성형 품종입니다.",
+      "question_en": "Do they grow slowly?",
+      "answer_en": "Yes, it typically takes 3 to 5 years for a British Shorthair to reach full physical maturity and develop their characteristic round shape."
     }
   ],
   "visual_comparison_tip": "러시안 블루보다 머리가 훨씬 크고 둥글며, 다리가 짧고 굵은 '코비(Cobby)' 체형임을 확인하세요.",
+  "visual_comparison_tip_en": "Much larger and rounder head than a Russian Blue; look for a stocky 'cobby' build with shorter, thicker legs.",
   "meta_tags": {
-    "title": "브리티시 숏헤어 고양이 백과: 브리티시 숏헤어 고양이 백과: 브리티시 숏헤어 도감: 성격, 털 빠짐, 유전병 완벽 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "영국 신사 브리티시 숏헤어의 모든 것. 아파트 거주자에게 왜 최고의 선택인지, 실제 유지 비용과 유전병 예방 팁을 확인하세요.",
-    "keywords": [
+    "title_ko": "브리티시 숏헤어 고양이: 성격, 체중 관리, 유전병 | nyan",
+    "title_en": "British Shorthair Cat: Weight & Care | nyan",
+    "description_ko": "영국 신사 브리티시 숏헤어의 모든 것. 아파트 거주자에게 왜 최고의 선택인지, 실제 유지 비용과 유전병 예방 팁을 확인하세요.",
+    "description_en": "The British Shorthair, the quintessential gentleman. Discover why they are perfect for apartments, maintenance costs, and health tips in museum-grade detail.",
+    "keywords_ko": [
       "브리티시숏헤어",
-      "고양이품종",
-      "개냥이추천",
-      "고양이유전병",
+      "테디베어고양이",
+      "아파트고양이",
+      "독립적인고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "British Shorthair",
+      "stocky cat",
+      "independent cat",
+      "cobby build",
       "nyan"
     ]
   },
@@ -107,32 +153,40 @@
   "image_macro_path": "/images/Nyan/british-shorthair_macro.png",
   "image_fullbody_path": "/images/Nyan/british-shorthair/british-shorthair_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/british-shorthair/british-shorthair_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비대성 심근증(HCM)과 신장 관련 질환에 대한 정기적인 모니터링이 필요합니다.",
-  "local_rarity_ko": "국내에서 매우 대중적인 품종으로 우수한 캐터리가 많습니다. 조용하고 헛울음이 없어 한국의 아파트나 오피스텔 거주자들에게 인기가 매우 높습니다.",
-  "similar_breed_ids": [
-    "chartreux",
-    "russian-blue",
-    "scottish-fold"
-  ],
   "image_fullbody_side_path": "/images/Nyan/british-shorthair/british-shorthair_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/british-shorthair/british-shorthair_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/british-shorthair/british-shorthair_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/british-shorthair/british-shorthair_coat_texture.webp",
   "image_variant_path": "/images/Nyan/british-shorthair/british-shorthair_variant_full_body.webp",
-  "origin_history_ko": "브리티시 숏헤어 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "브리티시 숏헤어의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "비대성 심근증(HCM)과 신장 관련 질환에 대한 정기적인 모니터링이 필요합니다.",
+  "health_notes_en": "Regular monitoring for HCM and kidney-related health issues is recommended.",
+  "local_rarity_ko": "국내에서 매우 대중적인 품종으로 조용하고 헛울음이 없어 한국의 주거 환경에 인기가 매우 높습니다.",
+  "similar_breed_ids": [
+    "chartreux",
+    "russian-blue",
+    "scottish-fold"
+  ],
+  "origin_history_ko": "영국의 전통적인 길고양이와 농장 고양이를 기반으로 개량된 품종으로, 로마 시대부터 영국에 존재했던 고양이들의 후손으로 알려져 있습니다.",
+  "origin_history_en": "Derived from traditional British farm and street cats, their ancestors are believed to have arrived in Britain during the Roman era. They were formally refined in the 19th century.",
+  "grooming_tips_ko": "융단 같은 털의 질감을 유지하기 위해 주 1~2회 빗질이 적당합니다. 환절기에는 털 빠짐이 늘어날 수 있으므로 빗질 횟수를 늘려주세요.",
+  "grooming_tips_en": "A weekly brush is sufficient to maintain their plush coat texture. Increase brushing frequency during seasonal shedding periods.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급 러버 브러쉬",
+      "item_name_en": "Premium Rubber Brush",
+      "reason_ko": "빽빽한 단모 속의 죽은 털을 효과적으로 제거",
+      "reason_en": "Effectively removes dead hair from their dense, plush coat without irritating the skin"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "슬로우 식기 (다이어트용)",
+      "item_name_en": "Slow Feeder Bowl",
+      "reason_ko": "식탐이 많은 품종 특성상 비만 예방을 위한 급체 방지",
+      "reason_en": "Prevents rapid eating and helps manage weight for this food-motivated breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -146,9 +200,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "브리티시 숏헤어",
+    "name": "British Shorthair",
     "taxonRank": "Breed",
-    "description": "브리티시 숏헤어 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the British Shorthair cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 브리티시 숏헤어 고양이의 전신 모습",
@@ -159,5 +213,15 @@
     "eye_macro": "브리티시 숏헤어 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "브리티시 숏헤어 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "브리티시 숏헤어 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a British Shorthair cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the distinctive round facial features of a British Shorthair",
+    "full_body_front": "Front view of a British Shorthair showing its stocky and noble build",
+    "full_body_side": "Lateral full body photo showcasing the dignified silhouette of a British Shorthair",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the round, alert eyes of a British Shorthair",
+    "coat_texture": "Macro photo of the dense and plush coat texture",
+    "variant_full_body": "Full body view showing various color variants of the British Shorthair"
   }
 }

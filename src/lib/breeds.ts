@@ -53,9 +53,16 @@ export interface BreedData {
   visual_comparison_tip?: string;
   visual_comparison_tip_en?: string;
   meta_tags?: {
-    title: string;
-    description: string;
-    keywords: string[];
+    title_ko?: string;
+    title_en?: string;
+    description_ko?: string;
+    description_en?: string;
+    keywords_ko?: string[];
+    keywords_en?: string[];
+    // Compatibility
+    title?: string;
+    description?: string;
+    keywords?: string[];
   };
   
   // Economics
@@ -103,6 +110,7 @@ export interface BreedData {
   
   // Health
   health_notes_ko?: string;
+  health_notes_en?: string;
   known_risks?: Array<{ name_en: string; name_ko: string; severity_note: string }>;
   
   // Misc
@@ -119,11 +127,18 @@ export interface BreedData {
   origin_history_en?: string;
   grooming_tips_ko?: string;
   grooming_tips_en?: string;
-  recommended_items?: Array<{ item_name: string; reason: string }>;
+  recommended_items?: Array<{ 
+    item_name_ko: string; 
+    item_name_en?: string; 
+    reason_ko: string; 
+    reason_en?: string;
+  }>;
   vet_disclaimer_ko?: string;
+  vet_disclaimer_en?: string;
   expert_sources?: Array<{ source_name: string; url: string }>;
   schema_data?: any;
   image_alts_ko?: { [key: string]: string };
+  image_alts_en?: { [key: string]: string };
 
   // Compatibility layer for old UI
   name?: { en: string; ko: string };

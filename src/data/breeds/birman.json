@@ -2,6 +2,10 @@
   "id": "birman",
   "name_en": "Birman",
   "name_ko": "버만",
+  "aliases_en": [
+    "Sacred Cat of Burma",
+    "Gloved Cat"
+  ],
   "aliases_ko": [
     "버마의 성스러운 고양이",
     "미얀마 고양이"
@@ -20,7 +24,7 @@
     "chocolate",
     "lilac"
   ],
-  "weight_min_kg": 3.0,
+  "weight_min_kg": 3,
   "weight_max_kg": 6.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
@@ -46,23 +50,57 @@
     "성격이 매우 온화하고 침착하여 아이들이 있는 가정에 완벽한 반려묘임",
     "흰 양말을 신은 듯한 독특한 발 무늬와 우아한 외모가 시각적으로 매우 아름다움"
   ],
+  "pros_en": [
+    "Silky single coat rarely mats, making longhair grooming surprisingly easy",
+    "Exceptionally gentle and calm temperament, ideal for families with children",
+    "Stunning aesthetic with distinctive white 'gloves' and deep blue eyes"
+  ],
   "cons": [
     "애교는 많지만 가끔 고집이 세고 원하는 것이 있을 때 집요할 수 있음",
     "신장 관련 유전병 위험이 있어 정기적인 수분 섭취와 검진이 중요함",
     "렉돌과 외모가 비슷하여 일반인들이 구분하기 어려울 수 있음"
   ],
+  "cons_en": [
+    "Can be surprisingly stubborn when they want something specific",
+    "Genetic predisposition to kidney issues requires monitored hydration",
+    "Often confused with Ragdolls due to similar coloring and size"
+  ],
+  "good_for": [
+    "조용하고 품위 있는 반려묘와 정적인 시간을 보내고 싶은 분",
+    "장모종의 아름다움을 원하지만 매일 빗질할 시간이 부족한 집사",
+    "다른 반려동물이나 아이들과 평화롭게 지낼 수 있는 고양이를 찾는 가정"
+  ],
+  "good_for_en": [
+    "Owners seeking a quiet, dignified companion for a peaceful home",
+    "People who love longhair aesthetics but want a lower-maintenance coat",
+    "Households with children or other pets looking for a gentle soul"
+  ],
+  "think_twice_if": [
+    "매우 활동적이고 집안을 뛰어다니는 동적인 고양이를 기대하는 분",
+    "정기적인 건강 검진이나 신장 관리에 소홀할 수 있는 환경",
+    "고양이의 명확한 의사 표현(울음소리 등)을 선호하는 분"
+  ],
+  "think_twice_if_en": [
+    "People expecting a high-energy cat that runs and climbs constantly",
+    "Owners unable to commit to regular vet check-ups and kidney monitoring",
+    "Individuals who prefer a highly vocal or demanding cat"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
-  "summary_en": "The Birman, also called the 'Sacred Cat of Burma', is a domestic cat breed. The Birman is a long-haired, color-pointed cat distinguished by its silky coat and white paws.",
+  "summary_en": "The Birman, or the 'Sacred Cat of Burma', is a gentle long-haired breed known for its silky coat, white paws, and striking blue eyes.",
   "summary_ko": "푸른 눈과 흰 양말이 상징인 '버마의 성스러운 고양이'입니다. 전설에 따르면 사원의 여신으로부터 신비로운 외모를 부여받았다고 전해지며, 그 이름에 걸맞게 고귀하고 온화한 품격을 지닌 반려묘입니다.",
-  "appearance_en": "Medium to large cat with a heavy, substantial body. They have a round face, deep blue eyes, and a silky coat with point coloration. Their most unique feature is their white paws, known as 'gloves' and 'laces'.",
+  "appearance_en": "Medium to large substantial body with a round face and deep blue eyes. They possess a silky single coat with white 'gloves' on all four paws.",
   "appearance_ko": "튼튼하고 묵직한 '서브스탠셜(Substantial)' 체형입니다. 얼굴은 둥글둥글하며 깊고 푸른 눈이 특징입니다. 가장 큰 매력은 네 발에 신은 하얀 양말(Gloves)과 뒷발의 긴 줄무늬(Laces)입니다. 털은 장모종이지만 속털이 없어 비단결처럼 매끄럽습니다.",
-  "personality_en": "Gentle, quiet, and affectionate. They are known for being people-oriented and enjoy following their owners around without being overly demanding.",
-  "personality_ko": "매우 부드럽고 차분합니다. 집사의 활동을 조용히 지켜보고 곁에 머무는 것을 즐기는 '침착한 동반자'입니다. 샴처럼 수다스럽지 않으면서도 렉돌만큼이나 다정하여 초보 집사에게 이상적인 품종입니다.",
-  "care_en": "Requires regular grooming, though their silky coat is less prone to matting than other long-haired breeds. They enjoy a peaceful environment and consistent routine.",
+  "personality_en": "Quietly affectionate and gentle. Birmans are known for their patient nature and their habit of following owners room-to-room without being vocal.",
+  "personality_ko": "매우 부드롭고 차분합니다. 집사의 활동을 조용히 지켜보고 곁에 머무는 것을 즐기는 '침착한 동반자'입니다. 샴처럼 수다스럽지 않으면서도 렉돌만큼이나 다정하여 초보 집사에게 이상적인 품종입니다.",
+  "care_en": "The silky single coat is easy to maintain with twice-weekly brushing. They thrive on a consistent routine and a calm indoor environment.",
   "care_ko": "털이 잘 엉키지 않는 실크 같은 재질이라 장모종치고 관리가 매우 쉽습니다. 주 2~3회 빗질만으로도 충분합니다. 조용하고 안정적인 환경을 선호하므로 시끄러운 환경보다는 차분한 가정에 더 잘 어울립니다.",
+  "health_notes_ko": "비대성 심근증(HCM)과 다낭성 신장병(PKD)에 대한 정기적인 모니터링이 필요합니다. 물을 잘 마시지 않는 경향이 있으므로 습식 사료 병행이 권장됩니다.",
+  "health_notes_en": "Regular monitoring for HCM and Polycystic Kidney Disease (PKD) is recommended. Ensure high water intake to support kidney health.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -78,55 +116,90 @@
   "faq": [
     {
       "question_ko": "렉돌과 어떻게 다른가요?",
-      "answer_ko": "가장 큰 차이는 발의 하얀 양말입니다. 버만은 반드시 네 발 모두에 하얀 양말이 있어야 하며, 렉돌보다 덩치가 조금 더 작고 털이 속털 없이 더 매끄럽습니다."
+      "answer_ko": "가장 큰 차이는 발의 하얀 양말입니다. 버만은 반드시 네 발 모두에 하얀 양말이 있어야 하며, 렉돌보다 덩치가 조금 더 작고 털이 속털 없이 더 매끄럽습니다.",
+      "question_en": "How is it different from a Ragdoll?",
+      "answer_en": "The key identifier is the white 'gloves' on all four paws. Birmans are also generally smaller than Ragdolls and have a silkier single coat."
     },
     {
       "question_ko": "성격이 정말 조용한가요?",
-      "answer_ko": "네, 고양이 중에서도 특히 차분하고 조용한 편에 속합니다. 헛울음이 거의 없고 집사 곁에 조용히 앉아있는 것을 즐기는 성격입니다."
+      "answer_ko": "네, 고양이 중에서도 특히 차분하고 조용한 편에 속합니다. 헛울음이 거의 없고 집사 곁에 조용히 앉아있는 것을 즐기는 성격입니다.",
+      "question_en": "Are they really that quiet?",
+      "answer_en": "Yes, Birmans are exceptionally calm. They prefer a soft chirp to a loud meow and enjoy being a quiet presence in the room."
+    },
+    {
+      "question_ko": "털이 많이 엉키나요?",
+      "answer_ko": "아니요, 장모종이지만 속털이 없는 싱글 코트 구조라 다른 품종에 비해 털 엉킴이 현저히 적습니다. 주 2회 빗질로 충분히 관리 가능합니다.",
+      "question_en": "Does their long hair mat easily?",
+      "answer_en": "Actually, no. Because they lack an undercoat, their silky fur is much less prone to matting than other longhairs like Persians."
+    },
+    {
+      "question_ko": "흰 양말은 태어날 때부터 있나요?",
+      "answer_ko": "모든 포인트 컬러 고양이들처럼 버만도 태어날 때는 하얗게 태어납니다. 자라면서 색이 올라오며 흰 양말 무늬가 뚜렷해집니다.",
+      "question_en": "Are the white paws visible at birth?",
+      "answer_en": "Like all pointed cats, Birmans are born white. Their color points and white 'gloves' become clearly defined as they mature."
+    },
+    {
+      "question_ko": "외로움을 많이 타나요?",
+      "answer_ko": "샴만큼 수다스럽지는 않지만 사람을 매우 좋아합니다. 혼자 있는 시간이 너무 길어지면 우울해할 수 있으므로 많은 관심이 필요합니다.",
+      "question_en": "Do they get lonely?",
+      "answer_en": "They are very people-oriented. While not as demanding as a Siamese, they do crave companionship and shouldn't be left alone for long periods."
     }
   ],
   "visual_comparison_tip": "렉돌보다 덩치가 약간 작고, 네 발 모두에 눈처럼 하얀 '장갑(Gloves)' 무늬가 대칭적으로 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Look for a slightly smaller frame than a Ragdoll and perfectly symmetrical white 'gloves' on all four paws.",
   "meta_tags": {
-    "title": "버만 고양이 백과: 버만 고양이 백과: 버만 고양이 도감: 성격, 렉돌과의 차이점, 흰 양말의 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "버마의 성스러운 고양이 버만의 모든 것. 렉돌과 닮았지만 다른 매력, 실제 분양가와 온순한 성격, 관리 팁을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "버만 고양이: 성격, 렉돌과의 차이점, 흰 양말 | nyan",
+    "title_en": "Birman Cat: White Gloves & Health | nyan",
+    "description_ko": "버마의 성스러운 고양이 버만의 모든 것. 렉돌과 닮았지만 다른 매력, 실제 분양가와 온순한 성격, 관리 팁을 nyan에서 확인하세요.",
+    "description_en": "The sacred cat of Burma, the Birman. Discover their silky coat, white gloves, gentle personality, and health needs in our museum-grade archive.",
+    "keywords_ko": [
       "버만",
       "버마고양이",
       "흰양말고양이",
       "개냥이추천",
       "nyan"
+    ],
+    "keywords_en": [
+      "Birman cat",
+      "sacred cat of Burma",
+      "white gloved cat",
+      "blue eyed cat",
+      "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/birman/birman_hero.webp",
-  "image_macro_path": "/images/Nyan/birman_macro.png",
   "image_fullbody_path": "/images/Nyan/birman/birman_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/birman/birman_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비대성 심근증(HCM)과 신장 질환에 대한 정기적인 모니터링이 권장됩니다.",
-  "local_rarity_ko": "국내에서는 렉돌과 비슷해 보이지만 조금 더 클래식하고 신비로운 매력을 찾는 집사들에게 인기가 높습니다. 개체 수가 아주 많지는 않아 전문 브리더를 통해 입양하는 경우가 많습니다.",
-  "similar_breed_ids": [
-    "ragdoll",
-    "siamese",
-    "himalayan"
-  ],
   "image_fullbody_side_path": "/images/Nyan/birman/birman_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/birman/birman_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/birman/birman_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/birman/birman_coat_texture.webp",
   "image_variant_path": "/images/Nyan/birman/birman_variant_full_body.webp",
-  "origin_history_ko": "버만 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "버만의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "ragdoll",
+    "siamese",
+    "himalayan"
+  ],
+  "origin_history_ko": "미얀마(옛 버마)의 사원에서 승려들과 함께 지내던 성스러운 고양이에서 유래했다는 전설이 있습니다. 20세기 초 프랑스를 거쳐 유럽과 미국에 소개되며 현대적인 품종으로 정착되었습니다.",
+  "origin_history_en": "Legend has it they were sacred companions to temple priests in Myanmar (Burma). They were introduced to the West through France in the early 20th century, becoming a beloved pedigree breed.",
+  "grooming_tips_ko": "속털이 없는 싱글 코트라 주 2회 정도의 가벼운 빗질만으로도 충분합니다. 특히 발바닥 사이의 털을 정리해 주어 흰 양말 무늬가 돋보이게 하고 미끄러짐을 방지하는 것이 좋습니다.",
+  "grooming_tips_en": "Their silky single coat requires only twice-weekly brushing. Trim the fur between their paw pads to keep their 'gloves' tidy and prevent slipping on smooth floors.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고급 실크용 돈모 브러쉬",
+      "item_name_en": "Soft Bristle Finishing Brush",
+      "reason_ko": "버만의 비단결 같은 털의 광택을 극대화하고 피부 자극 없이 죽은 털을 제거",
+      "reason_en": "Maximizes the luster of their silky coat while gently removing loose fur without skin irritation"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "반려묘용 세라믹 수분 분수대",
+      "item_name_en": "Ceramic Pet Water Fountain",
+      "reason_ko": "신장 건강이 중요한 버만의 음수량을 자연스럽게 늘려주는 필수 아이템",
+      "reason_en": "Encourages hydration, which is vital for maintaining kidney health in this breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -140,9 +213,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "버만",
+    "name": "Birman",
     "taxonRank": "Breed",
-    "description": "버만 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Birman cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 버만 고양이의 전신 모습",
@@ -153,5 +226,17 @@
     "eye_macro": "버만 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "버만 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "버만 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Birman cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the deep sapphire blue eyes of a Birman",
+    "full_body_front": "Front view of a Birman showcasing its substantial build and white 'gloves'",
+    "full_body_side": "Lateral full body photo highlighting the silky coat and white 'laces' on back paws",
+    "strict_profile": "90-degree profile view for anatomical study of the Birman breed",
+    "eye_macro": "Macro shot of the expressive blue eyes and iris patterns of a Birman cat",
+    "coat_texture": "Detailed photo of the silky, single-layer longhair coat of the Birman",
+    "variant_full_body": "Full body showcase of the Birman's elegant point coloration and white paws"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

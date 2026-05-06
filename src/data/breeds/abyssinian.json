@@ -21,7 +21,7 @@
     "blue",
     "fawn"
   ],
-  "weight_min_kg": 3.0,
+  "weight_min_kg": 3,
   "weight_max_kg": 5.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -47,14 +47,46 @@
     "털 관리가 거의 필요 없을 정도로 관리가 쉬운 짧은 단모종임",
     "가늘고 긴 다리와 우아한 움직임으로 보는 것만으로도 힐링되는 미학적 가치"
   ],
+  "pros_en": [
+    "Highly intelligent and curious, offering excellent interactive engagement",
+    "Short coat is very low-maintenance, requiring minimal grooming",
+    "Graceful movements and elegant silhouette provide significant aesthetic value"
+  ],
   "cons": [
     "에너지가 너무 넘쳐서 가만히 안겨있는 무릎 고양이를 기대한다면 부적합함",
     "높은 곳을 좋아하는 습성이 강해 집안 곳곳의 물건을 떨어뜨릴 수 있음",
     "혼자 있는 것을 싫어하고 심심하면 사고를 칠 가능성이 높음"
   ],
+  "cons_en": [
+    "High energy levels mean they are not typical lap cats",
+    "Strong instinct for high places may lead to items being knocked off shelves",
+    "Dislike being alone and may become destructive if bored"
+  ],
+  "good_for": [
+    "활발한 상호작용 놀이를 즐기는 활동적인 집사",
+    "털 관리에 많은 시간을 들이기 어려운 분",
+    "지능이 높은 고양이와 교감하고 싶은 분"
+  ],
+  "good_for_en": [
+    "Active owners who enjoy high-energy interactive play",
+    "People who prefer a low-maintenance grooming routine",
+    "Owners looking for an intelligent cat for deep bonding"
+  ],
+  "think_twice_if": [
+    "조용히 무릎 위에만 있는 고양이를 원하는 분",
+    "집을 자주 비우거나 고양이와 놀아줄 시간이 부족한 경우",
+    "높은 곳에 깨지기 쉬운 물건이 많은 환경"
+  ],
+  "think_twice_if_en": [
+    "Owners who prefer a quiet, calm lap cat",
+    "People who are frequently away or lack time for active play",
+    "Homes with many fragile items in high places"
+  ],
   "economics": {
     "price_range_ko": "800,000원 - 2,000,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 120,000원 - 180,000원"
+    "price_range_en": "$800 - $2,000 (Cattery standard)",
+    "monthly_care_cost": "약 120,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $100 - $150"
   },
   "summary_en": "The Abyssinian is a breed of domestic short-haired cat with a distinctive 'ticked' tabby coat.",
   "summary_ko": "고대 이집트 벽화 속에서 걸어 나온 듯한 우아한 실루엣을 가진 '발레 고양이'입니다. 한 가닥의 털에 2~3가지 색이 섞인 틱(Ticked) 코트와 지칠 줄 모르는 호기심이 상징입니다.",
@@ -79,22 +111,36 @@
   "faq": [
     {
       "question_ko": "안겨있는 걸 싫어하나요?",
-      "answer_ko": "아비시니안은 사람을 매우 좋아하지만, 가만히 안겨있는 것보다는 집사와 함께 놀거나 근처에서 활동하는 것을 더 선호합니다. 이들에게 사랑은 '함께 움직이는 것'입니다."
+      "answer_ko": "아비시니안은 사람을 매우 좋아하지만, 가만히 안겨있는 것보다는 집사와 함께 놀거나 근처에서 활동하는 것을 더 선호합니다. 이들에게 사랑은 '함께 움직이는 것'입니다.",
+      "question_en": "Do they dislike being held?",
+      "answer_en": "Abyssinians love people but prefer interacting through play rather than sitting still. For them, love is expressed through shared activity."
     },
     {
       "question_ko": "털이 정말 안 빠지나요?",
-      "answer_ko": "단모종 중에서도 털이 짧고 몸에 밀착되어 있어 털 날림은 적은 편입니다. 하지만 빠지는 털이 아예 없는 것은 아니므로 주 1회 가벼운 빗질은 해주어야 합니다."
+      "answer_ko": "단모종 중에서도 털이 짧고 몸에 밀착되어 있어 털 날림은 적은 편입니다. 하지만 빠지는 털이 아예 없는 것은 아니므로 주 1회 가벼운 빗질은 해주어야 합니다.",
+      "question_en": "Do they really not shed?",
+      "answer_en": "Their short, close-lying coat sheds very little compared to other breeds, but it's not non-existent. A weekly light brushing is still recommended."
     }
   ],
   "visual_comparison_tip": "소말리와 무늬는 똑같지만 털이 아주 짧고, 다른 단모종보다 몸매가 더 날렵하고 귀가 큰지 확인하세요.",
+  "visual_comparison_tip_en": "Identical pattern to the Somali but with short hair; look for a leaner body and larger ears than most other shorthair breeds.",
   "meta_tags": {
-    "title": "아비시니안 고양이 백과: 아비시니안 고양이 백과: 아비시니안 도감: 성격, 틱(Ticked) 코트의 비밀, 지능 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "고대 이집트 벽화의 주인공 아비시니안의 모든 것. 엄청난 활동량과 영리한 지능, 실제 분양가와 관리 팁을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "아비시니안 고양이: 성격, 틱 코트, 지능 | nyan",
+    "title_en": "Abyssinian Cat: Ticked Coat & Care | nyan",
+    "description_ko": "고대 이집트 벽화의 주인공 아비시니안의 모든 것. 엄청난 활동량과 영리한 지능, 실제 분양가와 관리 팁을 박물관급 디테일로 확인하세요.",
+    "description_en": "Discover everything about the Abyssinian, the muse of ancient Egyptian art. Energy levels, intelligence, costs, and care tips in museum-grade detail.",
+    "keywords_ko": [
       "아비시니안",
-      "아비",
-      "개냥이",
+      "틱코트",
       "똑똑한고양이",
+      "개냥이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Abyssinian",
+      "ticked coat",
+      "intelligent cat",
+      "active cat",
       "nyan"
     ]
   },
@@ -102,32 +148,35 @@
   "image_macro_path": "/images/Nyan/abyssinian_macro.png",
   "image_fullbody_path": "/images/Nyan/abyssinian/abyssinian_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/abyssinian/abyssinian_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
   "health_notes_ko": "치은염(잇몸 질환)과 피루베이트 키나아제 결핍증(PKD)에 대한 정기적인 검진이 권장됩니다.",
-  "local_rarity_ko": "국내에서 세련된 외모와 활발한 성격으로 인기가 높은 품종입니다. 특히 '개냥이' 성향을 원하는 젊은 층의 집사들에게 선호도가 높으며, 건강 체질인 경우가 많아 반려하기 좋습니다.",
+  "health_notes_en": "Regular check-ups for gingivitis and Pyruvate Kinase Deficiency (PKD) are recommended for this breed.",
+  "local_rarity_ko": "국내에서 세련된 외모와 활발한 성격으로 인기가 높은 품종입니다. 특히 '개냥이' 성향을 원하는 젊은 층의 집사들에게 선호도가 높습니다.",
   "similar_breed_ids": [
     "somali",
     "singapura",
     "siamese"
   ],
-  "image_fullbody_side_path": "/images/Nyan/abyssinian/abyssinian_full_body_side.webp",
-  "image_strict_profile_path": "/images/Nyan/abyssinian/abyssinian_strict_profile.webp",
-  "image_eye_macro_path": "/images/Nyan/abyssinian/abyssinian_eye_macro.webp",
-  "image_coat_texture_path": "/images/Nyan/abyssinian/abyssinian_coat_texture.webp",
-  "image_variant_path": "/images/Nyan/abyssinian/abyssinian_variant_full_body.webp",
-  "origin_history_ko": "아비시니안 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "아비시니안의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "origin_history_ko": "고대 에티오피아(당시 아비시니아)가 기원으로 알려져 있으며, 19세기 영국 군인들에 의해 유럽으로 전해졌습니다. 가장 오래된 고양이 품종 중 하나로 숭고한 역사적 가치를 지닙니다.",
+  "origin_history_en": "Believed to have originated in ancient Ethiopia (then Abyssinia), they were brought to Europe by British soldiers in the 19th century. They are one of the oldest and most historically significant cat breeds.",
+  "grooming_tips_ko": "단모종이므로 관리가 매우 쉽지만, 주기적인 빗질로 모질의 광택을 유지하고 잇몸 건강을 위해 치아 관리에 신경 쓰는 것이 좋습니다.",
+  "grooming_tips_en": "Very easy to groom due to their short coat; regular brushing maintains the coat's luster. Special attention to dental health is recommended.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "전용 슬리커 브러쉬",
+      "item_name_en": "Fine Slicker Brush",
+      "reason_ko": "죽은 털 제거 및 모질 관리",
+      "reason_en": "Perfect for maintaining the shine and health of their short coat"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "대형 스크래쳐",
+      "item_name_en": "Tall Scratching Post",
+      "reason_ko": "스트레스 해소 및 발톱 관리",
+      "reason_en": "Satisfies their natural climbing and scratching instincts"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -141,9 +190,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "아비시니안",
+    "name": "Abyssinian",
     "taxonRank": "Breed",
-    "description": "아비시니안 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Abyssinian cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 아비시니안 고양이의 전신 모습",
@@ -154,5 +203,15 @@
     "eye_macro": "아비시니안 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "아비시니안 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "아비시니안 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of an Abyssinian cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the distinctive facial features of an Abyssinian",
+    "full_body_front": "Front view of an Abyssinian showing its athletic build",
+    "full_body_side": "Lateral full body photo showcasing the elegant silhouette of an Abyssinian",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the almond-shaped eyes and iris patterns of an Abyssinian",
+    "coat_texture": "Macro photo of the unique ticked coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Abyssinian"
   }
 }

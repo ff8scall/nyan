@@ -5,7 +5,12 @@ export const dictionaries = {
       description: "우리는 단순한 도감을 넘어, 고양이의 유전적 정수와 초현실적 미학을 큐레이션합니다. n y a n은 박물관의 침묵과 예술의 깊이를 담은 새로운 디지털 아카이브입니다.",
       enterCollection: "컬렉션 입장",
       feature1Title: "고증의 미학",
-      feature1Desc: "박물관급 디테일로 모든 품종의 역사와 생물학적 특징을 큐레이션합니다. 마우스를 올리는 순간 펼쳐지는 8K 해상도의 압도적인 비주얼을 경험하세요."
+      feature1Desc: "박물관급 디테일로 모든 품종의 역사와 생물학적 특징을 큐레이션합니다. 마우스를 올리는 순간 펼쳐지는 8K 해상도의 압도적인 비주얼을 경험하세요.",
+      missionTitle: "기록의 가치",
+      missionDesc: "nyan은 단순한 정보 전달을 넘어, 생태학적 보존과 미학적 기록의 가치를 최우선으로 합니다. 52종의 고양이가 가진 고유한 유전적 유산과 그들이 인류와 함께해온 수천 년의 시간을 디지털 공간에 영구히 박제합니다.",
+      statsBreeds: "품종 데이터베이스",
+      statsFAQ: "검증된 전문 FAQ",
+      statsPhotos: "고해상도 아카이브"
     },
     common: {
       encyclopedia: "도감",
@@ -65,7 +70,8 @@ export const dictionaries = {
       goodFor: "이런 분께 추천해요",
       thinkTwice: "이런 점은 고려해 보세요",
       expertSources: "참조 및 전문 출처",
-      visitOfficial: "공식 표준 확인"
+      visitOfficial: "공식 표준 확인",
+      vetDisclaimer: "본 가이드는 품종 일반의 특성을 설명하며, 의학적 결정은 반드시 수의사와 상의하십시오."
     },
     data: {
       bodyTypes: {
@@ -114,7 +120,12 @@ export const dictionaries = {
       description: "Beyond a simple encyclopedia, we curate the genetic essence and surreal aesthetics of felines. n y a n is a new digital archive capturing the silence of museums and the depth of art.",
       enterCollection: "ENTER COLLECTION",
       feature1Title: "AESTHETIC ACCURACY",
-      feature1Desc: "Curating the history and biological traits of every breed with museum-grade detail. Experience overwhelming 8K visuals that unfold upon hover."
+      feature1Desc: "Curating the history and biological traits of every breed with museum-grade detail. Experience overwhelming 8K visuals that unfold upon hover.",
+      missionTitle: "THE VALUE OF ARCHIVING",
+      missionDesc: "Beyond mere information, nyan prioritizes ecological preservation and aesthetic documentation. We permanently archive the unique genetic heritage of 52 breeds and their thousands of years of history with humanity in this digital space.",
+      statsBreeds: "Breed Database",
+      statsFAQ: "Expert Verified FAQs",
+      statsPhotos: "High-Res Archives"
     },
     common: {
       encyclopedia: "Encyclopedia",
@@ -174,7 +185,8 @@ export const dictionaries = {
       goodFor: "IDEAL FOR",
       thinkTwice: "THINK TWICE IF",
       expertSources: "REFERENCES & SOURCES",
-      visitOfficial: "VIEW OFFICIAL STANDARD"
+      visitOfficial: "VIEW OFFICIAL STANDARD",
+      vetDisclaimer: "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian."
     },
     data: {
       bodyTypes: {}, // English uses raw values

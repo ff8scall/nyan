@@ -17,7 +17,7 @@
     "blue",
     "slate_gray"
   ],
-  "weight_min_kg": 4.0,
+  "weight_min_kg": 4,
   "weight_max_kg": 7.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -43,26 +43,58 @@
     "독립적이면서도 집사에게 충성스러워 적절한 거리감을 유지하며 애정을 표현함",
     "적응력이 뛰어나고 낯선 환경에서도 당황하지 않는 대범한 성격을 가짐"
   ],
+  "pros_en": [
+    "Exceptionally quiet and calm; rarely vocalizes, making them perfect for apartments",
+    "Loyal yet independent; offers affection while respecting personal space",
+    "Highly adaptable and brave; remains composed even in unfamiliar environments"
+  ],
   "cons": [
     "밀도가 매우 높은 양모 같은 털을 가지고 있어 털 빠짐이 적지 않음",
     "체중 조절을 하지 않으면 비만이 되기 쉬운 체질임",
     "입꼬리가 올라가 있어 웃는 얼굴처럼 보이지만, 실제로는 내성적일 수 있음"
   ],
+  "cons_en": [
+    "Dense, woolly coat sheds significantly and requires regular maintenance",
+    "Prone to obesity; strict portion control and monitoring are necessary",
+    "Their 'smiling' face can mask a reserved or introverted nature"
+  ],
+  "good_for": [
+    "조용하고 평화로운 분위기의 실내 반려묘를 찾는 분",
+    "집에 혼자 있는 시간이 어느 정도 있는 직장인",
+    "프랑스의 역사와 우아함을 간직한 희귀 품종을 선호하는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking a quiet, peaceful, and composed indoor pet",
+    "Working professionals who need a cat that handles solitude well",
+    "People who appreciate rare breeds with a rich historical background"
+  ],
+  "think_twice_if": [
+    "고양이가 활발하게 울고 애교를 많이 부리길 원하는 분",
+    "매일 털 빠짐을 관리하고 청소하는 것이 힘든 경우",
+    "비만 관리를 위해 엄격한 식단을 유지해주기 어려운 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who want a highly vocal or overtly demanding lap cat",
+    "People who find frequent shedding and lint-rolling burdensome",
+    "Those unable to commit to the strict diet needed to prevent weight gain"
+  ],
   "economics": {
-    "price_range_ko": "2,500,000원 - 4,500,000원",
-    "monthly_care_cost": "약 110,000원 - 190,000원"
+    "price_range_ko": "2,500,000원 - 4,500,000원 (캐터리 기준)",
+    "price_range_en": "$2,500 - $4,500 (Cattery standard)",
+    "monthly_care_cost": "약 110,000원 - 190,000원",
+    "monthly_care_cost_en": "Approx. $90 - $150"
   },
-  "summary_en": "The Chartreux is a rare breed of domestic cat from France and is recognised by a number of registries around the world.",
-  "summary_ko": "프랑스의 역사를 함께해 온 샤르트뢰는 미소 짓는 고양이로 불립니다. 블루 그레이 색상의 짧고 조밀한 털과 불타는 듯한 구리색 눈동자가 신비로운 분위기를 자아냅니다.",
-  "appearance_en": "Known for its 'smiling' expression, sturdy build, and distinctive blue-gray woolly coat. They have brilliant copper or orange eyes.",
-  "appearance_ko": "구리색 눈동자와 입가에 머금은 듯한 미소가 특징입니다. '가는 다리에 얹혀진 감자'라는 별명이 있을 정도로 몸집이 탄탄하고 다리는 비교적 가늘어 보이는 독특한 체형을 가집니다.",
-  "personality_en": "Quiet, calm, and highly intelligent. They are known for being non-aggressive and capable of handling solitude well.",
-  "personality_ko": "매우 차분하고 정적인 고양이입니다. 거의 울지 않으며, 집사의 감정을 조용히 관찰하고 곁을 지키는 듬직한 성격을 가지고 있습니다.",
-  "care_en": "Requires regular brushing to manage its dense coat. Diet control is important due to their tendency to gain weight.",
-  "care_ko": "털이 매우 조밀하여 주기적인 빗질이 필요합니다. 물을 아주 싫어하진 않지만 목욕 시 털을 적시기 어려울 정도로 방수 능력이 뛰어납니다.",
+  "summary_en": "The Chartreux is a rare breed of domestic cat from France, known for its sturdy build and 'smiling' expression.",
+  "summary_ko": "프랑스의 역사를 함께해 온 샤르트뢰는 '미소 짓는 고양이'로 불립니다. 블루 그레이 색상의 짧고 조밀한 털과 불타는 듯한 구리색 눈동자가 신비로운 분위기를 자아냅니다.",
+  "appearance_en": "Known for its 'smiling' expression, sturdy build, and distinctive blue-gray woolly coat. They have brilliant copper eyes.",
+  "appearance_ko": "구리색 눈동자와 입가에 머금은 듯한 미소가 특징입니다. 몸집이 탄탄하고 다리는 비교적 가늘어 보이는 '가는 다리에 얹혀진 감자' 같은 독특한 실루엣을 가집니다.",
+  "personality_en": "Quiet, calm, and highly intelligent. They are non-aggressive and handle solitude well.",
+  "personality_ko": "매우 차분하고 정적인 고양이입니다. 거의 울지 않으며, 집사의 감정을 조용히 관찰하고 곁을 지키는 듬직하고 영리한 성격을 가지고 있습니다.",
+  "care_en": "Requires regular brushing to manage its dense, woolly coat. Diet control is important.",
+  "care_ko": "털이 매우 조밀하여 주기적인 빗질이 필요합니다. 물을 밀어내는 방수 능력이 뛰어난 털을 가졌으며, 식탐이 있는 편이라 체중 관리에 신경 써야 합니다.",
   "known_risks": [
     {
-      "name_en": "Polycystic Kidney Disease",
+      "name_en": "Polycystic Kidney Disease (PKD)",
       "name_ko": "다낭성 신장질환",
       "severity_note": "Moderate"
     },
@@ -75,22 +107,36 @@
   "faq": [
     {
       "question_ko": "브리티시 쇼트헤어와 무엇이 다른가요?",
-      "answer_ko": "브리티시는 얼굴이 훨씬 둥글고 납작하지만, 샤르트뢰는 주둥이가 더 튀어나와 '웃는 얼굴'을 하고 있으며 다리가 더 가늘어 보입니다."
+      "answer_ko": "브리티시는 얼굴이 훨씬 둥글지만, 샤르트뢰는 주둥이가 더 튀어나와 '웃는 얼굴'을 하고 있으며 다리가 더 가늘어 보이는 차이가 있습니다.",
+      "question_en": "How are they different from British Shorthairs?",
+      "answer_en": "British Shorthairs have much rounder faces. Chartreux have a more prominent muzzle that creates their 'smile' and have noticeably slimmer legs."
     },
     {
       "question_ko": "정말 울지 않나요?",
-      "answer_ko": "네, 고양이 중에서도 목소리가 가장 작고 빈도가 낮은 편이라 매우 조용한 환경을 선호하는 분들께 좋습니다."
+      "answer_ko": "네, 고양이 중에서도 목소리가 가장 작고 빈도가 낮은 편입니다. 울더라도 아주 작은 소리로 속삭이듯 울어 매우 조용합니다.",
+      "question_en": "Are they really that quiet?",
+      "answer_en": "Yes, they are one of the quietest breeds. When they do vocalize, it's often a tiny, chirping sound rather than a loud meow."
     }
   ],
-  "visual_comparison_tip": "러시안 블루나 브리티시 쇼트헤어와 비슷해 보이지만, 눈 색깔이 항상 선명한 구리색/오렌지색이며 다리가 비교적 가늘고 체구는 탄탄한 것이 특징입니다.",
+  "visual_comparison_tip": "러시안 블루나 브리티시 쇼트헤어보다 눈 색깔이 항상 선명한 구리색/오렌지색이며 다리가 비교적 가늘고 체구는 탄탄한 것이 특징입니다.",
+  "visual_comparison_tip_en": "Unlike Russian Blues, they always have brilliant copper/orange eyes and a sturdier, woollier coat than British Shorthairs.",
   "meta_tags": {
-    "title": "샤르트뢰 고양이 백과: 샤르트뢰 고양이 백과: 샤르트뢰 고양이 도감: 프랑스의 미소, 성격 및 입양 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "구리빛 눈동자와 블루 그레이 털의 우아한 조화. 프랑스의 국보급 고양이 샤르트뢰의 모든 정보를 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "샤르트뢰 고양이: 성격, 미소의 비밀, 입양 | nyan",
+    "title_en": "Chartreux Cat: The 'Smile' & Care | nyan",
+    "description_ko": "구리빛 눈동자와 블루 그레이 털의 우아한 조화. 프랑스의 국보급 고양이 샤르트뢰의 모든 정보를 nyan에서 확인하세요.",
+    "description_en": "The smiling legend of France, the Chartreux. Copper eyes, blue-gray woolly coat, costs, and management in museum-grade detail.",
+    "keywords_ko": [
       "샤르트뢰",
-      "프랑스고양이",
+      "미소짓는고양이",
       "블루고양이",
       "조용한고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Chartreux cat",
+      "smiling cat",
+      "French cat",
+      "blue-gray cat",
       "nyan"
     ]
   },
@@ -98,32 +144,40 @@
   "image_macro_path": "/images/Nyan/chartreux_macro.png",
   "image_fullbody_path": "/images/Nyan/chartreux/chartreux_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/chartreux/chartreux_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "대체로 매우 튼튼하지만 신장 결석이나 고관절 이형성증을 주의 깊게 살펴야 합니다.",
-  "local_rarity_ko": "한국에서는 매우 드문 희귀 품종으로, 러시안 블루와 혼동되기도 하지만 체격과 눈 색깔에서 큰 차이가 있습니다.",
-  "similar_breed_ids": [
-    "russian-blue",
-    "british-shorthair",
-    "korat"
-  ],
   "image_fullbody_side_path": "/images/Nyan/chartreux/chartreux_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/chartreux/chartreux_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/chartreux/chartreux_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/chartreux/chartreux_coat_texture.webp",
   "image_variant_path": "/images/Nyan/chartreux/chartreux_variant_full_body.webp",
-  "origin_history_ko": "샤르트뢰 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "샤르트뢰의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "대체로 매우 튼튼하지만 신장 질환이나 슬개골 탈구 여부를 정기적으로 체크하는 것이 좋습니다.",
+  "health_notes_en": "Generally very robust, though regular checks for kidney health and patellar luxation are recommended.",
+  "local_rarity_ko": "한국에서는 매우 드문 희귀 품종으로, 전문 캐터리를 통해서만 만날 수 있는 귀한 고양이입니다.",
+  "similar_breed_ids": [
+    "russian-blue",
+    "british-shorthair",
+    "korat"
+  ],
+  "origin_history_ko": "프랑스 카르투시오 수도회 수도사들이 키웠다는 전설이 있는 고대 품종입니다. 제2차 세계대전 당시 멸종 위기에 처했으나 헌신적인 브리더들의 노력으로 보존된 프랑스의 살아있는 문화유산입니다.",
+  "origin_history_en": "An ancient breed rumored to have lived with Carthusian monks in France. Nearly extinct after WWII, they were preserved by dedicated breeders and are now a living cultural treasure of France.",
+  "grooming_tips_ko": "양모처럼 빽빽한 이중모를 가졌으므로 매일 혹은 주 3회 이상 빗질하여 죽은 털을 제거해야 합니다. 목욕 시 털이 물을 튕겨내므로 샴푸 전 충분히 털을 적셔주어야 합니다.",
+  "grooming_tips_en": "Their dense double coat requires brushing at least 3 times a week. The water-repellent fur needs thorough soaking before shampooing during baths.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "중형견용 튼튼한 빗 (슬리커)",
+      "item_name_en": "Durable Slicker Brush",
+      "reason_ko": "샤르트뢰 특유의 매우 빽빽하고 두꺼운 양모 질감의 털을 뚫고 빗질하기 위함",
+      "reason_en": "Necessary for penetrating and managing their exceptionally dense, wool-like double coat"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "자동 레이저 장난감",
+      "item_name_en": "Automatic Laser Toy",
+      "reason_ko": "조용히 사냥하는 것을 즐기는 성격에 맞춰 비만 예방을 위한 활동량 유도",
+      "reason_en": "Encourages movement in this quiet breed to maintain a healthy weight through active play"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -137,9 +191,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "샤르트뢰",
+    "name": "Chartreux",
     "taxonRank": "Breed",
-    "description": "샤르트뢰 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Chartreux cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 샤르트뢰 고양이의 전신 모습",
@@ -150,5 +204,15 @@
     "eye_macro": "샤르트뢰 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "샤르트뢰 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "샤르트뢰 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Chartreux cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the brilliant copper eyes and 'smiling' muzzle of a Chartreux",
+    "full_body_front": "Front view of a Chartreux showing its robust and powerful build",
+    "full_body_side": "Lateral full body photo showcasing the blue-gray woolly coat and slender legs",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the intense copper/orange eyes of a Chartreux cat",
+    "coat_texture": "Macro photo of the dense, water-repellent, wool-like coat texture",
+    "variant_full_body": "Full body view showing the characteristic slate-gray color of the Chartreux"
   }
 }

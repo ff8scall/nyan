@@ -2,6 +2,10 @@
   "id": "ragamuffin",
   "name_en": "Ragamuffin",
   "name_ko": "라가머핀",
+  "aliases_en": [
+    "Cherubim",
+    "Color-rich Ragdoll"
+  ],
   "aliases_ko": [
     "색깔 있는 렉돌",
     "거대한 털 뭉치"
@@ -18,7 +22,7 @@
     "all_colors"
   ],
   "weight_min_kg": 4.5,
-  "weight_max_kg": 9.0,
+  "weight_max_kg": 9,
   "lifespan_min_years": 12,
   "lifespan_max_years": 16,
   "grooming_level": 4,
@@ -43,23 +47,57 @@
     "성격이 매우 온순하고 인내심이 강해 아이들이나 다른 반려동물과도 천사처럼 잘 지냄",
     "집사가 안으면 몸을 축 늘어뜨리는 애교가 일품이며 정서적으로 매우 안정된 품종임"
   ],
+  "pros_en": [
+    "Exceptional softness of the rabbit-like plush coat combined with a comforting large build",
+    "Angelically patient and gentle; integrates flawlessly with children and other pets",
+    "Famous for the 'limp' reaction when held, showing profound trust and affection"
+  ],
   "cons": [
     "장모종 특유의 털 빠짐과 털 엉킴이 심해 매일 정기적이고 세심한 빗질이 필수적임",
     "덩치가 매우 크고 뼈대가 굵어 체중 관리에 실패하면 관절에 무리가 올 수 있음",
     "너무 온순하여 위험한 상황에서도 대처가 늦을 수 있으므로 전적으로 실내에서 보호해야 함"
   ],
+  "cons_en": [
+    "High maintenance grooming requirement; daily brushing is essential to prevent matting",
+    "Prone to joint strain if weight is not strictly managed due to their heavy-boned frame",
+    "Extreme trust and lack of aggression mean they require total indoor protection"
+  ],
+  "good_for": [
+    "아이들과 함께할 수 있는 '천사 고양이'를 찾는 대가족",
+    "장모종의 화려함과 함께 인형처럼 온순한 반려묘를 원하는 분",
+    "고양이를 품에 안고 포근한 정서적 교감을 나누는 것이 꿈인 집사"
+  ],
+  "good_for_en": [
+    "Large families seeking an 'angel cat' that is exceptionally patient with kids",
+    "Owners who want the glamour of a longhair with the temperament of a plush toy",
+    "People looking for a high-affection companion for comforting physical contact"
+  ],
+  "think_twice_if": [
+    "매일 10~20분 이상의 빗질 시간을 내기 어려운 바쁜 일상",
+    "고양이가 활발하게 뛰어놀거나 독립적인 성향을 가지길 원하는 경우",
+    "대형묘의 사료 및 모래 소비량과 관리 비용이 부담스러운 분"
+  ],
+  "think_twice_if_en": [
+    "Individuals with tight schedules unable to commit to 10-20 minutes of daily grooming",
+    "Owners looking for a highly active or independent cat that doesn't need constant affection",
+    "Those concerned about the higher costs associated with maintaining a large breed"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 4,500,000원",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Ragamuffin is a breed of domestic cat. It is a variant of the Ragdoll cat and was established as a separate breed in 1994.",
+  "summary_en": "The Ragamuffin is a large, plush, and extremely affectionate breed known for its rabbit-like fur and angelic personality.",
   "summary_ko": "어떤 색상이든 허용되는 화려한 외모와 인형처럼 순한 성격을 가졌으며, 아이들이나 다른 동물과도 완벽하게 어울리는 최고의 가정묘입니다.",
-  "appearance_en": "Large rectangular body, sweet expression with walnut eyes, exceptionally soft rabbit-like fur.",
+  "appearance_en": "Features a large rectangular body, sweet expression with walnut-shaped eyes, and an exceptionally soft coat that doesn't easily mat.",
   "appearance_ko": "래그돌에서 파생된 품종으로 더욱 크고 단단한 몸집과 토끼 털처럼 부드러운 긴 털을 가졌습니다. 커다란 호두 모양의 눈과 항상 웃는 듯한 표정이 상징입니다.",
-  "personality_en": "Extremely sweet, calm, and affectionate. Ragamuffins are famous for their desire for human contact and their tendency to go limp in their owner's arms. They are exceptionally patient with children and other pets.",
-  "personality_ko": "천성적으로 매우 온화하고 다정합니다. 집사가 안으면 몸을 축 늘어뜨리며 깊은 신뢰를 보여주는 '라그도잉(Ragdolling)' 습성이 있으며, 공격성이 전혀 없어 아이들이나 다른 동물들과 완벽하게 조화를 이룹니다. 집안의 분위기를 차분하게 만들어주는 힐링 고양이입니다.",
-  "care_en": "Requires regular grooming to prevent tangles and mats in their thick coat. They are primarily indoor cats and should be kept away from potential hazards due to their extremely trusting nature.",
-  "care_ko": "풍성한 장모종이므로 매일 빗질을 통해 죽은 털을 제거하고 털 엉킴을 방지해야 합니다. 덩치가 커서 식사량이 많으므로 체중이 과하게 늘지 않도록 식이 조절이 필요합니다. 사람을 너무 잘 믿어 위험 대처 능력이 떨어지므로 반드시 안전한 실내에서만 길러야 합니다.",
+  "personality_en": "Famous for their 'Ragdolling' behavior—going limp with trust in human arms. They are exceptionally patient, making them ideal for families.",
+  "personality_ko": "천성적으로 매우 온화하고 다정합니다. 집사가 안으면 몸을 축 늘어뜨리며 깊은 신뢰를 보여주는 '라그도잉(Ragdolling)' 습성이 있으며, 공격성이 전혀 없어 조화를 이룹니다.",
+  "care_en": "Despite the long coat, it is relatively easy to maintain, but daily brushing is recommended. Strict weight control is needed for their large frame.",
+  "care_ko": "풍성한 장모종이므로 매일 빗질을 통해 죽은 털을 제거하고 털 엉킴을 방지해야 합니다. 덩치가 커서 식사량이 많으므로 체중이 과하게 늘지 않도록 식이 조절이 필요합니다.",
+  "health_notes_ko": "비대성 심근증(HCM)이나 다낭성 신장병(PKD)에 대한 유전적 모니터링이 권장되며, 특히 대형묘의 특성상 심장 건강과 관절 건강을 세심하게 살펴야 합니다.",
+  "health_notes_en": "Genetic screening for HCM and PKD is essential. For large breeds like Ragamuffins, maintaining a healthy weight to protect heart and joint function is the primary long-term care goal.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,56 +113,90 @@
   "faq": [
     {
       "question_ko": "렉돌과 어떻게 다른가요?",
-      "answer_ko": "렉돌은 포인트 무늬와 파란 눈만 허용되지만, 라가머핀은 모든 색상과 눈 색깔이 허용됩니다. 또한 라가머핀이 조금 더 둥글둥글하고 눈 모양이 호두 모양인 차이가 있습니다."
+      "answer_ko": "렉돌은 포인트 무늬와 파란 눈만 허용되지만, 라가머핀은 모든 색상과 눈 색깔이 허용됩니다. 또한 라가머핀이 조금 더 둥글둥글하고 눈 모양이 호두 모양인 차이가 있습니다.",
+      "question_en": "How are they different from Ragdolls?",
+      "answer_en": "Ragdolls must have point patterns and blue eyes, while Ragamuffins can have any color, pattern, or eye color. Ragamuffins also have a rounder face and walnut-shaped eyes."
     },
     {
       "question_ko": "얼마나 커지나요?",
-      "answer_ko": "성묘 수컷의 경우 9kg 이상 나가는 경우도 흔하며, 완전히 성숙하는 데 약 4~5년 정도 걸리는 대형 묘종입니다."
+      "answer_ko": "성묘 수컷의 경우 9kg 이상 나가는 경우도 흔하며, 완전히 성숙하는 데 약 4~5년 정도 걸리는 대형 묘종입니다.",
+      "question_en": "How large do they grow?",
+      "answer_en": "Adult males often exceed 9kg. As a slow-maturing breed, they take about 4 to 5 years to reach their full size and coat density."
+    },
+    {
+      "question_ko": "아이들과 잘 지내나요?",
+      "answer_ko": "네, 인내심이 매우 강해 아이들의 서툰 장난에도 화를 내지 않는 편입니다. 고양이 중에서도 '보육냥'으로 불릴 만큼 가족에게 헌신적입니다.",
+      "question_en": "Are they good with children?",
+      "answer_en": "Yes, they are exceptionally patient and rarely get angry, even with clumsy toddler play. They are often called 'nanny cats' for their devotion to family members."
+    },
+    {
+      "question_ko": "털이 많이 엉키나요?",
+      "answer_ko": "토끼털 같은 질감이라 다른 장모종에 비해서는 덜 엉키는 편이지만, 속털이 빽빽하므로 방치하면 뭉칠 수 있습니다. 주 3~4회 이상 빗질을 권장합니다.",
+      "question_en": "Does their fur mat easily?",
+      "answer_en": "Their rabbit-like fur is actually more mat-resistant than other longhair breeds, but their dense undercoat still requires brushing 3-4 times a week to maintain its plush texture."
+    },
+    {
+      "question_ko": "혼자 두면 외로워하나요?",
+      "answer_ko": "매우 사교적인 품종이라 혼자 있는 시간이 길어지면 우울해할 수 있습니다. 가능한 한 사람이 곁에 있거나 다른 반려동물과 함께 두는 것이 좋습니다.",
+      "question_en": "Do they get lonely?",
+      "answer_en": "As a highly social breed, they crave company. Long periods of isolation can lead to depression; they do best in homes where they have frequent companionship."
     }
   ],
   "visual_comparison_tip": "렉돌과 비슷하지만, 눈 모양이 더 동글동글한 '호두 모양'이고 모든 색상과 패턴이 허용되는지 확인하세요.",
+  "visual_comparison_tip_en": "Distinguish from Ragdolls by their rounder face, walnut-shaped eyes, and the presence of diverse coat colors and patterns.",
   "meta_tags": {
-    "title": "라가머핀 고양이 백과: 라가머핀 고양이 백과: 라가머핀 도감: 거대한 천사, 성격, 렉돌과의 차이점, 관리법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "포근한 거인 라가머핀의 모든 것. 토끼털 같은 코트와 천사 같은 성격, 실제 분양가와 렉돌과의 차이를 nyan에서 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "라가머핀 고양이 가이드: 성격, 렉돌과 차이점, 대형묘 관리법 | nyan",
+    "title_en": "Ragamuffin Cat: Differences from Ragdoll & Care | nyan",
+    "description_ko": "포근한 천사 라가머핀의 모든 것. 토끼털 같은 코트와 온순한 성격, 실제 분양가와 렉돌과의 차이를 nyan에서 박물관급 디테일로 확인하세요.",
+    "description_en": "Discover the gentle giant, the Ragamuffin. Learn about their plush coat, angelic temperament, and how they differ from Ragdolls in our archive.",
+    "keywords_ko": [
       "라가머핀",
-      "라가머핀고양이",
-      "큰고양이",
+      "대형고양이",
       "개냥이추천",
-      "렉돌사촌",
+      "렉돌비교",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Ragamuffin",
+      "large cat breed",
+      "plush coat cat",
+      "gentle giant",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/ragamuffin/ragamuffin_hero.webp",
-  "image_macro_path": "/images/Nyan/ragamuffin_macro.png",
   "image_fullbody_path": "/images/Nyan/ragamuffin/ragamuffin_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/ragamuffin/ragamuffin_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "대형 묘종에서 나타날 수 있는 비대성 심근증(HCM)이나 다낭성 신장병(PKD)에 대한 유전적 모니터링이 권장됩니다.",
-  "local_rarity_ko": "국내 프리미엄 캐터리에서 렉돌과 함께 최고의 인기를 누리고 있습니다. 렉돌보다 더 다양한 무늬와 압도적인 털의 포근함을 원하는 집사들에게 인기가 많습니다.",
-  "similar_breed_ids": [
-    "ragdoll",
-    "maine-coon",
-    "norwegian-forest-cat"
-  ],
   "image_fullbody_side_path": "/images/Nyan/ragamuffin/ragamuffin_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/ragamuffin/ragamuffin_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/ragamuffin/ragamuffin_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/ragamuffin/ragamuffin_coat_texture.webp",
   "image_variant_path": "/images/Nyan/ragamuffin/ragamuffin_variant_full_body.webp",
-  "origin_history_ko": "라가머핀 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "라가머핀의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "ragdoll",
+    "maine-coon",
+    "norwegian-forest-cat"
+  ],
+  "origin_history_ko": "1994년 래그돌 품종의 엄격한 교배 규정(포인트 컬러 한정 등)에 반대하여 더욱 다양한 색상과 무늬를 가진 고양이를 만들기 위해 분리된 품종입니다. '라가머핀'이라는 이름은 친근하고 소박한 성격을 나타내기 위해 지어졌습니다.",
+  "origin_history_en": "Established in 1994 by breeders who wanted to expand the color and pattern options beyond the strict Ragdoll standards. The name 'Ragamuffin' was chosen to reflect their humble and sweet nature.",
+  "grooming_tips_ko": "토끼털처럼 부드러운 코트는 매일 빗질해 주는 것이 가장 좋으며, 특히 배와 엉덩이 주변의 긴 털이 뭉치지 않도록 슬리커 브러시와 일자 빗을 병행하여 관리해 주세요.",
+  "grooming_tips_en": "The rabbit-like coat is best maintained with daily sessions. Use a combination of a slicker brush and a steel comb, especially around the belly and hindquarters where tangles are most likely to form.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "초대형 개방형 고양이 화장실",
+      "item_name_en": "Extra-Large Open Litter Box",
+      "reason_ko": "몸집이 큰 라가머핀이 여유 있게 몸을 돌리고 용변을 볼 수 있는 충분한 공간 확보",
+      "reason_en": "Provides the necessary space for this large breed to maneuver comfortably during use"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고급 장모용 핀 브러쉬 & 디탱글러",
+      "item_name_en": "Premium Pin Brush & Detangling Spray",
+      "reason_ko": "풍성한 속털까지 자극 없이 빗어주고 털 엉킴을 부드럽게 해결하기 위함",
+      "reason_en": "Designed to reach the dense undercoat without skin irritation while safely removing tangles"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +210,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "라가머핀",
+    "name": "Ragamuffin",
     "taxonRank": "Breed",
-    "description": "라가머핀 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Ragamuffin cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 라가머핀 고양이의 전신 모습",
@@ -151,5 +223,17 @@
     "eye_macro": "라가머핀 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "라가머핀 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "라가머핀 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a plush Ragamuffin cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the sweet, round face of a Ragamuffin",
+    "full_body_front": "Front view of a Ragamuffin showing its substantial and fluffy build",
+    "full_body_side": "Lateral view showcasing the thick, luxurious coat and sturdy frame",
+    "strict_profile": "90-degree profile view for anatomical study of the Ragamuffin breed",
+    "eye_macro": "Macro shot of the large, walnut-shaped eyes of a Ragamuffin cat",
+    "coat_texture": "Detailed photo of the rabbit-like plush coat texture",
+    "variant_full_body": "Showcase of the diverse colors and patterns found in the Ragamuffin breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

@@ -22,7 +22,7 @@
     "flame"
   ],
   "weight_min_kg": 3.5,
-  "weight_max_kg": 6.0,
+  "weight_max_kg": 6,
   "lifespan_min_years": 9,
   "lifespan_max_years": 15,
   "grooming_level": 5,
@@ -47,31 +47,63 @@
     "페르시안의 우아함과 샴의 매력적인 포인트 컬러를 동시에 가짐",
     "높은 곳에 올라가기보다 바닥이나 소파에서 쉬는 것을 선호하는 전형적인 '무릎 고양이'"
   ],
+  "pros_en": [
+    "Exceptionally quiet and gentle temperament that maintains household peace",
+    "Perfect combination of Persian elegance and striking Siamese color points",
+    "Typical 'lap cat' that prefers relaxing on the floor or sofa over climbing high"
+  ],
   "cons": [
     "장모종 중에서도 털 관리가 가장 까다로운 편으로, 매일 빗질하지 않으면 심하게 엉킴",
     "단두종 특성상 눈물 자국이 잘 생기며 호흡기 관리에 주의가 필요함",
     "낯가림이 있어 손님이 오면 숨어버리는 등 소심한 면이 있을 수 있음"
   ],
+  "cons_en": [
+    "One of the most high-maintenance longhair breeds; daily brushing is mandatory",
+    "Brachycephalic features lead to frequent tear staining and respiratory concerns",
+    "Can be shy or timid, often hiding when guests or strangers visit the home"
+  ],
+  "good_for": [
+    "장모종의 화려한 미학을 사랑하며 매일 빗질해 줄 부지런함을 갖춘 분",
+    "조용하고 평화로운 실내 분위기를 선호하는 1인 가구나 소가족",
+    "고양이와 정적으로 교감하며 함께 낮잠 자는 시간을 즐기고 싶은 집사"
+  ],
+  "good_for_en": [
+    "Owners who love the longhair aesthetic and are committed to daily grooming",
+    "Single-person households or small families who prefer a quiet, peaceful atmosphere",
+    "People looking for a calm companion to enjoy slow, quiet time and naps with"
+  ],
+  "think_twice_if": [
+    "매일 털을 빗겨주고 눈가를 닦아줄 시간적 여유가 없는 분",
+    "어린아이들이나 활동적인 강아지가 있어 집안이 항상 소란스러운 환경",
+    "고양이가 활발하게 뛰어놀고 높은 곳을 탐험하길 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Those without the time or patience for daily coat and facial hygiene tasks",
+    "Busy, loud households with active children or high-energy dogs",
+    "Owners who want an active, adventurous cat that explores vertical spaces"
+  ],
   "economics": {
     "price_range_ko": "1,000,000원 - 2,500,000원",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$1,000 - $2,500 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Himalayan is a breed or sub-breed of long-haired cat identical in type to the Persian, with the exception of its blue eyes and its point coloration.",
+  "summary_en": "The Himalayan is a long-haired cat identical in type to the Persian, distinguished by its blue eyes and Siamese-like point coloration.",
   "summary_ko": "페르시안의 우아함과 샴의 색채미를 동시에 즐길 수 있는 품종으로, 매우 조용하고 온순한 전형적인 무릎 고양이입니다.",
-  "appearance_en": "Persian body type (cobby) with Siamese pointed colors and blue eyes, long thick silky fur.",
-  "appearance_ko": "페르시안의 둥글고 단단한 체격과 샴의 포인트 컬러 및 푸른 눈이 결합된 형태입니다. 아주 길고 화려한 비단 같은 털과 낮은 코가 특징입니다.",
-  "personality_en": "Placid, gentle, and affectionate. They prefer quiet environments and are content to sit in their owner's lap.",
-  "personality_ko": "세상에서 가장 정적인 고양이 중 하나입니다. 우다다를 즐기기보다는 집사 옆에서 낮잠 자는 것을 좋아하며, 큰 소리나 혼란스러운 환경을 싫어합니다.",
-  "care_en": "High maintenance. Requires daily brushing to prevent mats and regular cleaning of the facial area and eyes.",
-  "care_ko": "그루밍 난이도가 최고 수준입니다. 매일 30분 이상의 빗질이 필수이며, 단두종 특성상 눈물을 자주 닦아주어 눈 주변 피부염을 예방해야 합니다.",
+  "appearance_en": "Cobby body of a Persian with the colorpoint pattern and brilliant blue eyes of a Siamese. Features a long, thick, and silky coat.",
+  "appearance_ko": "페르시안의 둥글고 단단한 체격(Cobby)과 샴의 포인트 컬러 및 푸른 눈이 결합된 형태입니다. 아주 길고 화려한 비단 같은 털과 눌린 듯한 낮은 코가 특징입니다.",
+  "personality_en": "Placid, gentle, and affectionate. They thrive in quiet environments and love human companionship.",
+  "personality_ko": "세상에서 가장 정적인 고양이 중 하나입니다. 우다다를 즐기기보다는 집사 옆에서 낮잠 자는 것을 좋아하며, 큰 소리나 혼란스러운 환경을 싫어하는 섬세한 성격입니다.",
+  "care_en": "High maintenance grooming required daily. Eyes need regular cleaning to prevent staining and irritation.",
+  "care_ko": "그루밍 난이도가 최고 수준입니다. 매일 30분 이상의 빗질이 필수이며, 단두종 특성상 눈물을 자주 닦아주어 눈 주변 피부염과 변색을 예방해야 합니다.",
   "known_risks": [
     {
-      "name_en": "Polycystic Kidney Disease",
-      "name_ko": "다낭성 신장질환",
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
       "severity_note": "High"
     },
     {
-      "name_en": "Brachycephalic syndrome",
+      "name_en": "Brachycephalic Syndrome",
       "name_ko": "단두종 증후군",
       "severity_note": "Moderate"
     }
@@ -79,22 +111,36 @@
   "faq": [
     {
       "question_ko": "페르시안 고양이와 다른 종인가요?",
-      "answer_ko": "TICA 등 일부 협회에서는 별도의 품종으로 인정하지만, CFA 등에서는 페르시안의 한 갈래(포인트 페르시안)로 분류하기도 합니다."
+      "answer_ko": "TICA 등 일부 협회에서는 별도의 품종으로 인정하지만, CFA 등에서는 페르시안의 한 갈래(포인트 페르시안)로 분류하기도 합니다. 본질적으로 '샴의 옷을 입은 페르시안'입니다.",
+      "question_en": "Are they a separate breed from Persians?",
+      "answer_en": "Registries like TICA recognize them as a separate breed, while others like CFA classify them as a division of the Persian. Essentially, they are 'Persians in Siamese clothing'."
     },
     {
       "question_ko": "털 관리가 정말 힘든가요?",
-      "answer_ko": "네, 하루만 건너뛰어도 털이 뭉칠 수 있으므로 부지런한 집사님에게 추천합니다."
+      "answer_ko": "네, 고양이 중 관리 난이도가 가장 높습니다. 하루만 건너뛰어도 털이 뭉쳐 피부병을 유발할 수 있으므로 부지런한 관리가 필수입니다.",
+      "question_en": "Is grooming really that difficult?",
+      "answer_en": "Yes, they are among the most high-maintenance breeds. Skipping even one day of brushing can lead to painful mats and skin issues."
     }
   ],
-  "visual_comparison_tip": "페르시안과 똑같은 체형과 털을 가졌지만, 샴처럼 얼굴, 귀, 꼬리, 다리에만 색깔이 있는 '포인트' 무늬를 가졌다면 히말라얀입니다.",
+  "visual_comparison_tip": "페르시안의 체형과 털을 가졌지만, 샴처럼 얼굴, 귀, 꼬리, 다리에만 색깔이 있는 '포인트' 무늬가 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Look for the Persian's sturdy build and long fur, but with the specific colorpoint markings and blue eyes of a Siamese.",
   "meta_tags": {
-    "title": "히말라얀 고양이 백과: 히말라얀 고양이 백과: 히말라얀 고양이 도감: 페르시안의 우아함과 샴의 색채 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "구름 같은 털과 깊은 파란 눈의 히말라얀. 럭셔리한 외모 속에 감춰진 다정한 성격과 관리법을 nyan에서 알아보세요.",
-    "keywords": [
+    "title_ko": "히말라얀 고양이: 성격, 털 관리, 포인트 컬러 | nyan",
+    "title_en": "Himalayan Cat: Grooming & Health | nyan",
+    "description_ko": "구름 같은 털과 깊은 파란 눈의 히말라얀. 럭셔리한 외모 속에 감춰진 다정한 성격과 실제 유지 비용을 nyan에서 알아보세요.",
+    "description_en": "The elegant blend of Persian and Siamese, the Himalayan. Discover their gentle nature, high-maintenance care, and costs in museum-grade detail.",
+    "keywords_ko": [
       "히말라얀",
-      "장모종고양이",
+      "장모종관리",
       "포인트고양이",
       "조용한고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Himalayan cat",
+      "colorpoint longhair",
+      "Persian mix",
+      "gentle cat",
       "nyan"
     ]
   },
@@ -102,32 +148,40 @@
   "image_macro_path": "/images/Nyan/himalayan_macro.png",
   "image_fullbody_path": "/images/Nyan/himalayan/himalayan_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/himalayan/himalayan_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "유전적으로 다낭성 신장질환(PKD)에 취약할 수 있으므로 정기적인 검진이 필수입니다.",
-  "local_rarity_ko": "국내에서도 꾸준히 인기가 있는 품종이지만, 손이 많이 가는 관리법 때문에 입양 전 신중한 고민이 필요합니다.",
-  "similar_breed_ids": [
-    "persian",
-    "siamese",
-    "ragdoll"
-  ],
   "image_fullbody_side_path": "/images/Nyan/himalayan/himalayan_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/himalayan/himalayan_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/himalayan/himalayan_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/himalayan/himalayan_coat_texture.webp",
   "image_variant_path": "/images/Nyan/himalayan/himalayan_variant_full_body.webp",
-  "origin_history_ko": "히말라얀 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "히말라얀의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "다낭성 신장병(PKD)과 호흡기 건강에 대한 세심한 주의가 필요합니다.",
+  "health_notes_en": "Close attention to Polycystic Kidney Disease (PKD) and respiratory health is essential.",
+  "local_rarity_ko": "국내에서도 꾸준한 팬층을 보유한 품종입니다. 우아한 분위기를 선호하는 집사들에게 인기가 많지만, 관리 강도가 높다는 점을 인지해야 합니다.",
+  "similar_breed_ids": [
+    "persian",
+    "siamese",
+    "ragdoll"
+  ],
+  "origin_history_ko": "1930년대부터 페르시안의 털과 샴의 무늬를 결합하려는 시도로 시작되었습니다. 1950년대에 미국과 영국에서 각각 독립된 품종으로 인정받으며 럭셔리 반려묘의 대명사가 되었습니다.",
+  "origin_history_en": "Developed starting in the 1930s to combine Persian fur with Siamese patterns. Formally recognized in the 1950s in both the US and UK as a distinct luxury breed.",
+  "grooming_tips_ko": "매일 빗질을 통해 털 뭉침을 예방하고, 특히 배와 다리 안쪽을 신경 써야 합니다. 단두종 특유의 눈물 자국은 매일 전용 세정제로 부드럽게 닦아 관리해 주세요.",
+  "grooming_tips_en": "Daily brushing is essential, especially on the belly and inner legs. Clean the facial folds and eye area daily with a gentle cleanser to prevent staining and irritation.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "최고급 메탈 콤 (빗)",
+      "item_name_en": "Premium Metal Grooming Comb",
+      "reason_ko": "히말라얀의 빽빽한 속털까지 엉킴 없이 관리하기 위한 필수 도구",
+      "reason_en": "Crucial for reaching through the dense undercoat to prevent painful mats"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "단두종 전용 평평한 사료 그릇",
+      "item_name_en": "Shallow Brachycephalic-Friendly Bowl",
+      "reason_ko": "얼굴이 납작한 히말라얀이 수염 스트레스 없이 편안하게 식사하도록 배려",
+      "reason_en": "Allows flat-faced cats to eat comfortably without whisker fatigue"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -141,18 +195,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "히말라얀",
+    "name": "Himalayan",
     "taxonRank": "Breed",
-    "description": "히말라얀 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Himalayan cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 히말라얀 고양이의 전신 모습",
-    "face_portrait": "히말라얀 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "face_portrait": "히말라얀 고양이의 특징적인 얼굴 이목구비와 포인트 컬러가 강조된 초근접 초상화",
     "full_body_front": "히말라얀 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
     "full_body_side": "히말라얀 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "히말라얀 품종 표준을 보여주는 완벽한 측면 두상 프로필",
-    "eye_macro": "히말라얀 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "히말라얀 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "eye_macro": "히말라얀 고양이 특유의 신비로운 파란 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "히말라얀 고양이의 부드럽고 풍성한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "히말라얀 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Himalayan cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the flat face and colorpoint features of a Himalayan",
+    "full_body_front": "Front view of a Himalayan showing its cobby build and long, flowing fur",
+    "full_body_side": "Lateral full body photo showcasing the noble silhouette and point markings",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the brilliant blue eyes and iris patterns of a Himalayan cat",
+    "coat_texture": "Macro photo of the fine, silky, and long coat texture",
+    "variant_full_body": "Full body view showing various point color variants of the Himalayan"
   }
 }

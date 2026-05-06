@@ -2,6 +2,10 @@
   "id": "siberian",
   "name_en": "Siberian",
   "name_ko": "시베리안",
+  "aliases_en": [
+    "Siberian Forest Cat",
+    "Moscow Semi-Longhair"
+  ],
   "aliases_ko": [
     "시베리아 숲 고양이",
     "시베리안 포레스트"
@@ -18,7 +22,7 @@
     "all_colors"
   ],
   "weight_min_kg": 4.5,
-  "weight_max_kg": 9.0,
+  "weight_max_kg": 9,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 4,
@@ -43,23 +47,57 @@
     "성격이 매우 대범하고 다정하여 아이들이나 강아지와 완벽하게 어울림",
     "매우 건강하고 유전병이 적어 반려 생활 중 병원 갈 일이 상대적으로 적음"
   ],
+  "pros_en": [
+    "Hypoallergenic qualities make them the best choice for allergy sufferers",
+    "Bold and affectionate personality; ideal for families with kids or dogs",
+    "Naturally robust health with minimal genetic predispositions"
+  ],
   "cons": [
     "장모종이자 삼중모라 털 빠짐이 매우 심하고 정기적인 빗질이 필수적임",
     "덩치가 크고 활동량이 많아 충분한 활동 공간과 대형 용품이 필요함",
     "완전한 성묘가 되기까지 5년 정도가 걸릴 정도로 성장이 매우 느림"
   ],
+  "cons_en": [
+    "Heavy shedding from a dense triple coat requires daily/frequent brushing",
+    "Large size and high energy necessitate ample space and oversized supplies",
+    "Slow maturation process; takes up to 5 years to reach full adult size"
+  ],
+  "good_for": [
+    "고양이 알레르기가 있지만 반려 생활을 간절히 원하는 분",
+    "강아지 같은 친근함과 대범함을 가진 고양이를 선호하는 분",
+    "자녀가 있거나 이미 다른 반려동물을 키우고 있는 가정"
+  ],
+  "good_for_en": [
+    "People with cat allergies who still wish to share their home with a feline",
+    "Owners who prefer a dog-like, brave, and social temperament",
+    "Homes with children or multiple pets"
+  ],
+  "think_twice_if": [
+    "매일 털을 빗겨주고 청소해 줄 여력이 부족한 분",
+    "좁은 원룸에서 활동량 많은 대형묘를 키워야 하는 환경",
+    "분양가가 높은 프리미엄 품종 입양이 부담스러운 경우"
+  ],
+  "think_twice_if_en": [
+    "Owners who cannot commit to daily grooming and cleaning fur",
+    "Living in a small studio apartment where a large active cat may feel cramped",
+    "People with a limited budget for high-end pedigree adoption"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 5,000,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$2,000 - $5,000 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
   "summary_en": "The Siberian is a centuries-old landrace of domestic cat in Russia and recently developed as a formal breed.",
-  "summary_ko": "러시아의 혹독한 추위를 견뎌낸 강인하고 아름다운 '숲의 전사'입니다. 고양이 중 드물게 알레르기를 덜 유발하는 저자극성 품종으로 잘 알려져 있으며, 덩치에 걸맞게 온화하고 믿음직한 성격을 가졌습니다.",
-  "appearance_en": "Large, powerfully built cat with a dense, triple coat that is water-repellent. They have a rounded head, large ears, and a sweet, expressive face.",
-  "appearance_ko": "매우 크고 묵직한 '서브스탠셜(Substantial)' 체형입니다. 추위를 견디기 위한 빽빽한 삼중모가 특징이며, 특히 목 주변의 풍성한 장식털(Ruff)이 사자 같은 느낌을 줍니다. 얼굴은 노르웨이 숲보다 둥글둥글하여 선한 인상을 줍니다.",
-  "personality_en": "Friendly, sociable, and adventurous. Siberians are known to be 'dog-like' in their devotion to their owners. They are highly intelligent and often enjoy playing in water.",
-  "personality_ko": "성격이 대범하고 사교성이 매우 좋습니다. 낯선 사람이나 다른 동물에게도 친근하며, 집사를 따라다니며 교감하는 것을 즐깁니다. 영리하여 문을 열거나 물건을 가져오는 등 지적인 놀이를 즐기기도 합니다.",
-  "care_en": "Requires regular brushing to prevent matting, especially during shedding seasons. They are very active and need plenty of space and mental stimulation. They generally love climbing and water.",
-  "care_ko": "삼중모라 털 빠짐이 엄청나므로 주 2~3회 이상, 환절기에는 매일 빗질이 필요합니다. 에너지가 많으므로 수직 공간(캣타워)을 충분히 마련해 주어야 하며, 물을 무서워하지 않는 편이라 목욕 난이도는 낮은 편입니다.",
+  "summary_ko": "러시아의 혹독한 추위를 견뎌낸 강인하고 아름다운 '숲의 전사'입니다. 고양이 중 드물게 알레르기를 덜 유발하는 저자극성 품종으로 알려져 있으며, 온화하고 믿음직한 성격을 가졌습니다.",
+  "appearance_en": "Large, powerfully built cat with a dense triple coat. They have a rounded head and a sweet, expressive face.",
+  "appearance_ko": "매우 크고 묵직한 '서브스탠셜(Substantial)' 체형입니다. 추위를 견디기 위한 빽빽한 삼중모가 특징이며, 특히 목 주변의 풍성한 장식털이 사자 같은 위용을 자랑합니다.",
+  "personality_en": "Friendly, sociable, and adventurous. Siberians are known to be 'dog-like' in their devotion to their owners.",
+  "personality_ko": "성격이 대범하고 사교성이 매우 좋습니다. 낯선 사람이나 다른 동물에게도 친근하며, 집사를 따라다니며 교감하는 것을 즐기는 '개냥이'의 정석입니다.",
+  "care_en": "Requires regular brushing to prevent matting. They are active and need plenty of space and mental stimulation.",
+  "care_ko": "삼중모라 털 빠짐이 엄청나므로 주 2~3회 이상 빗질이 필요합니다. 에너지가 많으므로 충분한 수직 공간을 마련해 주어야 하며, 물을 무서워하지 않는 개체가 많습니다.",
+  "health_notes_ko": "고도로 건강한 품종이지만 비대성 심근증(HCM)에 대한 정기 검진은 권장되며, 대형묘 특유의 느린 성장에 따른 적절한 영양 공급이 필수적입니다.",
+  "health_notes_en": "Extremely healthy breed, but periodic HCM screenings are recommended. Due to their slow maturation, providing age-appropriate nutrition for up to 5 years is essential.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,55 +113,90 @@
   "faq": [
     {
       "question_ko": "정말 알레르기가 안 일어나나요?",
-      "answer_ko": "네, 시베리안은 알레르기 유발 단백질인 Fel d 1 수치가 타 품종보다 현저히 낮습니다. 하지만 개인차가 있으므로 입양 전 반드시 직접 접촉하여 반응을 확인해야 합니다."
+      "answer_ko": "네, 시베리안은 알레르기 유발 단백질(Fel d 1) 수치가 현저히 낮습니다. 하지만 개인차가 있으므로 입양 전 반드시 직접 접촉하여 반응을 확인해야 합니다.",
+      "question_en": "Are they truly hypoallergenic?",
+      "answer_en": "Siberians produce much less Fel d 1 protein than other breeds. While not 'allergy-free', many sufferers tolerate them well. Always test with a direct encounter before adoption."
     },
     {
       "question_ko": "여름에 너무 더워하지 않을까요?",
-      "answer_ko": "두꺼운 털 때문에 더위에 취약할 수 있습니다. 여름철에는 실내 온도를 시원하게 유지하고 쿨매트 등을 제공하여 열사병을 예방해 주어야 합니다."
+      "answer_ko": "두꺼운 삼중모 때문에 더위에 취약할 수 있습니다. 여름철에는 실내 온도를 시원하게 유지하고 쿨매트 등을 제공하여 열사병을 예방해 주어야 합니다.",
+      "question_en": "Do they suffer in the summer?",
+      "answer_en": "Their thick triple coat makes them sensitive to heat. Providing air conditioning and cooling mats is essential during hot seasons to prevent heatstroke."
+    },
+    {
+      "question_ko": "목욕을 좋아하나요?",
+      "answer_ko": "네, 시베리안은 야생에서 물가 근처에 살던 습성이 남아 있어 물에 대한 공포가 적은 편입니다. 흐르는 물로 장난을 치거나 수영을 즐기는 개체도 있습니다.",
+      "question_en": "Do they like water?",
+      "answer_en": "Many Siberians have a fascination with water, a trait inherited from their ancestors who lived near rivers. They may play in sinks or even try to join you in the shower."
+    },
+    {
+      "question_ko": "성장이 왜 이렇게 느린가요?",
+      "answer_ko": "대형묘 품종인 시베리안은 골격과 근육이 완전히 발달하는 데 약 5년이 걸립니다. 이는 자연 발생종의 특징 중 하나로, 천천히 건강하게 자라는 과정입니다.",
+      "question_en": "Why do they grow so slowly?",
+      "answer_en": "As a large, natural breed, it takes about 5 years for their skeletal and muscle structure to fully mature. This slow growth contributes to their robust health and impressive size."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "네, 삼중모를 가진 장모종이라 털 빠짐이 매우 심합니다. 특히 환절기에는 엄청난 양의 속털이 빠지므로 매일 정기적인 빗질과 청소가 필요합니다.",
+      "question_en": "Do they shed a lot?",
+      "answer_en": "Yes, their dense triple coat results in significant shedding. During seasonal transitions, they lose a large amount of undercoat, requiring daily brushing to manage the loose fur."
     }
   ],
   "visual_comparison_tip": "노르웨이 숲보다 얼굴이 더 둥글고 눈매가 부드러우며, 전체적으로 더 단단하고 묵직한 인상을 줍니다.",
+  "visual_comparison_tip_en": "Rounder face and softer eye expression than a Norwegian Forest Cat; overall build is sturdier and more substantial.",
   "meta_tags": {
-    "title": "시베리안 고양이 백과: 시베리안 고양이 백과: 시베리안 고양이 도감: 성격, 알레르기, 삼중모 관리법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "러시아의 국보 시베리안의 모든 것. 알레르기 없는 집사를 위한 완벽한 가이드와 실제 분양가, 삼중모 관리 팁을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "시베리안 고양이: 성격, 알레르기 수치, 삼중모 관리 | nyan",
+    "title_en": "Siberian Cat: Allergies & Health | nyan",
+    "description_ko": "러시아의 국보 시베리안의 모든 것. 알레르기 없는 집사를 위한 완벽한 가이드와 실제 분양가, 삼중모 관리 팁을 확인하세요.",
+    "description_en": "Discover the hypoallergenic Siberian Forest Cat. Personality, allergy stats, costs, and triple-coat care in museum-grade detail.",
+    "keywords_ko": [
       "시베리안",
-      "시베리아숲고양이",
       "알레르기없는고양이",
-      "대형묘",
+      "저자극성고양이",
+      "대형묘성격",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Siberian cat",
+      "hypoallergenic cat",
+      "low Fel d 1",
+      "large cat care",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/siberian/siberian_hero.webp",
-  "image_macro_path": "/images/Nyan/siberian_macro.png",
   "image_fullbody_path": "/images/Nyan/siberian/siberian_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/siberian/siberian_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "고도로 건강한 품종이지만 비대성 심근증(HCM)에 대한 정기 검진은 권장됩니다.",
-  "local_rarity_ko": "최근 국내에서 알레르기 걱정 없는 고양이로 소문나며 폭발적인 인기를 끌고 있습니다. 분양가가 높은 편임에도 불구하고 건강 체질과 훌륭한 성격 덕분에 예약 대기가 많은 귀한 품종입니다.",
-  "similar_breed_ids": [
-    "norwegian-forest-cat",
-    "maine-coon",
-    "turkish-angora"
-  ],
   "image_fullbody_side_path": "/images/Nyan/siberian/siberian_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/siberian/siberian_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/siberian/siberian_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/siberian/siberian_coat_texture.webp",
   "image_variant_path": "/images/Nyan/siberian/siberian_variant_full_body.webp",
-  "origin_history_ko": "시베리안 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "시베리안의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "norwegian-forest-cat",
+    "maine-coon",
+    "turkish-angora"
+  ],
+  "origin_history_ko": "러시아의 국묘로 수 세기 동안 시베리아 지역에서 자연 발생한 품종입니다. 1990년대가 되어서야 전 세계적으로 알려지기 시작한 고대 혈통의 생존자입니다.",
+  "origin_history_en": "The national cat of Russia, a natural landrace that has existed for centuries in the Siberian wilderness. Only gained worldwide recognition in the 1990s.",
+  "grooming_tips_ko": "방수 기능이 있는 삼중모라 털이 잘 엉키지는 않지만, 죽은 털 제거를 위해 주 2~3회 빗질이 필요합니다. 털이 워낙 빽빽해 목욕 후 건조에 많은 시간이 소요됩니다.",
+  "grooming_tips_en": "While the water-repellent coat resists matting, 2-3 brushings per week are needed to remove the undercoat. Their dense fur takes a long time to dry after a bath.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "전문가용 고출력 펫 드라이어",
+      "item_name_en": "High-Power Pet Hair Dryer",
+      "reason_ko": "빽빽한 삼중모 속까지 완벽하게 건조하여 피부병을 예방하기 위한 필수 장비",
+      "reason_en": "Essential for thoroughly drying their dense triple coat to prevent skin issues"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "대형 화장실 (점보 사이즈)",
+      "item_name_en": "Jumbo-Sized Litter Box",
+      "reason_ko": "9kg까지 성장하는 대형묘 시베리안이 편안하게 배변 활동을 할 수 있는 넉넉한 공간",
+      "reason_en": "Provides the necessary space for this large breed to move comfortably during use"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -137,9 +210,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "시베리안",
+    "name": "Siberian",
     "taxonRank": "Breed",
-    "description": "시베리안 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Siberian cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 시베리안 고양이의 전신 모습",
@@ -150,5 +223,17 @@
     "eye_macro": "시베리안 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "시베리안 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "시베리안 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Siberian cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the sweet and rounded facial features of a Siberian",
+    "full_body_front": "Front view of a Siberian showing its powerful and substantial build",
+    "full_body_side": "Lateral full body photo showcasing the dense triple coat and bushy tail",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the soft, intelligent eyes and iris patterns of a Siberian",
+    "coat_texture": "Macro photo of the thick and water-repellent triple coat",
+    "variant_full_body": "Full body view showing various color variants of the Siberian cat"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

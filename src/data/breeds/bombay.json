@@ -2,6 +2,10 @@
   "id": "bombay",
   "name_en": "Bombay",
   "name_ko": "봄베이",
+  "aliases_en": [
+    "Mini-Panther",
+    "Black Mamba"
+  ],
   "aliases_ko": [
     "거실 위의 흑표범",
     "검은 판다"
@@ -43,23 +47,57 @@
     "털이 매우 짧고 몸에 밀착되어 있어 관리가 거의 필요 없으며 윤기가 흐름",
     "외모와 달리 매우 다정하고 사람을 잘 따르는 전형적인 개냥이 성격을 가짐"
   ],
+  "pros_en": [
+    "Stunning miniature black panther aesthetic with a sophisticated allure",
+    "Extremely low-maintenance short coat with a high-gloss satin finish",
+    "Exceptional 'velcro cat' personality; deeply affectionate and social"
+  ],
   "cons": [
     "관심받는 것을 무척 좋아해 집사가 바쁠 때도 계속해서 애교를 부리며 방해할 수 있음",
     "식탐이 많은 편이라 비만이 되기 쉬우며 체중 관리에 신경을 써야 함",
     "추위에 민감하여 겨울철에는 따뜻한 실내 환경 유지가 필수적임"
   ],
+  "cons_en": [
+    "Demanding of attention; may follow owners constantly for interaction",
+    "Prone to obesity due to a high food drive; requires strict weight management",
+    "Highly sensitive to cold; needs a consistently warm indoor environment"
+  ],
+  "good_for": [
+    "고양이와 하루 종일 붙어있고 싶어 하는 '벨크로' 성향의 집사",
+    "털 날림이 적고 그루밍이 쉬운 품종을 선호하는 바쁜 현대인",
+    "아이들이나 다른 반려동물과 조화롭게 지낼 수 있는 다정한 고양이를 원하는 분"
+  ],
+  "good_for_en": [
+    "Owners seeking a 'velcro cat' that thrives on constant human companionship",
+    "Busy individuals who need a low-shedding and easy-to-groom breed",
+    "Families with children or other pets looking for a gentle, social companion"
+  ],
+  "think_twice_if": [
+    "고양이가 조용하고 독립적으로 혼자 시간을 보내길 원하는 분",
+    "매일 일정 시간 이상 고양이와 놀아주거나 스킨십을 하기 어려운 경우",
+    "집안 온도를 항상 일정하게 따뜻하게 유지하기 어려운 환경"
+  ],
+  "think_twice_if_en": [
+    "Individuals who prefer a quiet, independent cat that enjoys solitude",
+    "Owners who cannot provide significant daily interaction and lap time",
+    "Environments where maintaining a stable, warm indoor temperature is difficult"
+  ],
   "economics": {
     "price_range_ko": "1,200,000원 - 2,800,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 110,000원 - 180,000원"
+    "price_range_en": "$1,200 - $2,800 (Cattery standard)",
+    "monthly_care_cost": "약 110,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $90 - $140"
   },
-  "summary_en": "The Bombay cat is a type of short-haired cat developed by breeding sable Burmese and black American Shorthair cats, to resemble a miniature black panther.",
+  "summary_en": "The Bombay cat is a sleek, black short-haired breed designed to resemble a miniature black panther, known for its incredible affection and copper eyes.",
   "summary_ko": "흑표범을 닮은 외모와 달리 매우 사교적이고 애교가 많아 '벨크로 고양이'라는 별명이 있을 정도로 집사 곁을 떠나지 않습니다.",
   "appearance_en": "Miniature black panther appearance, muscular body, jet-black glossy coat, and bright copper or gold eyes.",
   "appearance_ko": "'거실 위의 작은 흑표범'으로 불리는 칠흑 같은 검은 털과 구리색 혹은 금색의 둥근 눈이 상징입니다. 새틴처럼 매끄럽고 윤기 나는 짧은 털이 몸에 밀착되어 있습니다.",
-  "personality_en": "Extremely affectionate, social, and intelligent. They are known for being 'velcro cats' and get along well with children and other pets. They are often described as having a dog-like devotion.",
+  "personality_en": "Extremely affectionate, social, and intelligent. Known as 'velcro cats', they possess a dog-like devotion and love to be involved in everything.",
   "personality_ko": "성격이 매우 온화하고 사람 중심적입니다. 가족의 곁을 떠나지 않으려 하는 '껌딱지' 성향이 강하며, 낯선 사람에게도 사교적입니다. 똑똑하여 집사가 하는 일을 관찰하고 참여하는 것을 즐깁니다.",
-  "care_en": "Requires very little grooming due to their short coat; a weekly brush or simply petting them can maintain their shine. They need social interaction and can get lonely if left alone.",
+  "care_en": "Very low grooming needs—a weekly brush maintains their shine. Most importantly, they crave social interaction and should not be left alone for long.",
   "care_ko": "털 관리는 주 1회 가벼운 빗질이나 손으로 쓰다듬어 주는 것만으로도 광택을 유지할 수 있을 정도로 쉽습니다. 하지만 외로움을 많이 타므로 충분한 교감 시간과 함께 놀아줄 동반자가 필요합니다.",
+  "health_notes_ko": "버미즈 혈통에서 기인한 안면 기형이나 심장 질환(HCM)에 대한 정기적인 모니터링이 필요합니다. 식탐이 강하므로 비만 예방을 위한 식이 조절이 중요합니다.",
+  "health_notes_en": "Requires monitoring for craniofacial defects and HCM due to Burmese ancestry. Strict diet control is essential to prevent obesity.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,56 +113,90 @@
   "faq": [
     {
       "question_ko": "길고양이 중 검은 고양이와 무엇이 다른가요?",
-      "answer_ko": "봄베이는 얼굴이 훨씬 둥글고 눈 색깔이 반드시 구리색이나 금색이어야 합니다. 또한 털이 매우 짧고 몸에 밀착되어 흐르는 듯한 '새틴' 광택이 훨씬 강합니다."
+      "answer_ko": "봄베이는 얼굴이 훨씬 둥글고 눈 색깔이 반드시 구리색이나 금색이어야 합니다. 또한 털이 매우 짧고 몸에 밀착되어 흐르는 듯한 '새틴' 광택이 훨씬 강합니다.",
+      "question_en": "How is it different from a common black cat?",
+      "answer_en": "Bombays have rounder faces and eyes that must be copper or gold. Their coat is also shorter, more close-lying, and has a distinct 'satin' sheen."
     },
     {
       "question_ko": "성격이 무섭지 않나요?",
-      "answer_ko": "전혀 그렇지 않습니다. 외모는 흑표범을 닮아 무거워 보일 수 있지만, 실제로는 고양이 중 가장 다정하고 사람을 좋아하는 품종 중 하나입니다."
+      "answer_ko": "전혀 그렇지 않습니다. 외모는 흑표범을 닮아 무거워 보일 수 있지만, 실제로는 고양이 중 가장 다정하고 사람을 좋아하는 품종 중 하나입니다.",
+      "question_en": "Are they aggressive because they look like panthers?",
+      "answer_en": "Not at all. Despite their wild look, they are among the most affectionate and people-oriented breeds, often following owners like dogs."
+    },
+    {
+      "question_ko": "털 빠짐이 심한가요?",
+      "answer_ko": "아니요, 단모종 중에서도 속털이 거의 없어 털 빠짐이 매우 적은 편입니다. 죽은 털을 제거하기 위한 가벼운 빗질만으로 충분합니다.",
+      "question_en": "Do they shed much?",
+      "answer_en": "No, they have very little undercoat and are considered low-shedding. A light weekly brushing is enough to manage any loose fur."
+    },
+    {
+      "question_ko": "아이들과 잘 지내나요?",
+      "answer_ko": "네, 인내심이 강하고 사교적이어서 아이들의 장난도 잘 받아주며 가족 모두와 깊은 유대감을 형성합니다.",
+      "question_en": "Are they good with children?",
+      "answer_en": "Yes, they are patient and social, making them excellent family pets that bond deeply with all family members, including children."
+    },
+    {
+      "question_ko": "혼자 오래 있어도 되나요?",
+      "answer_ko": "아니요, 외로움을 많이 타는 품종입니다. 장시간 혼자 두면 스트레스를 받을 수 있으므로 다른 반려동물이 있거나 사람이 자주 있는 환경이 좋습니다.",
+      "question_en": "Can they be left alone for long?",
+      "answer_en": "No, they are prone to separation anxiety. They thrive best in homes where they have company, whether it's humans or other pets."
     }
   ],
   "visual_comparison_tip": "일반 검은 고양이보다 얼굴이 더 둥글고 눈 색깔이 구리색(Copper)에 가까운 짙은 오렌지빛인지 확인하세요.",
+  "visual_comparison_tip_en": "Look for a rounder face and eyes that are a deep copper or orange color, unlike the yellow or green eyes of common black cats.",
   "meta_tags": {
-    "title": "봄베이 고양이 백과: 봄베이 고양이 백과: 봄베이 고양이 도감: 거실의 흑표범, 성격, 눈 색깔의 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "미니 흑표범 봄베이의 모든 것. 윤기 흐르는 검은 털과 신비로운 구리색 눈을 가진 봄베이의 실제 분양가와 다정한 성격을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "봄베이 고양이: 성격, 흑표범 외모, 관리 | nyan",
+    "title_en": "Bombay Cat: Panther Looks & Care | nyan",
+    "description_ko": "미니 흑표범 봄베이의 모든 것. 윤기 흐르는 검은 털과 신비로운 구리색 눈을 가진 봄베이의 실제 분양가와 다정한 성격을 nyan에서 확인하세요.",
+    "description_en": "The miniature black panther, the Bombay. Discover their satin coat, copper eyes, affectionate personality, and care tips in our museum-grade archive.",
+    "keywords_ko": [
       "봄베이",
-      "봄베이고양이",
       "흑고양이",
       "검은고양이품종",
       "흑표범고양이",
       "nyan"
+    ],
+    "keywords_en": [
+      "Bombay cat",
+      "black cat breed",
+      "miniature panther",
+      "copper eyed cat",
+      "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/bombay/bombay_hero.webp",
-  "image_macro_path": "/images/Nyan/bombay_macro.png",
   "image_fullbody_path": "/images/Nyan/bombay/bombay_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/bombay/bombay_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "버미즈 혈통에서 기인한 안면 기형이나 심장 질환(HCM)에 대한 주의가 필요합니다.",
-  "local_rarity_ko": "국내에서 '올블랙' 고양이를 선호하는 집사들에게 최고의 드림묘로 꼽히지만, 혈통 있는 봄베이는 매우 귀하며 일반적인 검은 고양이와는 확연히 다른 고급스러운 광택을 자랑합니다.",
-  "similar_breed_ids": [
-    "burmese",
-    "american-shorthair",
-    "british-shorthair"
-  ],
   "image_fullbody_side_path": "/images/Nyan/bombay/bombay_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/bombay/bombay_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/bombay/bombay_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/bombay/bombay_coat_texture.webp",
   "image_variant_path": "/images/Nyan/bombay/bombay_variant_full_body.webp",
-  "origin_history_ko": "봄베이 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "봄베이의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "american-shorthair",
+    "british-shorthair"
+  ],
+  "origin_history_ko": "1950년대 미국 켄터키의 브리더 니키 호너가 '미니 흑표범'을 목표로 버미즈와 검은색 아메리칸 쇼트헤어를 교배하여 탄생시켰습니다. 인도 봄베이 지역의 흑표범을 연상시켜 '봄베이'라는 이름이 붙었습니다.",
+  "origin_history_en": "Created in the 1950s by breeder Nikki Horner in Kentucky, USA, who aimed to produce a 'miniature panther'. Named after the black panthers of Bombay, India, through the crossbreeding of Burmese and black American Shorthairs.",
+  "grooming_tips_ko": "봄베이의 상징인 새틴 광택을 유지하려면 고단백 식단과 주기적인 빗질이 중요합니다. 실크 헝겊으로 털을 닦아주면 광택이 더 살아납니다. 추위에 약하므로 겨울철 실내 온도 관리에 유의하세요.",
+  "grooming_tips_en": "To maintain their signature satin sheen, provide high-quality nutrition and regular brushing. Wiping the coat with a silk cloth enhances the shine. Keep them warm as they are sensitive to cold.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "전용 부드러운 돈모 브러쉬",
+      "item_name_en": "Soft Boar Bristle Brush",
+      "reason_ko": "봄베이 특유의 짧은 털에 손상을 주지 않고 죽은 털을 제거하며 광택을 극대화",
+      "reason_en": "Maximizes the satin sheen without irritating the skin, perfect for their short and fine coat"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고급 벨벳 소재 온열 하우스",
+      "item_name_en": "Heated Velvet Pet House",
+      "reason_ko": "추위에 민감하고 부드러운 소재를 좋아하는 봄베이의 휴식을 위한 필수 아이템",
+      "reason_en": "A must-have for these cold-sensitive cats who love soft, luxurious materials to curl up in"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +210,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "봄베이",
+    "name": "Bombay",
     "taxonRank": "Breed",
-    "description": "봄베이 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Bombay cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 봄베이 고양이의 전신 모습",
@@ -151,5 +223,17 @@
     "eye_macro": "봄베이 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "봄베이 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "봄베이 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a sleek black Bombay cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the round face and copper eyes of a Bombay",
+    "full_body_front": "Front view of a Bombay showcasing its muscular and jet-black build",
+    "full_body_side": "Lateral full body photo highlighting the glossy, satin-like coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Bombay breed",
+    "eye_macro": "Macro shot of the brilliant copper eyes and iris patterns of a Bombay cat",
+    "coat_texture": "Detailed photo of the short, fine, and jet-black coat texture",
+    "variant_full_body": "Full body showcase of the Bombay's distinctively black and glossy appearance"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

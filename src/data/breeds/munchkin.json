@@ -2,6 +2,11 @@
   "id": "munchkin",
   "name_en": "Munchkin",
   "name_ko": "먼치킨",
+  "aliases_en": [
+    "Sausage Cat",
+    "Short-legged Cat",
+    "Magician Cat"
+  ],
   "aliases_ko": [
     "숏다리 고양이",
     "위저드 캣"
@@ -17,7 +22,7 @@
   "common_colors": [
     "all_colors"
   ],
-  "weight_min_kg": 2.0,
+  "weight_min_kg": 2,
   "weight_max_kg": 4.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -43,14 +48,46 @@
     "성격이 매우 밝고 사람을 좋아하며 공격성이 거의 없는 순둥이임",
     "다리는 짧지만 기동성이 뛰어나고 점프를 제외한 모든 활동을 잘함"
   ],
+  "pros_en": [
+    "The adorable waddling gait caused by short legs is highly endearing",
+    "Exceptionally cheerful and people-oriented with almost no aggression",
+    "Surprisingly agile and active, capable of most feline activities except high jumping"
+  ],
   "cons": [
     "높은 곳에 올라가는 능력이 부족하여 캣타워 구성 시 계단이 필수적임",
     "허리나 관절에 무리가 가기 쉬우므로 비만 관리에 매우 엄격해야 함",
     "이종교배 품종이라 건강 상태가 부모 묘에 따라 편차가 클 수 있음"
   ],
+  "cons_en": [
+    "Limited jumping ability; requires pet stairs or ramps to access high spots",
+    "Prone to joint and spinal strain; strict weight management is mandatory",
+    "Health can vary significantly as they are often outcrossed with other breeds"
+  ],
+  "good_for": [
+    "작고 귀여운 외모와 사교적인 성격을 선호하는 분",
+    "아파트나 좁은 실내에서 함께 지낼 반려동물을 찾는 분",
+    "고양이와 적극적으로 놀아주고 교감하고 싶은 초보 집사"
+  ],
+  "good_for_en": [
+    "Owners who value a small, cute appearance and a social temperament",
+    "People looking for a pet suited for apartment or indoor living",
+    "Beginners who want an interactive and affectionate companion"
+  ],
+  "think_twice_if": [
+    "고양이가 높은 곳을 자유롭게 뛰어다니길 바라는 분",
+    "바빠서 식단 조절과 체중 관리를 세심하게 해주기 어려운 경우",
+    "품종 특유의 유전적 소인에 대한 걱정이 큰 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who want a cat that can jump to the highest shelves freely",
+    "People who cannot commit to the strict diet needed for weight control",
+    "Those with high concerns regarding potential genetic health predispositions"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 4,500,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 130,000원 - 200,000원"
+    "price_range_en": "$1,500 - $4,500 (Cattery standard)",
+    "monthly_care_cost": "약 130,000원 - 200,000원",
+    "monthly_care_cost_en": "Approx. $100 - $160"
   },
   "summary_en": "The Munchkin cat is a relatively new breed of cat characterized by its very short legs, which are caused by a genetic mutation.",
   "summary_ko": "짧은 다리로 고양이계의 '웰시코기'라 불리는 먼치킨입니다. 외모만큼이나 성격도 명랑하고 사교적이며, 다리가 짧다고 해서 활동량이 적을 것이라는 편견을 깨주는 반전 매력의 소유자입니다.",
@@ -58,8 +95,10 @@
   "appearance_ko": "일반 고양이보다 눈에 띄게 짧은 다리가 가장 큰 특징입니다. 하지만 몸통은 일반 고양이와 비슷하며, 얼굴은 둥글고 큰 호두 모양의 눈을 가졌습니다. 털 길이나 색깔, 무늬는 부모 묘에 따라 매우 다양하게 나타납니다.",
   "personality_en": "Out-going, sweet-natured, and playful. They are known for their intelligence and ability to run fast despite their short legs. They love people and get along well with other pets.",
   "personality_ko": "매우 외향적이고 사람을 잘 따릅니다. 다리가 짧아도 달리기 속도가 매우 빠르며, 호기심이 많아 집안 곳곳을 누비는 것을 좋아합니다. 공격성이 적고 다른 고양이들과도 원만하게 지내는 사교 퀸/킹입니다.",
-  "care_en": "Requires regular grooming depending on coat length. They need low-entry litter boxes and easy access to high spots via pet stairs. Maintaining a healthy weight is crucial to prevent joint strain.",
-  "care_ko": "다리가 짧아 일반 화장실 턱이 높을 수 있으므로 낮은 화장실을 준비해 주어야 합니다. 높은 곳을 오르내릴 때 관절에 무리가 가지 않도록 고양이용 계단을 설치해 주는 것이 좋으며, 비만은 관절염의 주범이므로 체중 관리에 각별히 신경 써야 합니다.",
+  "care_en": "Requires regular grooming depending on coat length. They need low-entry litter boxes and easy access to high spots via pet stairs. Maintaining a healthy weight is crucial.",
+  "care_ko": "다리가 짧아 일반 화장실 턱이 높을 수 있으므로 낮은 화장실을 준비해 주어야 합니다. 높은 곳을 오르내릴 때 관절에 무리가 가기 서도록 고양이용 계단을 설치해 주는 것이 좋으며, 비만 관리에 각별히 신경 써야 합니다.",
+  "health_notes_ko": "척추 전만증(Lordosis)과 오목가슴(Pectus excavatum)에 대한 주의가 필요하며, 특히 체중이 늘어나지 않도록 관리하는 것이 관절 건강의 핵심입니다.",
+  "health_notes_en": "Attention to Lordosis and Pectus excavatum is required. Strict weight management is the most critical factor in preserving their joint and spinal health.",
   "known_risks": [
     {
       "name_en": "Lordosis",
@@ -75,55 +114,90 @@
   "faq": [
     {
       "question_ko": "점프를 아예 못하나요?",
-      "answer_ko": "아니요, 일반 고양이만큼 높이는 아니지만 소파나 침대 정도는 충분히 점프해서 올라갈 수 있습니다. 다만 무리가 갈 수 있으므로 보조 기구를 사용하는 것이 권장됩니다."
+      "answer_ko": "아니요, 일반 고양이만큼 높이는 아니지만 소파나 침대 정도는 충분히 점프해서 올라갈 수 있습니다. 다만 무리가 갈 수 있으므로 보조 기구를 사용하는 것이 권장됩니다.",
+      "question_en": "Can they not jump at all?",
+      "answer_en": "No, they can still jump, though not as high as long-legged cats. They can easily reach sofas or beds, but using pet stairs is recommended to prevent strain."
     },
     {
       "question_ko": "유전병이 심한가요?",
-      "answer_ko": "다리가 짧은 것은 돌연변이이며, 강아지와 달리 척추 문제는 적다고 알려져 있습니다. 다만 가슴 뼈 기형이나 비만으로 인한 합병증은 주의해야 합니다."
+      "answer_ko": "다리가 짧은 것은 자연적인 돌연변이이며, 강아지와 달리 척추 문제가 적다고 알려져 있습니다. 다만 가슴 뼈 기형이나 비만으로 인한 합병증은 주의해야 합니다.",
+      "question_en": "Are they prone to severe genetic diseases?",
+      "answer_en": "Their short legs are a natural mutation. Unlike short-legged dogs, they have fewer spinal issues, but monitoring for chest bone deformities and obesity is important."
+    },
+    {
+      "question_ko": "달리기가 느린가요?",
+      "answer_ko": "전혀 그렇지 않습니다! 다리가 짧은 만큼 보폭은 좁지만 발을 매우 빠르게 움직여 생각보다 훨씬 빠른 속도로 달릴 수 있습니다.",
+      "question_en": "Are they slow runners?",
+      "answer_en": "Not at all! While their stride is shorter, they move their legs incredibly fast and can reach surprising speeds when zooming around."
+    },
+    {
+      "question_ko": "먼치킨 킬트(Munchkin Kilt)는 무엇인가요?",
+      "answer_ko": "먼치킨과 스코티쉬 폴드를 교배한 하이브리드 품종을 말합니다. 다만 두 유전 질환이 겹칠 수 있어 교배 시 매우 주의가 필요합니다.",
+      "question_en": "What is a Munchkin Kilt?",
+      "answer_en": "It is a cross between a Munchkin and a Scottish Fold. Note that combining two genetic mutations requires extreme caution and ethical breeding practices."
+    },
+    {
+      "question_ko": "수명이 짧은가요?",
+      "answer_ko": "아니요, 일반적인 고양이와 비슷하게 12년에서 15년 정도이며, 관리가 잘 된 경우 그 이상 살기도 합니다.",
+      "question_en": "Do they have a shorter lifespan?",
+      "answer_en": "No, their lifespan is similar to most domestic cats, typically ranging from 12 to 15 years or more with proper care."
     }
   ],
   "visual_comparison_tip": "다리가 짧은 것은 유전적 돌연변이이므로, 다리 길이를 제외한 몸통과 얼굴 형태는 매우 다양할 수 있음을 인지하세요.",
+  "visual_comparison_tip_en": "The short legs are the defining trait; other features like face shape and body build can vary greatly due to outcrossing.",
   "meta_tags": {
-    "title": "먼치킨 고양이 백과: 먼치킨 고양이 백과: 먼치킨 고양이 도감: 성격, 다리 길이, 유전병 완벽 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "세상에서 가장 귀여운 짧은 다리 먼치킨의 모든 것. 성격과 활동량, 실제 분양가와 허리 건강 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "먼치킨 고양이: 성격, 다리 길이, 건강 관리 | nyan",
+    "title_en": "Munchkin Cat: Short Legs & Care | nyan",
+    "description_ko": "세상에서 가장 귀여운 짧은 다리 먼치킨의 모든 것. 성격과 활동량, 실제 분양가와 허리 건강 관리법을 박물관급 디테일로 확인하세요.",
+    "description_en": "Everything about the adorable short-legged Munchkin. Personality, activity levels, costs, and spinal health tips in museum-grade detail.",
+    "keywords_ko": [
       "먼치킨",
-      "먼치킨고양이",
       "숏다리고양이",
-      "먼치킨분양가",
+      "귀여운고양이",
+      "먼치킨성격",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Munchkin cat",
+      "short legs",
+      "cute cat",
+      "social cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/munchkin/munchkin_hero.webp",
-  "image_macro_path": "/images/Nyan/munchkin_macro.png",
   "image_fullbody_path": "/images/Nyan/munchkin/munchkin_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/munchkin/munchkin_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "척추 전만증(Lordosis)과 오목가슴(Pectus excavatum)에 대한 주의가 필요합니다.",
-  "local_rarity_ko": "국내에서 인기가 매우 높은 품종으로, 귀여운 외모 덕분에 분양이 매우 활발합니다. 최근에는 다른 품종과 교배한 미뉴엣(나폴레옹), 킬트 등 하이브리드 품종으로도 많이 소개되고 있습니다.",
-  "similar_breed_ids": [
-    "skookum",
-    "bambino",
-    "genetta"
-  ],
   "image_fullbody_side_path": "/images/Nyan/munchkin/munchkin_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/munchkin/munchkin_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/munchkin/munchkin_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/munchkin/munchkin_coat_texture.webp",
   "image_variant_path": "/images/Nyan/munchkin/munchkin_variant_full_body.webp",
-  "origin_history_ko": "먼치킨 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "먼치킨의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "skookum",
+    "bambino",
+    "genetta"
+  ],
+  "origin_history_ko": "1983년 미국 루이지애나에서 발견된 짧은 다리의 길고양이가 현대 먼치킨 품종의 시초입니다. 자연적인 돌연변이로 발생하였으며 1990년대 중반 정식 품종으로 인정받았습니다.",
+  "origin_history_en": "Modern Munchkins trace back to a short-legged street cat found in Louisiana in 1983. It occurred as a natural mutation and was officially recognized as a breed in the mid-1990s.",
+  "grooming_tips_ko": "털 길이에 따라 주 1~3회 빗질이 필요합니다. 다리가 짧아 스스로 그루밍하기 어려운 부위(배, 엉덩이)를 세심하게 도와주어야 합니다.",
+  "grooming_tips_en": "Brush 1-3 times weekly depending on coat length. Assist with grooming in hard-to-reach areas like the belly and hindquarters due to their short limbs.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "반려동물 전용 계단/스텝",
+      "item_name_en": "Pet Stairs/Ramps",
+      "reason_ko": "침대나 소파를 오르내릴 때 관절과 허리에 가해지는 충격 방지",
+      "reason_en": "Prevents joint and spinal impact when jumping on or off furniture"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "입구가 낮은 고양이 화장실",
+      "item_name_en": "Low-Entry Litter Box",
+      "reason_ko": "짧은 다리를 가진 먼치킨이 편안하게 출입할 수 있는 높이",
+      "reason_en": "Designed with a low entry height for comfortable access despite their short legs"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -137,9 +211,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "먼치킨",
+    "name": "Munchkin",
     "taxonRank": "Breed",
-    "description": "먼치킨 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Munchkin cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 먼치킨 고양이의 전신 모습",
@@ -150,5 +224,17 @@
     "eye_macro": "먼치킨 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "먼치킨 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "먼치킨 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Munchkin cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the sweet walnut-shaped eyes of a Munchkin",
+    "full_body_front": "Front view of a Munchkin showcasing its characteristic short legs",
+    "full_body_side": "Lateral full body photo showcasing the unique proportions of a Munchkin",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive eyes and iris patterns of a Munchkin",
+    "coat_texture": "Macro photo of the soft coat texture (varies by individual)",
+    "variant_full_body": "Full body view showing various color and coat variants of the Munchkin"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

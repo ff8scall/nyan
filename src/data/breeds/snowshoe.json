@@ -2,6 +2,10 @@
   "id": "snowshoe",
   "name_en": "Snowshoe",
   "name_ko": "스노우슈",
+  "aliases_en": [
+    "White-booted Siamese",
+    "Snowie"
+  ],
   "aliases_ko": [
     "흰 양말 고양이",
     "시베리안 허스키 고양이"
@@ -18,7 +22,7 @@
     "seal",
     "blue"
   ],
-  "weight_min_kg": 3.0,
+  "weight_min_kg": 3,
   "weight_max_kg": 5.5,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
@@ -44,23 +48,57 @@
     "물을 두려워하지 않고 오히려 즐기는 독특한 습성이 있어 목욕이나 물놀이가 가능함",
     "지능이 매우 높고 사람의 감정을 잘 살펴 집사와의 정서적 교감이 매우 뛰어남"
   ],
+  "pros_en": [
+    "Captivating look combining Siamese points with adorable white 'snowshoe' paws",
+    "Unique fascination with water; many enjoy playing in sinks or joining in baths",
+    "Highly intelligent and emotionally intuitive, forming deep bonds with their owners"
+  ],
   "cons": [
     "목소리가 샴만큼은 아니지만 꽤 크고 수다스러운 편이라 조용한 환경을 원하면 신중해야 함",
     "외로움을 많이 타서 집사 옆에 꼭 붙어 있으려 하므로 충분한 시간을 함께 보내줘야 함",
     "무늬의 대칭성(V자 마스크와 흰 양말)을 완벽하게 맞추기 어려워 순종 입양이 까다로움"
   ],
+  "cons_en": [
+    "Vocal and talkative; may not be suitable for those seeking a quiet companion",
+    "Thrives on interaction and can suffer from loneliness if left alone for long periods",
+    "Difficult to breed for perfect marking symmetry (the inverted V and white boots)"
+  ],
+  "good_for": [
+    "샴의 지능과 아메리칸 쇼트헤어의 건강함을 모두 가진 반려묘를 원하는 분",
+    "고양이와 함께 물놀이를 하거나 수다를 떨며 적극적으로 교감하고 싶은 집사",
+    "아이들이나 다른 반려동물과 잘 어울리는 사교적인 고양이를 찾는 가정"
+  ],
+  "good_for_en": [
+    "Owners seeking the intelligence of a Siamese with the robustness of a Shorthair",
+    "Active people who want a communicative, water-loving, and interactive partner",
+    "Families with children or other pets looking for a highly social feline"
+  ],
+  "think_twice_if": [
+    "조용하고 독립적인 고양이를 선호하거나 집을 비우는 시간이 아주 긴 경우",
+    "고양이가 끊임없이 대화를 시도하고 따라다니는 것이 피곤하게 느껴질 수 있는 분",
+    "완벽한 무늬의 대칭성에 집착하여 입양 결정을 내리는 분"
+  ],
+  "think_twice_if_en": [
+    "Those who prefer a quiet, independent cat or are away from home for long hours",
+    "Owners who might find constant vocalization and attention-seeking behavior overwhelming",
+    "People primarily focused on aesthetic perfection in markings rather than personality"
+  ],
   "economics": {
     "price_range_ko": "1,200,000원 - 2,800,000원",
-    "monthly_care_cost": "약 110,000원 - 180,000원"
+    "price_range_en": "$1,200 - $2,800 (Breed standard)",
+    "monthly_care_cost": "약 110,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $90 - $150"
   },
-  "summary_en": "The Snowshoe is a breed of cat originating in the United States in the 1960s. They were first produced in Philadelphia when a Siamese breeder's cat gave birth to three kittens with white feet.",
+  "summary_en": "The Snowshoe is a rare and charming breed known for its Siamese points, striking blue eyes, and four white 'booted' paws.",
   "summary_ko": "샴과 아메리칸 쇼트헤어의 장점만 결합된 품종으로, 톡톡 튀는 외모만큼이나 사교적이고 수다스러운 성격의 소유자입니다.",
-  "appearance_en": "Pointed color with four white 'mittens', inverted V-shape on face, bright blue eyes, muscular medium build.",
+  "appearance_en": "Medium-sized cat with Siamese point coloration, an inverted white 'V' on the face, and distinctive white paws. They possess bright, piercing blue eyes.",
   "appearance_ko": "샴의 포인트 컬러에 네 발에 흰 장화를 신은 듯한 무늬와 얼굴의 역 'V'자 무늬가 특징입니다. 근육질의 탄탄한 몸매와 아름다운 파란 눈을 가졌습니다.",
-  "personality_en": "Intelligent, vocal, and highly social. Snowshoes are known for their love of water and their desire for human companionship. They are very smart and can often be taught to open doors or learn tricks.",
+  "personality_en": "Intelligent, vocal, and social. Often described as having a 'mellow' Siamese personality, they love to talk and are famously fond of water.",
   "personality_ko": "매우 영리하고 수다스럽습니다. 집사와 소통하는 것을 좋아하여 다양한 소리로 대답하며, 특히 물에 대한 거부감이 거의 없어 수영을 하거나 물놀이를 즐기는 개체가 많습니다. 가족 모두와 잘 지내지만 특별히 한 사람과 깊은 유대를 형성하는 경향이 있습니다.",
-  "care_en": "Requires minimal grooming—a weekly brush is sufficient. They need significant interaction and mental stimulation to prevent boredom. They are relatively healthy but should have regular checkups.",
+  "care_en": "Weekly brushing is enough to keep their short coat shiny. They require mental stimulation through puzzles and interactive play to satisfy their smart minds.",
   "care_ko": "털 관리는 매우 쉬운 편이지만, 지능이 높고 활동량이 많아 지루함을 쉽게 느낄 수 있습니다. 집사와 함께하는 지적인 놀이와 물놀이 기회를 제공해 주면 매우 좋아합니다. 사회성이 좋아 혼자 두기보다는 동료 고양이나 사람과 함께 있는 환경이 좋습니다.",
+  "health_notes_ko": "비교적 튼튼한 편이지만 샴 혈통에서 기인할 수 있는 사시나 꼬리 기형에 대한 정기 검진이 권장됩니다. 지능이 높아 스트레스로 인한 과도한 그루밍을 하지 않는지 살펴야 합니다.",
+  "health_notes_en": "Generally healthy, though genetic predispositions from Siamese ancestors like strabismus (crossed eyes) or kinked tails can occur. Their high intelligence means they need mental health monitoring to prevent stress-related behaviors.",
   "known_risks": [
     {
       "name_en": "Strabismus (Crossed eyes)",
@@ -76,61 +114,91 @@
   "faq": [
     {
       "question_ko": "물을 정말 좋아하나요?",
-      "answer_ko": "네, 많은 스노우슈들이 흐르는 물에 앞발을 담그거나 심지어 집사와 함께 샤워하는 것을 즐기기도 합니다. 물에 대한 공포심이 매우 낮은 편입니다."
+      "answer_ko": "네, 많은 스노우슈들이 흐르는 물에 앞발을 담그거나 심지어 집사와 함께 샤워하는 것을 즐기기도 합니다. 물에 대한 공포심이 매우 낮은 편입니다.",
+      "question_en": "Do they really like water?",
+      "answer_en": "Yes, many Snowshoes are fascinated by water. They may play in sinks, dip their paws in bowls, or even try to join you in the shower."
     },
     {
       "question_ko": "샴과 어떻게 다른가요?",
-      "answer_ko": "샴보다 몸집이 조금 더 묵직하며, 결정적으로 얼굴에 하얀색 'V'자 무늬가 있고 발이 하얗다는 점이 다릅니다."
+      "answer_ko": "샴보다 몸집이 조금 더 묵직하며, 결정적으로 얼굴에 하얀색 'V'자 무늬가 있고 발이 하얗다는 점이 다릅니다.",
+      "question_en": "How are they different from Siamese?",
+      "answer_en": "They have a sturdier build inherited from American Shorthairs, and their defining feature is the white facial 'V' and white 'snowshoe' paws which Siamese lack."
+    },
+    {
+      "question_ko": "수다스러운 편인가요?",
+      "answer_ko": "네, 샴만큼 날카로운 소리는 아니지만 집사에게 계속해서 말을 거는 것을 좋아합니다. 자신의 요구사항이나 기분을 소리로 표현하는 데 능숙합니다.",
+      "question_en": "Are they vocal?",
+      "answer_en": "They love to 'talk' but usually have a softer, more melodic voice than the Siamese. They will tell you all about their day or demand attention with a meow."
+    },
+    {
+      "question_ko": "무늬가 나중에 바뀌나요?",
+      "answer_ko": "태어날 때는 하얀색이었다가 성장하면서 포인트 컬러가 나타납니다. 나이가 들면서 전체적인 코트 색상이 약간 더 진해질 수 있습니다.",
+      "question_en": "Do their markings change?",
+      "answer_en": "Kittens are born white, with points and white areas developing as they mature. Like all pointed cats, their coat may darken slightly with age."
+    },
+    {
+      "question_ko": "혼자 잘 노나요?",
+      "answer_ko": "매우 영리해서 혼자서 장난감을 가지고 놀기도 하지만, 사람과의 상호작용을 가장 좋아합니다. 장시간 방치하면 우울해할 수 있으므로 주의가 필요합니다.",
+      "question_en": "Can they play alone?",
+      "answer_en": "They are smart enough to entertain themselves with toys, but they prefer interactive play. They are social creatures that can become depressed if left alone too often."
     }
   ],
   "visual_comparison_tip": "샴과 비슷하지만, 얼굴에 하얀색 '역V자' 무늬가 있고 네 발 모두 하얀 양말을 신었는지 확인하세요.",
+  "visual_comparison_tip_en": "Look for the inverted white 'V' mask on the face and the four distinct white 'booted' paws to distinguish from a standard Siamese.",
   "meta_tags": {
-    "title": "스노우슈 고양이 백과: 스노우슈 고양이 백과: 스노우슈 도감: 성격, 무늬의 특징, 흰 양말 고양이 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "샴과 흰 양말의 조화, 스노우슈의 모든 것. 물을 좋아하는 습성과 다정한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "스노우슈 고양이 가이드: 성격, 흰 양말 무늬, 물 좋아하는 습성 | nyan",
+    "title_en": "Snowshoe Cat: White Paw Markings & Care | nyan",
+    "description_ko": "샴과 흰 양말의 조화, 스노우슈의 모든 것. 물을 좋아하는 독특한 습성과 다정한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
+    "description_en": "Discover the charming Snowshoe cat. Learn about their Siamese heritage, unique white boots, love for water, and social personality in our archive.",
+    "keywords_ko": [
       "스노우슈",
-      "스노우슈고양이",
       "흰양말고양이",
       "물을좋아하는고양이",
-      "개냥이추천",
+      "개냥이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Snowshoe cat",
+      "white paw cat",
+      "vocal cat",
+      "water loving cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/snowshoe/snowshoe_hero.webp",
-  "image_macro_path": "/images/Nyan/snowshoe_macro.png",
   "image_fullbody_path": "/images/Nyan/snowshoe/snowshoe_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/snowshoe/snowshoe_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "비교적 튼튼한 편이지만 샴 혈통에서 기인할 수 있는 사시나 꼬리 기형에 대한 확인이 권장됩니다.",
-  "local_rarity_ko": "국내에서 '흰 양말' 고양이를 선호하는 집사들에게 매우 인기가 많지만, 완벽한 대칭 무늬를 가진 개체는 드물어 전문 브리더를 통해 입양하는 경우가 많습니다.",
-  "similar_breed_ids": [
-    "siamese",
-    "birman",
-    "ragdoll"
-  ],
   "image_fullbody_side_path": "/images/Nyan/snowshoe/snowshoe_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/snowshoe/snowshoe_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/snowshoe/snowshoe_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/snowshoe/snowshoe_coat_texture.webp",
   "image_variant_path": "/images/Nyan/snowshoe/snowshoe_variant_full_body.webp",
-  "origin_history_ko": "스노우슈 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "스노우슈의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "birman",
+    "ragdoll"
+  ],
+  "origin_history_ko": "1960년대 미국 필라델피아의 샴 브리더 도로시 하인즈-도허티가 흰 발을 가진 샴 새끼들을 발견하면서 시작되었습니다. 이후 아메리칸 쇼트헤어와의 교배를 통해 현재의 특징적인 외모가 완성되었습니다.",
+  "origin_history_en": "Developed in Philadelphia during the 1960s by Dorothy Hinds-Daugherty after she discovered Siamese kittens with white feet. The breed was refined through crosses with American Shorthairs.",
+  "grooming_tips_ko": "단모종이라 주 1회 빗질만으로도 충분하지만, 물을 좋아하므로 목욕을 시키기 수월합니다. 포인트 컬러 유지를 위해 실내 온도를 일정하게 관리해 주는 것이 좋습니다.",
+  "grooming_tips_en": "Weekly brushing is sufficient for their smooth coat. Their affinity for water often makes bathing a stress-free process. Keep indoor temperatures stable to help maintain their distinct point contrast.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "반려묘 전용 분수형 급수기",
+      "item_name_en": "Cat Water Fountain",
+      "reason_ko": "흐르는 물에 호기심이 많은 스노우슈의 본능을 자극하고 음수량 증가를 유도",
+      "reason_en": "Engages their natural curiosity about running water while encouraging healthy hydration"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "지능형 자동 낚싯대 장난감",
+      "item_name_en": "Smart Automatic Wand Toy",
+      "reason_ko": "지능이 높고 소통을 즐기는 품종의 지루함을 방지하고 에너지를 발산",
+      "reason_en": "Provides mental stimulation and an outlet for the energy of this highly intelligent breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
-    {
-      "source_name": "CFA (The Cat Fanciers' Association)",
-      "url": "https://cfa.org"
-    },
     {
       "source_name": "TICA (The International Cat Association)",
       "url": "https://tica.org"
@@ -139,9 +207,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "스노우슈",
+    "name": "Snowshoe",
     "taxonRank": "Breed",
-    "description": "스노우슈 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Snowshoe cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 스노우슈 고양이의 전신 모습",
@@ -152,5 +220,17 @@
     "eye_macro": "스노우슈 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "스노우슈 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "스노우슈 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Snowshoe cat sitting on a museum pedestal showing its white paws",
+    "face_portrait": "Close-up portrait highlighting the inverted white 'V' mask and blue eyes of a Snowshoe",
+    "full_body_front": "Front view of a Snowshoe showcasing its sturdy build and 'mitted' paws",
+    "full_body_side": "Lateral view highlighting the contrast between the dark points and white boots",
+    "strict_profile": "90-degree profile view for anatomical study of the Snowshoe breed",
+    "eye_macro": "Macro shot of the brilliant, clear blue eyes of a Snowshoe cat",
+    "coat_texture": "Detailed photo of the smooth and glossy coat texture",
+    "variant_full_body": "Showcase of the point and white pattern variations in the Snowshoe breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

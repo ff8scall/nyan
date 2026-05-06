@@ -19,8 +19,8 @@
     "silver",
     "golden"
   ],
-  "weight_min_kg": 3.0,
-  "weight_max_kg": 6.0,
+  "weight_min_kg": 3,
+  "weight_max_kg": 6,
   "lifespan_min_years": 10,
   "lifespan_max_years": 15,
   "grooming_level": 2,
@@ -45,23 +45,55 @@
     "은색으로 빛나는 털과 짙은 아이라인이 그려진 초록색 눈이 보석처럼 아름다움",
     "성격이 매우 온화하고 느긋하여 처음 고양이를 키우는 초보 집사에게 최적임"
   ],
+  "pros_en": [
+    "Perfect blend of Burmese affection and Chinchilla Persian elegance",
+    "Stunning silver coat and emerald green eyes with natural 'eyeliner'",
+    "Gentle and easy-going temperament, ideal for first-time owners"
+  ],
   "cons": [
     "장기적으로 신장 질환(PKD)의 유전적 위험이 있어 정기적인 관리가 필요함",
     "사람과 함께 있는 것을 좋아해 혼자 오래 두면 소외감을 느끼고 우울해할 수 있음",
     "국내에서는 개체 수가 많지 않아 전문 캐터리를 찾는 노력이 필요함"
   ],
+  "cons_en": [
+    "Genetic risk of Polycystic Kidney Disease (PKD) requires monitoring",
+    "Craves companionship; may become lonely or depressed if left alone for long",
+    "Relatively rare breed, making it challenging to find reputable breeders locally"
+  ],
+  "good_for": [
+    "은색 털과 초록색 눈의 신비로운 조화를 선호하는 심미안을 가진 분",
+    "너무 시끄럽지 않으면서도 적당히 애교 있는 '무릎 고양이'를 원하는 분",
+    "고양이의 건강 관리와 교감에 충분한 시간을 투자할 수 있는 집사"
+  ],
+  "good_for_en": [
+    "Aesthetically minded owners who love the silver-and-green combination",
+    "Those seeking a quiet, affectionate 'lap cat' without excessive vocalization",
+    "Owners willing to invest time in regular health check-ups and bonding"
+  ],
+  "think_twice_if": [
+    "집을 비우는 시간이 아주 길어 고양이가 혼자 있는 시간이 대부분인 경우",
+    "유전병 관리에 대한 걱정이 크거나 정기 검진 비용이 부담스러운 분",
+    "고양이가 아주 활발하고 에너지가 넘치길 기대하는 분"
+  ],
+  "think_twice_if_en": [
+    "Owners who are away for extended periods and cannot provide companionship",
+    "People concerned about the potential costs or stress of genetic health monitoring",
+    "Those looking for a high-energy, constantly active feline athlete"
+  ],
   "economics": {
     "price_range_ko": "1,500,000원 - 3,500,000원",
-    "monthly_care_cost": "약 110,000원 - 180,000원"
+    "price_range_en": "$1,000 - $3,000 (Cattery standard)",
+    "monthly_care_cost": "약 110,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $90 - $140"
   },
-  "summary_en": "The Burmilla is a breed of domestic cat which originated in the United Kingdom in 1981. It is a cross between the Chinchilla Persian and the Burmese.",
+  "summary_en": "The Burmilla is an elegant breed originating from an accidental crossing between a Burmese and a Chinchilla Persian.",
   "summary_ko": "버미즈와 페르시안의 우연한 만남으로 탄생한 '은빛 보석' 같은 고양이로, 반짝이는 털과 차분한 성격이 매력적입니다.",
-  "appearance_en": "Sparkling silver-white coat with shading, green eyes with distinctive 'eyeliner' outlines, elegant foreign build.",
-  "appearance_ko": "은색 바탕에 은은하게 들어간 쉐이딩(Shading) 코트와 선명한 아이라인을 그린 듯한 초록색 눈이 특징입니다. 버미즈의 체격과 페르시안의 우아함이 조화를 이룹니다.",
-  "personality_en": "Easy-going, affectionate, and social. Burmillas are less demanding than Burmese but more active than Persians. They are very intelligent and enjoy interactive play.",
-  "personality_ko": "성격이 매우 원만하고 다정합니다. 집사 곁에 머무는 것을 좋아하지만 과하게 보채지 않는 성숙한 애교를 보여줍니다. 지능이 높고 호기심이 많아 새로운 놀이나 환경에도 빠르게 적응하는 사교적인 고양이입니다.",
-  "care_en": "Requires minimal grooming—a weekly brush is usually enough to maintain their silky coat. They need regular dental care and health checkups, particularly for potential kidney issues.",
-  "care_ko": "속털이 거의 없어 털 관리가 매우 쉽습니다. 주 1~2회 빗질만으로도 충분히 아름다운 자태를 유지할 수 있습니다. 다만 영리하고 사람을 좋아하므로 지적인 놀이와 충분한 교감 시간을 제공해 주는 것이 중요합니다.",
+  "appearance_en": "Shaded or tipped silver coat, vivid green eyes with dark 'eyeliner' outlines, and a semi-cobby build.",
+  "appearance_ko": "은색 바탕에 은은하게 들어간 쉐이딩(Shading) 코트와 선명한 아이라인을 그린 듯한 초록색 눈이 특징입니다. 버미즈의 근육질 체격과 페르시안의 우아함이 공존합니다.",
+  "personality_en": "Affectionate, social, and easy-going. They are less demanding than Burmese but more active than Persians.",
+  "personality_ko": "성격이 매우 원만하고 다정합니다. 집사 곁에 머무는 것을 좋아하지만 과하게 보채지 않으며, 새로운 환경에도 빠르게 적응하는 사교적인 성격입니다.",
+  "care_en": "Minimal grooming required. Regular dental care and kidney health checkups are important.",
+  "care_ko": "속털이 거의 없어 털 관리가 매우 쉽습니다. 주 1~2회 빗질만으로도 충분하며, 유전적 요인인 신장 건강 관리를 위해 정기 검진이 권장됩니다.",
   "known_risks": [
     {
       "name_en": "Polycystic Kidney Disease (PKD)",
@@ -77,23 +109,36 @@
   "faq": [
     {
       "question_ko": "눈에 화장을 한 건가요?",
-      "answer_ko": "아니요, 타고난 무늬입니다. 버밀라는 눈과 코 주변에 짙은 색의 라인이 선천적으로 발달하여 마치 정교하게 화장을 한 듯한 아름다운 인상을 줍니다."
+      "answer_ko": "아니요, 타고난 무늬입니다. 버밀라는 눈과 코 주변에 짙은 색의 라인이 선천적으로 발달하여 마치 정교하게 화장을 한 듯한 아름다운 인상을 줍니다.",
+      "question_en": "Is that makeup on their eyes?",
+      "answer_en": "No, it's a natural trait. Burmillas have dark outlines around their eyes and nose that look like perfectly applied eyeliner."
     },
     {
-      "question_ko": "털이 많이 빠지나요?",
-      "answer_ko": "단모종 중에서도 털 빠짐이 적은 편에 속합니다. 비단 같은 부드러운 털은 관리가 매우 수월하여 초보 집사들도 부담 없이 키울 수 있습니다."
+      "question_ko": "정말 사고로 태어난 품종인가요?",
+      "answer_ko": "네, 1981년 영국에서 수컷 버미즈와 암컷 친칠라 페르시안이 우연히 교배되어 태어난 새끼들이 너무 아름다워 품종으로 발전하게 되었습니다.",
+      "question_en": "Was the breed really an accident?",
+      "answer_en": "Yes, in 1981, a male Burmese and a female Chinchilla Persian accidentally mated. The resulting kittens were so beautiful that they became the foundation of the breed."
     }
   ],
-  "visual_comparison_tip": "버미즈보다 얼굴이 더 둥글고, 털끝에만 색이 들어간 '쉐이디드(Shaded)' 패턴과 짙은 아이라인을 확인하세요.",
+  "visual_comparison_tip": "버미즈보다 얼굴이 둥글고, 털끝에만 색이 들어간 쉐이디드 패턴과 짙은 아이라인을 확인하세요.",
+  "visual_comparison_tip_en": "Rounder face than a Burmese; look for the shaded coat pattern and distinct dark 'eyeliner' around the green eyes.",
   "meta_tags": {
-    "title": "버밀라 고양이 백과: 버밀라 고양이 백과: 버밀라 도감: 보석 같은 눈을 가진 은빛 고양이, 성격 및 관리법 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "버미즈와 친칠라의 우연한 만남으로 탄생한 보석, 버밀라의 모든 것. 은빛 코트의 비밀과 온순한 성격, 실제 분양가를 nyan에서 확인하세요.",
-    "keywords": [
+    "title_ko": "버밀라 고양이: 성격, 은빛 털, 아이라인 | nyan",
+    "title_en": "Burmilla Cat: Silver Coat & Care | nyan",
+    "description_ko": "버미즈와 친칠라의 우연한 만남으로 탄생한 보석, 버밀라의 모든 것. 은빛 코트의 비밀과 온순한 성격, 실제 분양가를 확인하세요.",
+    "description_en": "The sparkling 'Gem' of cats, the Burmilla. Discover their silver coat secrets, gentle nature, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "버밀라",
-      "버밀라고양이",
       "실버고양이",
       "아이라인고양이",
-      "개냥이추천",
+      "희귀고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Burmilla",
+      "silver cat",
+      "eyeliner cat",
+      "rare cat breed",
       "nyan"
     ]
   },
@@ -101,32 +146,40 @@
   "image_macro_path": "/images/Nyan/burmilla_macro.png",
   "image_fullbody_path": "/images/Nyan/burmilla/burmilla_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/burmilla/burmilla_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "친칠라 페르시안 혈통에서 올 수 있는 다낭성 신장병(PKD)에 대한 정기적인 검사가 권장됩니다.",
-  "local_rarity_ko": "국내에서 매우 희귀한 품종 중 하나입니다. 버미즈의 매력과 페르시안의 아름다움을 모두 원하는 집사들에게 최고의 선택지이며, 그만큼 입양을 위해서는 세심한 노력이 필요합니다.",
-  "similar_breed_ids": [
-    "burmese",
-    "persian",
-    "british-shorthair"
-  ],
   "image_fullbody_side_path": "/images/Nyan/burmilla/burmilla_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/burmilla/burmilla_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/burmilla/burmilla_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/burmilla/burmilla_coat_texture.webp",
   "image_variant_path": "/images/Nyan/burmilla/burmilla_variant_full_body.webp",
-  "origin_history_ko": "버밀라 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "버밀라의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "친칠라 페르시안 혈통에서 올 수 있는 다낭성 신장병(PKD)에 대한 정기적인 모니터링이 필요합니다.",
+  "health_notes_en": "Regular monitoring for Polycystic Kidney Disease (PKD) inherited from the Persian lineage is advised.",
+  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 전문 캐터리를 통해서만 만날 수 있는 보석 같은 반려묘입니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "persian",
+    "british-shorthair"
+  ],
+  "origin_history_ko": "1981년 영국 미란다 빅포드-스미스 남작 부인의 집에서 버미즈와 친칠라 페르시안 사이의 우연한 교배로 시작되었습니다. 이 조화로운 혼합이 선사하는 아름다움에 매료된 애묘가들에 의해 품종으로 정착되었습니다.",
+  "origin_history_en": "Started in 1981 in the UK from an accidental mating between a Burmese and a Chinchilla Persian owned by Baroness Miranda Bickford-Smith. Their stunning looks led to the deliberate development of the breed.",
+  "grooming_tips_ko": "비단같이 부드러운 털은 엉킴이 거의 없습니다. 주 1~2회 부드러운 빗질로 광택을 유지해 주세요. 큰 귀는 아니지만 정기적으로 귀 안쪽 청결을 확인하는 것이 좋습니다.",
+  "grooming_tips_en": "The silky coat is largely tangle-free. A gentle brushing once or twice a week maintains its luster. Regular ear checks are also recommended despite their standard size.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "천연 실크 광택용 브러시",
+      "item_name_en": "Natural Bristle Luster Brush",
+      "reason_ko": "버밀라의 은빛 코트 광택을 극대화하고 피부 자극 없이 죽은 털 제거",
+      "reason_en": "Maximizes the silver luster of the Burmilla's coat while gently removing loose fur"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "신장 건강 지원용 수분 사료",
+      "item_name_en": "Kidney Support Wet Food",
+      "reason_ko": "유전적으로 취약할 수 있는 신장 건강을 위해 충분한 수분 섭취를 유도",
+      "reason_en": "Encourages hydration to support kidney health, which can be a genetic concern"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -140,18 +193,28 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "버밀라",
+    "name": "Burmilla",
     "taxonRank": "Breed",
-    "description": "버밀라 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Burmilla cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 버밀라 고양이의 전신 모습",
-    "face_portrait": "버밀라 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "face_portrait": "버밀라 고양이의 특징적인 선명한 아이라인과 초록색 눈이 강조된 초근접 초상화",
     "full_body_front": "버밀라 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
-    "full_body_side": "버밀라 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "full_body_side": "버밀라 고양이의 은빛 코트와 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
     "strict_profile": "버밀라 품종 표준을 보여주는 완벽한 측면 두상 프로필",
-    "eye_macro": "버밀라 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
-    "coat_texture": "버밀라 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "eye_macro": "버밀라 고양이 특유의 신비로운 초록색 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "버밀라 고양이의 부드럽고 빛나는 은빛 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "버밀라 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Burmilla cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the stunning green eyes and natural eyeliner of a Burmilla",
+    "full_body_front": "Front view of a Burmilla showing its balanced and sturdy build",
+    "full_body_side": "Lateral full body photo showcasing the shimmering shaded silver coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the vivid green eyes and iris patterns of a Burmilla cat",
+    "coat_texture": "Macro photo of the fine, silky silver coat texture",
+    "variant_full_body": "Full body view showing various shading levels of the Burmilla"
   }
 }

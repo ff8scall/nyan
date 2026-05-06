@@ -2,6 +2,10 @@
   "id": "toyger",
   "name_en": "Toyger",
   "name_ko": "토이거",
+  "aliases_en": [
+    "Mini Tiger",
+    "Kitchen Tiger"
+  ],
   "aliases_ko": [
     "거실 위의 호랑이",
     "미니 타이거"
@@ -18,7 +22,7 @@
     "orange_and_black"
   ],
   "weight_min_kg": 3.5,
-  "weight_max_kg": 7.0,
+  "weight_max_kg": 7,
   "lifespan_min_years": 12,
   "lifespan_max_years": 15,
   "grooming_level": 2,
@@ -43,23 +47,57 @@
     "야생적인 외모와 달리 성격이 매우 온화하고 사람을 잘 따르며 사교적임",
     "지능이 높고 건강하며, 집안에서도 맹수의 카리스마를 느낄 수 있는 특별한 존재감"
   ],
+  "pros_en": [
+    "Stunning tiger-like appearance with perfect vertical stripes and a muscular build",
+    "Incredibly gentle and social temperament, contrary to their wild look",
+    "Highly intelligent and robust; a true 'conversation starter' in any home"
+  ],
   "cons": [
     "호랑이와 흡사한 줄무늬(브랜치 타이거 스트라이프) 퀄리티에 따라 분양가가 매우 높음",
     "활동량이 많아 수직 공간과 충분한 놀이 공간이 확보되지 않으면 스트레스를 받을 수 있음",
     "국내외적으로 전문 브리더가 매우 적어 입양을 위해 긴 대기 시간이 필요함"
   ],
+  "cons_en": [
+    "High acquisition costs depending on the quality and clarity of tiger markings",
+    "Requires significant vertical space and engagement to manage their energy",
+    "Very rare breed with few professional breeders, leading to long waitlists"
+  ],
+  "good_for": [
+    "호랑이를 닮은 압도적인 비주얼의 고양이를 소유하고 싶은 '로망'이 있는 분",
+    "개냥이 같은 다정한 성격을 가진 대형묘를 선호하는 가족 단위 집사",
+    "지능이 높은 고양이와 하네스 산책이나 훈련을 즐기며 교감하고 싶은 분"
+  ],
+  "good_for_en": [
+    "Those who dream of having a miniature tiger with an impressive presence in their home",
+    "Families seeking a large, affectionate, and dependable 'velcro' cat",
+    "Owners interested in training their cat for harness walks or complex tricks"
+  ],
+  "think_twice_if": [
+    "고양이의 외모보다 낮은 분양가와 쉬운 입양 가능성을 우선하는 분",
+    "활동량이 많은 고양이가 집안 곳곳을 뛰어다니는 것이 부담스러운 조용한 환경",
+    "호랑이 무늬의 퀄리티와 보존에 대한 브리더의 엄격한 가이드를 따르기 어려운 경우"
+  ],
+  "think_twice_if_en": [
+    "Individuals prioritizing a low-budget or immediate adoption process",
+    "Quiet environments that may find a high-energy, athletic cat disruptive",
+    "Owners unwilling to follow breeder guidelines for maintaining breed quality"
+  ],
   "economics": {
     "price_range_ko": "2,000,000원 - 5,000,000원 이상 (프리미엄 퀄리티)",
-    "monthly_care_cost": "약 150,000원 - 250,000원"
+    "price_range_en": "$2,000 - $5,000+ (Premium quality)",
+    "monthly_care_cost": "약 150,000원 - 250,000원",
+    "monthly_care_cost_en": "Approx. $120 - $200"
   },
-  "summary_en": "The Toyger is a breed of domestic cat, the result of breeding domestic shorthaired tabbies to make them resemble a 'toy tiger'.",
+  "summary_en": "The Toyger is a breed of domestic cat designed to resemble a 'toy tiger' through selective breeding of domestic shorthair tabbies.",
   "summary_ko": "호랑이의 야성미를 집 안에서 즐길 수 있도록 만들어진 예술적인 품종으로, 외모와 달리 매우 침착하고 친화력이 뛰어난 신사입니다.",
-  "appearance_en": "Miniature tiger look, modified mackerel tabby with circular stripes, muscular body, and glittery soft coat.",
+  "appearance_en": "A muscular, medium-to-large cat with distinct vertical stripes (branching) on an orange background. Features a 'glittery' coat and small rounded ears.",
   "appearance_ko": "'거실용 호랑이'를 목표로 개량되어 몸 전체를 감싸는 둥근 줄무늬(로제트)와 근육질 체형이 완벽한 호랑이의 축소판입니다. 털에서 금빛 광택(Glitter)이 납니다.",
-  "personality_en": "Extremely laid-back, social, and intelligent. Toygers are known for being easy to train and get along very well with people and other pets. They are often described as having a dependable and calm nature.",
+  "personality_en": "Laid-back, social, and dependable. Toygers are highly intelligent and often get along exceptionally well with other pets and children.",
   "personality_ko": "호랑이를 닮은 외모와는 달리 매우 차분하고 사교적입니다. 집사와의 교감을 무척 좋아하며 지능이 높아 하네스 산책이나 복잡한 놀이도 금방 배웁니다. 낯선 환경에서도 대범하게 행동하며 가족 모두에게 신뢰를 주는 든든한 성격의 소유자입니다.",
-  "care_en": "Requires minimal grooming due to their short, dense coat. They need regular exercise and interactive play to maintain their muscular build and mental health.",
+  "care_en": "Low maintenance grooming but requires plenty of interactive play. They are smart and need puzzle toys to keep their minds occupied.",
   "care_ko": "털 관리는 주 1~2회 빗질만으로도 충분합니다. 다만 근육질의 탄탄한 몸매를 유지하기 위해 활동적인 놀이가 권장되며, 똑똑한 두뇌를 자극할 수 있는 다양한 놀잇감을 제공해 주어야 합니다. 사회성이 좋아 혼자 두는 것보다 함께 시간을 보내는 것을 추천합니다.",
+  "health_notes_ko": "대체로 건강한 품종이지만 비대성 심근증(HCM)이나 진행성 망막 위축증(PRA)에 대한 정기적인 모니터링이 권장됩니다. 탄탄한 근육질 유지를 위해 고단백 식단 관리가 중요합니다.",
+  "health_notes_en": "Generally healthy, though periodic screening for HCM and PRA is advised. A high-protein diet is recommended to support their muscular physique and energy needs.",
   "known_risks": [
     {
       "name_en": "Hypertrophic Cardiomyopathy (HCM)",
@@ -75,61 +113,91 @@
   "faq": [
     {
       "question_ko": "진짜 호랑이 피가 섞였나요?",
-      "answer_ko": "아니요, 토이거는 100% 집고양이 혈통입니다. 호랑이를 닮게 하기 위해 선별적으로 교배된 품종일 뿐 야생 DNA는 전혀 없습니다."
+      "answer_ko": "아니요, 토이거는 100% 집고양이 혈통입니다. 호랑이를 닮게 하기 위해 선별적으로 교배된 품종일 뿐 야생 DNA는 전혀 없습니다.",
+      "question_en": "Do they have wild tiger DNA?",
+      "answer_en": "No, Toygers are 100% domestic cats. They were selectively bred from domestic shorthair tabbies to resemble tigers, but they carry no wild DNA."
     },
     {
       "question_ko": "뱅갈과 무엇이 다른가요?",
-      "answer_ko": "뱅갈은 '점무늬(로제트)'가 특징이지만, 토이거는 호랑이 같은 '수직 줄무늬'가 특징입니다. 또한 토이거가 조금 더 차분하고 느긋한 성격을 가진 경우가 많습니다."
+      "answer_ko": "뱅갈은 '점무늬(로제트)'가 특징이지만, 토이거는 호랑이 같은 '수직 줄무늬'가 특징입니다. 또한 토이거가 조금 더 차분하고 느긋한 성격을 가진 경우가 많습니다.",
+      "question_en": "How do they differ from Bengals?",
+      "answer_en": "Bengals have 'rosette' spots, while Toygers have long 'vertical' stripes. Generally, Toygers are also known to be more laid-back and mellow compared to the high-energy Bengal."
+    },
+    {
+      "question_ko": "털에서 정말 빛이 나나요?",
+      "answer_ko": "네, 토이거는 털 끝부분이 투명하게 빛나는 '글리터(Glitter)' 유전자를 가지고 있어 조명을 받으면 금빛으로 반짝이는 아름다운 코트를 자랑합니다.",
+      "question_en": "Does their fur really glitter?",
+      "answer_en": "Yes, many Toygers possess the 'glitter' gene, which makes their fur appear as if it's been dusted with gold, especially when viewed in direct sunlight."
+    },
+    {
+      "question_ko": "산책을 시켜도 되나요?",
+      "answer_ko": "네, 지능이 높고 대범하여 하네스 교육에 매우 잘 적응합니다. 호기심이 많아 집사와 함께 야외를 탐험하는 것을 즐기는 개체가 많습니다.",
+      "question_en": "Can they go for walks?",
+      "answer_en": "They are very intelligent and typically adapt well to harness training. Their curious and brave nature makes them excellent companions for outdoor exploration."
+    },
+    {
+      "question_ko": "성격이 사나운가요?",
+      "answer_ko": "전혀 그렇지 않습니다. '무서운 호랑이' 외모와는 정반대로 매우 온순하고 참을성이 많아 아이들이 있는 집에서도 안심하고 키울 수 있는 품종입니다.",
+      "question_en": "Are they aggressive?",
+      "answer_en": "Not at all. Despite their 'tough tiger' look, they are famously gentle and patient, making them wonderful pets even for households with young children."
     }
   ],
   "visual_comparison_tip": "일반적인 태비 고양이와 달리 줄무늬가 수직으로 길게 내려오며, 줄무늬 끝이 갈라지는 '브랜치(Branch)' 형태인지 확인하세요.",
+  "visual_comparison_tip_en": "Look for distinct, long vertical stripes that branch out, unlike the circular or broken stripes found in common tabbies.",
   "meta_tags": {
-    "title": "토이거 고양이 백과: 토이거 고양이 백과: 토이거 도감: 성격, 호랑이 줄무늬의 비밀, 미니 타이거 가이드 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "거실의 호랑이, 토이거의 모든 것. 수직 줄무늬의 아름다움과 반전 있는 다정한 성격, 실제 분양가와 관리법을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "토이거 고양이 가이드: 성격, 호랑이 줄무늬, 관리법 | nyan",
+    "title_en": "Toyger Cat: Tiger Markings & Care | nyan",
+    "description_ko": "거실의 호랑이, 토이거의 모든 것. 수직 줄무늬의 아름다움과 반전 있는 다정한 성격, 실제 분양가와 관리법을 nyan에서 확인하세요.",
+    "description_en": "Experience the mini tiger, the Toyger. Discover their stunning vertical stripes, mellow temperament, costs, and care tips in our museum-grade archive.",
+    "keywords_ko": [
       "토이거",
       "호랑이고양이",
       "줄무늬고양이",
-      "희귀고양이",
       "미니타이거",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Toyger cat",
+      "tiger cat",
+      "vertical stripes cat",
+      "exotic look cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/toyger/toyger_hero.webp",
-  "image_macro_path": "/images/Nyan/toyger_macro.png",
   "image_fullbody_path": "/images/Nyan/toyger/toyger_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/toyger/toyger_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "뱅갈 혈통에서 기인할 수 있는 심장병(HCM)이나 안구 질환에 대한 정기적인 모니터링이 필요할 수 있습니다.",
-  "local_rarity_ko": "국내에서 매우 귀한 초희귀 품종입니다. 뱅갈보다도 호랑이에 더 가까운 외모를 원하는 집사들에게 최고의 품종으로 여겨지며, 압도적인 비주얼만큼이나 높은 입양 가치를 지닙니다.",
-  "similar_breed_ids": [
-    "bengal",
-    "egyptian-mau",
-    "ocicat"
-  ],
   "image_fullbody_side_path": "/images/Nyan/toyger/toyger_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/toyger/toyger_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/toyger/toyger_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/toyger/toyger_coat_texture.webp",
   "image_variant_path": "/images/Nyan/toyger/toyger_variant_full_body.webp",
-  "origin_history_ko": "토이거 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "토이거의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "bengal",
+    "egyptian-mau",
+    "ocicat"
+  ],
+  "origin_history_ko": "1980년대 미국의 브리더 주디 서전이 호랑이를 닮은 고양이를 만들기 위해 시작했습니다. 뱅갈과 일반 단모종 태비 고양이를 교배하여 수십 년간의 노력 끝에 호랑이의 줄무늬를 재현해냈습니다.",
+  "origin_history_en": "Developed in the 1980s by Judy Sugden in the US. By crossing a Bengal with a domestic shorthair tabby, she spent decades refining the unique vertical 'tiger' stripe pattern.",
+  "grooming_tips_ko": "털이 짧고 부드러워 주 1회 빗질만으로도 충분합니다. 털에 있는 금빛 광택(Glitter)을 살리기 위해 영양가 있는 식단을 제공하고 실내 습도를 적절히 유지해 주세요.",
+  "grooming_tips_en": "Weekly brushing is enough to maintain their short coat. To highlight their natural 'glitter', provide high-quality nutrition and maintain comfortable indoor humidity levels.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "대형 고양이 전용 캣 휠",
+      "item_name_en": "Large Premium Cat Wheel",
+      "reason_ko": "활동량이 많은 토이거가 실내에서도 충분히 질주하고 근육을 유지할 수 있도록 도움",
+      "reason_en": "Allows these high-energy, athletic cats to sprint and maintain their muscular physique indoors"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "고강도 원목 스크래쳐",
+      "item_name_en": "Heavy-Duty Wooden Scratcher",
+      "reason_ko": "힘이 센 대형묘 토이거의 발톱 관리와 스트레스 해소를 위한 견고한 도구",
+      "reason_en": "A sturdy tool for managing the claws and stress levels of a strong, large-sized breed"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
-    {
-      "source_name": "CFA (The Cat Fanciers' Association)",
-      "url": "https://cfa.org"
-    },
     {
       "source_name": "TICA (The International Cat Association)",
       "url": "https://tica.org"
@@ -138,9 +206,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "토이거",
+    "name": "Toyger",
     "taxonRank": "Breed",
-    "description": "토이거 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Toyger cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 토이거 고양이의 전신 모습",
@@ -151,5 +219,17 @@
     "eye_macro": "토이거 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "토이거 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "토이거 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Toyger cat sitting on a museum pedestal showing its tiger-like stripes",
+    "face_portrait": "Close-up portrait highlighting the facial markings and rounded ears of a Toyger",
+    "full_body_front": "Front view of a Toyger showcasing its powerful and muscular build",
+    "full_body_side": "Lateral view highlighting the intricate vertical branching stripes on its coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Toyger breed",
+    "eye_macro": "Macro shot of the intense amber eyes and detailed iris patterns of a Toyger cat",
+    "coat_texture": "Detailed photo of the short, glossy, and 'glittery' coat texture",
+    "variant_full_body": "Showcase of the orange and black vertical stripe variations in the Toyger breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "high"
 }

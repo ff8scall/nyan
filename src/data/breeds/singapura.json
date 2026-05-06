@@ -2,6 +2,11 @@
   "id": "singapura",
   "name_en": "Singapura",
   "name_ko": "싱가푸라",
+  "aliases_en": [
+    "Singapore Drain Cat",
+    "Pura",
+    "Little Lion City Cat"
+  ],
   "aliases_ko": [
     "싱가포르의 보물",
     "세상에서 가장 작은 고양이"
@@ -17,8 +22,8 @@
   "common_colors": [
     "sepia"
   ],
-  "weight_min_kg": 2.0,
-  "weight_max_kg": 4.0,
+  "weight_min_kg": 2,
+  "weight_max_kg": 4,
   "lifespan_min_years": 11,
   "lifespan_max_years": 15,
   "grooming_level": 1,
@@ -43,23 +48,57 @@
     "성묘가 되어도 아기 고양이 같은 외모와 작은 덩치를 유지하여 보호 본능을 자극함",
     "사교성이 매우 좋고 조용한 성격으로 가족들과 평화롭게 어울림"
   ],
+  "pros_en": [
+    "The world's smallest breed, making them perfect for apartment or studio living",
+    "Retains a kitten-like appearance and diminutive size throughout adulthood",
+    "Exceptionally social and gentle; known for being a delightful 'people cat'"
+  ],
   "cons": [
     "덩치가 너무 작아 문 틈에 끼거나 밟히는 등 불의의 사고 위험이 있어 세심한 주의가 필요함",
     "번식력이 낮고 개체 수가 적어 분양가가 매우 비싸고 입양하기가 어려움",
     "추위에 매우 취약하므로 항상 일정한 실내 온도를 유지해 주어야 함"
   ],
+  "cons_en": [
+    "Vulnerable to accidents due to their size; owners must be extremely vigilant",
+    "Low fertility and rarity result in high acquisition costs and long waiting lists",
+    "Highly sensitive to cold; requires careful temperature management indoors"
+  ],
+  "good_for": [
+    "작은 거주 공간에서 함께할 영리하고 다정한 동반자를 찾는 분",
+    "고양이가 항상 곁에 머물며 교감하길 원하는 '해바라기'형 집사",
+    "희귀하고 보석 같은 아름다움을 가진 소형묘를 선호하는 분"
+  ],
+  "good_for_en": [
+    "Individuals living in small homes seeking an intelligent and loving companion",
+    "Owners who enjoy high levels of interaction and constant physical presence",
+    "Fanciers who appreciate the beauty and rarity of a unique 'pocket cat'"
+  ],
+  "think_twice_if": [
+    "어린아이들이나 대형견이 있어 고양이가 다칠 위험이 있는 활발한 가정",
+    "고양이가 독립적이길 바라거나 너무 많이 만지는 것을 선호하지 않는 분",
+    "겨울철 실내 온도 관리에 소홀하거나 난방비가 걱정되는 환경"
+  ],
+  "think_twice_if_en": [
+    "Active households with toddlers or large dogs where the cat could be accidentally injured",
+    "Owners who prefer a more independent or hands-off pet",
+    "Environment where maintaining a consistent warm temperature is difficult"
+  ],
   "economics": {
     "price_range_ko": "2,500,000원 - 6,000,000원 이상 (희귀 품종)",
-    "monthly_care_cost": "약 100,000원 - 160,000원"
+    "price_range_en": "$2,500 - $6,000+ (Rare breed standard)",
+    "monthly_care_cost": "약 100,000원 - 160,000원",
+    "monthly_care_cost_en": "Approx. $80 - $130"
   },
-  "summary_en": "The Singapura is the smallest breed of domestic cat, noted for its large eyes and ears, brown-ticked coat, and blunt tail.",
+  "summary_en": "The Singapura is the smallest recognized breed of domestic cat, famous for its large expressive eyes, big ears, and beautiful sepia-ticked coat.",
   "summary_ko": "싱가포르 하수구에서 발견된 작은 고양이에서 시작된 기적의 품종으로, 작은 몸집에 넘치는 에너지와 호기심을 가진 사랑스러운 동반자입니다.",
-  "appearance_en": "Smallest recognized breed, sepia agouti ticked coat, exceptionally large eyes and ears relative to body.",
+  "appearance_en": "Diminutive size with a muscular build. Features huge almond-shaped eyes, large ears, and a unique sepia agouti coat with ticking.",
   "appearance_ko": "세계에서 가장 작은 고양이로 알려져 있으며, 몸에 비해 거대한 눈과 귀가 만화 캐릭터 같은 귀여움을 줍니다. 금색 바탕의 틱(Ticked) 무늬 코트가 단 하나만 허용됩니다.",
-  "personality_en": "Active, curious, and playful. Despite their small size, they are very social and enjoy being around people and other pets.",
+  "personality_en": "Highly affectionate, intelligent, and social. Often called 'velcro cats' because they want to be involved in everything their owner does.",
   "personality_ko": "덩치는 작지만 에너지가 넘치고 호기심이 많습니다. 사람을 무척 좋아하고 사교적이라 항상 집사의 어깨 위나 무릎 위를 차지하려 드는 다정한 성격입니다. 목소리는 작지만 집사와의 소통을 즐기는 영리한 고양이입니다.",
-  "care_en": "Requires minimal grooming due to their short, fine coat. Because of their small size, they are strictly indoor cats and need to be protected from extreme cold.",
+  "care_en": "Low maintenance grooming but requires extra protection from the cold. They are strictly indoor cats due to their small size and vulnerability.",
   "care_ko": "털 관리는 매우 쉬운 편이지만, 워낙 작고 연약하므로 집안 환경의 안전성에 각별히 유의해야 합니다. 추위에 매우 취약하므로 겨울철 의류나 따뜻한 잠자리를 마련해 주는 것이 중요합니다.",
+  "health_notes_ko": "자궁 수축 부전과 피루베이트 키나아제 결핍증(PKD)에 대한 유전적 모니터링이 필요하며, 특히 마취에 민감할 수 있으므로 수술 시 전문의와 상의해야 합니다.",
+  "health_notes_en": "Genetic screening for PK deficiency and monitoring for uterine inertia in breeding females is essential. Due to their size, they may be more sensitive to certain anesthetics.",
   "known_risks": [
     {
       "name_en": "Uterine Inertia",
@@ -75,56 +114,90 @@
   "faq": [
     {
       "question_ko": "정말 성묘가 되어도 그렇게 작나요?",
-      "answer_ko": "네, 암컷의 경우 2kg 초반, 수컷도 3.5kg를 넘기 힘든 경우가 많아 일반 고양이의 절반 정도 크기라고 보시면 됩니다."
+      "answer_ko": "네, 암컷의 경우 2kg 초반, 수컷도 3.5kg를 넘기 힘든 경우가 많아 일반 고양이의 절반 정도 크기라고 보시면 됩니다.",
+      "question_en": "Do they really stay that small as adults?",
+      "answer_en": "Yes, females often weigh just over 2kg, and males rarely exceed 3.5kg. They are about half the size of an average domestic cat."
     },
     {
       "question_ko": "다른 고양이랑 잘 지내나요?",
-      "answer_ko": "네, 사교성이 아주 좋아서 덩치 큰 다른 고양이들과도 평화롭게 잘 어울리는 편입니다."
+      "answer_ko": "네, 사교성이 아주 좋아서 덩치 큰 다른 고양이들과도 평화롭게 잘 어울리는 편입니다.",
+      "question_en": "Do they get along with other cats?",
+      "answer_en": "Yes, despite their size, they are very confident and social. They usually integrate well into multi-cat households."
+    },
+    {
+      "question_ko": "목소리가 큰가요?",
+      "answer_ko": "아니요, 목소리는 매우 작고 부드럽습니다. 하지만 눈빛과 몸짓으로 끊임없이 집사에게 의사를 전달하려 노력합니다.",
+      "question_en": "Are they vocal?",
+      "answer_en": "They have very tiny, sweet voices. While not loud, they are expressive and will use subtle vocalizations to communicate with you."
+    },
+    {
+      "question_ko": "알레르기를 덜 일으키나요?",
+      "answer_ko": "공식적인 저자극 품종은 아니지만, 단모종이고 덩치가 매우 작아 털 빠짐과 비듬 발생 절대량이 적어 상대적으로 반응이 덜할 수 있습니다.",
+      "question_en": "Are they hypoallergenic?",
+      "answer_en": "Not officially, but because they are so small and have very short fur, the total amount of dander produced is lower than that of larger cats."
+    },
+    {
+      "question_ko": "추위를 많이 타나요?",
+      "answer_ko": "네, 피하지방이 적고 털이 짧아 추위에 매우 민감합니다. 겨울철에는 보일러 가동이나 고양이 전용 옷 착용이 필수입니다.",
+      "question_en": "Are they sensitive to cold?",
+      "answer_en": "Extremely. With low body fat and a short coat, they lose heat quickly. Heated beds or sweaters are highly recommended during winter."
     }
   ],
-  "visual_comparison_tip": "아비시니안과 비슷해 보이지만 훨씬 작고, 눈과 귀가 덩치에 비해 매우 크며, 눈가에 짙은 아이라인이 있는지 확인하세요.",
+  "visual_comparison_tip": "아비시니안과 비슷해 보일 수 있지만 훨씬 작고, 눈과 귀가 덩치에 비해 매우 크며, 눈가에 짙은 아이라인이 있는지 확인하세요.",
+  "visual_comparison_tip_en": "Smaller than an Abyssinian with larger eyes and ears proportional to the body, and distinct 'mascara' eyeliner markings.",
   "meta_tags": {
-    "title": "싱가푸라 고양이 백과: 싱가푸라 고양이 백과: 싱가푸라 고양이 도감: 세상에서 가장 작은 고양이, 성격, 세피아 틱 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "포켓 캣 싱가푸라의 모든 것. 성묘가 되어도 2kg대인 작은 덩치와 지능적인 성격, 실제 분양가와 희귀성을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "싱가푸라 고양이 가이드: 성격, 세계 최소형 고양이 관리법 | nyan",
+    "title_en": "Singapura Cat: Smallest Breed Care & Costs | nyan",
+    "description_ko": "세상에서 가장 작은 고양이 싱가푸라의 모든 것. 성묘도 2kg대인 작은 덩치와 지능적인 성격, 실제 분양가와 희귀성을 nyan에서 확인하세요.",
+    "description_en": "Discover the 'Pocket Cat', the Singapura. Learn about their tiny size, social personality, rarity, and specialized care in our museum-grade archive.",
+    "keywords_ko": [
       "싱가푸라",
-      "가장작은고양이",
-      "세피아틱",
-      "싱가포르고양이",
+      "작은고양이",
       "포켓캣",
+      "세피아틱",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Singapura cat",
+      "smallest cat breed",
+      "sepia ticked cat",
+      "rare cat breeds",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/singapura/singapura_hero.webp",
-  "image_macro_path": "/images/Nyan/singapura_macro.png",
   "image_fullbody_path": "/images/Nyan/singapura/singapura_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/singapura/singapura_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "자궁 수축 부전과 피루베이트 키나아제 결핍증(PKD)에 대한 유전적 모니터링이 필요합니다.",
-  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 입양 비용이 매우 높고 전문 캐터리도 극소수입니다. '포켓 캣'으로서의 매력 덕분에 많은 집사들의 워너비 묘종으로 손꼽힙니다.",
-  "similar_breed_ids": [
-    "abyssinian",
-    "somali",
-    "burmese"
-  ],
   "image_fullbody_side_path": "/images/Nyan/singapura/singapura_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/singapura/singapura_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/singapura/singapura_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/singapura/singapura_coat_texture.webp",
   "image_variant_path": "/images/Nyan/singapura/singapura_variant_full_body.webp",
-  "origin_history_ko": "싱가푸라 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "싱가푸라의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "abyssinian",
+    "somali",
+    "burmese"
+  ],
+  "origin_history_ko": "1970년대 싱가포르 길거리와 하수구에서 발견된 작은 고양이들을 미국으로 데려가 품종화한 것으로 알려져 있습니다. 싱가포르 정부는 이후 이 고양이를 '쿠친타(Kucinta, 사랑받는 고양이)'라고 부르며 국가적 보물로 선포했습니다.",
+  "origin_history_en": "Initially believed to have been rescued from the drains of Singapore in the 1970s and brought to the US. The Singapore government later recognized them as a national treasure, naming them 'Kucinta' (The Love Cat).",
+  "grooming_tips_ko": "털이 아주 짧고 빽빽하므로 일주일에 한 번 고무 브러시나 세무 가죽으로 닦아주기만 해도 윤기가 납니다. 덩치가 작으므로 발톱을 깎을 때 신경이 다치지 않게 주의해야 합니다.",
+  "grooming_tips_en": "The short, fine coat needs only a weekly rubdown with a rubber brush or chamois to shine. Be extra careful when trimming their small claws to avoid hitting the quick.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "고양이 전용 온열 패드 / 숨숨집",
+      "item_name_en": "Self-Warming Cat Bed / Cave",
+      "reason_ko": "체구가 작아 체온 손실이 빠른 싱가푸라에게 따뜻하고 안전한 안식처 제공",
+      "reason_en": "Essential for providing a warm, secure refuge for a breed that loses body heat quickly due to small size"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "초소형 정밀 발톱깎이",
+      "item_name_en": "Micro-sized Precision Nail Clippers",
+      "reason_ko": "작고 섬세한 발가락을 다치지 않게 안전하게 관리하기 위함",
+      "reason_en": "Designed for safely grooming the delicate and small paws of the Singapura"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +211,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "싱가푸라",
+    "name": "Singapura",
     "taxonRank": "Breed",
-    "description": "싱가푸라 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Singapura cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 싱가푸라 고양이의 전신 모습",
@@ -151,5 +224,17 @@
     "eye_macro": "싱가푸라 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "싱가푸라 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "싱가푸라 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a tiny Singapura cat sitting on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the huge eyes and 'mascara' markings of a Singapura",
+    "full_body_front": "Front view of a Singapura showcasing its small but muscular and athletic build",
+    "full_body_side": "Lateral view highlighting the unique sepia agouti ticked coat",
+    "strict_profile": "90-degree profile view for anatomical study of the Singapura breed",
+    "eye_macro": "Macro shot of the large, brilliant eyes and detailed iris patterns of a Singapura",
+    "coat_texture": "Detailed photo of the fine, silky sepia ticked coat texture",
+    "variant_full_body": "Showcase of the consistent sepia color pattern in the Singapura breed"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

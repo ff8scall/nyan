@@ -2,6 +2,11 @@
   "id": "scottish-fold",
   "name_en": "Scottish Fold",
   "name_ko": "스코티시 폴드",
+  "aliases_en": [
+    "Fold",
+    "Owl Cat",
+    "Teddy Bear Cat"
+  ],
   "aliases_ko": [
     "폴드",
     "올빼미 고양이",
@@ -19,7 +24,7 @@
     "all_colors"
   ],
   "weight_min_kg": 2.5,
-  "weight_max_kg": 6.0,
+  "weight_max_kg": 6,
   "lifespan_min_years": 11,
   "lifespan_max_years": 15,
   "grooming_level": 3,
@@ -44,23 +49,57 @@
     "성격이 매우 온순하고 조용하여 아파트 생활에 최적화됨",
     "집사 곁에 머물기를 좋아하는 다정한 성격으로 정서적 만족감이 높음"
   ],
+  "pros_en": [
+    "Overwhelming cuteness and warm impression from round face and folded ears",
+    "Very gentle and quiet temperament, perfectly suited for apartment life",
+    "Affectionate companion that enjoys staying near their owner"
+  ],
   "cons": [
     "접힌 귀의 원인인 골연골 이형성증(유전병) 발병 위험이 매우 높음",
     "지속적인 관절 통증으로 인해 관리가 까다롭고 의료비 부담이 클 수 있음",
     "귀 안쪽 습기 관리가 되지 않으면 외이염 등 귓병에 취약함"
   ],
+  "cons_en": [
+    "High risk of Osteochondrodysplasia, a genetic disorder affecting cartilage",
+    "Requires careful management and potential high medical costs for joint pain",
+    "Vulnerable to ear infections if moisture levels inside the folded ears aren't managed"
+  ],
+  "good_for": [
+    "조용하고 애교 많은 실내 반려묘를 찾는 분",
+    "고양이의 유전병에 대해 충분히 인지하고 관리할 의지가 있는 분",
+    "아이들이나 다른 반려동물이 있는 가정"
+  ],
+  "good_for_en": [
+    "Owners looking for a quiet and affectionate indoor companion",
+    "People fully aware of genetic issues and committed to lifelong care",
+    "Homes with children or other pets"
+  ],
+  "think_twice_if": [
+    "유전병으로 인한 의료비 부담이나 케어가 걱정되는 분",
+    "고양이가 활발하게 뛰어놀고 활동적이길 바라는 분",
+    "주기적인 귀 청소나 관절 영양제 급여가 번거로운 분"
+  ],
+  "think_twice_if_en": [
+    "Owners concerned about medical costs and care for genetic disorders",
+    "People who want a highly active or athletic cat",
+    "Those who may find regular ear cleaning or supplement routines burdensome"
+  ],
   "economics": {
     "price_range_ko": "1,000,000원 - 3,000,000원 (캐터리 기준)",
-    "monthly_care_cost": "약 150,000원 - 300,000원 (영양제 포함)"
+    "price_range_en": "$1,000 - $3,000 (Cattery standard)",
+    "monthly_care_cost": "약 150,000원 - 300,000원",
+    "monthly_care_cost_en": "Approx. $120 - $250"
   },
   "summary_en": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to 'fold'.",
   "summary_ko": "접힌 귀와 동그란 눈으로 전 세계인의 사랑을 독차지하는 '올빼미 고양이'입니다. 하지만 그 귀여운 귀는 뼈 마디마디에 영향을 주는 유전병과 연결되어 있어, 집사의 깊은 책임감과 세심한 관리가 필요한 품종입니다.",
   "appearance_en": "Known for its unique ears that fold forward and down towards the face. They have a well-rounded body, large round eyes, and a sweet, wide-eyed expression often described as looking like an owl.",
   "appearance_ko": "앞으로 굽어 얼굴 쪽으로 착 붙은 귀가 가장 큰 특징입니다. 동그란 얼굴과 커다란 눈매 덕분에 올빼미나 테디베어 같은 인상을 줍니다. 짧고 통통한 '세미 코비(Semi-cobby)' 체형을 가졌습니다.",
-  "personality_en": "Sweet-tempered, docile, and affectionate. They enjoy the company of their owners and are known for their unusual sitting positions, such as the 'Buddha sit' where they sit on their hind legs with their paws on their belly.",
+  "personality_en": "Sweet-tempered, docile, and affectionate. They enjoy the company of their owners and are known for their unusual sitting positions, such as the 'Buddha sit'.",
   "personality_ko": "매우 온순하고 느긋합니다. 집사를 졸졸 따라다니기보다 조용히 곁을 지키는 편이며, 사람처럼 엉덩이를 바닥에 붙이고 앉는 '부처님 자세'를 자주 보여주는 것으로 유명합니다.",
-  "care_en": "Requires regular grooming to manage shedding. Special attention must be paid to their ears and overall joint health due to potential genetic issues. They prefer a calm and loving environment.",
-  "care_ko": "귀가 접혀 있어 안쪽에 습기가 차기 쉬우므로 정기적인 귀 청소가 필수입니다. 무엇보다 관절 건강을 위해 고단백 식단보다는 적절한 영양제(콘드로이친 등) 급여와 과도한 점프를 방해하지 않는 환경 구성이 중요합니다.",
+  "care_en": "Requires regular grooming to manage shedding. Special attention must be paid to their ears and overall joint health due to potential genetic issues.",
+  "care_ko": "귀가 접혀 있어 안쪽에 습기가 차기 쉬우므로 정기적인 귀 청소가 필수입니다. 무엇보다 관절 건강을 위해 적절한 영양제 급여와 과도한 점프를 지양하는 환경 구성이 중요합니다.",
+  "health_notes_ko": "골연골 이형성증에 대한 정기적인 엑스레이 검사와 통증 관리가 필수적이며, 이는 단순히 귀의 형태 문제가 아닌 전신 골격 건강과 직결됩니다.",
+  "health_notes_en": "Regular X-rays and pain management for Osteochondrodysplasia are essential. This condition affects the entire skeletal system, not just the ears.",
   "known_risks": [
     {
       "name_en": "Osteochondrodysplasia",
@@ -76,55 +115,90 @@
   "faq": [
     {
       "question_ko": "귀가 접히지 않은 폴드도 있나요?",
-      "answer_ko": "네, 이를 '스코티시 스트레이트'라고 부릅니다. 폴드끼리 교배하면 유전병 위험이 너무 커지기 때문에, 귀가 서 있는 스트레이트와 교배하는 것이 브리딩의 원칙입니다."
+      "answer_ko": "네, 이를 '스코티시 스트레이트'라고 부릅니다. 유전병 위험을 낮추기 위해 귀가 선 스트레이트와 접힌 폴드를 교배하는 것이 표준 브리딩 원칙입니다.",
+      "question_en": "Are there Folds without folded ears?",
+      "answer_en": "Yes, they are called 'Scottish Straights'. Breeding a Straight with a Fold is the standard practice to reduce the risk of genetic health issues."
     },
     {
       "question_ko": "앉아있는 모습이 왜 사람 같나요?",
-      "answer_ko": "특유의 '부처 자세'는 귀여워 보이지만, 사실 관절의 통증을 줄이기 위해 허리에 무리를 주지 않으려 취하는 자세일 수도 있습니다. 정기적인 관절 건강 체크가 필요합니다."
+      "answer_ko": "특유의 '부처 자세'는 귀여워 보이지만, 사실 관절의 통증을 줄이기 위해 허리에 무리를 주지 않으려 취하는 자세일 수도 있으니 세심한 관찰이 필요합니다.",
+      "question_en": "Why do they have such a human-like sitting posture?",
+      "answer_en": "The famous 'Buddha sit' is cute but may be a way to relieve pressure on painful joints. It is important to monitor their comfort levels closely."
+    },
+    {
+      "question_ko": "귀 청소는 어떻게 해야 하나요?",
+      "answer_ko": "접힌 부위 아래에 귀지가 쌓이기 쉬우므로 일주일에 한 번 전용 세정제를 사용하여 부드럽게 닦아주어야 합니다. 면봉 사용은 위험하므로 피해야 합니다.",
+      "question_en": "How should I clean their ears?",
+      "answer_en": "Gently clean under the folds once a week using a specialized ear cleanser. Avoid using cotton swabs as they can push debris deeper or cause injury."
+    },
+    {
+      "question_ko": "꼬리가 딱딱해지면 위험한가요?",
+      "answer_ko": "네, 꼬리가 뻣뻣해지거나 움직임이 둔해지는 것은 골연골 이형성증의 전형적인 증상입니다. 즉시 수의사의 진찰을 받아야 합니다.",
+      "question_en": "Is it dangerous if the tail becomes stiff?",
+      "answer_en": "Yes, a stiff or thickened tail is a common sign of progressive Osteochondrodysplasia. You should consult a veterinarian immediately for pain management."
+    },
+    {
+      "question_ko": "운동을 많이 시켜도 되나요?",
+      "answer_ko": "관절에 무리가 가는 격렬한 점프나 달리기는 피해야 합니다. 대신 낮은 위치에서 가벼운 낚싯대 놀이 등으로 활동량을 조절해 주는 것이 좋습니다.",
+      "question_en": "Should they exercise a lot?",
+      "answer_en": "Avoid high-impact jumping or intense running that strains the joints. Instead, focus on low-impact interactive play to keep them active without overexertion."
     }
   ],
-  "visual_comparison_tip": "브리티시 숏헤어와 닮았지만 귀가 앞으로 접혀 있는지, 그리고 꼬리와 관절이 유연한지(유전병 징후 확인) 꼭 체크하세요.",
+  "visual_comparison_tip": "브리티시 숏헤어와 닮았지만 귀가 앞으로 접혀 있는지, 그리고 꼬리와 관절이 유연한지 꼭 체크하세요.",
+  "visual_comparison_tip_en": "Resembles the British Shorthair but check if the ears fold forward and if the tail and joints remain flexible.",
   "meta_tags": {
-    "title": "스코티시 폴드 고양이 백과: 스코티시 폴드 고양이 백과: 스코티시 폴드 도감: 성격, 유전병, 접힌 귀의 비밀 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "올빼미를 닮은 스코티시 폴드의 모든 것. 귀여움 뒤에 숨겨진 골연골 이형성증 관리법과 실제 분양가, 유지 비용을 박물관급 디테일로 확인하세요.",
-    "keywords": [
+    "title_ko": "스코티시 폴드 고양이: 성격, 유전병, 관리 | nyan",
+    "title_en": "Scottish Fold Cat: Genetic Health & Care | nyan",
+    "description_ko": "올빼미를 닮은 스코티시 폴드의 모든 것. 귀여움 뒤에 숨겨진 골연골 이형성증 관리법과 실제 분양가, 유지 비용을 확인하세요.",
+    "description_en": "Everything about the owl-like Scottish Fold. Discover management tips for Osteochondrodysplasia, costs, and care in museum-grade detail.",
+    "keywords_ko": [
       "스코티시폴드",
-      "폴드",
-      "유전병고양이",
       "접힌귀고양이",
+      "유전병관리",
+      "온순한고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Scottish Fold",
+      "folded ears",
+      "Osteochondrodysplasia",
+      "docile cat",
       "nyan"
     ]
   },
   "image_master_path": "/images/Nyan/scottish-fold/scottish-fold_hero.webp",
-  "image_macro_path": "/images/Nyan/scottish-fold_macro.png",
   "image_fullbody_path": "/images/Nyan/scottish-fold/scottish-fold_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/scottish-fold/scottish-fold_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "스코티시 폴드 골연골 이형성증(Osteochondrodysplasia)에 대한 정기적인 엑스레이 검사와 통증 관리가 필수적입니다.",
-  "local_rarity_ko": "국내에서 압도적인 인기를 구가하는 품종입니다. 하지만 유전병 이슈로 인해 최근에는 '폴드-스트레이트' 교배나 다른 품종과의 교배를 통해 건강을 우선시하는 경향이 생기고 있습니다.",
-  "similar_breed_ids": [
-    "british-shorthair",
-    "american-shorthair",
-    "exotic-shorthair"
-  ],
   "image_fullbody_side_path": "/images/Nyan/scottish-fold/scottish-fold_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/scottish-fold/scottish-fold_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/scottish-fold/scottish-fold_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/scottish-fold/scottish-fold_coat_texture.webp",
   "image_variant_path": "/images/Nyan/scottish-fold/scottish-fold_variant_full_body.webp",
-  "origin_history_ko": "스코티시 폴드 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "스코티시 폴드의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "similar_breed_ids": [
+    "british-shorthair",
+    "american-shorthair",
+    "exotic-shorthair"
+  ],
+  "origin_history_ko": "1961년 스코틀랜드의 한 농장에서 태어난 '수지(Susie)'라는 고양이가 기원입니다. 자연적인 유전자 변이로 접힌 귀를 갖게 되었으며, 이후 품종으로 확립되었습니다.",
+  "origin_history_en": "Originating from a cat named Susie found on a Scottish farm in 1961. She had naturally folded ears due to a genetic mutation, which became the foundation of the breed.",
+  "grooming_tips_ko": "귀가 접혀 있으므로 주 1~2회 전용 세정제로 귓속을 닦아주어 염증을 예방해야 합니다. 장모종인 '하이랜드 폴드'의 경우 매일 빗질이 필요합니다.",
+  "grooming_tips_en": "Clean inside the folded ears 1-2 times weekly with a specialized cleanser to prevent infections. Long-haired 'Highland Folds' require daily brushing.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "관절 건강 영양제 (글루코사민 등)",
+      "item_name_en": "Joint Health Supplements",
+      "reason_ko": "유전병으로 인한 연골 및 관절 통증 완화와 건강 유지",
+      "reason_en": "Helps maintain joint health and alleviate potential pain caused by their unique genetic trait"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "저자극 귀 세정제",
+      "item_name_en": "Gentle Ear Cleanser",
+      "reason_ko": "접힌 귀 내부의 통풍 부족으로 인한 외이염 예방",
+      "reason_en": "Essential for preventing infections in their folded ears due to limited airflow"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -138,9 +212,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "스코티시 폴드",
+    "name": "Scottish Fold",
     "taxonRank": "Breed",
-    "description": "스코티시 폴드 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Scottish Fold cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 스코티시 폴드 고양이의 전신 모습",
@@ -151,5 +225,17 @@
     "eye_macro": "스코티시 폴드 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "스코티시 폴드 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "스코티시 폴드 고양이의 다양한 모색 변종을 보여주는 전신 모습"
-  }
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Scottish Fold cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the owl-like face and folded ears of a Scottish Fold",
+    "full_body_front": "Front view of a Scottish Fold showing its round and sturdy build",
+    "full_body_side": "Lateral full body photo showcasing the unique 'Buddha sit' or silhouette",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the large, round eyes and iris patterns of a Scottish Fold",
+    "coat_texture": "Macro photo of the plush and soft coat texture",
+    "variant_full_body": "Full body view showing various color variants of the Scottish Fold"
+  },
+  "image_generation_priority": "high",
+  "visual_accuracy_difficulty": "medium"
 }

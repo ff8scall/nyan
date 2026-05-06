@@ -45,23 +45,55 @@
     "털이 매우 짧고 부드러워 관리가 거의 필요 없음",
     "지능이 높고 사람의 감정을 잘 파악하며 장난감을 가져오는 놀이도 가능함"
   ],
+  "pros_en": [
+    "Exceptionally social and affectionate; the epitome of a 'puppy-like' cat",
+    "Extremely low-maintenance short coat that requires very little grooming",
+    "Highly intelligent and emotionally perceptive; can even be taught to fetch"
+  ],
   "cons": [
     "혼자 있는 것을 극도로 싫어하여 장시간 집을 비우는 경우 분리불안이 생길 수 있음",
     "매우 활동적이고 장난기가 많아 나이가 들어도 에너지가 넘침",
     "목소리가 크고 수다스러워 조용한 환경을 원하는 사람에게는 부적합할 수 있음"
   ],
+  "cons_en": [
+    "Prone to separation anxiety; hates being left alone for long periods",
+    "High energy and playfulness persist well into adulthood",
+    "Can be very vocal and loud, which may not suit owners seeking a quiet home"
+  ],
+  "good_for": [
+    "하루 종일 고양이와 교감하고 소통하고 싶은 분",
+    "아이들이나 다른 반려동물이 있어 북적이는 환경",
+    "털 관리의 번거로움 없이 개냥이의 매력을 느끼고 싶은 초보 집사"
+  ],
+  "good_for_en": [
+    "Owners who want constant interaction and communication with their pet",
+    "Lively households with children or other social pets",
+    "Beginners looking for a highly affectionate cat with minimal grooming needs"
+  ],
+  "think_twice_if": [
+    "직장 생활 등으로 고양이가 혼자 있는 시간이 아주 긴 경우",
+    "조용하고 독립적인 고양이를 선호하는 분",
+    "고양이의 크고 잦은 울음소리가 부담스러운 환경"
+  ],
+  "think_twice_if_en": [
+    "Owners who are away from home for most of the day",
+    "People who prefer a quiet and independent feline companion",
+    "Environments where frequent and loud vocalization could be an issue"
+  ],
   "economics": {
-    "price_range_ko": "1,500,000원 - 3,500,000원",
-    "monthly_care_cost": "약 100,000원 - 180,000원"
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "price_range_en": "$1,500 - $3,500 (Cattery standard)",
+    "monthly_care_cost": "약 100,000원 - 180,000원",
+    "monthly_care_cost_en": "Approx. $80 - $140"
   },
   "summary_en": "The Burmese is a breed of domestic cat, originating in Southeast Asia and further developed in the United States and Britain.",
   "summary_ko": "미얀마(옛 버마)가 고향인 이 고양이는 '구리로 만든 고양이'라는 별명이 있을 정도로 단단하고 아름다운 체구와 실크 같은 털을 자랑합니다. 사람을 너무나 좋아해 그림자처럼 따라다니는 것으로 유명합니다.",
-  "appearance_en": "Medium-sized with a solid, muscular build. They are known for their short, satin-like coat and large, expressive golden or yellow eyes.",
-  "appearance_ko": "중간 크기지만 들어보면 보기보다 묵직한 '벽돌' 같은 근육질 체형입니다. 매우 짧고 몸에 밀착된 실크 같은 털이 특징이며, 크고 둥근 황금색 눈이 매력적입니다.",
-  "personality_en": "Extremely social, affectionate, and people-oriented. They often maintain a kitten-like playfulness throughout their lives.",
-  "personality_ko": "고양이의 탈을 쓴 강아지라고 불릴 만큼 사람을 좋아합니다. 집사의 모든 활동에 참여하고 싶어 하며, 매우 영리하고 수다스러운 성격을 가지고 있습니다.",
-  "care_en": "Very low maintenance in terms of grooming. However, they require a lot of social interaction and mental stimulation.",
-  "care_ko": "단모종 중에서도 털 관리가 가장 쉬운 편에 속합니다. 하지만 외로움을 많이 타기 때문에 매일 충분한 시간 동안 놀아주고 함께 있어 주어야 합니다.",
+  "appearance_en": "Medium-sized with a solid, muscular build. They are known for their short, satin-like coat and expressive golden eyes.",
+  "appearance_ko": "중간 크기지만 보기보다 묵직한 근육질 체형입니다. 매우 짧고 몸에 밀착된 실크 같은 털이 특징이며, 크고 둥근 황금색 눈이 매력적입니다.",
+  "personality_en": "Extremely social, affectionate, and people-oriented. They often maintain a kitten-like playfulness.",
+  "personality_ko": "고양이의 탈을 쓴 강아지라고 불릴 만큼 사람을 좋아합니다. 집사의 모든 활동에 참여하고 싶어 하며, 영리하고 수다스러운 성격을 가지고 있습니다.",
+  "care_en": "Very low maintenance in terms of grooming. However, they require significant social interaction and mental stimulation.",
+  "care_ko": "단모종 중에서도 털 관리가 가장 쉬운 편에 속합니다. 하지만 외로움을 매우 많이 타기 때문에 매일 충분한 시간 동안 함께 있어 주어야 합니다.",
   "known_risks": [
     {
       "name_en": "Hypokalemia",
@@ -77,22 +109,36 @@
   "faq": [
     {
       "question_ko": "샴 고양이와 무엇이 다른가요?",
-      "answer_ko": "샴은 눈이 파란색이고 체형이 가늘지만, 버미즈는 눈이 노란색/금색이며 체형이 훨씬 둥글고 단단합니다."
+      "answer_ko": "샴은 눈이 파란색이고 체형이 가늘지만, 버미즈는 눈이 노란색/금색이며 체형이 훨씬 둥글고 근육질입니다.",
+      "question_en": "How are they different from Siamese cats?",
+      "answer_en": "Siamese have blue eyes and a slender frame, whereas Burmese have yellow/golden eyes and a much rounder, muscular build."
     },
     {
       "question_ko": "털이 많이 빠지나요?",
-      "answer_ko": "단모종 중에서도 속털이 거의 없어 털 빠짐이 매우 적은 편에 속합니다."
+      "answer_ko": "단모종 중에서도 속털이 거의 없어 털 빠짐이 매우 적은 편에 속합니다.",
+      "question_en": "Do they shed much?",
+      "answer_en": "They are among the lowest-shedding shorthair breeds due to their lack of a significant undercoat."
     }
   ],
-  "visual_comparison_tip": "샴 고양이와 비슷해 보일 수 있지만, 체형이 훨씬 둥글고 단단하며 눈 색깔이 금색이나 노란색인 것이 특징입니다.",
+  "visual_comparison_tip": "샴 고양이보다 훨씬 둥글고 단단하며, 눈 색깔이 푸른색이 아닌 금색이나 노란색인 것이 결정적 차이입니다.",
+  "visual_comparison_tip_en": "Look for a sturdier, rounder build than a Siamese, and distinctly golden eyes instead of blue.",
   "meta_tags": {
-    "title": "버미즈 고양이 백과: 버미즈 고양이 백과: 버미즈 고양이 도감: 성격, 수명, 사교성 및 관리 팁 | nyan | nyan 박물관 | nyan 박물관",
-    "description": "세상에서 가장 다정한 고양이 버미즈. 실크 같은 털과 황금빛 눈을 가진 버미즈의 모든 정보를 박물관급 퀄리티로 확인하세요.",
-    "keywords": [
+    "title_ko": "버미즈 고양이: 성격, 수명, 사교성 및 관리 | nyan",
+    "title_en": "Burmese Cat: Lifespan & Care | nyan",
+    "description_ko": "세상에서 가장 다정한 고양이 버미즈. 실크 같은 털과 황금빛 눈을 가진 버미즈의 모든 정보를 박물관급 퀄리티로 확인하세요.",
+    "description_en": "The copper-clad companion, the Burmese. Discover their social nature, golden eyes, costs, and care tips in museum-grade detail.",
+    "keywords_ko": [
       "버미즈",
       "버마고양이",
       "개냥이",
-      "단모종",
+      "수다쟁이고양이",
+      "nyan"
+    ],
+    "keywords_en": [
+      "Burmese cat",
+      "social cat",
+      "golden eyed cat",
+      "vocal cat",
       "nyan"
     ]
   },
@@ -100,32 +146,40 @@
   "image_macro_path": "/images/Nyan/burmese_macro.png",
   "image_fullbody_path": "/images/Nyan/burmese/burmese_full_body_front.webp",
   "image_frontal_path": "/images/Nyan/burmese/burmese_face_portrait.webp",
-  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
-  "health_notes_ko": "대체로 건강하지만 유전적으로 저칼륨혈증이나 당뇨병에 주의가 필요할 수 있습니다.",
-  "local_rarity_ko": "국내에서는 희귀한 편이며, 버미즈 특유의 사교성과 아름다운 모색을 사랑하는 마니아 층이 두텁습니다.",
-  "similar_breed_ids": [
-    "siamese",
-    "tonkinese",
-    "bombay"
-  ],
   "image_fullbody_side_path": "/images/Nyan/burmese/burmese_full_body_side.webp",
   "image_strict_profile_path": "/images/Nyan/burmese/burmese_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/burmese/burmese_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/burmese/burmese_coat_texture.webp",
   "image_variant_path": "/images/Nyan/burmese/burmese_variant_full_body.webp",
-  "origin_history_ko": "버미즈 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
-  "grooming_tips_ko": "버미즈의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "대체로 건강하지만 유전적으로 저칼륨혈증이나 당뇨병에 대한 주의가 필요할 수 있습니다.",
+  "health_notes_en": "Generally robust, but awareness of genetic predispositions like Hypokalemia and Diabetes is advised.",
+  "local_rarity_ko": "국내에서는 다소 희귀한 편이며, 버미즈 특유의 사교성과 아름다운 모색을 사랑하는 마니아 층이 두텁습니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "tonkinese",
+    "bombay"
+  ],
+  "origin_history_ko": "1930년 미얀마에서 미국으로 건너온 '웡마우(Wong Mau)'라는 암컷 고양이가 현대 버미즈 품종의 조상입니다. 이후 샴 고양이와의 체계적인 교배를 통해 독자적인 특성을 확립했습니다.",
+  "origin_history_en": "All modern Burmese trace back to a single female cat named Wong Mau brought to the USA from Burma in 1930, followed by selective breeding to establish the unique standard.",
+  "grooming_tips_ko": "털이 워낙 짧고 몸에 밀착되어 있어 주 1회 가벼운 빗질이나 젖은 수건으로 닦아주는 것만으로도 충분합니다. 치아 관리가 중요하므로 양치 습관을 들여주세요.",
+  "grooming_tips_en": "The coat is so short that weekly light brushing or a wipe with a damp cloth is sufficient. Regular dental care is highly recommended for this breed.",
   "recommended_items": [
     {
-      "item_name": "전용 슬리커 브러쉬",
-      "reason": "죽은 털 제거 및 모질 관리"
+      "item_name_ko": "상호작용용 깃털 장난감",
+      "item_name_en": "Interactive Feather Wand",
+      "reason_ko": "집사와의 유대감을 중시하는 버미즈의 높은 활동량과 사교성 충족",
+      "reason_en": "Perfect for satisfying the social needs and high energy of a cat that thrives on interaction"
     },
     {
-      "item_name": "대형 스크래쳐",
-      "reason": "스트레스 해소 및 발톱 관리"
+      "item_name_ko": "부드러운 고무 브러쉬",
+      "item_name_en": "Soft Rubber Grooming Brush",
+      "reason_ko": "매우 짧은 털의 광택을 살리고 피부 마사지 효과를 주기 위한 최적의 도구",
+      "reason_en": "Ideal for enhancing the satin-like sheen of their short coat while providing a soothing massage"
     }
   ],
   "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "vet_disclaimer_en": "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian.",
   "expert_sources": [
     {
       "source_name": "CFA (The Cat Fanciers' Association)",
@@ -139,9 +193,9 @@
   "schema_data": {
     "@context": "https://schema.org",
     "@type": "BiologicalEntity",
-    "name": "버미즈",
+    "name": "Burmese",
     "taxonRank": "Breed",
-    "description": "버미즈 고양이에 대한 박물관급 상세 정보"
+    "description": "Museum-grade archive of the Burmese cat breed"
   },
   "image_alts_ko": {
     "hero": "박물관 기단 위에 우아하게 앉아 있는 버미즈 고양이의 전신 모습",
@@ -152,5 +206,15 @@
     "eye_macro": "버미즈 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
     "coat_texture": "버미즈 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
     "variant_full_body": "버미즈 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  },
+  "image_alts_en": {
+    "hero": "Full body shot of a Burmese cat sitting elegantly on a museum pedestal",
+    "face_portrait": "Close-up portrait highlighting the round golden eyes and sweet expression of a Burmese",
+    "full_body_front": "Front view of a Burmese showing its muscular and compact build",
+    "full_body_side": "Lateral full body photo showcasing the glossy, satin-like coat",
+    "strict_profile": "Perfect 90-degree profile view for breed standard observation",
+    "eye_macro": "Macro shot of the expressive golden/yellow eyes of a Burmese cat",
+    "coat_texture": "Macro photo of the short, fine, and satin-textured coat",
+    "variant_full_body": "Full body view showing various color variants of the Burmese cat"
   }
 }
