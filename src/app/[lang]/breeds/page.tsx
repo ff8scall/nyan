@@ -6,9 +6,15 @@ import Link from "next/link";
 import { motion, AnimatePresence, useScroll, useTransform } from "framer-motion";
 import React, { useRef, useState, useEffect } from "react";
 
+import { getDictionary, Locale } from "@/i18n/dictionaries";
+
 export default function BreedsGridPage({ params }: { params: any }) {
   const [data, setData] = useState<{ breeds: any[], lang: string }>({ breeds: [], lang: 'ko' });
-  const [activeFilter, setActiveFilter] = useState('All');
+  const [activeFilter, setActiveFilter] = useState('all');
+  
+  const { breeds, lang } = data;
+  const l = lang as Locale;
+  const dict = getDictionary(l);
   
   const containerRef = useRef(null);
   const { scrollYProgress } = useScroll({ target: containerRef });
@@ -25,8 +31,6 @@ export default function BreedsGridPage({ params }: { params: any }) {
     });
   }, [params]);
 
-  const { breeds, lang } = data;
-  const l = lang as 'en' | 'ko';
 
   const filteredBreeds = breeds.filter(breed => {
     const matchesSearch = 
@@ -34,15 +38,21 @@ export default function BreedsGridPage({ params }: { params: any }) {
       breed.name_ko?.includes(searchTerm);
     
     if (!matchesSearch) return false;
-    if (activeFilter === 'All') return true;
-    if (activeFilter === 'Long Hair') return breed.coat_length === 'long';
-    if (activeFilter === 'Short Hair') return breed.coat_length === 'short';
-    if (activeFilter === 'Rare') return breed.local_rarity_ko?.includes('희귀') || breed.id === 'savannah' || breed.id === 'chartreux';
-    if (activeFilter === 'Popular') return ['ragdoll', 'siamese', 'persian', 'maine-coon', 'british-shorthair'].includes(breed.id);
+    if (activeFilter === 'all') return true;
+    if (activeFilter === 'long') return breed.coat_length === 'long';
+    if (activeFilter === 'short') return breed.coat_length === 'short';
+    if (activeFilter === 'rare') return breed.local_rarity_ko?.includes('희귀') || breed.id === 'savannah' || breed.id === 'chartreux';
+    if (activeFilter === 'popular') return ['ragdoll', 'siamese', 'persian', 'maine-coon', 'british-shorthair'].includes(breed.id);
     return true;
   });
 
-  const filters = ['All', 'Popular', 'Long Hair', 'Short Hair', 'Rare'];
+  const filters = [
+    { id: 'all', label: dict.breed.filterAll },
+    { id: 'popular', label: dict.breed.filterPopular },
+    { id: 'long', label: dict.breed.filterLongHair },
+    { id: 'short', label: dict.breed.filterShortHair },
+    { id: 'rare', label: dict.breed.filterRare }
+  ];
 
   return (
     <div style={{ background: '#0a0a0a', minHeight: '100vh', position: 'relative' }} ref={containerRef}>
@@ -65,19 +75,19 @@ export default function BreedsGridPage({ params }: { params: any }) {
           <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
             {filters.map(filter => (
               <button 
-                key={filter}
-                onClick={() => setActiveFilter(filter)}
+                key={filter.id}
+                onClick={() => setActiveFilter(filter.id)}
                 className="font-serif"
                 style={{ 
                   background: 'none', border: 'none', cursor: 'pointer', padding: 0,
-                  color: activeFilter === filter ? 'var(--foreground)' : '#444',
+                  color: activeFilter === filter.id ? 'var(--foreground)' : '#444',
                   textTransform: 'uppercase', letterSpacing: '0.1em', fontSize: '0.9rem',
                   transition: 'color 0.3s',
                   position: 'relative'
                 }}
               >
-                {filter}
-                {activeFilter === filter && (
+                {filter.label}
+                {activeFilter === filter.id && (
                   <motion.div layoutId="underline" style={{ position: 'absolute', bottom: '-4px', left: 0, width: '100%', height: '1px', background: '#fff' }} />
                 )}
               </button>
@@ -93,7 +103,7 @@ export default function BreedsGridPage({ params }: { params: any }) {
                   exit={{ width: 0, opacity: 0 }}
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
-                  placeholder="SEARCH BREED..."
+                  placeholder={dict.breed.searchPlaceholder}
                   style={{ background: 'none', border: 'none', borderBottom: '1px solid #333', color: '#fff', outline: 'none', fontSize: '0.8rem', padding: '0.5rem' }}
                 />
               )}
@@ -103,7 +113,7 @@ export default function BreedsGridPage({ params }: { params: any }) {
               className="font-serif" 
               style={{ background: 'none', border: 'none', color: isSearchOpen ? '#fff' : '#666', cursor: 'pointer', letterSpacing: '0.1em', fontSize: '0.9rem' }}
             >
-              {isSearchOpen ? 'CLOSE' : 'SEARCH'}
+              {isSearchOpen ? dict.breed.close : dict.breed.search}
             </button>
           </div>
         </div>
@@ -174,11 +184,13 @@ export default function BreedsGridPage({ params }: { params: any }) {
                             ARCHIVE_{breed.id.slice(0, 4).toUpperCase()}
                           </div>
                           <h2 style={{ fontSize: isLarge ? '4.5rem' : '2.2rem', fontWeight: 100, textTransform: 'uppercase', letterSpacing: '-0.02em', lineHeight: '0.85', color: '#fff' }}>
-                            {breed.name_en}
+                            {l === 'ko' ? breed.name_ko : breed.name_en}
                           </h2>
-                          <h3 style={{ fontSize: '1rem', color: '#888', fontWeight: 300, marginTop: '0.8rem', letterSpacing: '0.3em' }}>
-                            {breed.name_ko}
-                          </h3>
+                          {l === 'ko' && (
+                            <h3 style={{ fontSize: '1rem', color: '#888', fontWeight: 300, marginTop: '0.8rem', letterSpacing: '0.3em' }}>
+                              {breed.name_en}
+                            </h3>
+                          )}
                         </div>
                       </motion.div>
                     </Link>

@@ -8,6 +8,7 @@ import io
 
 COMFY_URL = "http://127.0.0.1:8188"
 OUTPUT_DIR = "public/images/Nyan"
+ORIGINALS_DIR = "C:/AI/Antigravity/Nyan_originals"
 
 def log(msg):
     print(msg)
@@ -121,12 +122,15 @@ def upload_image(image_path):
         return res.get('name')
 
 def generate_image(prompt, negative, filename, ref_image_path, breed_id):
-    # 품종별 폴더 생성
-    breed_dir = os.path.join(OUTPUT_DIR, breed_id)
-    if not os.path.exists(breed_dir): os.makedirs(breed_dir)
+    # 폴더 생성
+    webp_breed_dir = os.path.join(OUTPUT_DIR, breed_id)
+    orig_breed_dir = os.path.join(ORIGINALS_DIR, breed_id)
     
-    png_path = os.path.join(breed_dir, filename)
-    webp_path = png_path.replace(".png", ".webp")
+    if not os.path.exists(webp_breed_dir): os.makedirs(webp_breed_dir)
+    if not os.path.exists(orig_breed_dir): os.makedirs(orig_breed_dir)
+    
+    png_path = os.path.join(orig_breed_dir, filename)
+    webp_path = os.path.join(webp_breed_dir, filename.replace(".png", ".webp"))
     
     # T2I 모드 vs IP-Adapter 모드 분기
     if ref_image_path:
@@ -150,13 +154,13 @@ def generate_image(prompt, negative, filename, ref_image_path, breed_id):
                     image_data = get_image(img['filename'], img['subfolder'], img['type'])
                     img_obj = Image.open(io.BytesIO(image_data))
                     
-                    # 마스터 PNG 저장
+                    # 마스터 PNG 저장 (외부 원본 폴더)
                     img_obj.save(png_path, "PNG", optimize=True, compress_level=9)
-                    # 웹 최적화 WebP 저장
+                    # 웹 최적화 WebP 저장 (프로젝트 내부 폴더)
                     img_obj.save(webp_path, "WEBP", quality=85)
                     
-                    log(f"    [Saved Master] {os.path.basename(png_path)}")
-                    log(f"    [Saved WebP] {os.path.basename(webp_path)}")
+                    log(f"    [Saved Master] {png_path}")
+                    log(f"    [Saved WebP] {webp_path}")
                 return True
             else:
                 log(f"    [Error] Generation failed.")

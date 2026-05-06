@@ -49,3 +49,6 @@ __pycache__/
 *.log
 audit_report.txt
 workflow_api.json
+
+# ignore PNGs in public folder
+public/images/Nyan/**/*.png

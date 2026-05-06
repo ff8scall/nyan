@@ -54,8 +54,9 @@ sequenceDiagram
     C-->>P: 3. Return Raw PNG Data
     P->>PIL: 4. Image Compression & Format Conversion
     PIL-->>P: 5. Generate [breed]_[type].webp
-    P->>S: 6. Save Optimized WebP & Original PNG
-    S->>UI: 7. Serve to Museum Grade Interface
+    P->>S: 6. Save Optimized WebP (Project Folder)
+    P->>S: 7. Save Original PNG (External Folder)
+    S->>UI: 8. Serve to Museum Grade Interface
 ```
 
 ## 4. 프롬프트 엔지니어링 전략

@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import React from "react";
+import { getDictionary } from "@/i18n/dictionaries";
 
 export default function HomePage({ params }: { params: any }) {
   const [lang, setLang] = React.useState('ko');
@@ -13,6 +14,7 @@ export default function HomePage({ params }: { params: any }) {
   }, [params]);
 
   const l = lang as 'en' | 'ko';
+  const dict = getDictionary(l);
   
   // Cinematic Maine Coon Placeholder from Unsplash
   const heroImage = "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=2043&auto=format&fit=crop";
@@ -44,7 +46,7 @@ export default function HomePage({ params }: { params: any }) {
               transition={{ duration: 1.2, ease: [0.23, 1, 0.32, 1] }}
             >
               <h2 className="text-accent font-serif" style={{ letterSpacing: '0.5em', fontSize: '0.9rem', marginBottom: '2rem' }}>
-                REDEFINING THE DIGITAL ENCYCLOPEDIA
+                {dict.home.subtitle}
               </h2>
               <h1 className="blend-exclusion" style={{ 
                 fontSize: '10vw', 
@@ -65,12 +67,10 @@ export default function HomePage({ params }: { params: any }) {
               style={{ marginTop: '4rem', maxWidth: '600px' }}
             >
               <p className="font-serif" style={{ fontSize: '1rem', color: '#888', lineHeight: '2', letterSpacing: '0.1em' }}>
-                {l === 'ko' 
-                  ? '우리는 단순한 도감을 넘어, 고양이의 유전적 정수와 초현실적 미학을 큐레이션합니다. n y a n은 박물관의 침묵과 예술의 깊이를 담은 새로운 디지털 아카이브입니다.' 
-                  : 'Beyond a simple encyclopedia, we curate the genetic essence and surreal aesthetics of felines. n y a n is a new digital archive capturing the silence of museums and the depth of art.'}
+                {dict.home.description}
               </p>
               <Link href={`/${lang}/breeds`} className="btn" style={{ marginTop: '3rem', display: 'inline-block', border: '1px solid rgba(255,255,255,0.2)', padding: '1rem 2.5rem', borderRadius: '0', fontSize: '0.8rem', letterSpacing: '0.3em' }}>
-                {l === 'ko' ? '컬렉션 입장' : 'ENTER COLLECTION'}
+                {dict.home.enterCollection}
               </Link>
             </motion.div>
           </section>
@@ -95,12 +95,10 @@ export default function HomePage({ params }: { params: any }) {
                   className="blend-exclusion"
                   style={{ fontSize: '3rem', fontWeight: 200, letterSpacing: '0.3em', textTransform: 'uppercase' }}
                 >
-                  {l === 'ko' ? '고증의 미학' : 'AESTHETIC ACCURACY'}
+                  {dict.home.feature1Title}
                 </motion.h3>
                 <p className="font-serif" style={{ marginTop: '3rem', color: '#555', fontSize: '1.1rem', lineHeight: '2', letterSpacing: '0.05em' }}>
-                  {l === 'ko'
-                    ? '박물관급 디테일로 모든 품종의 역사와 생물학적 특징을 큐레이션합니다. 마우스를 올리는 순간 펼쳐지는 8K 해상도의 압도적인 비주얼을 경험하세요.'
-                    : 'Curating the history and biological traits of every breed with museum-grade detail. Experience overwhelming 8K visuals that unfold upon hover.'}
+                  {dict.home.feature1Desc}
                 </p>
               </div>
             </div>

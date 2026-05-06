@@ -8,6 +8,7 @@ import io
 
 COMFY_URL = "http://127.0.0.1:8188"
 OUTPUT_DIR = "public/images/Nyan"
+ORIGINALS_DIR = "C:/AI/Antigravity/Nyan_originals"
 
 # 상위 30종 (제외 대상)
 TOP_30_LIST = [
@@ -65,10 +66,15 @@ def build_workflow(prompt_text, negative_text):
     return workflow
 
 def generate_image(prompt, negative, filename, breed_id):
-    breed_dir = os.path.join(OUTPUT_DIR, breed_id)
-    if not os.path.exists(breed_dir): os.makedirs(breed_dir)
-    png_path = os.path.join(breed_dir, filename)
-    webp_path = png_path.replace(".png", ".webp")
+    # 폴더 준비
+    webp_breed_dir = os.path.join(OUTPUT_DIR, breed_id)
+    orig_breed_dir = os.path.join(ORIGINALS_DIR, breed_id)
+    
+    if not os.path.exists(webp_breed_dir): os.makedirs(webp_breed_dir)
+    if not os.path.exists(orig_breed_dir): os.makedirs(orig_breed_dir)
+    
+    png_path = os.path.join(orig_breed_dir, filename)
+    webp_path = os.path.join(webp_breed_dir, filename.replace(".png", ".webp"))
     
     workflow = build_workflow(prompt, negative)
     prompt_id = queue_prompt(workflow)
@@ -83,9 +89,14 @@ def generate_image(prompt, negative, filename, breed_id):
             for img in images:
                 image_data = get_image(img['filename'], img['subfolder'], img['type'])
                 img_obj = Image.open(io.BytesIO(image_data))
+                
+                # 마스터 PNG 저장 (외부)
                 img_obj.save(png_path, "PNG", optimize=True)
+                # 웹 최적화 WebP 저장 (내부)
                 img_obj.save(webp_path, "WEBP", quality=85)
-                log(f"    [Saved] {os.path.basename(webp_path)}")
+                
+                log(f"    [Saved Master] {png_path}")
+                log(f"    [Saved WebP] {webp_path}")
             return True
         time.sleep(3)
 
@@ -126,8 +137,8 @@ def main():
                 )
                 negative_prompt = "blurry, low resolution, plastic, cartoon, dog, human, messy background"
                 
-                # log(f"    -> Ready to generate {comp_id}...")
-                # generate_image(master_prompt, negative_prompt, output_filename, breed_id) # 이따가 주석 풀고 실행!
+                log(f"    -> Generating {comp_id}...")
+                generate_image(master_prompt, negative_prompt, output_filename, breed_id)
         except:
             continue
 

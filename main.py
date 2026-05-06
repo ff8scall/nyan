@@ -4,6 +4,8 @@ import urllib.parse
 import uuid
 import os
 import time
+from PIL import Image
+import io
 
 # ==========================================
 # nyan - High-End Image Generation Engine (RTX 5080)
@@ -13,6 +15,7 @@ import time
 SERVER_ADDRESS = "127.0.0.1:8188"
 CLIENT_ID = str(uuid.uuid4())
 OUTPUT_DIR = "public/images/Nyan"
+ORIGINALS_DIR = "C:/AI/Antigravity/Nyan_originals"
 
 # 출력 디렉토리 확인
 if not os.path.exists(OUTPUT_DIR):
@@ -99,10 +102,23 @@ def generate_breed_image(breed_id, prompt_text, suffix="master"):
         output_images = history[prompt_id]['outputs']['9']['images']
         for img_info in output_images:
             image_data = get_image(img_info['filename'], img_info['subfolder'], img_info['type'])
-            file_path = os.path.join(OUTPUT_DIR, f"{breed_id}_{suffix}.webp")
-            with open(file_path, "wb") as f:
-                f.write(image_data)
-            print(f"✅ 저장 완료: {file_path}")
+            
+            # 폴더 생성
+            webp_breed_dir = os.path.join(OUTPUT_DIR, breed_id)
+            orig_breed_dir = os.path.join(ORIGINALS_DIR, breed_id)
+            if not os.path.exists(webp_breed_dir): os.makedirs(webp_breed_dir)
+            if not os.path.exists(orig_breed_dir): os.makedirs(orig_breed_dir)
+            
+            png_path = os.path.join(orig_breed_dir, f"{breed_id}_{suffix}.png")
+            webp_path = os.path.join(webp_breed_dir, f"{breed_id}_{suffix}.webp")
+            
+            # PIL을 이용한 분리 저장
+            img_obj = Image.open(io.BytesIO(image_data))
+            img_obj.save(png_path, "PNG", optimize=True)
+            img_obj.save(webp_path, "WEBP", quality=85)
+            
+            print(f"✅ 저장 완료 (Master): {png_path}")
+            print(f"✅ 저장 완료 (WebP): {webp_path}")
             
     except Exception as e:
         print(f"❌ 에러 발생: {e}")

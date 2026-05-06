@@ -19,9 +19,13 @@
 2. 생성 완료된 품종들의 UI 렌더링 무결성 및 데이터 매핑 전수 검사.
 3. 전 품종 리마스터링 완료 후 최종 시스템 안정화 및 지식 전수 문서 마감.
 
-## 🏆 최초 인정 버전 (First Approved Version - v1)
+## 🏆 최초 인정 버전 (First Approved Version - v1.1)
 - **날짜**: 2026-05-06
-- **특징**: "Ultra-Sharp Museum Grade" - 극상의 선명도와 박물관 도감 미학의 완벽한 조화.
+- **업데이트**: 
+  - `mCat` → `Nyan` 프로젝트명 및 폴더 구조 일원화.
+  - 원본 PNG 외부 보관(`Nyan_originals`) 및 웹용 WebP 프로젝트 보관 이원화 (Git 최적화).
+  - GitHub 원격 저장소(`nyan.git`) 연동 및 최초 푸시 완료.
+- **특징**: "Lightweight & Scalable" - 대용량 에셋의 외부 분산 관리를 통한 기동성 확보.
 - **핵심 설정**:
   - **Prompt**: `An ultra-sharp, professional museum-grade studio photograph of a {breed} cat. The cat is sitting elegantly on a large grey concrete pedestal. Deep solid black background. Extreme razor-sharp focus on the cat's eyes and face, intricate micro-details of every single hair and whisker. Dramatic professional studio lighting, high contrast, vivid and crisp textures. Shot on 100mm macro lens, 8k resolution, ultra-detailed, cinematic masterpiece.`
   - **Negative**: `blurry, bokeh, out of focus, soft focus, fuzzy, low resolution, oversaturated, plastic, cartoon, illustration, human, dog, flower`
@@ -34,6 +38,8 @@
 - **상위 30종 마스터피스 완성**: 맨크스(Manx)를 포함한 상위 30종의 8종 에셋 패키지 생성이 완료됨.
 - **52종 전 품종 데이터 보강**: `personality_ko`, `care_ko`, `known_risks`, `economics` 등 박물관급 표준 규격으로 52종 전 품종 데이터 주입 완료.
 - **파이프라인 구축**: `generate_rest_of_catalog.py` (나머지 22종 재생성용) 준비 완료.
+- **국문 로컬라이제이션 완공**: `dictionaries.ts`의 `ko` 섹션을 완전 한글화하고, 주요 원산지 및 체형 데이터를 보강하여 박물관급 톤앤매너 확보.
+- **UI 결함 수선**: 상세 페이지 Morphology Grid 섹션에서 불필요하게 노출되던 '...' 텍스트 제거 완료.
 
 ## 🎯 단기 목표 (Next Steps)
 1. **나머지 카탈로그 재생성**: `generate_rest_of_catalog.py`의 주석을 해제하고 실행하여 30위 밖 품종들의 이미지를 최신 데이터 기반으로 전면 갱신.

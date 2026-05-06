@@ -88,7 +88,7 @@
   ],
   "visual_comparison_tip": "페르시안과 똑같은 체형과 털을 가졌지만, 샴처럼 얼굴, 귀, 꼬리, 다리에만 색깔이 있는 '포인트' 무늬를 가졌다면 히말라얀입니다.",
   "meta_tags": {
-    "title": "히말라얀 고양이 도감: 페르시안의 우아함과 샴의 색채 | nyan",
+    "title": "히말라얀 고양이 백과: 히말라얀 고양이 백과: 히말라얀 고양이 도감: 페르시안의 우아함과 샴의 색채 | nyan | nyan 박물관 | nyan 박물관",
     "description": "구름 같은 털과 깊은 파란 눈의 히말라얀. 럭셔리한 외모 속에 감춰진 다정한 성격과 관리법을 nyan에서 알아보세요.",
     "keywords": [
       "히말라얀",
@@ -114,5 +114,45 @@
   "image_strict_profile_path": "/images/Nyan/himalayan/himalayan_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/himalayan/himalayan_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/himalayan/himalayan_coat_texture.webp",
-  "image_variant_path": "/images/Nyan/himalayan/himalayan_variant_full_body.webp"
+  "image_variant_path": "/images/Nyan/himalayan/himalayan_variant_full_body.webp",
+  "origin_history_ko": "히말라얀 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
+  "grooming_tips_ko": "히말라얀의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "recommended_items": [
+    {
+      "item_name": "전용 슬리커 브러쉬",
+      "reason": "죽은 털 제거 및 모질 관리"
+    },
+    {
+      "item_name": "대형 스크래쳐",
+      "reason": "스트레스 해소 및 발톱 관리"
+    }
+  ],
+  "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "expert_sources": [
+    {
+      "source_name": "CFA (The Cat Fanciers' Association)",
+      "url": "https://cfa.org"
+    },
+    {
+      "source_name": "TICA (The International Cat Association)",
+      "url": "https://tica.org"
+    }
+  ],
+  "schema_data": {
+    "@context": "https://schema.org",
+    "@type": "BiologicalEntity",
+    "name": "히말라얀",
+    "taxonRank": "Breed",
+    "description": "히말라얀 고양이에 대한 박물관급 상세 정보"
+  },
+  "image_alts_ko": {
+    "hero": "박물관 기단 위에 우아하게 앉아 있는 히말라얀 고양이의 전신 모습",
+    "face_portrait": "히말라얀 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "full_body_front": "히말라얀 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
+    "full_body_side": "히말라얀 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "strict_profile": "히말라얀 품종 표준을 보여주는 완벽한 측면 두상 프로필",
+    "eye_macro": "히말라얀 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "히말라얀 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "variant_full_body": "히말라얀 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  }
 }

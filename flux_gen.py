@@ -11,6 +11,7 @@ COMFY_URL = "http://127.0.0.1:8188"
 BREEDS_DIR = "src/data/breeds"
 TARGET_REF_DIR = "src/data/target_refs"
 OUTPUT_DIR = "public/images/Nyan"
+ORIGINALS_DIR = "C:/AI/Antigravity/Nyan_originals"
 
 def log(msg):
     print(msg)
@@ -57,8 +58,17 @@ def find_ref_image(breed_id):
         if os.path.exists(path): return path
     return None
 
-def generate_and_wait(prompt, filename, ref_image_path, negative_prompt="", index=0):
-    full_path = os.path.join(OUTPUT_DIR, filename)
+def generate_and_wait(prompt, filename, ref_image_path, negative_prompt="", index=0, breed_id=""):
+    # 폴더 준비
+    webp_breed_dir = os.path.join(OUTPUT_DIR, breed_id) if breed_id else OUTPUT_DIR
+    orig_breed_dir = os.path.join(ORIGINALS_DIR, breed_id) if breed_id else ORIGINALS_DIR
+    
+    if not os.path.exists(webp_breed_dir): os.makedirs(webp_breed_dir)
+    if not os.path.exists(orig_breed_dir): os.makedirs(orig_breed_dir)
+
+    png_path = os.path.join(orig_breed_dir, filename)
+    webp_path = os.path.join(webp_breed_dir, filename.replace(".png", ".webp"))
+    
     log(f"-> T2I RESTORATION: {filename}")
     
     # T2I를 위해 참조 이미지를 로드하되, Denoise를 1.0으로 주어 완전히 무시하게 함
@@ -91,9 +101,14 @@ def generate_and_wait(prompt, filename, ref_image_path, negative_prompt="", inde
             for img in images:
                 image_data = get_image(img['filename'], img['subfolder'], img['type'])
                 img_obj = Image.open(io.BytesIO(image_data))
-                if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
-                img_obj.save(full_path, "PNG", optimize=True, compress_level=9)
-                log(f"    [Saved] {full_path}")
+                
+                # 마스터 PNG 저장 (외부)
+                img_obj.save(png_path, "PNG", optimize=True, compress_level=9)
+                # 웹 최적화 WebP 저장 (내부)
+                img_obj.save(webp_path, "WEBP", quality=85)
+                
+                log(f"    [Saved Master] {png_path}")
+                log(f"    [Saved WebP] {webp_path}")
             break
         time.sleep(2)
     return True
@@ -109,7 +124,7 @@ def main():
     log(f"\n=== T2I ORIGINAL MUSEUM MODE: {breed_id.upper()} ===")
     
     p = breed.get("image_master_prompt")
-    generate_and_wait(p, f"{breed_id}_original_t2i.png", ref_image, breed.get("negative_prompt", ""))
+    generate_and_wait(p, f"{breed_id}_original_t2i.png", ref_image, breed.get("negative_prompt", ""), breed_id=breed_id)
 
 if __name__ == "__main__":
     main()

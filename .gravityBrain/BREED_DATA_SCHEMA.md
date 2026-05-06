@@ -112,18 +112,15 @@ Risk object:
 - **personality_ko**
 - **care_en**
 - **care_ko**
+- **origin_history_ko**: (String) 품종의 상세 기원 및 역사 스토리.
+- **grooming_tips_ko**: (String) 구체적인 털 관리 및 위생 관리 팁.
+- **recommended_items**: (Array) [item_name, reason] 구조의 추천 용품 리스트.
 - **home_fit_en**
 - **home_fit_ko**
 
-### SEO
-- **seo_title_en**
-- **seo_title_ko**
-- **seo_description_en**
-- **seo_description_ko**
-- **primary_keyword_en**
-- **primary_keyword_ko**
-- **secondary_keywords_en**
-- **secondary_keywords_ko**
+- **schema_data**: (Object) JSON-LD 기반 구조화 데이터 (Schema.org 규격).
+- **expert_sources**: (Array) [source_name, url] 구조의 공신력 있는 출처 리스트.
+- **vet_disclaimer_ko**: (String) 수의사 전문 면책 고지 문구.
 
 ### FAQ
 Each FAQ object:

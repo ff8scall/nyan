@@ -1,8 +1,10 @@
 import Link from 'next/link';
+import { getDictionary, Locale } from '@/i18n/dictionaries';
 
 export default function Header({ lang, slug }: { lang: string; slug?: string }) {
   const otherLang = lang === 'ko' ? 'en' : 'ko';
   const switchHref = slug ? `/${otherLang}/breeds/${slug}` : `/${otherLang}`;
+  const dict = getDictionary(lang);
 
   return (
     <header style={{
@@ -22,9 +24,9 @@ export default function Header({ lang, slug }: { lang: string; slug?: string }) 
       </Link>
       
       <nav style={{ display: 'flex', gap: '2rem', textTransform: 'uppercase', fontSize: '0.9rem' }}>
-        <Link href={`/${lang}/breeds`}>{lang === 'ko' ? '도감' : 'Encyclopedia'}</Link>
+        <Link href={`/${lang}/breeds`}>{dict.common.encyclopedia}</Link>
         <Link href={switchHref} style={{ color: 'var(--accent)' }}>
-          {lang === 'ko' ? 'ENGLISH' : '한국어'}
+          {dict.common.languageSwitch}
         </Link>
       </nav>
     </header>

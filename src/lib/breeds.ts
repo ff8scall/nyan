@@ -47,8 +47,11 @@ export interface BreedData {
   
   // SEO & Editorial
   pros: string[];
+  pros_en?: string[];
   cons: string[];
+  cons_en?: string[];
   visual_comparison_tip?: string;
+  visual_comparison_tip_en?: string;
   meta_tags?: {
     title: string;
     description: string;
@@ -58,8 +61,16 @@ export interface BreedData {
   // Economics
   economics?: {
     price_range_ko: string;
+    price_range_en?: string;
     monthly_care_cost: string;
+    monthly_care_cost_en?: string;
   };
+  
+  // Suitability Tags
+  good_for?: string[];
+  good_for_en?: string[];
+  think_twice_if?: string[];
+  think_twice_if_en?: string[];
   
   // Content
   summary_en: string;
@@ -70,6 +81,8 @@ export interface BreedData {
   personality_ko?: string;
   care_en?: string;
   care_ko?: string;
+  home_suitability_en?: string;
+  home_suitability_ko?: string;
   local_rarity_ko?: string;
   
   // Multimedia
@@ -94,7 +107,23 @@ export interface BreedData {
   
   // Misc
   similar_breed_ids?: string[];
-  faq?: Array<{ question_ko: string; answer_ko: string }>;
+  faq?: Array<{ 
+    question_ko: string; 
+    answer_ko: string;
+    question_en?: string;
+    answer_en?: string;
+  }>;
+  
+  // V2 Museum Standard
+  origin_history_ko?: string;
+  origin_history_en?: string;
+  grooming_tips_ko?: string;
+  grooming_tips_en?: string;
+  recommended_items?: Array<{ item_name: string; reason: string }>;
+  vet_disclaimer_ko?: string;
+  expert_sources?: Array<{ source_name: string; url: string }>;
+  schema_data?: any;
+  image_alts_ko?: { [key: string]: string };
 
   // Compatibility layer for old UI
   name?: { en: string; ko: string };

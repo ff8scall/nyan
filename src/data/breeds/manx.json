@@ -2,14 +2,24 @@
   "id": "manx",
   "name_en": "Manx",
   "name_ko": "맨크스",
-  "aliases_ko": ["맹크스", "맨 섬 고양이"],
+  "aliases_ko": [
+    "맹크스",
+    "맨 섬 고양이"
+  ],
   "origin_country": "Isle of Man",
   "size_category": "medium",
   "body_type": "substantial",
   "coat_length": "short",
   "coat_texture": "double",
-  "common_patterns": ["solid", "tabby", "calico", "tortoiseshell"],
-  "common_colors": ["various"],
+  "common_patterns": [
+    "solid",
+    "tabby",
+    "calico",
+    "tortoiseshell"
+  ],
+  "common_colors": [
+    "various"
+  ],
   "weight_min_kg": 3.5,
   "weight_max_kg": 5.5,
   "lifespan_min_years": 12,
@@ -54,12 +64,26 @@
   "care_en": "Regular brushing is needed for their dense coat. Watch their weight as they can easily become overweight.",
   "care_ko": "이중묘를 가지고 있어 죽은 털 제거를 위한 주 2~3회 빗질이 중요합니다. 골격이 튼튼하지만 비만이 되면 척추에 무리가 갈 수 있으므로 체중 관리에 신경 써야 합니다.",
   "known_risks": [
-    { "name_en": "Manx Syndrome", "name_ko": "맨크스 증후군 (척추 장애)", "severity_note": "Critical" },
-    { "name_en": "Spina Bifida", "name_ko": "이분 척추", "severity_note": "High" }
+    {
+      "name_en": "Manx Syndrome",
+      "name_ko": "맨크스 증후군 (척추 장애)",
+      "severity_note": "Critical"
+    },
+    {
+      "name_en": "Spina Bifida",
+      "name_ko": "이분 척추",
+      "severity_note": "High"
+    }
   ],
   "faq": [
-    { "question_ko": "정말 꼬리가 아예 없나요?", "answer_ko": "완전히 없는 '럼피(Rumpy)'부터 짧은 꼬리가 있는 경우까지 다양하지만, 도감용으로는 럼피 개체가 가장 전형적입니다." },
-    { "question_ko": "맨크스 증후군이 무엇인가요?", "answer_ko": "꼬리가 없는 유전자가 척추 전체에 영향을 주어 발생하는 신경계 질환으로, 전문 캐터리를 통한 건강 확인이 필수입니다." }
+    {
+      "question_ko": "정말 꼬리가 아예 없나요?",
+      "answer_ko": "완전히 없는 '럼피(Rumpy)'부터 짧은 꼬리가 있는 경우까지 다양하지만, 도감용으로는 럼피 개체가 가장 전형적입니다."
+    },
+    {
+      "question_ko": "맨크스 증후군이 무엇인가요?",
+      "answer_ko": "꼬리가 없는 유전자가 척추 전체에 영향을 주어 발생하는 신경계 질환으로, 전문 캐터리를 통한 건강 확인이 필수입니다."
+    }
   ],
   "image_master_path": "/images/Nyan/manx/manx_hero.webp",
   "image_frontal_path": "/images/Nyan/manx/manx_face_portrait.webp",
@@ -68,5 +92,45 @@
   "image_strict_profile_path": "/images/Nyan/manx/manx_strict_profile.webp",
   "image_eye_macro_path": "/images/Nyan/manx/manx_eye_macro.webp",
   "image_coat_texture_path": "/images/Nyan/manx/manx_coat_texture.webp",
-  "image_variant_path": "/images/Nyan/manx/manx_variant_full_body.webp"
+  "image_variant_path": "/images/Nyan/manx/manx_variant_full_body.webp",
+  "origin_history_ko": "맨크스 품종은 오랜 역사를 가진 품종으로, 그 기원은 신비로운 전설과 기록에 기반합니다. 박물관급 도감으로서 우리는 이들의 고유한 혈통 보존 역사를 존중합니다.",
+  "grooming_tips_ko": "맨크스의 아름다운 외형을 유지하기 위해서는 주기적인 빗질과 세심한 눈/귀 관리가 필요합니다. 품종 특성에 맞는 전용 샴푸와 브러쉬 사용을 권장합니다.",
+  "recommended_items": [
+    {
+      "item_name": "전용 슬리커 브러쉬",
+      "reason": "죽은 털 제거 및 모질 관리"
+    },
+    {
+      "item_name": "대형 스크래쳐",
+      "reason": "스트레스 해소 및 발톱 관리"
+    }
+  ],
+  "vet_disclaimer_ko": "본 가이드의 정보는 품종 일반의 특성을 설명하며, 개별 고양이의 건강 상태에 따라 차이가 있을 수 있습니다. 의학적 결정은 반드시 전문 수의사와 상의하십시오.",
+  "expert_sources": [
+    {
+      "source_name": "CFA (The Cat Fanciers' Association)",
+      "url": "https://cfa.org"
+    },
+    {
+      "source_name": "TICA (The International Cat Association)",
+      "url": "https://tica.org"
+    }
+  ],
+  "schema_data": {
+    "@context": "https://schema.org",
+    "@type": "BiologicalEntity",
+    "name": "맨크스",
+    "taxonRank": "Breed",
+    "description": "맨크스 고양이에 대한 박물관급 상세 정보"
+  },
+  "image_alts_ko": {
+    "hero": "박물관 기단 위에 우아하게 앉아 있는 맨크스 고양이의 전신 모습",
+    "face_portrait": "맨크스 고양이의 특징적인 얼굴 이목구비가 강조된 초근접 초상화",
+    "full_body_front": "맨크스 고양이의 당당한 체격과 정면 모습을 보여주는 전신 사진",
+    "full_body_side": "맨크스 고양이의 우아한 실루엣을 확인할 수 있는 측면 전신 사진",
+    "strict_profile": "맨크스 품종 표준을 보여주는 완벽한 측면 두상 프로필",
+    "eye_macro": "맨크스 고양이 특유의 신비로운 눈동자와 홍채 패턴 매크로 촬영",
+    "coat_texture": "맨크스 고양이의 부드럽고 독특한 모질 질감을 보여주는 초근접 사진",
+    "variant_full_body": "맨크스 고양이의 다양한 모색 변종을 보여주는 전신 모습"
+  }
 }
