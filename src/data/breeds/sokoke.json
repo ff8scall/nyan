@@ -1,0 +1,110 @@
+{
+  "id": "sokoke",
+  "name_en": "Sokoke",
+  "name_ko": "소코케",
+  "aliases_ko": [
+    "나무껍질 무늬 고양이",
+    "아프리카의 보석"
+  ],
+  "origin_country": "Kenya",
+  "size_category": "medium",
+  "body_type": "slender_and_athletic",
+  "coat_length": "short",
+  "coat_texture": "fine_and_close-lying",
+  "common_patterns": [
+    "modified_tabby_woodgrain"
+  ],
+  "common_colors": [
+    "brown_tabby"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 1,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 3,
+  "family_fit_score": 4,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 2
+  },
+  "pros": [
+    "세상에서 가장 독특한 '나무껍질 무늬'를 가진 고양이로 시각적으로 경이로운 아름다움을 가짐",
+    "아프리카 야생에서 온 자연 발생 종으로 신체 능력이 매우 뛰어나고 건강함",
+    "집사와의 유대감을 중시하며 강아지처럼 영리하고 민첩한 성격을 가졌음"
+  ],
+  "cons": [
+    "활동량이 엄청나게 많아 좁은 실내 공간에서는 에너지를 발산하기 어려울 수 있음",
+    "추위에 매우 취약하므로 항상 따뜻한 실내 온도를 유지해 주는 세심한 관리가 필요함",
+    "전 세계적으로 개체 수가 극히 적은 초희귀 품종이라 입양이 거의 불가능에 가까움"
+  ],
+  "economics": {
+    "price_range_ko": "3,000,000원 - 7,000,000원 이상 (초희귀 품종)",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Sokoke is a natural breed of domestic cat, developed from the Sokoke forest area of Kenya. It is a lean, medium-sized cat with a unique wood-grain pattern.",
+  "summary_ko": "케냐의 숲에서 발견된 희귀 품종으로, 야생의 날렵함과 집고양이의 영리함을 동시에 가졌으며 물을 두려워하지 않는 용감한 고양이입니다.",
+  "appearance_en": "Lean and athletic with 'tree bark' tabby pattern, very short glossy coat, and a distinctive 'tip-toe' gait.",
+  "appearance_ko": "나무껍질을 닮은 독특한 마블 무늬(우드브레인 패턴)와 매우 짧고 매끄러운 털이 특징입니다. 뒷다리가 길어 마치 까치발로 걷는 듯한 독특한 걸음걸이를 보입니다.",
+  "personality_en": "Active, intelligent, and highly social. Sokokes form very deep bonds with their owners and are often described as having a dog-like loyalty. They are very sensitive to their owner's emotions and enjoy being part of all household activities.",
+  "personality_ko": "지능이 매우 높고 에너지가 넘칩니다. 집사와 함께하는 모든 활동에 참여하고 싶어 하며, 집사의 감정 변화를 예민하게 감지하여 위로해 주는 섬세한 성격을 가졌습니다. 독립적이기보다는 공동체 의식이 강해 가족 구성원 모두와 깊은 유대감을 형성하는 것을 좋아합니다.",
+  "care_en": "Minimal grooming is required due to their short coat. They need plenty of space to run and jump, and they are very sensitive to cold temperatures. They thrive on interactive play and mental stimulation.",
+  "care_ko": "털 관리는 거의 필요 없지만, 아프리카 출신답게 추위에 매우 민감하므로 실내 온도를 항상 따뜻하게 유지해야 합니다. 엄청난 순발력과 활동량을 소화할 수 있는 높은 캣타워와 넓은 공간이 필수적이며, 지능적인 놀이를 통해 에너지를 발산시켜 주어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "No specific breed-related issues",
+      "name_ko": "특이 유전병 없음",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "무늬가 정말 나무 같나요?",
+      "answer_ko": "네, 소코케의 무늬는 뱅갈의 로제트나 일반 태비와는 완전히 다릅니다. 마치 샌딩된 나무의 나뭇결이나 나이테처럼 정교하고 번진 듯한 독특한 질감을 보여줍니다."
+    },
+    {
+      "question_ko": "야생 고양이인가요?",
+      "answer_ko": "아프리카 숲에서 자연 발생한 종이지만, 현재는 공식 품종으로 인정받아 사람과 함께 살기에 적합한 성격을 가진 집고양이로 분류됩니다."
+    }
+  ],
+  "visual_comparison_tip": "일반적인 뱅갈이나 태비와 달리, 무늬가 마치 나무의 나이테나 껍질처럼 복잡하게 얽힌 '우드그레인(Wood-grain)' 패턴인지 확인하세요.",
+  "meta_tags": {
+    "title": "소코케 도감: 나무껍질 무늬의 비밀, 아프리카 야생 고양이 가이드 | nyan",
+    "description": "세상에서 가장 희귀한 고양이 소코케의 모든 것. 신비로운 나무껍질 무늬와 놀라운 신체 능력, 실제 분양가와 관리법을 nyan에서 확인하세요.",
+    "keywords": [
+      "소코케",
+      "소코케고양이",
+      "나무껍질무늬고양이",
+      "아프리카고양이",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/sokoke/sokoke_hero.webp",
+  "image_macro_path": "/images/Nyan/sokoke_macro.png",
+  "image_fullbody_path": "/images/Nyan/sokoke/sokoke_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/sokoke/sokoke_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생 종으로 매우 건강하며 알려진 유전 질환이 거의 없는 강인한 품종입니다.",
+  "local_rarity_ko": "전 세계적으로도 개체 수가 몇 백 마리에 불과한 초희귀 품종이며 국내에는 실물이 존재하지 않을 가능성이 매우 높습니다. 살아있는 자연의 예술품을 소장하고 싶은 집사들에게 꿈의 품종입니다.",
+  "similar_breed_ids": [
+    "egyptian-mau",
+    "bengal",
+    "ocicat"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/sokoke/sokoke_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/sokoke/sokoke_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/sokoke/sokoke_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/sokoke/sokoke_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/sokoke/sokoke_variant_full_body.webp"
+}

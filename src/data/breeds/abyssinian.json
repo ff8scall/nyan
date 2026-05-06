@@ -1,0 +1,118 @@
+{
+  "id": "abyssinian",
+  "name_en": "Abyssinian",
+  "name_ko": "아비시니안",
+  "aliases_ko": [
+    "아비",
+    "에티오피아 고양이",
+    "발레 고양이"
+  ],
+  "origin_country": "Ethiopia (Abyssinia)",
+  "size_category": "medium",
+  "body_type": "semi-foreign",
+  "coat_length": "short",
+  "coat_texture": "fine_and_ticked",
+  "common_patterns": [
+    "ticked_tabby"
+  ],
+  "common_colors": [
+    "ruddy",
+    "red",
+    "blue",
+    "fawn"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 3,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 3,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "매우 똑똑하고 호기심이 많아 집사와 동적인 상호작용이 뛰어남",
+    "털 관리가 거의 필요 없을 정도로 관리가 쉬운 짧은 단모종임",
+    "가늘고 긴 다리와 우아한 움직임으로 보는 것만으로도 힐링되는 미학적 가치"
+  ],
+  "cons": [
+    "에너지가 너무 넘쳐서 가만히 안겨있는 무릎 고양이를 기대한다면 부적합함",
+    "높은 곳을 좋아하는 습성이 강해 집안 곳곳의 물건을 떨어뜨릴 수 있음",
+    "혼자 있는 것을 싫어하고 심심하면 사고를 칠 가능성이 높음"
+  ],
+  "economics": {
+    "price_range_ko": "800,000원 - 2,000,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 120,000원 - 180,000원"
+  },
+  "summary_en": "The Abyssinian is a breed of domestic short-haired cat with a distinctive 'ticked' tabby coat.",
+  "summary_ko": "고대 이집트 벽화 속에서 걸어 나온 듯한 우아한 실루엣을 가진 '발레 고양이'입니다. 한 가닥의 털에 2~3가지 색이 섞인 틱(Ticked) 코트와 지칠 줄 모르는 호기심이 상징입니다.",
+  "appearance_en": "Athletic and lithe with a medium-sized body and long, slender legs. They are famous for their ticked coat, where each hair has multiple bands of color, and their large, alert ears.",
+  "appearance_ko": "근육질이면서도 날씬한 '세미 포린(Semi-foreign)' 체형입니다. 한 가닥의 털에 여러 색의 띠가 있는 '틱(Ticked)' 패턴 덕분에 움직일 때마다 오묘하게 색이 변하는 듯한 느낌을 줍니다. 크고 뾰족한 귀와 금빛 아몬드형 눈이 영리한 인상을 줍니다.",
+  "personality_en": "Highly active, intelligent, and curious. Abyssinians are known as the 'clowns of the cat world' because of their playful and adventurous nature. They love to be at the center of attention.",
+  "personality_ko": "지능이 매우 높고 에너지가 넘칩니다. 집안의 모든 것을 궁금해하며, 집사 어깨에 올라타거나 높은 곳을 탐험하는 '고양이계의 장난꾸러기'입니다. 집사의 활동에 적극적으로 참여하고 관심을 받는 것을 무척 좋아합니다.",
+  "care_en": "Requires very little grooming due to their short, fine coat—a weekly brush is sufficient. They need plenty of vertical space and interactive toys to satisfy their high intelligence and energy levels.",
+  "care_ko": "털 관리는 매우 쉬운 편이지만, 엄청난 활동량을 해소해 줄 캣타워와 수직 공간 확보가 필수적입니다. 지능이 높으므로 먹이 퍼즐이나 복잡한 놀이를 통해 두뇌를 자극해 주어야 지루함을 느끼지 않습니다.",
+  "known_risks": [
+    {
+      "name_en": "Gingivitis",
+      "name_ko": "치은염",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Pyruvate Kinase Deficiency",
+      "name_ko": "피루베이트 키나아제 결핍증",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "안겨있는 걸 싫어하나요?",
+      "answer_ko": "아비시니안은 사람을 매우 좋아하지만, 가만히 안겨있는 것보다는 집사와 함께 놀거나 근처에서 활동하는 것을 더 선호합니다. 이들에게 사랑은 '함께 움직이는 것'입니다."
+    },
+    {
+      "question_ko": "털이 정말 안 빠지나요?",
+      "answer_ko": "단모종 중에서도 털이 짧고 몸에 밀착되어 있어 털 날림은 적은 편입니다. 하지만 빠지는 털이 아예 없는 것은 아니므로 주 1회 가벼운 빗질은 해주어야 합니다."
+    }
+  ],
+  "visual_comparison_tip": "소말리와 무늬는 똑같지만 털이 아주 짧고, 다른 단모종보다 몸매가 더 날렵하고 귀가 큰지 확인하세요.",
+  "meta_tags": {
+    "title": "아비시니안 도감: 성격, 틱(Ticked) 코트의 비밀, 지능 | nyan",
+    "description": "고대 이집트 벽화의 주인공 아비시니안의 모든 것. 엄청난 활동량과 영리한 지능, 실제 분양가와 관리 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "아비시니안",
+      "아비",
+      "개냥이",
+      "똑똑한고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/abyssinian/abyssinian_hero.webp",
+  "image_macro_path": "/images/Nyan/abyssinian_macro.png",
+  "image_fullbody_path": "/images/Nyan/abyssinian/abyssinian_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/abyssinian/abyssinian_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "치은염(잇몸 질환)과 피루베이트 키나아제 결핍증(PKD)에 대한 정기적인 검진이 권장됩니다.",
+  "local_rarity_ko": "국내에서 세련된 외모와 활발한 성격으로 인기가 높은 품종입니다. 특히 '개냥이' 성향을 원하는 젊은 층의 집사들에게 선호도가 높으며, 건강 체질인 경우가 많아 반려하기 좋습니다.",
+  "similar_breed_ids": [
+    "somali",
+    "singapura",
+    "siamese"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/abyssinian/abyssinian_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/abyssinian/abyssinian_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/abyssinian/abyssinian_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/abyssinian/abyssinian_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/abyssinian/abyssinian_variant_full_body.webp"
+}

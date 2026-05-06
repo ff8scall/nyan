@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ragdoll",
+    "name": "Ragdoll",
+    "standard": {
+      "overall": "Large, heavy cat with a sweet expression and striking blue eyes.",
+      "head": "Broad, modified wedge with a flat plane between ears.",
+      "eyes": "Large, vivid blue ovals.",
+      "ears": "Medium-sized, wide-set, tilted forward.",
+      "body": "Large, long, substantial bone structure.",
+      "coat": "Semi-long, silky, plush texture.",
+      "personality": "Docile, affectionate, 'puppy-like' behavior.",
+      "representative_colors": ["Seal Point", "Blue Point", "Chocolate Point", "Lilac Point"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2025/06/2025-k09r-DollVillaMissAmericana-906x1024.webp"
+  },
+  {
+    "id": "maine-coon",
+    "name": "Maine Coon",
+    "standard": {
+      "overall": "The 'Gentle Giant' of the cat world, large and rugged.",
+      "head": "Medium width, slightly longer than wide, distinct square muzzle.",
+      "eyes": "Large, expressive, set at a slight slant.",
+      "ears": "Large, tufted with lynx tips, set high.",
+      "body": "Muscular, broad chest, long rectangular body.",
+      "coat": "Heavy, shaggy, shorter on shoulders and longer on stomach.",
+      "personality": "Intelligent, playful, and enjoys water.",
+      "representative_colors": ["Brown Classic Tabby", "Silver Tabby", "Red Tabby", "Solid White"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/05/2024-k18-MTNestIHaveADream-1024x912.webp"
+  },
+  {
+    "id": "persian",
+    "name": "Persian",
+    "standard": {
+      "overall": "Elegant, long-haired cat with a sweet, round face.",
+      "head": "Round and massive with a short, broad snub nose.",
+      "eyes": "Large, round, set wide apart.",
+      "ears": "Small, rounded tips, tilted forward.",
+      "body": "Short, stocky 'cobby' type, sturdy bone.",
+      "coat": "Long, thick, fine texture with a large ruff.",
+      "personality": "Gentle, quiet, and sophisticated.",
+      "representative_colors": ["Solid White", "Solid Black", "Blue", "Silver Tabby"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/05/2024-k01-Stunner-A-Simple-Plan-of-Castlegate-1024x781.webp"
+  },
+  {
+    "id": "exotic-shorthair",
+    "name": "Exotic Shorthair",
+    "standard": {
+      "overall": "The 'Persian in pajamas' - sweet and round like a Persian but with a short coat.",
+      "head": "Massive, round head with a flat face.",
+      "eyes": "Large, round, brilliant color.",
+      "ears": "Small, rounded, set low and wide.",
+      "body": "Cobby, low-slung, sturdy.",
+      "coat": "Short, dense, plush, standing away from body.",
+      "personality": "Quiet, affectionate, and more active than Persians.",
+      "representative_colors": ["Blue", "Red Tabby", "Calico", "Seal Lynx Point"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/05/2024-k03-D-Vine-I-Have-A-Dream-of-Purrpals-1024x832.webp"
+  },
+  {
+    "id": "devon-rex",
+    "name": "Devon Rex",
+    "standard": {
+      "overall": "Pixie-like appearance with large ears and a curly coat.",
+      "head": "Modified wedge with prominent cheekbones and a strong chin.",
+      "eyes": "Large, oval-shaped, set wide apart.",
+      "ears": "Strikingly large, set low, very wide at the base.",
+      "body": "Slender, hard and muscular, medium length.",
+      "coat": "Short, fine, wavy or curly, soft texture.",
+      "personality": "Active, mischievous, very people-oriented.",
+      "representative_colors": ["Black", "White", "Blue", "Lavender"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/05/2024-k11-Rays-of-Hope-S-Myluv-1024x876.webp"
+  },
+  {
+    "id": "british-shorthair",
+    "name": "British Shorthair",
+    "standard": {
+      "overall": "A compact, powerful, and balanced cat often called a 'Teddy Bear'.",
+      "head": "Round and massive with chubby cheeks.",
+      "eyes": "Large, round, well-opened.",
+      "ears": "Medium size, broad at the base, rounded tips.",
+      "body": "Medium to large, stocky and sturdy.",
+      "coat": "Short, very dense, crisp and resilient.",
+      "personality": "Calm, loyal, and patient.",
+      "representative_colors": ["British Blue", "Solid White", "Black", "Silver Tabby"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/05/2024-k10-Galeksy-Onyx-1024x832.webp"
+  }
+]

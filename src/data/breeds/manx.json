@@ -1,0 +1,72 @@
+{
+  "id": "manx",
+  "name_en": "Manx",
+  "name_ko": "맨크스",
+  "aliases_ko": ["맹크스", "맨 섬 고양이"],
+  "origin_country": "Isle of Man",
+  "size_category": "medium",
+  "body_type": "substantial",
+  "coat_length": "short",
+  "coat_texture": "double",
+  "common_patterns": ["solid", "tabby", "calico", "tortoiseshell"],
+  "common_colors": ["various"],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 2,
+  "shedding_level": 4,
+  "activity_level": 4,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "강아지처럼 주인에게 매우 헌신적이고 잘 따름",
+    "매우 똑똑하며 문을 열거나 물건을 가져오는 훈련이 가능함",
+    "다른 반려동물 및 아이들과의 친화력이 뛰어남"
+  ],
+  "cons": [
+    "유전적인 척추 문제(맨크스 증후군)에 대한 주의가 필요함",
+    "점프력이 매우 좋아 높은 곳에 물건을 두기 어려움",
+    "속털이 빽빽하여 털 빠짐이 적지 않음"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 5,000,000원 (국내 매우 희귀)",
+    "monthly_care_cost": "약 120,000원 - 200,000원"
+  },
+  "summary_en": "The Manx is an ancient breed known for its lack of a tail and its dog-like devotion to its owners.",
+  "summary_ko": "영국 맨 섬에서 온 '꼬리 없는 행운아'로, 강아지 같은 충성심과 토끼 같은 걸음걸이를 가진 사랑스러운 고양이입니다.",
+  "appearance_en": "Taillessness is the most distinguishing feature. They have a round head, round eyes, and a sturdy, compact body with hind legs longer than front legs, creating a hopping gait.",
+  "appearance_ko": "꼬리가 없는 것이 가장 큰 특징이며, 둥근 얼굴과 둥근 눈을 가졌습니다. 뒷다리가 앞다리보다 길어 마치 토끼처럼 깡충거리며 걷는 듯한 독특한 실루엣을 보입니다.",
+  "personality_en": "Playful, intelligent, and very loyal. They often follow their owners from room to room like a puppy.",
+  "personality_ko": "장난기 가득하고 영리하며, 주인을 방마다 졸졸 따라다니는 '개냥이' 성격을 가졌습니다. 가족 구성원 모두와 깊은 유대감을 형성하는 것을 좋아합니다.",
+  "care_en": "Regular brushing is needed for their dense coat. Watch their weight as they can easily become overweight.",
+  "care_ko": "이중묘를 가지고 있어 죽은 털 제거를 위한 주 2~3회 빗질이 중요합니다. 골격이 튼튼하지만 비만이 되면 척추에 무리가 갈 수 있으므로 체중 관리에 신경 써야 합니다.",
+  "known_risks": [
+    { "name_en": "Manx Syndrome", "name_ko": "맨크스 증후군 (척추 장애)", "severity_note": "Critical" },
+    { "name_en": "Spina Bifida", "name_ko": "이분 척추", "severity_note": "High" }
+  ],
+  "faq": [
+    { "question_ko": "정말 꼬리가 아예 없나요?", "answer_ko": "완전히 없는 '럼피(Rumpy)'부터 짧은 꼬리가 있는 경우까지 다양하지만, 도감용으로는 럼피 개체가 가장 전형적입니다." },
+    { "question_ko": "맨크스 증후군이 무엇인가요?", "answer_ko": "꼬리가 없는 유전자가 척추 전체에 영향을 주어 발생하는 신경계 질환으로, 전문 캐터리를 통한 건강 확인이 필수입니다." }
+  ],
+  "image_master_path": "/images/Nyan/manx/manx_hero.webp",
+  "image_frontal_path": "/images/Nyan/manx/manx_face_portrait.webp",
+  "image_fullbody_path": "/images/Nyan/manx/manx_full_body_front.webp",
+  "image_fullbody_side_path": "/images/Nyan/manx/manx_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/manx/manx_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/manx/manx_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/manx/manx_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/manx/manx_variant_full_body.webp"
+}

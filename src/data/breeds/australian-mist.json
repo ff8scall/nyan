@@ -1,0 +1,116 @@
+{
+  "id": "australian-mist",
+  "name_en": "Australian Mist",
+  "name_ko": "오스트레일리안 미스트",
+  "aliases_ko": [
+    "안개 고양이",
+    "스포티드 미스트"
+  ],
+  "origin_country": "Australia",
+  "size_category": "medium",
+  "body_type": "moderate",
+  "coat_length": "short",
+  "coat_texture": "dense_and_soft",
+  "common_patterns": [
+    "spotted",
+    "marbled"
+  ],
+  "common_colors": [
+    "brown",
+    "blue",
+    "chocolate",
+    "lilac",
+    "gold",
+    "peach"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 6.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "안개가 낀 듯 오묘하고 부드러운 '미스트' 패턴이 시각적으로 매우 따뜻하고 우아함",
+    "성격이 매우 온순하고 집사에 대한 의존도가 높아 완벽한 실내 반려묘로 설계된 품종임",
+    "단모종이라 관리가 매우 쉽고 아이들과도 잘 지내는 '패밀리 고양이'의 정석임"
+  ],
+  "cons": [
+    "국내에서는 거의 알려지지 않은 희귀 품종이라 실물을 보거나 분양받기가 매우 어려움",
+    "사람과 함께 있는 것을 너무 좋아해 혼자 오래 두면 분리불안을 느낄 수 있음",
+    "패턴이 너무 은은하여 뚜렷한 무늬를 선호하는 집사에게는 다소 밋밋해 보일 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "1,800,000원 - 3,500,000원",
+    "monthly_care_cost": "약 110,000원 - 180,000원"
+  },
+  "summary_en": "The Australian Mist is a breed of cat developed in Australia. It was a cross between the Burmese, Abyssinian, and domestic shorthair cats.",
+  "summary_ko": "호주에서 탄생한 유일한 품종으로, 온순한 성격과 안개처럼 은은한 무늬 덕분에 가정용 반려묘로 최적화된 고양이입니다.",
+  "appearance_en": "Moderate foreign type with a spotted or marbled coat, large lustrous green eyes, and a glossy short coat.",
+  "appearance_ko": "스포티드(점박이) 또는 마블 무늬가 안개처럼 부드럽게 퍼진 코트가 특징입니다. 크고 빛나는 초록색 눈과 근육질의 균형 잡힌 몸매를 가졌습니다.",
+  "personality_en": "Extremely tolerant, social, and affectionate. They are known for their love of human company and are less likely to scratch or bite, making them ideal for families with young children.",
+  "personality_ko": "참을성이 매우 강하고 사람을 무척 좋아합니다. 공격성이 거의 없어 어린아이가 있는 가정에서도 안심하고 기를 수 있으며, 집사의 무릎 위에 앉아 시간을 보내는 것을 인생의 낙으로 삼는 '무릎 고양이'의 정석입니다.",
+  "care_en": "Requires minimal grooming due to their short coat. They are primarily indoor cats and enjoy a stable home environment with plenty of interaction.",
+  "care_ko": "단모종이라 주 1회 가벼운 빗질만으로도 충분합니다. 실내 생활에 최적화된 품종이므로 안정적인 환경을 제공해 주어야 하며, 사람과의 교감을 무척 중요하게 생각하므로 매일 규칙적인 대화와 놀이 시간을 가져야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "No specific breed-related issues",
+      "name_ko": "특이 유전병 없음",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "왜 이름이 미스트인가요?",
+      "answer_ko": "무늬가 선명하지 않고 마치 안개가 낀 것처럼 흐릿하고 은은하게 번져 있는 독특한 패턴 때문에 '미스트(안개)'라는 이름이 붙여졌습니다."
+    },
+    {
+      "question_ko": "아이들과 정말 잘 지내나요?",
+      "answer_ko": "네, 오스트레일리안 미스트는 아이들의 거친 손길도 잘 참아줄 만큼 인내심이 강하기로 유명하여 '아이들의 가장 좋은 친구'라는 별명이 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "점박이 무늬가 뱅갈처럼 선명하지 않고, 마치 베일을 쓴 듯 뿌옇고 은은하게 번져 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "오스트레일리안 미스트 도감: 안개 고양이의 비밀, 성격, 관리법 | nyan",
+    "description": "호주의 보석, 오스트레일리안 미스트의 모든 것. 안개 낀 듯한 신비로운 무늬와 온순한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "오스트레일리안미스트",
+      "안개고양이",
+      "호주고양이",
+      "온순한고양이",
+      "개냥이추천",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/australian-mist/australian-mist_hero.webp",
+  "image_macro_path": "/images/Nyan/australian-mist_macro.png",
+  "image_fullbody_path": "/images/Nyan/australian-mist/australian-mist_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/australian-mist/australian-mist_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "다양한 품종의 교배로 탄생하여 유전적으로 매우 건강하고 튼튼한 편입니다.",
+  "local_rarity_ko": "호주 밖에서는 보기 힘든 희귀 품종으로 국내에는 정식 캐터리가 거의 없습니다. 안개 고양이라는 수식어처럼 신비롭고 따뜻한 매력을 찾는 분들에게 최고의 선택입니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "abyssinian",
+    "bengal"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/australian-mist/australian-mist_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/australian-mist/australian-mist_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/australian-mist/australian-mist_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/australian-mist/australian-mist_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/australian-mist/australian-mist_variant_full_body.webp"
+}

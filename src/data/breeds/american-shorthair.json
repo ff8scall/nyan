@@ -1,0 +1,122 @@
+{
+  "id": "american-shorthair",
+  "name_en": "American Shorthair",
+  "name_ko": "아메리칸 숏헤어",
+  "aliases_ko": [
+    "아메숏",
+    "개척자 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "semi-cobby",
+  "coat_length": "short",
+  "coat_texture": "hard_and_thick",
+  "common_patterns": [
+    "tabby",
+    "solid",
+    "bicolor",
+    "parti-color"
+  ],
+  "common_colors": [
+    "silver",
+    "brown",
+    "black",
+    "white",
+    "red",
+    "blue"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 15,
+  "lifespan_max_years": 20,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 3,
+  "playfulness_level": 3,
+  "affection_level": 4,
+  "independence_level": 4,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "유전병이 거의 없고 수명이 매우 긴 건강한 품종",
+    "적응력이 뛰어나 낯선 환경이나 사람과 금방 친해짐",
+    "독립심이 있어 집사가 자리를 비워도 스트레스를 덜 받음"
+  ],
+  "cons": [
+    "식탐이 많아 자율 배식 시 비만이 될 위험이 매우 높음",
+    "단모종이지만 털 빠짐이 적지 않아 주기적인 빗질 필요",
+    "무릎 고양이보다는 집사 근처에서 지켜보는 것을 선호함"
+  ],
+  "economics": {
+    "price_range_ko": "1,200,000원 - 2,800,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 120,000원 - 180,000원"
+  },
+  "summary_en": "The American Shorthair is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers.",
+  "summary_ko": "미국 개척 시대부터 쥐를 잡으며 단련된 강인함과 건강함의 상징입니다. 뚜렷한 실버 타비 문양과 모나지 않은 둥근 얼굴, 그리고 누구와도 잘 지내는 완벽한 성격을 가진 '올라운드' 고양이입니다.",
+  "appearance_en": "A true working cat, it is athletic with a sturdy, powerful build. They have a round face, short ears, and a short, thick, hard-textured coat that protects them from the weather.",
+  "appearance_ko": "탄탄한 근육질의 직사각형 체형을 가졌으며, 턱이 발달한 둥근 얼굴이 특징입니다. 털은 짧지만 매우 빽빽하고 빳빳하여 외부 자극으로부터 몸을 잘 보호해주며, 특히 실버 타비(은색 바탕에 검은 줄무늬)가 가장 유명합니다.",
+  "personality_en": "Even-tempered, easy-going, and friendly. They are social cats but also possess an independent streak. They get along well with children and other pets.",
+  "personality_ko": "성격이 매우 온화하고 느긋합니다. 적당히 애교가 있으면서도 독립심이 강해 혼자서도 시간을 잘 보내는 성숙한 면모를 보입니다. 아이들이나 다른 반려동물과도 금방 친구가 되는 사교성을 자랑합니다.",
+  "care_en": "Requires minimal grooming, with weekly brushing usually sufficient. Because they are prone to obesity, their diet and activity levels should be monitored closely.",
+  "care_ko": "털 관리가 매우 쉬운 편에 속합니다. 하지만 먹는 것을 좋아하고 체질상 살이 찌기 쉬우므로 비만이 되지 않도록 엄격한 식단 관리와 꾸준한 놀이 활동이 필수적입니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Hip Dysplasia",
+      "name_ko": "고관절 이형성증",
+      "severity_note": "Low to Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "코리안 숏헤어와 다른가요?",
+      "answer_ko": "네, 코리안 숏헤어는 품종화되지 않은 토착종을 부르는 명칭인 반면, 아메리칸 숏헤어는 특정 외모와 성격 기준을 가진 혈통 있는 공식 품종입니다."
+    },
+    {
+      "question_ko": "정말 20년까지 사나요?",
+      "answer_ko": "네, 아메리칸 숏헤어는 유전병이 적고 체질이 강하여 적절한 관리만 동반된다면 15~20년 이상 장수하는 경우가 매우 많습니다."
+    }
+  ],
+  "visual_comparison_tip": "브리티시 숏헤어보다 다리가 길고 날렵하며, 얼굴이 덜 눌리고 주둥이가 앞으로 더 나와 있습니다.",
+  "meta_tags": {
+    "title": "아메리칸 숏헤어 도감: 성격, 수명, 실버 타비 관리 팁 | nyan",
+    "description": "건강함의 대명사 아메리칸 숏헤어의 모든 것. 초보 집사에게 왜 추천되는지, 실제 분양가와 장수 비결을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "아메리칸숏헤어",
+      "아메숏",
+      "실버타비",
+      "고양이수명",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/american-shorthair/american-shorthair_hero.webp",
+  "image_macro_path": "/images/Nyan/american-shorthair_macro.png",
+  "image_fullbody_path": "/images/Nyan/american-shorthair/american-shorthair_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/american-shorthair/american-shorthair_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "고양이 중 수명이 가장 긴 편에 속할 만큼 건강하지만, 유전적인 심장 질환(HCM)은 주의해야 합니다.",
+  "local_rarity_ko": "한국에서 '아메숏'이라는 친숙한 이름으로 널리 사랑받고 있습니다. 건강 체질에 성격까지 좋아 처음 고양이를 키우는 초보 집사들에게 가장 먼저 추천되는 신뢰의 품종입니다.",
+  "similar_breed_ids": [
+    "british-shorthair",
+    "european-shorthair",
+    "exotic-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/american-shorthair/american-shorthair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/american-shorthair/american-shorthair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/american-shorthair/american-shorthair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/american-shorthair/american-shorthair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/american-shorthair/american-shorthair_variant_full_body.webp"
+}

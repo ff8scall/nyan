@@ -1,0 +1,114 @@
+{
+  "id": "sphynx",
+  "name_en": "Sphynx",
+  "name_ko": "스핑크스",
+  "aliases_ko": [
+    "털 없는 고양이",
+    "벨벳 고양이"
+  ],
+  "origin_country": "Canada",
+  "size_category": "medium",
+  "body_type": "substantial",
+  "coat_length": "hairless",
+  "coat_texture": "fine_down_or_suede",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 5,
+  "shedding_level": 1,
+  "activity_level": 4,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 3,
+  "beginner_friendly_score": 2,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "털 날림이 전혀 없어 옷이나 침구류 관리가 매우 쉬움",
+    "모든 품종 중 가장 사람을 잘 따르는 '개냥이' 중의 '개냥이'임",
+    "매우 똑똑하고 눈치가 빨라 집사의 감정을 잘 케어해줌"
+  ],
+  "cons": [
+    "털이 없어 피부의 유분이 그대로 남으므로 매주 목욕이 필수적임",
+    "추위와 더위에 매우 취약하여 실내 온도 조절과 옷 입히기가 필수임",
+    "피부 질환 및 심장 유전병(HCM) 관리에 많은 비용과 정성이 들어감"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 200,000원 - 300,000원 (스킨케어 포함)"
+  },
+  "summary_en": "The Sphynx cat is a breed of cat known for its lack of a coat, though it is not truly hairless.",
+  "summary_ko": "털이 없는 독특한 외모 속에 천사 같은 마음을 숨긴 '반전 매력'의 소유자입니다. 사람의 온기를 찾아 품속으로 파고드는 가장 사랑스러운 동반자입니다.",
+  "appearance_en": "Lack of fur, with skin that feels like chamois or suede. They have large ears, a rounded belly, and a muscular body. Their skin is heavily wrinkled, especially around the shoulders and neck.",
+  "appearance_ko": "가죽처럼 부드러운 피부와 복숭아 솜털 같은 미세한 털이 특징입니다. 배가 볼록한 '포트 벨리(Pot belly)' 체형과 커다란 귀, 그리고 풍부한 피부 주름이 신비로운 느낌을 줍니다.",
+  "personality_en": "Extremely affectionate, energetic, and intelligent. They are known for their 'velcro-like' attachment to their owners and often greet them at the door.",
+  "personality_ko": "고양이 중 가장 사교적이며 집사에게서 한시도 떨어지려 하지 않는 '껌딱지'입니다. 사람뿐만 아니라 다른 동물과도 완벽하게 어울리며, 지능이 높아 집사의 말을 잘 알아듣습니다.",
+  "care_en": "Requires regular baths to remove body oils that their skin produces. They also need ear cleaning and nail care. Protection from extreme temperatures and sunlight is essential.",
+  "care_ko": "털이 기름을 흡수하지 못하므로 매주 목욕을 시켜주지 않으면 피부병이 생길 수 있습니다. 체온 조절 능력이 없으므로 여름에는 자외선 차단, 겨울에는 따뜻한 옷 입히기가 필수입니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Urticaria Pigmentosa",
+      "name_ko": "색소성 두드러기",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "알레르기가 있는 사람도 키울 수 있나요?",
+      "answer_ko": "털 날림이 없어 훨씬 낫지만, 알레르기 유발 성분은 피부의 침과 각질에도 존재합니다. 따라서 알레르기가 심한 분은 분양 전 반드시 반응을 테스트해야 합니다."
+    },
+    {
+      "question_ko": "매일 닦아줘야 하나요?",
+      "answer_ko": "네, 피부에서 나오는 기름기가 옷이나 이불에 묻을 수 있으므로 매일 물티슈나 젖은 수건으로 몸을 닦아주는 관리가 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "데본 렉스와 얼굴이 비슷하지만 털이 완전히 없는지, 그리고 피부의 주름이 풍부한지 확인하세요.",
+  "meta_tags": {
+    "title": "스핑크스 고양이 도감: 성격, 피부 관리법, 털 안 빠지는 고양이 | nyan",
+    "description": "세상에서 가장 다정한 스핑크스의 모든 것. 털 없는 고양이의 피부 관리 비결과 놀라운 친화력, 실제 분양가와 유지 비용을 확인하세요.",
+    "keywords": [
+      "스핑크스고양이",
+      "털없는고양이",
+      "스핑크스분양가",
+      "개냥이추천",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/sphynx/sphynx_hero.webp",
+  "image_macro_path": "/images/Nyan/sphynx_macro.png",
+  "image_fullbody_path": "/images/Nyan/sphynx/sphynx_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/sphynx/sphynx_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 피부 감염에 대한 세심한 주의가 필요합니다.",
+  "local_rarity_ko": "국내에서 털 날림이 없는 유일한 대안으로 각광받고 있습니다. 매니아층이 매우 두터우며, 털 관리가 힘든 노년층이나 알레르기가 있는 집사들에게도 인기 있는 품종입니다.",
+  "similar_breed_ids": [
+    "peterbald",
+    "donskoy",
+    "devon-rex"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/sphynx/sphynx_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/sphynx/sphynx_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/sphynx/sphynx_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/sphynx/sphynx_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/sphynx/sphynx_variant_full_body.webp"
+}

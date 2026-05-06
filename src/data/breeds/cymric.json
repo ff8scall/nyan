@@ -1,0 +1,115 @@
+{
+  "id": "cymric",
+  "name_en": "Cymric",
+  "name_ko": "킴릭",
+  "aliases_ko": [
+    "장모종 맹크스",
+    "꼬리 없는 장모 고양이"
+  ],
+  "origin_country": "Isle of Man (UK) / Canada",
+  "size_category": "medium",
+  "body_type": "cobby",
+  "coat_length": "long",
+  "coat_texture": "dense_and_plush",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 6.0,
+  "lifespan_min_years": 10,
+  "lifespan_max_years": 14,
+  "grooming_level": 4,
+  "shedding_level": 4,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "꼬리가 없는 신비로운 외모와 토끼처럼 뛰어다니는 독특한 걸음걸이가 매우 매력적임",
+    "성격이 매우 온화하고 사람을 잘 따르며 집사의 무릎을 좋아하는 다정한 개냥이임",
+    "지능이 높고 충성심이 강해 집안의 평화를 지키는 든든한 동반자 역할을 함"
+  ],
+  "cons": [
+    "꼬리가 없는 유전적 특징(맹크스 유전자)으로 인해 척추 관련 질환(맹크스 증후군) 위험이 있음",
+    "이중모 장모종이라 털 빠짐이 상당하며 매일 정기적인 빗질과 털 관리가 필수적임",
+    "뒷다리가 앞다리보다 길어 점프력이 매우 좋으므로 높은 곳의 물건 관리에 주의가 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,800,000원 - 3,800,000원",
+    "monthly_care_cost": "약 140,000원 - 220,000원"
+  },
+  "summary_en": "The Cymric is a breed of domestic cat. Some cat registries consider the Cymric simply a long-haired variety of the Manx breed, rather than a separate breed.",
+  "summary_ko": "꼬리 대신 토끼처럼 깡충거리는 뒷다리 걸음걸이가 매력적인 품종으로, 장모종 특유의 풍성함과 맹크스의 다정함을 가졌습니다.",
+  "appearance_en": "Longhair version of Manx, tailless or short stump, round 'bear-like' appearance with a dense double coat.",
+  "appearance_ko": "맹크스의 장모종 버전으로, 꼬리가 없거나 아주 짧은 것이 특징입니다. 둥글둥글한 얼굴과 곰 같은 실루엣, 그리고 아주 빽빽하고 부드러운 이중모를 가졌습니다.",
+  "personality_en": "Gentle, quiet, and highly affectionate. Cymrics are known for being people-oriented and are often described as having a dog-like loyalty. They are intelligent and enjoy following their owners around the house.",
+  "personality_ko": "매우 부드럽고 차분한 성격입니다. 가족에 대한 충성심이 강해 집사가 어디를 가든 졸졸 따라다니는 '개냥이' 성향이 있으며, 조용하면서도 다정한 눈빛으로 집사와 교감하는 것을 즐깁니다. 영리하여 장난감을 물어오거나 집안의 분위기를 잘 살피는 똑똑한 동반자입니다.",
+  "care_en": "Requires regular grooming to manage their thick double coat and prevent mats. They are generally healthy but can be susceptible to 'Manx syndrome', which affects the spine and bowels.",
+  "care_ko": "풍성한 이중모를 가졌으므로 매일 꼼꼼한 빗질을 통해 털 엉킴을 방지해야 합니다. 꼬리가 없는 유전적 특성상 척추가 짧아 발생할 수 있는 '맹크스 증후군'에 대한 정기적인 수의학적 검진이 필수적입니다. 점프력이 좋으므로 실내 수직 공간을 잘 마련해 주는 것이 좋습니다.",
+  "known_risks": [
+    {
+      "name_en": "Manx syndrome (spinal issues)",
+      "name_ko": "맹크스 증후군",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Arthritis",
+      "name_ko": "관절염",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "꼬리가 없는데 균형을 잘 잡나요?",
+      "answer_ko": "네, 킴릭은 뒷다리 근육이 매우 발달하여 꼬리 없이도 놀라운 점프력과 균형 감각을 보여줍니다. 다른 고양이보다 토끼처럼 깡충깡충 뛰는 듯한 걸음걸이가 특징입니다."
+    },
+    {
+      "question_ko": "맹크스와 무엇이 다른가요?",
+      "answer_ko": "유전적으로는 맹크스와 같지만, 털의 길이에 따라 단모는 맹크스, 장모는 킴릭으로 구분합니다."
+    }
+  ],
+  "visual_comparison_tip": "맹크스와 똑같이 꼬리가 없거나 매우 짧지만, 털이 길고 풍성한 '장모종'인지 확인하세요.",
+  "meta_tags": {
+    "title": "킴릭 도감: 꼬리 없는 장모 고양이, 성격, 맹크스 증후군 가이드 | nyan",
+    "description": "신비로운 꼬리 없는 고양이 킴릭의 모든 것. 장모종의 우아함과 토끼 같은 걸음걸이, 실제 분양가와 건강 관리법을 nyan에서 확인하세요.",
+    "keywords": [
+      "킴릭",
+      "킴릭고양이",
+      "꼬리없는고양이",
+      "장모맹크스",
+      "토끼고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/cymric/cymric_hero.webp",
+  "image_macro_path": "/images/Nyan/cymric_macro.png",
+  "image_fullbody_path": "/images/Nyan/cymric/cymric_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/cymric/cymric_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "맹크스 증후군(Manx syndrome)으로 인한 배변 장애나 척추 문제를 예방하기 위해 전문 브리더를 통한 건강 확인이 중요합니다.",
+  "local_rarity_ko": "국내에서 맹크스보다 더 보기 힘든 매우 희귀한 품종입니다. 꼬리가 없는 신비로움과 장모종의 우아함을 동시에 원하는 집사들에게 최고의 가치를 지닌 고양이입니다.",
+  "similar_breed_ids": [
+    "manx",
+    "japanese-bobtail",
+    "persian"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/cymric/cymric_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/cymric/cymric_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/cymric/cymric_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/cymric/cymric_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/cymric/cymric_variant_full_body.webp"
+}

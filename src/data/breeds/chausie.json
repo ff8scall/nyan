@@ -1,0 +1,118 @@
+{
+  "id": "chausie",
+  "name_en": "Chausie",
+  "name_ko": "카오시",
+  "aliases_ko": [
+    "미니 정글캣",
+    "산 고양이"
+  ],
+  "origin_country": "United States / Egypt (Ancestry)",
+  "size_category": "large",
+  "body_type": "long_and_slender",
+  "coat_length": "short",
+  "coat_texture": "coarse_and_resilient",
+  "common_patterns": [
+    "ticked_tabby",
+    "solid"
+  ],
+  "common_colors": [
+    "brown",
+    "black",
+    "silver"
+  ],
+  "weight_min_kg": 4.5,
+  "weight_max_kg": 10.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 2,
+  "apartment_fit_score": 2,
+  "family_fit_score": 4,
+  "multi_pet_fit_score": 3,
+  "social_compatibility": {
+    "kids_score": 3,
+    "cats_score": 3,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "정글 고양이의 야생적이고 강력한 아우라를 집안에서 느낄 수 있는 압도적인 비주얼임",
+    "지능이 매우 높고 에너지가 넘쳐 고양이계의 육상 선수라고 불릴 만큼 활동적임",
+    "주인에 대한 충성심이 강하며 함께 야외 활동이나 산책을 즐기기에 매우 적합함"
+  ],
+  "cons": [
+    "활동량이 상상을 초월하여 좁은 아파트나 실내에만 가두어 기르기에는 스트레스가 큼",
+    "야생성이 남아있어 다묘 가정이나 어린아이가 있는 집에서는 서열 정리가 필요할 수 있음",
+    "소화 기관이 예민하여 식단 관리에 세심한 주의가 필요하며 고단백 식단이 필수적임"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 6,000,000원 이상 (희귀 품종)",
+    "monthly_care_cost": "약 180,000원 - 300,000원"
+  },
+  "summary_en": "The Chausie is a breed of domestic cat that is a hybrid of the jungle cat (Felis chaus) and domestic cats. They are known for their wild appearance and athletic abilities.",
+  "summary_ko": "야생의 본능과 집고양이의 다정함을 모두 갖춘 활동적인 품종으로, 엄청난 도약력과 지능을 자랑합니다.",
+  "appearance_en": "Exotic predatory look, long-legged athletic body, small angular head, and grizzled or ticked tabby coat.",
+  "appearance_ko": "정글 고양이와의 교배로 태어난 야생적인 외모와 긴 다리, 탄탄한 근육질 몸매가 특징입니다. 귀 끝의 장식털(Tuft)과 강인한 턱선이 맹수 같은 인상을 줍니다.",
+  "personality_en": "Highly active, intelligent, and social. Chausies form very strong bonds with their owners and can be quite demanding of attention. They are often described as having a dog-like loyalty and enjoy interactive play.",
+  "personality_ko": "매우 활동적이고 영리하며 대담합니다. 집사를 '대장'으로 섬기며 깊은 충성심을 보여주지만, 동시에 끊임없이 상호작용과 놀이를 요구하는 적극적인 성격입니다. 지능이 매우 높아 문을 열거나 복잡한 문제를 해결하는 데 능숙합니다.",
+  "care_en": "Requires plenty of exercise and mental stimulation. They are not suited for small apartments or being left alone for long periods. Their digestive systems can be sensitive, often requiring a high-protein, grain-free diet.",
+  "care_ko": "엄청난 활동량을 감당할 수 있는 넓은 공간과 캣휠, 대형 캣타워가 필수입니다. 소화 기관이 다른 고양이에 비해 짧고 예민하여 곡물이 섞인 사료보다는 고단백 생식이나 질 좋은 육류 위주의 식단이 권장됩니다. 지능적인 놀이를 통해 에너지를 발산하게 해주는 것이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Digestive sensitivity",
+      "name_ko": "소화기 민감성",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "아파트에서 키우기 힘든가요?",
+      "answer_ko": "에너지가 워낙 많아 좁은 아파트에서는 스트레스를 받을 수 있습니다. 충분한 수직 공간과 매일 활발한 놀이 시간을 보장해 줄 수 있는 환경이 필요합니다."
+    },
+    {
+      "question_ko": "정말 정글 고양이와 섞였나요?",
+      "answer_ko": "네, 카오시는 야생의 정글 고양이(Felis chaus)와 집고양이를 교배하여 탄생한 하이브리드 품종입니다. 현재는 집고양이로서의 성격이 잘 고착된 상태입니다."
+    }
+  ],
+  "visual_comparison_tip": "아비시니안보다 훨씬 크고 다리가 길며, 귀 끝에 뾰족한 장식털(Tufts)이 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "카오시 도감: 정글 고양이의 후예, 성격, 활동량, 관리법 | nyan",
+    "description": "야생의 매력 카오시의 모든 것. 정글캣 하이브리드의 압도적인 신체 능력과 지능, 실제 분양가와 사육 팁을 nyan에서 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "카오시",
+      "카오시고양이",
+      "정글캣",
+      "하이브리드고양이",
+      "큰고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/chausie/chausie_hero.webp",
+  "image_macro_path": "/images/Nyan/chausie_macro.png",
+  "image_fullbody_path": "/images/Nyan/chausie/chausie_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/chausie/chausie_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "하이브리드 종 특유의 소화기 민감성을 제외하면 유전적으로 매우 튼튼하고 건강한 편입니다.",
+  "local_rarity_ko": "국내에서 보기 드문 희귀 하이브리드 품종입니다. 뱅갈이나 사바나캣보다 조금 더 원시적이고 날씬한 매력을 원하는 전문 집사들에게 최고의 품종으로 꼽힙니다.",
+  "similar_breed_ids": [
+    "abyssinian",
+    "savannah",
+    "bengal"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/chausie/chausie_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/chausie/chausie_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/chausie/chausie_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/chausie/chausie_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/chausie/chausie_variant_full_body.webp"
+}

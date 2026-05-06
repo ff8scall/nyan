@@ -1,0 +1,124 @@
+[
+  {
+    "id": "russian-blue",
+    "name": "Russian Blue",
+    "standard": {
+      "overall": "Elegant, slender cat with a distinct silvery-blue double coat and emerald eyes.",
+      "head": "Smooth, medium wedge with flat co-planes. Distinctive 'smile'.",
+      "eyes": "Vivid green, set wide apart, almond-shaped.",
+      "ears": "Large, wide at base, set far apart and upright.",
+      "body": "Fine-boned, long, lithe and muscular.",
+      "coat": "Short, dense, very soft double coat standing away from body.",
+      "personality": "Quiet, sensitive, and devoted to owners.",
+      "representative_colors": ["Blue (Grey with silver tipping)"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Russian-Blue-hero.jpg"
+  },
+  {
+    "id": "norwegian-forest-cat",
+    "name": "Norwegian Forest Cat",
+    "standard": {
+      "overall": "Large, sturdy cat with a long, bushy tail and a waterproof double coat.",
+      "head": "Equilateral triangle shape with a straight profile from brow to nose tip.",
+      "eyes": "Large, almond-shaped, expressive.",
+      "ears": "Medium to large, rounded tips, heavily furnished inside. Lynx tips preferred.",
+      "body": "Solidly muscular and well-balanced with substantial bone.",
+      "coat": "Waterproof double coat with dense undercoat and long guard hairs.",
+      "personality": "Friendly, intelligent, and enjoys climbing.",
+      "representative_colors": ["Brown Tabby", "White", "Black", "Red"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Norwegian-Forest-Cat-hero.jpg"
+  },
+  {
+    "id": "birman",
+    "name": "Birman",
+    "standard": {
+      "overall": "The 'Sacred Cat of Burma', known for its white gloves and blue eyes.",
+      "head": "Strong, broad and rounded with a 'Roman' nose (slight Roman bump).",
+      "eyes": "Almost round, always vivid blue.",
+      "ears": "Medium size, rounded tips, set wide apart.",
+      "body": "Long, stocky, and sturdy.",
+      "coat": "Long, silky with a heavy ruff around the neck. Low undercoat.",
+      "personality": "Gentle, quiet, and very affectionate.",
+      "representative_colors": ["Seal Point", "Blue Point", "Chocolate Point", "Lilac Point"],
+      "unique_feature": "White 'gloves' on all four paws."
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Birman-hero.jpg"
+  },
+  {
+    "id": "oriental-shorthair",
+    "name": "Oriental Shorthair",
+    "standard": {
+      "overall": "A sleek, svelte cat with a wide range of colors and patterns.",
+      "head": "Long tapering wedge, creating a perfect triangle with large ears.",
+      "eyes": "Almond-shaped, slanted toward the nose. Usually green.",
+      "ears": "Strikingly large, pointed, wide at base.",
+      "body": "Long, slender, tubular and muscular.",
+      "coat": "Very short, fine, glossy, and close-lying.",
+      "personality": "Vocal, demanding, and highly social.",
+      "representative_colors": ["Solid Black", "Ebony", "White", "Red Tabby"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Oriental-hero.jpg"
+  },
+  {
+    "id": "cornish-rex",
+    "name": "Cornish Rex",
+    "standard": {
+      "overall": "Distinguished by its curly coat and arched 'greyhound' back.",
+      "head": "Small, egg-shaped with high cheekbones.",
+      "eyes": "Medium to large ovals, slanted slightly upward.",
+      "ears": "Very large, set high, alert.",
+      "body": "Small to medium, arched back with a tucked-up waist.",
+      "coat": "Short, fine, and curly (Marcel wave) without guard hairs.",
+      "personality": "Intelligent, active, and playful like a kitten.",
+      "representative_colors": ["Black", "White", "Blue", "Calico"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Cornish-Rex-hero.jpg"
+  },
+  {
+    "id": "burmese",
+    "name": "Burmese",
+    "standard": {
+      "overall": "A compact, heavily muscled cat often described as a 'brick wrapped in silk'.",
+      "head": "Rounded with no flat planes. Short, well-developed muzzle.",
+      "eyes": "Large, round, set wide apart. Gold or yellow.",
+      "ears": "Medium size, rounded tips, tilted slightly forward.",
+      "body": "Medium size, substantial bone, surprisingly heavy for size.",
+      "coat": "Very short, fine, satin-like texture.",
+      "personality": "People-oriented, affectionate, and outgoing.",
+      "representative_colors": ["Sable", "Champagne", "Blue", "Platinum"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Burmese-hero.jpg"
+  },
+  {
+    "id": "siberian",
+    "name": "Siberian",
+    "standard": {
+      "overall": "A powerful, forest cat with a thick triple coat and a sweet expression.",
+      "head": "Modified wedge with rounded contours. Full muzzle.",
+      "eyes": "Medium to large, almost round, slightly slanted.",
+      "ears": "Medium-large, rounded tips with heavy furnishings.",
+      "body": "Medium-long, muscular, barrel-shaped torso.",
+      "coat": "Dense triple coat, waterproof, with a rich ruff.",
+      "personality": "Fearless, intelligent, and very loyal.",
+      "representative_colors": ["Brown Tabby", "Silver Tabby", "Red", "Blue"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Siberian-hero.jpg"
+  },
+  {
+    "id": "tonkinese",
+    "name": "Tonkinese",
+    "standard": {
+      "overall": "A balanced midpoint between the Siamese and Burmese types.",
+      "head": "Modified rounded wedge with a blunt muzzle.",
+      "eyes": "Open almond shape, aquamarine or blue-green.",
+      "ears": "Medium size, oval tips, wide at base.",
+      "body": "Medium length, well-muscled and surprisingly heavy.",
+      "coat": "Short to medium-short, soft and silky with a luster.",
+      "personality": "Alert, active, and highly intelligent.",
+      "representative_colors": ["Natural", "Champagne", "Blue", "Platinum"],
+      "patterns": ["Mink", "Point", "Solid"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Tonkinese-hero.jpg"
+  }
+]

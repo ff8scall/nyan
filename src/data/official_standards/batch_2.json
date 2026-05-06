@@ -1,0 +1,92 @@
+[
+  {
+    "id": "abyssinian",
+    "name": "Abyssinian",
+    "standard": {
+      "overall": "A lithe, muscular cat with a ticked tabby coat and alert, regal appearance.",
+      "head": "Modified wedge with gently rounded contours; no flat planes.",
+      "eyes": "Almond-shaped, large, brilliant and expressive. Gold or green.",
+      "ears": "Large, alert, moderately pointed, broad at base.",
+      "body": "Medium long, lithe and graceful but showing well-developed muscular strength.",
+      "coat": "Soft, silky, fine in texture, but dense and resilient to the touch.",
+      "personality": "Extremely intelligent, active, and people-oriented. 'Busy' cats.",
+      "representative_colors": ["Ruddy", "Red (Sorrel)", "Blue", "Fawn"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Abyssinian_hero.jpg"
+  },
+  {
+    "id": "american-shorthair",
+    "name": "American Shorthair",
+    "standard": {
+      "overall": "A true breed of working cat, strong, healthy, and symmetrical.",
+      "head": "Large, with a slightly longer face than wide. Square muzzle.",
+      "eyes": "Large and wide with the upper lid shaped like half an almond.",
+      "ears": "Medium size, slightly rounded at tips, set wide.",
+      "body": "Solidly built, powerful, muscular, well-developed shoulders and chest.",
+      "coat": "Short, thick, even and hard in texture.",
+      "personality": "Gentle, easy-going, and good with children and dogs.",
+      "representative_colors": ["Silver Tabby", "Brown Tabby", "Blue", "Black Smoke"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/AmericanShorthair_Hero.jpg"
+  },
+  {
+    "id": "scottish-fold",
+    "name": "Scottish Fold",
+    "standard": {
+      "overall": "A medium-sized cat with a rounded head and distinct folded ears.",
+      "head": "Well-rounded with a firm chin and jaw. Muzzle has well-rounded whisker pads.",
+      "eyes": "Large, round, with a sweet expression. Separated by a broad nose.",
+      "ears": "Fold forward and downward. Small, tightly folded preferred.",
+      "body": "Medium, rounded, even from shoulder to pelvic girdle.",
+      "coat": "Short, dense, resilient. Also longhair (Highland Fold) variety.",
+      "personality": "Sweet-tempered, quiet, and devoted to their owners.",
+      "representative_colors": ["Solid White", "Blue", "Silver Tabby", "Calico"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/scottish-fold-hero.jpg"
+  },
+  {
+    "id": "sphynx",
+    "name": "Sphynx",
+    "standard": {
+      "overall": "The hairless cat. Distinctive for its lack of coat and wrinkled skin.",
+      "head": "Modified wedge, slightly longer than wide. Prominent cheekbones.",
+      "eyes": "Large, lemon-shaped, set at a slight upward slant.",
+      "ears": "Very large, broad at base, open and upright.",
+      "body": "Medium-sized, hard and muscular with a rounded 'pot-belly'.",
+      "coat": "Appears hairless. May be covered with soft fine down (suede-like).",
+      "personality": "Highly energetic, acrobatic, and very affectionate.",
+      "representative_colors": ["Black", "Blue", "Red", "Tortoiseshell"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Sphynx_Hero.jpg"
+  },
+  {
+    "id": "siamese",
+    "name": "Siamese",
+    "standard": {
+      "overall": "An elegant, sleek cat with striking color points and deep blue eyes.",
+      "head": "Long tapering wedge. Total absence of 'stop' or 'break' at eyes.",
+      "eyes": "Almond-shaped, slanted towards the nose. Vivid blue.",
+      "ears": "Strikingly large, pointed, wide at base.",
+      "body": "Medium-sized, graceful, long and slender. Tubular.",
+      "coat": "Short, fine, lying close to body.",
+      "personality": "Very vocal, intelligent, and highly social.",
+      "representative_colors": ["Seal Point", "Chocolate Point", "Blue Point", "Lilac Point"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Siamese_Hero.jpg"
+  },
+  {
+    "id": "bengal",
+    "name": "Bengal",
+    "standard": {
+      "overall": "A medium to large cat with a wild, forest-cat appearance.",
+      "head": "Broad modified wedge with rounded contours. Small ears.",
+      "eyes": "Large, oval, set wide apart. Green, gold, or aqua.",
+      "ears": "Medium to small, relatively short, with a wide base.",
+      "body": "Long and substantial, very muscular. Robust bone.",
+      "coat": "Short to medium, dense, luxurious and unusually soft.",
+      "personality": "Active, confident, and curious. Enjoys climbing and water.",
+      "representative_colors": ["Brown Spotted Tabby", "Silver Spotted Tabby", "Snow Bengal", "Blue Bengal"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/Bengal_hero.jpg"
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "id": "nebelung",
+  "name_en": "Nebelung",
+  "name_ko": "네벨룽",
+  "aliases_ko": [
+    "안개의 생명체",
+    "장모종 러시안 블루"
+  ],
+  "origin_country": "United States / Russia (Ancestry)",
+  "size_category": "medium",
+  "body_type": "foreign",
+  "coat_length": "long",
+  "coat_texture": "silky_and_double",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "silver_blue"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 4,
+  "shedding_level": 3,
+  "activity_level": 3,
+  "playfulness_level": 3,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 3,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 4,
+    "dogs_score": 3,
+    "strangers_score": 2
+  },
+  "pros": [
+    "안개 속에 서 있는 듯 신비로운 은청색 긴 털과 에메랄드빛 눈이 환상적인 아름다움을 선사함",
+    "집사에 대한 충성심이 매우 강하고 수줍음이 많아 조용하고 깊은 정서적 유대를 원하는 분께 완벽함",
+    "매우 똑똑하고 정숙하며 집안의 질서를 잘 지키는 기품 있는 성격임"
+  ],
+  "cons": [
+    "낯가림이 매우 심해 낯선 사람이나 시끄러운 환경에서 큰 스트레스를 받고 숨을 수 있음",
+    "실크 같은 긴 털은 엉키기 쉬우므로 주 3회 이상의 정성스러운 빗질이 필수적임",
+    "국내외적으로 개체 수가 매우 적어 전문 캐터리를 통해 입양하기까지 오랜 기다림이 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원 이상",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Nebelung is a rare breed of domestic cat. Nebelungs have long bodies, wide-set green eyes, long and silky coats, and mild dispositions.",
+  "summary_ko": "'안개의 피조물'이라는 이름답게 우아하고 신비로운 분위기를 자아내며, 집사에게만 마음을 여는 일편단심 성격의 고양이입니다.",
+  "appearance_en": "Solid blue coat with a silver sheen, semi-long silky fur, elegant foreign-type body, and vivid green eyes.",
+  "appearance_ko": "러시안 블루의 장모종 버전으로, 은빛 광택이 도는 짙은 청색 털과 신비로운 초록색 눈이 특징입니다. 안개처럼 몽환적인 분위기를 풍기는 긴 털과 날렵한 몸매를 가졌습니다.",
+  "personality_en": "Gentle, quiet, and somewhat shy with strangers. Nebelungs form very strong, life-long bonds with their chosen owners and are extremely loyal. They prefer a calm, quiet environment.",
+  "personality_ko": "매우 부드럽고 정숙하며 조심성이 많습니다. 낯선 사람에게는 수줍음을 타며 숨기도 하지만, 자신이 선택한 집사에게는 평생 동안 변치 않는 충성심과 깊은 애정을 보여주는 '일편단심' 고양이입니다. 조용한 환경을 선호하며 집안의 질서를 존중하는 기품 있는 성격입니다.",
+  "care_en": "Their silky coat requires regular brushing (2-3 times a week) to prevent mats and maintain its luster. They thrive in peaceful households and need a stable routine to feel secure.",
+  "care_ko": "실크 같은 털이 엉키지 않도록 주 3회 이상의 꼼꼼한 빗질이 필요합니다. 성격이 예민하고 변화를 싫어하므로 안정적인 실내 환경과 규칙적인 생활 패턴을 제공해 주는 것이 정서적 안정에 매우 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "No specific breed-related issues",
+      "name_ko": "특이 유전병 없음",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "러시안 블루와 똑같나요?",
+      "answer_ko": "유전적으로는 러시안 블루를 기반으로 하지만, 털의 길이에 따라 단모는 러블, 장모는 네벨룽으로 구분됩니다. 성격은 네벨룽이 조금 더 내성적이고 차분한 편입니다."
+    },
+    {
+      "question_ko": "눈 색깔은 언제 변하나요?",
+      "answer_ko": "아기 고양이 때는 노란색이나 호박색일 수 있지만, 생후 2년 정도가 지나 성묘가 되면 선명한 에메랄드 녹색으로 고정됩니다."
+    }
+  ],
+  "visual_comparison_tip": "러시안 블루와 똑같은 은청색 털과 녹색 눈을 가졌지만, 털이 길고 꼬리가 풍성한 장식털로 덮여 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "네벨룽 도감: 안개의 생명체, 성격, 장모 러시안 블루 가이드 | nyan",
+    "description": "은청색 안개의 신비, 네벨룽의 모든 것. 실크 같은 긴 털과 에메랄드 눈, 실제 분양가와 내성적인 성격 관리법을 nyan에서 확인하세요.",
+    "keywords": [
+      "네벨룽",
+      "네벨룽고양이",
+      "안개고양이",
+      "장모러시안블루",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/nebelung/nebelung_hero.webp",
+  "image_macro_path": "/images/Nyan/nebelung_macro.png",
+  "image_fullbody_path": "/images/Nyan/nebelung/nebelung_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/nebelung/nebelung_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생 종을 기반으로 하여 매우 건강하지만, 신장 질환에 대한 정기적인 관리가 권장됩니다.",
+  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 드문 품종입니다. 러시안 블루의 매력에 긴 털의 우아함까지 더해져, 고양이 매니아들 사이에서 '유니콘'과 같은 대접을 받는 품종입니다.",
+  "similar_breed_ids": [
+    "russian-blue",
+    "siamese",
+    "turkish-angora"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/nebelung/nebelung_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/nebelung/nebelung_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/nebelung/nebelung_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/nebelung/nebelung_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/nebelung/nebelung_variant_full_body.webp"
+}

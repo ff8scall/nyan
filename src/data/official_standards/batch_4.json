@@ -1,0 +1,155 @@
+[
+  {
+    "id": "american-bobtail",
+    "name": "American Bobtail",
+    "standard": {
+      "overall": "A medium-to-large, naturally occurring bobtailed cat with a wild appearance.",
+      "head": "Broad modified wedge with a distinct brow above large, expressive eyes.",
+      "eyes": "Large, almond-shaped, set at a slight slant.",
+      "ears": "Medium-large, wide at base, tufted tips preferred.",
+      "body": "Sturdy and muscular with a substantial bone structure. Noticeable rectangular shape.",
+      "tail": "Short, flexible and expressive. May be straight, kinked or curled.",
+      "coat": "Medium-long, shaggy, and resilient. Also shorthair variety.",
+      "personality": "Playful, energetic, and highly adaptable.",
+      "representative_colors": ["All Colors & Patterns recognized"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/AmericanBobtailHero.jpg"
+  },
+  {
+    "id": "chartreux",
+    "name": "Chartreux",
+    "standard": {
+      "overall": "A sturdy, French breed known for its blue coat and 'smiling' expression.",
+      "head": "Broad and round, not a sphere. Powerful jaw and full cheeks.",
+      "eyes": "Round, large, and expressive. Colors range from copper to gold.",
+      "ears": "Medium height, set high on the head.",
+      "body": "Robust, muscular, and medium-long. Often called a 'potato on toothpicks'.",
+      "coat": "Medium-short, dense, water-repellent, slightly woolly texture.",
+      "personality": "Quiet, observant, and very loyal.",
+      "representative_colors": ["Blue (Any shade from ash to slate)"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/ChartreuxHero.jpg"
+  },
+  {
+    "id": "havana-brown",
+    "name": "Havana Brown",
+    "standard": {
+      "overall": "A rich, chocolate-brown cat with a unique head shape and green eyes.",
+      "head": "Longer than wide, with a distinct 'stop' at the eyes and a squared muzzle.",
+      "eyes": "Oval, medium-sized, vivid green color.",
+      "ears": "Large, round-tipped, tilted forward, giving an alert look.",
+      "body": "Medium-sized, firm and muscular.",
+      "coat": "Short to medium length, smooth, lustrous and close-lying.",
+      "personality": "Curious, affectionate, and people-oriented.",
+      "representative_colors": ["Mahogany Brown (Tobacco-like)"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/HavanaBrownHero.jpg"
+  },
+  {
+    "id": "japanese-bobtail",
+    "name": "Japanese Bobtail",
+    "standard": {
+      "overall": "An elegant, medium-sized cat with a unique 'pom-pom' tail.",
+      "head": "Equilateral triangle, long clean lines, high cheekbones.",
+      "eyes": "Large, oval, set at a pronounced slant.",
+      "ears": "Large, upright, set wide apart but at right angles to the head.",
+      "body": "Long, slender, but well-muscled. Elegant silhouette.",
+      "tail": "Short, maximum 3 inches, composed of one or more curves or angles.",
+      "coat": "Soft and silky. Shorthair or Longhair (with ruff and breeches).",
+      "personality": "Active, vocal, and highly intelligent.",
+      "representative_colors": ["Mi-Ke (Calico)", "Black & White", "Red & White", "Solid White"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/JapaneseBobtailHero.jpg"
+  },
+  {
+    "id": "korat",
+    "name": "Korat",
+    "standard": {
+      "overall": "A silver-blue cat from Thailand with a heart-shaped face.",
+      "head": "Heart-shaped when viewed from the front. Large flat forehead.",
+      "eyes": "Luminous, oversized, and green. Large and prominent.",
+      "ears": "Large, with rounded tips, set high on the head.",
+      "body": "Semi-cobby, muscular, supple and heavy for its size.",
+      "coat": "Single coat, short, glossy and close-lying. Silver-tipped.",
+      "personality": "Sensitive, intelligent, and very attached to home.",
+      "representative_colors": ["Silver-tipped Blue"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/KoratHero.jpg"
+  },
+  {
+    "id": "manx",
+    "name": "Manx",
+    "standard": {
+      "overall": "A tailless cat with a rounded appearance and powerful hind legs.",
+      "head": "Round with a medium-short muzzle and prominent whisker pads.",
+      "eyes": "Large, round, set at a slight angle.",
+      "ears": "Medium-sized, wide at base, tapering to rounded tips.",
+      "body": "Sturdy, compact, with a short back and deep flanks.",
+      "tail": "Ideally tailless (Rumpy). Also stumpy or longy varieties exist.",
+      "coat": "Double coat, short and dense with a padded feel. Also Longhair (Cymric).",
+      "personality": "Affectionate, mellow, and great jumpers.",
+      "representative_colors": ["All Colors & Patterns recognized"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/ManxHero.jpg"
+  },
+  {
+    "id": "ocicat",
+    "name": "Ocicat",
+    "standard": {
+      "overall": "A large, spotted cat that looks wild but has a gentle temperament.",
+      "head": "Modified wedge with a suggestion of squareness in the muzzle.",
+      "eyes": "Large, almond-shaped, slanted toward ears.",
+      "ears": "Large, alert, set at a 45-degree angle.",
+      "body": "Solid, hard, athletic and muscular. Surprisingly heavy.",
+      "coat": "Short, smooth, satiny texture with a lustrous sheen.",
+      "personality": "Extremely social, intelligent, and active.",
+      "representative_colors": ["Tawny Spotted", "Chocolate Spotted", "Blue Spotted", "Silver Spotted"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/OcicatHero.jpg"
+  },
+  {
+    "id": "selkirk-rex",
+    "name": "Selkirk Rex",
+    "standard": {
+      "overall": "The 'Cat in Sheep's Clothing', known for its thick, curly coat.",
+      "head": "Round, broad, and full-cheeked. Short, squared-off muzzle.",
+      "eyes": "Large, round, set wide apart.",
+      "ears": "Medium size, broad at base, pointed tips.",
+      "body": "Medium to large, rectangular and muscular. Sturdy bone.",
+      "coat": "Soft, plush, full and obviously curly. Shorthair or Longhair.",
+      "personality": "Patient, loving, and tolerant.",
+      "representative_colors": ["All Colors & Patterns recognized"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/03/selkirk-rex-hero.jpg"
+  },
+  {
+    "id": "somali",
+    "name": "Somali",
+    "standard": {
+      "overall": "A long-haired Abyssinian with a fox-like appearance.",
+      "head": "Modified wedge with rounded contours. Large ears.",
+      "eyes": "Almond-shaped, large, brilliant. Dark rim around eyes.",
+      "ears": "Large, alert, moderately pointed, tufted preferred.",
+      "body": "Medium-sized, lithe and muscular.",
+      "coat": "Fine, very soft, double coat. Extremely bushy 'fox' tail.",
+      "personality": "Playful, inquisitive, and highly active.",
+      "representative_colors": ["Ruddy", "Red", "Blue", "Fawn"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/SomaliHero.jpg"
+  },
+  {
+    "id": "turkish-angora",
+    "name": "Turkish Angora",
+    "standard": {
+      "overall": "An elegant, finely-boned cat with a silky, flowing coat.",
+      "head": "Small to medium, tapering wedge. Long, straight nose profile.",
+      "eyes": "Large, walnut-shaped, slanted upward.",
+      "ears": "Large, wide at base, pointed and tufted. Set high.",
+      "body": "Medium-sized, slender, graceful and lithe. Long torso.",
+      "coat": "Single coat, long, silky, with a fine luster. Plumed tail.",
+      "personality": "Highly intelligent, determined, and playful.",
+      "representative_colors": ["White", "Black", "Blue", "Red Tabby"]
+    },
+    "official_image_url": "https://cfa.org/wp-content/uploads/2024/02/TurkishAngoraHero.jpg"
+  }
+]

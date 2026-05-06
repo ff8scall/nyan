@@ -1,0 +1,125 @@
+{
+  "id": "persian",
+  "name_en": "Persian",
+  "name_ko": "페르시안",
+  "aliases_ko": [
+    "페르시아 고양이",
+    "고양이의 왕"
+  ],
+  "origin_country": "Iran (Persia)",
+  "size_category": "medium_to_large",
+  "body_type": "cobby",
+  "coat_length": "long",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "solid",
+    "silver_and_golden",
+    "tabby",
+    "bicolor",
+    "parti-color",
+    "himalayan"
+  ],
+  "common_colors": [
+    "white",
+    "black",
+    "blue",
+    "red",
+    "cream",
+    "silver",
+    "golden"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 6.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 17,
+  "grooming_level": 5,
+  "shedding_level": 5,
+  "activity_level": 1,
+  "playfulness_level": 2,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 1,
+  "beginner_friendly_score": 2,
+  "apartment_fit_score": 5,
+  "family_fit_score": 4,
+  "multi_pet_fit_score": 3,
+  "social_compatibility": {
+    "kids_score": 3,
+    "cats_score": 3,
+    "dogs_score": 2,
+    "strangers_score": 3
+  },
+  "pros": [
+    "고양이 중 가장 조용하고 정적인 성격으로 아파트 생활에 완벽함",
+    "극강의 화려함과 우아한 외모로 관상적 가치가 매우 높음",
+    "집사의 무릎 위에서 시간을 보내는 것을 즐기는 전형적인 반려묘"
+  ],
+  "cons": [
+    "모든 품종 중 털 관리 난이도가 가장 높으며 매일 빗질이 필수",
+    "낮은 코 구조(단두종)로 인해 눈물 자국 및 호흡기 관리가 까다로움",
+    "활동량이 매우 적어 비만 관리에 세심한 주의가 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,000,000원 - 3,000,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 180,000원 - 280,000원"
+  },
+  "summary_en": "The Persian cat is a long-haired breed characterized by its round face and short muzzle, known for its sweet and gentle personality.",
+  "summary_ko": "길고 풍성한 털과 눌린 듯한 귀여운 얼굴로 전 세계적인 사랑을 받는 '고양이의 왕'입니다. 매우 온순하고 정적인 성격으로 품격 있는 반려 생활을 선사합니다.",
+  "appearance_en": "Features a round head, short face, snub nose, chubby cheeks, and large, round eyes. Their most defining feature is the extremely long, thick coat that requires extensive grooming.",
+  "appearance_ko": "납작한 코와 둥글둥글한 얼굴, 그리고 몸 전체를 덮는 화려하고 긴 털이 특징입니다. 짧고 굵은 다리와 땅딸막한 체형이 풍성한 털과 어우러져 귀족적인 분위기를 연출합니다.",
+  "personality_en": "Quiet, sweet, and affectionate. They prefer a peaceful environment and enjoy being pampered and sitting in their owner's lap.",
+  "personality_ko": "매우 조용하고 온화합니다. 활동적이기보다 안락한 소파나 집사의 무릎 위에서 시간을 보내는 것을 즐기는 전형적인 실내묘입니다.",
+  "care_en": "Requires daily brushing to prevent severe matting. Their flat faces may lead to tear staining, necessitating daily eye cleaning.",
+  "care_ko": "털이 매우 가늘고 잘 엉키므로 매일 빗질이 필수적입니다. 평평한 얼굴 구조상 눈물이 자주 맺힐 수 있어 매일 눈가를 청결하게 관리해 주어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Brachycephalic Syndrome",
+      "name_ko": "단두종 증후군",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "털 관리가 많이 힘든가요?",
+      "answer_ko": "네, 고양이 중 관리 난이도가 가장 높은 편에 속합니다. 하루라도 빗질을 거르면 털이 뭉쳐 피부병을 유발할 수 있으므로 부지런한 관리가 필요합니다."
+    },
+    {
+      "question_ko": "눈물이 왜 이렇게 많이 나나요?",
+      "answer_ko": "코가 낮게 위치한 얼굴 구조(단두종) 때문에 누관이 눌려 눈물이 넘치기 쉽습니다. 이는 질병이라기보다 품종적 특성이므로 매일 닦아주는 관리가 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "엑조틱 숏헤어와 얼굴은 똑같지만 털이 매우 길고 풍성하며, 히말라얀과는 눈 색깔(페르시안은 주로 구리색)로 구분됩니다.",
+  "meta_tags": {
+    "title": "페르시안 고양이 도감: 성격, 털 빠짐, 눈물 자국 관리법 | nyan",
+    "description": "고양이의 왕 페르시안의 모든 것. 화려한 털 관리 팁과 조용한 성격, 실제 유지 비용을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "페르시안",
+      "페르시아고양이",
+      "장모종",
+      "고양이털관리",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/persian/persian_hero.webp",
+  "image_macro_path": "/images/Nyan/persian_macro.png",
+  "image_fullbody_path": "/images/Nyan/persian/persian_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/persian/persian_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "다낭성 신장병(PKD)과 호흡기 관련 질환에 대한 주의가 필요합니다.",
+  "local_rarity_ko": "국내에서 가장 오래전부터 사랑받아온 장모종으로, 우아한 분위기를 선호하는 집사들에게 꾸준한 인기를 얻고 있습니다. 정기적인 미용 관리가 중요한 품종입니다.",
+  "similar_breed_ids": [
+    "exotic-shorthair",
+    "himalayan",
+    "selkirk-rex"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/persian/persian_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/persian/persian_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/persian/persian_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/persian/persian_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/persian/persian_variant_full_body.webp"
+}

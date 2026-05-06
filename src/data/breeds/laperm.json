@@ -1,0 +1,110 @@
+{
+  "id": "laperm",
+  "name_en": "LaPerm",
+  "name_ko": "라펌",
+  "aliases_ko": [
+    "파마 고양이",
+    "푸들 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium",
+  "body_type": "semi-foreign",
+  "coat_length": "short_to_long",
+  "coat_texture": "curly_and_wavy",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 3,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "고양이계의 푸들로 불릴 만큼 독특하고 아름다운 곱슬털을 가져 시각적으로 매우 특별함",
+    "성격이 매우 다정하고 사람의 관심을 즐기며 집사에게 안겨있는 것을 좋아하는 개냥이임",
+    "곱슬털 덕분에 일반적인 고양이보다 알레르기 유발이 상대적으로 적다는 평이 있음"
+  ],
+  "cons": [
+    "독특한 털의 질감을 유지하기 위해 정기적인 빗질과 세심한 털 관리가 필요함",
+    "털이 엉키기 시작하면 풀기 어려우므로 어릴 때부터 빗질 교육이 필수적임",
+    "국내에서 매우 희귀한 품종이라 전문적인 정보나 캐터리를 찾기가 어려움"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원",
+    "monthly_care_cost": "약 120,000원 - 190,000원"
+  },
+  "summary_en": "The LaPerm is a breed of cat whose coat is distinguished by its curly or wavy texture, resulting from a natural mutation.",
+  "summary_ko": "농장에서 우연히 발견된 곱슬털 고양이에서 유래했으며, 부드러운 성격과 독특한 질감의 코트 덕분에 만지는 재미가 있는 품종입니다.",
+  "appearance_en": "Unique curly or wavy 'Gypsy Shag' coat, springy texture standing away from body, wedge-shaped head.",
+  "appearance_ko": "전신이 파마를 한 듯 뽀글뽀글한 곱슬털로 덮여 있는 '히피 고양이'입니다. 털이 몸에서 떠 있어 공기처럼 가벼운 느낌을 주며 알레르기 유발이 적은 편입니다.",
+  "personality_en": "Affectionate, active, and clever. LaPerms are very people-oriented and often seek out physical contact with their owners. They are quite smart and can learn to use their paws to open doors or get attention.",
+  "personality_ko": "외모만큼이나 성격도 매력적입니다. 사람의 무릎에 앉거나 어깨에 올라타는 것을 즐기는 '터치형 개냥이'입니다. 지능이 매우 높아 집사의 행동을 관찰하고 배우는 능력이 뛰어나며, 장난기가 많아 나이가 들어서도 활기차게 지냅니다.",
+  "care_en": "Despite the curls, their coat is relatively easy to care for and doesn't mat easily. A regular brush is needed to remove dead hair and maintain the wave's definition.",
+  "care_ko": "털이 엉키지 않을 것 같지만 의외로 관리가 필요합니다. 주 2~3회 정도의 빗질로 죽은 털을 제거해 주어야 특유의 가벼운 웨이브를 유지할 수 있습니다. 지능적인 놀이와 집사와의 교감이 무엇보다 중요한 품종입니다.",
+  "known_risks": [
+    {
+      "name_en": "No specific breed-related issues",
+      "name_ko": "특이 유전병 없음",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "털이 안 빠지나요?",
+      "answer_ko": "아니요, 털은 빠지지만 곱슬거리는 특성상 공중에 날리기보다는 털 사이에 머물러 있어 관리가 조금 더 수월하게 느껴질 수 있습니다."
+    },
+    {
+      "question_ko": "태어날 때부터 곱슬인가요?",
+      "answer_ko": "재미있게도 라펌은 털이 아예 없이 태어나거나 직모로 태어났다가 생후 수개월 내에 털이 빠진 후 다시 곱슬로 자라는 경우가 많습니다."
+    }
+  ],
+  "visual_comparison_tip": "데본 렉스나 코니시 렉스보다 털이 더 길고 불규칙한 웨이브(파마) 형태인지 확인하세요.",
+  "meta_tags": {
+    "title": "라펌 도감: 곱슬털의 비밀, 성격, 고양이계의 푸들 가이드 | nyan",
+    "description": "파마한 듯한 매력, 라펌의 모든 것. 곱슬거리는 털의 질감과 다정한 성격, 실제 분양가와 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "라펌",
+      "라펌고양이",
+      "곱슬털고양이",
+      "푸들고양이",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/laperm/laperm_hero.webp",
+  "image_macro_path": "/images/Nyan/laperm_macro.png",
+  "image_fullbody_path": "/images/Nyan/laperm/laperm_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/laperm/laperm_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생적 돌연변이에서 시작된 품종이라 매우 튼튼하며 알려진 유전병이 거의 없습니다.",
+  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 곱슬거리는 털의 신비로움에 매료된 집사들이 해외 캐터리를 통해 입양하기도 합니다. 한 번 보면 잊을 수 없는 독보적인 존재감을 자랑합니다.",
+  "similar_breed_ids": [
+    "devon-rex",
+    "cornish-rex",
+    "selkirk-rex"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/laperm/laperm_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/laperm/laperm_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/laperm/laperm_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/laperm/laperm_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/laperm/laperm_variant_full_body.webp"
+}

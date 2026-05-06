@@ -1,0 +1,120 @@
+{
+  "id": "ragdoll",
+  "name_en": "Ragdoll",
+  "name_ko": "렉돌",
+  "aliases_ko": [
+    "래그돌",
+    "헝겊인형 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "large",
+  "body_type": "long_and_substantial",
+  "coat_length": "long",
+  "coat_texture": "silky",
+  "common_patterns": [
+    "colorpoint",
+    "mited",
+    "bicolor"
+  ],
+  "common_colors": [
+    "seal",
+    "blue",
+    "chocolate",
+    "lilac",
+    "red",
+    "cream"
+  ],
+  "weight_min_kg": 4.5,
+  "weight_max_kg": 9.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 4,
+  "shedding_level": 4,
+  "activity_level": 2,
+  "playfulness_level": 3,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "공격성이 거의 없고 아이들과도 매우 잘 지냄",
+    "활동량이 적어 아파트 생활에 최적화됨",
+    "바닥에 누워 있는 성향이 강해 가구 파손 위험이 낮음"
+  ],
+  "cons": [
+    "중장모종으로 털 빠짐과 엉킴 관리에 시간이 필요함",
+    "너무 온순하여 위험한 상황에서도 대처가 느릴 수 있음",
+    "식탐이 강해 비만이 될 확률이 높음"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Ragdoll is a large, blue-eyed, semi-longhaired cat with a docile and placid temperament.",
+  "summary_ko": "사파이어 같은 푸른 눈과 구름 같은 털을 가진 렉돌은, 안아 올리면 인형처럼 몸을 맡기는 세상에서 가장 다정한 신사입니다.",
+  "appearance_en": "One of the largest domestic cat breeds with a sturdy body, large blue eyes, and a soft, silky semi-long coat. They are known for their distinct colorpoint patterns.",
+  "appearance_ko": "단단하고 묵직한 골격을 가진 대형묘로, 크고 타원형인 선명한 푸른 눈이 특징입니다. 토끼 털처럼 부드러운 실크 질감의 중장모가 우아함을 더합니다.",
+  "personality_en": "Docile, calm, and affectionate. Known for going limp when picked up, they are often described as 'puppy-cats' due to their social nature.",
+  "personality_ko": "지극히 온순하고 차분합니다. 안아 올리면 인형처럼 몸을 축 늘어뜨리는 특징 때문에 '렉돌(Ragdoll)'이라는 이름이 붙었으며, 사람을 잘 따라 '개냥이'의 대명사로 불립니다.",
+  "care_en": "Requires regular grooming to prevent tangles. Their calm nature makes them excellent indoor companions, but they need interactive play to stay healthy.",
+  "care_ko": "털이 잘 엉키지 않는 실크 질감이지만, 풍성한 모량을 유지하기 위해 주 2~3회 이상의 빗질이 권장됩니다. 활동량이 적으므로 집사가 적극적으로 놀이를 유도하여 체중을 관리해 주어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "렉돌은 정말 통증을 못 느끼나요?",
+      "answer_ko": "아니요, 다른 고양이와 똑같이 통증을 느끼지만 성격이 매우 온순하여 반응이 얌전할 뿐입니다. 세심한 배려가 필요합니다."
+    },
+    {
+      "question_ko": "아이들과 키우기에 위험하지 않을까요?",
+      "answer_ko": "오히려 아이들의 거친 손길을 가장 잘 받아주는 품종 중 하나입니다. 하지만 고양이가 스트레스를 받지 않도록 아이들에게 올바른 상호작용법을 가르치는 것이 좋습니다."
+    }
+  ],
+  "visual_comparison_tip": "버만보다 체구가 훨씬 크고, 발 끝의 흰 '장갑' 무늬가 버만만큼 일정하게 나타나지 않을 수 있습니다.",
+  "meta_tags": {
+    "title": "렉돌(Ragdoll) 고양이 도감: 성격, 털 빠짐, 분양가 완벽 가이드 | nyan",
+    "description": "푸른 눈의 천사 렉돌의 모든 것. 아이들과 함께 키우기 좋은 이유와 실제 유지 비용, 유전병 예방 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "렉돌",
+      "래그돌",
+      "고양이품종",
+      "거대묘",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/ragdoll/ragdoll_hero.webp",
+  "image_frontal_path": "/images/Nyan/ragdoll/ragdoll_face_portrait.webp",
+  "image_fullbody_path": "/images/Nyan/ragdoll/ragdoll_full_body_front.webp",
+  "image_fullbody_side_path": "/images/Nyan/ragdoll/ragdoll_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/ragdoll/ragdoll_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/ragdoll/ragdoll_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/ragdoll/ragdoll_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/ragdoll/ragdoll_variant_full_body.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears",
+  "health_notes_ko": "비대성 심근증(HCM)에 대한 유전적 스크리닝과 신장 건강 관리가 중요합니다.",
+  "local_rarity_ko": "국내 럭셔리 반려 문화에서 선호도 1위 품종이지만, 정통 혈통 캐터리는 예약 대기가 길 수 있습니다. 아파트 환경에 가장 적합한 '조용한 신사'입니다.",
+  "similar_breed_ids": [
+    "birman",
+    "himalayan",
+    "maine-coon"
+  ]
+}

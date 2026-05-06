@@ -1,0 +1,27 @@
+{
+  "id": "ragdoll",
+  "name": "Ragdoll",
+  "official_standard": {
+    "overall": "Large, affectionate, long-bodied cat with striking blue eyes. Known for going limp like a 'ragdoll' when picked up. Sturdy and substantial large-breed cat.",
+    "personality": "Quiet, laid-back, and very affectionate. Intelligent 'puppy-like' cat that follows people. Very tolerant of children and other pets.",
+    "physical_traits": {
+      "head": "Broad with a flat plane between the ears.",
+      "eyes": "Large, oval, vivid blue.",
+      "ears": "Medium-sized, slightly tilted forward.",
+      "body": "Long, substantial large frame, sturdy bone structure.",
+      "legs": "Substantial bone with large round paws and tufted toes.",
+      "tail": "Plumed and proportionate to body length.",
+      "coat": "Semi-long, silky, soft and plush texture."
+    },
+    "representative_colors": [
+      "Seal",
+      "Blue",
+      "Chocolate",
+      "Lilac",
+      "Red",
+      "Cream"
+    ],
+    "patterns": ["Colorpoint", "Mitted", "Bicolor"],
+    "official_image_url": "https://tica.org/wp-content/uploads/2018/08/Ragdoll-Full-Body.jpg"
+  }
+}

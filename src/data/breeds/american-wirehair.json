@@ -1,0 +1,110 @@
+{
+  "id": "american-wirehair",
+  "name_en": "American Wirehair",
+  "name_ko": "아메리칸 와이어헤어",
+  "aliases_ko": [
+    "철수세미 고양이",
+    "철사 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium",
+  "body_type": "semi-cobby",
+  "coat_length": "short",
+  "coat_texture": "wiry_and_crimped",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 14,
+  "lifespan_max_years": 18,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "철수세미처럼 복슬복슬하고 독특한 털 질감이 만질 때마다 기분 좋은 자극을 줌",
+    "아메리칸 쇼트헤어의 유전을 물려받아 매우 건강하고 잔병치레가 없는 튼튼한 체질임",
+    "성격이 매우 원만하고 적응력이 좋아 처음 고양이를 키우는 사람에게 매우 적합함"
+  ],
+  "cons": [
+    "독특한 털의 질감을 유지하기 위해 너무 자주 목욕을 시키면 안 되는 등 관리법이 독특함",
+    "국내에서는 거의 볼 수 없는 매우 희귀한 품종이라 정보와 입양처가 한정적임",
+    "털이 뻣뻣하고 곱슬거려 피부가 예민한 개체의 경우 피부병 여부를 잘 살펴야 함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,000,000원",
+    "monthly_care_cost": "약 100,000원 - 160,000원"
+  },
+  "summary_en": "The American Wirehair is a breed of domestic cat originating in upstate New York. It is best known for its unique 'wire' coat, which resulted from a natural mutation.",
+  "summary_ko": "미국 뉴욕에서 발견된 돌연변이에서 시작된 품종으로, 특유의 거칠고 탄력 있는 곱슬털이 매력적인 개성파 고양이입니다.",
+  "appearance_en": "Unique 'steel wool' coat texture, dense and coarse crimped hair, muscular build similar to American Shorthair.",
+  "appearance_ko": "철수세미나 양모처럼 거칠고 꼬불꼬불한 독특한 털 질감이 상징입니다. 근육질의 튼튼한 체형을 가졌으며 수염까지 곱슬거리는 경우가 많습니다.",
+  "personality_en": "Easy-going, affectionate, and intelligent. They are known for being quiet but active and get along well with all members of the family, including other pets.",
+  "personality_ko": "성격은 매우 차분하고 독립적이면서도 가족에게는 한없이 다정합니다. 아메리칸 쇼트헤어처럼 적응력이 뛰어나고 환경 변화에 대담하게 대처합니다. 헛울음이 거의 없고 조용한 편이라 아파트 생활에도 아주 잘 어울리는 성숙한 고양이입니다.",
+  "care_en": "Requires minimal grooming—in fact, too much brushing can damage the delicate wiry coat. They need occasional baths to manage skin oils, as the wiry coat doesn't always distribute oils effectively.",
+  "care_ko": "털 관리가 매우 독특합니다. 너무 자주 빗질하면 와이어 모양의 털이 손상될 수 있으므로 가벼운 빗질만 권장됩니다. 대신 털 사이로 유분이 쌓이기 쉬우므로 주기적인 목욕과 피부 상태 확인이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "No specific breed-related issues",
+      "name_ko": "특이 유전병 없음",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "털을 만지면 아픈가요?",
+      "answer_ko": "아니요, 철사처럼 거칠게 보일 뿐 실제로는 탄력 있고 복슬복슬한 느낌입니다. 뻣뻣한 테디베어 인형을 만지는 것과 비슷한 독특한 즐거움을 줍니다."
+    },
+    {
+      "question_ko": "아메리칸 쇼트헤어랑 가족인가요?",
+      "answer_ko": "네, 아메리칸 쇼트헤어에서 자연 발생한 돌연변이 품종이므로 체형과 성격 면에서 매우 유사한 형제 품종이라고 볼 수 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "아메리칸 쇼트헤어와 생김새는 비슷하지만, 털을 만졌을 때 부드럽지 않고 거칠고 탄력 있는 와이어(Wire) 느낌인지 확인하세요.",
+  "meta_tags": {
+    "title": "아메리칸 와이어헤어 도감: 철사 같은 털의 비밀, 성격, 관리 팁 | nyan",
+    "description": "세상에서 가장 특별한 털 질감, 아메리칸 와이어헤어의 모든 것. 거친 와이어 코트의 비밀과 튼튼한 건강 관리법, 실제 분양가를 nyan에서 확인하세요.",
+    "keywords": [
+      "아메리칸와이어헤어",
+      "와이어헤어고양이",
+      "철사고양이",
+      "튼튼한고양이",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/american-wirehair/american-wirehair_hero.webp",
+  "image_macro_path": "/images/Nyan/american-wirehair_macro.png",
+  "image_fullbody_path": "/images/Nyan/american-wirehair/american-wirehair_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/american-wirehair/american-wirehair_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생 종으로 유전병에 매우 강하며, 아메리칸 쇼트헤어의 혈통답게 매우 장수하는 품종입니다.",
+  "local_rarity_ko": "전 세계적으로도 개체 수가 적은 희귀 품종이며 국내에서는 실물을 보기가 거의 불가능할 정도로 귀합니다. 특별한 털 질감과 건강한 신체를 원하는 집사들에게 최고의 품종입니다.",
+  "similar_breed_ids": [
+    "american-shorthair",
+    "british-shorthair",
+    "laperm"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/american-wirehair/american-wirehair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/american-wirehair/american-wirehair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/american-wirehair/american-wirehair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/american-wirehair/american-wirehair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/american-wirehair/american-wirehair_variant_full_body.webp"
+}

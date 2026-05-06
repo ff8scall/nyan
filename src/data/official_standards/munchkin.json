@@ -1,0 +1,24 @@
+{
+  "id": "munchkin",
+  "name": "Munchkin",
+  "official_standard": {
+    "overall": "Racy, low-slung style built for speed and agility. Short legs with a dachshund-like silhouette, but average body size (5-9 lbs).",
+    "personality": "Extremely social, energetic, and playful. Known for sitting up on hind legs like a rabbit. Intelligent and capable of learning fetch or walking on a leash. 'Hoarder' tendency to hide shiny objects.",
+    "physical_traits": {
+      "head": "Modified wedge with gently rounded contours.",
+      "eyes": "Walnut-shaped, large, and alert.",
+      "ears": "Broad at the base with slightly rounded tips.",
+      "body": "Muscular and firm, medium size.",
+      "legs": "Short and evenly set, slight bowing permitted.",
+      "tail": "Tapers to a rounded tip, carried upright when moving.",
+      "coat": "Shorthair (dense and resilient) or Longhair (soft and silky)."
+    },
+    "representative_colors": [
+      "Tortoiseshell",
+      "Calico",
+      "Seal Point",
+      "Blue"
+    ],
+    "official_image_url": "https://tica.org/wp-content/uploads/2018/08/Munchkin-Full-Body.jpg"
+  }
+}

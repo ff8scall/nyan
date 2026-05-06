@@ -1,0 +1,114 @@
+{
+  "id": "cornish-rex",
+  "name_en": "Cornish Rex",
+  "name_ko": "코니시 렉스",
+  "aliases_ko": [
+    "경주용 고양이",
+    "그레이하운드 캣"
+  ],
+  "origin_country": "United Kingdom",
+  "size_category": "small_to_medium",
+  "body_type": "oriental",
+  "coat_length": "short_and_curly",
+  "coat_texture": "soft_and_rippled",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 4.5,
+  "lifespan_min_years": 11,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 1,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 2,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "털 빠짐이 거의 없어 알레르기가 있는 사람이나 위생에 민감한 집사에게 최적임",
+    "지능이 높고 매우 활동적이어서 집사와 함께하는 동적인 놀이에 최고임",
+    "독특한 외모와 곱슬털로 인해 희소성 있는 반려 생활을 즐길 수 있음"
+  ],
+  "cons": [
+    "끊임없이 움직이고 점프하는 성격이라 조용한 고양이를 원하는 집사에게는 부적합함",
+    "털이 매우 짧고 얇아 추위를 많이 타며 겨울철 난방과 의류 착용이 필수적임",
+    "먹는 것을 매우 좋아해 자율 배식 시 순식간에 비만이 될 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Cornish Rex is a breed of domestic cat. The Cornish Rex has no hair other than down. Most breeds of cat have three different types of hair in their coats.",
+  "summary_ko": "곱슬거리는 털과 날렵한 몸매로 '고양이계의 그레이하운드'라 불립니다. 속털로만 이루어진 신비로운 물결무늬 털과 지치지 않는 에너지를 가진 매력적인 활동가입니다.",
+  "appearance_en": "Characterized by its arched back, slender body, and curly coat. They have large ears and a small, egg-shaped head. Their coat is extremely soft and forms tight, uniform waves.",
+  "appearance_ko": "허리가 위로 굽은 아치형 등과 긴 다리를 가진 '오리엔탈(Oriental)' 체형입니다. 계란형의 작은 머리와 커다란 귀가 특징입니다. 가장 큰 특징은 겉털 없이 속털로만 이루어진 촘촘한 물결무늬 곱슬털로, 만지면 마치 비단이나 새털처럼 부드럽습니다.",
+  "personality_en": "Extremely active, playful, and intelligent. They love to jump, run, and play games like fetch. They are very social and enjoy being involved in their owners' daily activities.",
+  "personality_ko": "에너지가 폭발적이고 호기심이 많습니다. 높은 곳을 잘 뛰어오르고 물건을 던져주면 가져오는 등 강아지 같은 면모도 보여줍니다. 집사와 노는 것을 인생의 즐거움으로 삼는 사교적인 품종입니다.",
+  "care_en": "Low-maintenance coat that needs only minimal grooming. However, they are sensitive to temperature changes and need a warm indoor environment. They also have a hearty appetite and require controlled feeding.",
+  "care_ko": "털 관리는 거의 필요 없지만, 피부 유분 관리를 위해 가끔 젖은 수건으로 닦아주는 것이 좋습니다. 추위에 매우 약하므로 겨울철 온열 기구와 옷을 준비해 주어야 합니다. 식탐이 많으므로 비만이 되지 않도록 운동량을 채워주는 것이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Patellar Luxation",
+      "name_ko": "무릎뼈 탈구",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 털이 안 빠지나요?",
+      "answer_ko": "네, 고양이 중 털 빠짐이 가장 적은 축에 속합니다. 겉털이 아예 없고 부드러운 속털만 있기 때문에 털 날림 걱정을 거의 하지 않아도 되는 품종입니다."
+    },
+    {
+      "question_ko": "왜 등이 굽어 있나요?",
+      "answer_ko": "코니시 렉스 특유의 골격 구조 때문입니다. 이는 질병이 아니라 경주용 개처럼 빠르게 달리고 높이 뛰어오르기 위해 진화한 날렵한 신체적 특징입니다."
+    }
+  ],
+  "visual_comparison_tip": "데본 렉스보다 다리가 더 길고 허리가 휘어진 '오리엔탈' 체형인지, 그리고 털이 더 촘촘한 물결무늬인지 확인하세요.",
+  "meta_tags": {
+    "title": "코니시 렉스 도감: 성격, 털 빠짐, 곱슬털 관리 팁 | nyan",
+    "description": "세상에서 가장 날렵한 곱슬 고양이 코니시 렉스의 모든 것. 털 안 빠지는 고양이의 끝판왕! 실제 분양가와 활동량, 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "코니시렉스",
+      "털안빠지는고양이",
+      "곱슬고양이",
+      "경주용고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/cornish-rex/cornish-rex_hero.webp",
+  "image_macro_path": "/images/Nyan/cornish-rex_macro.png",
+  "image_fullbody_path": "/images/Nyan/cornish-rex/cornish-rex_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/cornish-rex/cornish-rex_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 무릎뼈 탈구에 대한 주의가 필요하며, 털이 적어 피부염에 유의해야 합니다.",
+  "local_rarity_ko": "국내에서 매우 희귀하고 특별한 품종으로 인식되고 있습니다. 독특한 외모 덕분에 패션 화보나 예술 작가들의 반려묘로 자주 등장하며, 털 빠짐이 적어 깔끔한 실내 생활을 선호하는 분들에게 인기가 높습니다.",
+  "similar_breed_ids": [
+    "devon-rex",
+    "sphynx",
+    "oriental-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/cornish-rex/cornish-rex_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/cornish-rex/cornish-rex_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/cornish-rex/cornish-rex_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/cornish-rex/cornish-rex_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/cornish-rex/cornish-rex_variant_full_body.webp"
+}

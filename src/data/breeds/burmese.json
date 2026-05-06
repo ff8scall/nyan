@@ -1,0 +1,116 @@
+{
+  "id": "burmese",
+  "name_en": "Burmese",
+  "name_ko": "버미즈",
+  "aliases_ko": [
+    "버마 고양이"
+  ],
+  "origin_country": "Myanmar (Burma)",
+  "size_category": "medium",
+  "body_type": "cobby",
+  "coat_length": "short",
+  "coat_texture": "satin_like",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "sable",
+    "champagne",
+    "platinum",
+    "blue"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 6.5,
+  "lifespan_min_years": 10,
+  "lifespan_max_years": 17,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 4,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 4,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "매우 사교적이고 애교가 많아 '개냥이'의 정석이라 불림",
+    "털이 매우 짧고 부드러워 관리가 거의 필요 없음",
+    "지능이 높고 사람의 감정을 잘 파악하며 장난감을 가져오는 놀이도 가능함"
+  ],
+  "cons": [
+    "혼자 있는 것을 극도로 싫어하여 장시간 집을 비우는 경우 분리불안이 생길 수 있음",
+    "매우 활동적이고 장난기가 많아 나이가 들어도 에너지가 넘침",
+    "목소리가 크고 수다스러워 조용한 환경을 원하는 사람에게는 부적합할 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원",
+    "monthly_care_cost": "약 100,000원 - 180,000원"
+  },
+  "summary_en": "The Burmese is a breed of domestic cat, originating in Southeast Asia and further developed in the United States and Britain.",
+  "summary_ko": "미얀마(옛 버마)가 고향인 이 고양이는 '구리로 만든 고양이'라는 별명이 있을 정도로 단단하고 아름다운 체구와 실크 같은 털을 자랑합니다. 사람을 너무나 좋아해 그림자처럼 따라다니는 것으로 유명합니다.",
+  "appearance_en": "Medium-sized with a solid, muscular build. They are known for their short, satin-like coat and large, expressive golden or yellow eyes.",
+  "appearance_ko": "중간 크기지만 들어보면 보기보다 묵직한 '벽돌' 같은 근육질 체형입니다. 매우 짧고 몸에 밀착된 실크 같은 털이 특징이며, 크고 둥근 황금색 눈이 매력적입니다.",
+  "personality_en": "Extremely social, affectionate, and people-oriented. They often maintain a kitten-like playfulness throughout their lives.",
+  "personality_ko": "고양이의 탈을 쓴 강아지라고 불릴 만큼 사람을 좋아합니다. 집사의 모든 활동에 참여하고 싶어 하며, 매우 영리하고 수다스러운 성격을 가지고 있습니다.",
+  "care_en": "Very low maintenance in terms of grooming. However, they require a lot of social interaction and mental stimulation.",
+  "care_ko": "단모종 중에서도 털 관리가 가장 쉬운 편에 속합니다. 하지만 외로움을 많이 타기 때문에 매일 충분한 시간 동안 놀아주고 함께 있어 주어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypokalemia",
+      "name_ko": "저칼륨혈증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Diabetes",
+      "name_ko": "당뇨병",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "샴 고양이와 무엇이 다른가요?",
+      "answer_ko": "샴은 눈이 파란색이고 체형이 가늘지만, 버미즈는 눈이 노란색/금색이며 체형이 훨씬 둥글고 단단합니다."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "단모종 중에서도 속털이 거의 없어 털 빠짐이 매우 적은 편에 속합니다."
+    }
+  ],
+  "visual_comparison_tip": "샴 고양이와 비슷해 보일 수 있지만, 체형이 훨씬 둥글고 단단하며 눈 색깔이 금색이나 노란색인 것이 특징입니다.",
+  "meta_tags": {
+    "title": "버미즈 고양이 도감: 성격, 수명, 사교성 및 관리 팁 | nyan",
+    "description": "세상에서 가장 다정한 고양이 버미즈. 실크 같은 털과 황금빛 눈을 가진 버미즈의 모든 정보를 박물관급 퀄리티로 확인하세요.",
+    "keywords": [
+      "버미즈",
+      "버마고양이",
+      "개냥이",
+      "단모종",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/burmese/burmese_hero.webp",
+  "image_macro_path": "/images/Nyan/burmese_macro.png",
+  "image_fullbody_path": "/images/Nyan/burmese/burmese_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/burmese/burmese_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "대체로 건강하지만 유전적으로 저칼륨혈증이나 당뇨병에 주의가 필요할 수 있습니다.",
+  "local_rarity_ko": "국내에서는 희귀한 편이며, 버미즈 특유의 사교성과 아름다운 모색을 사랑하는 마니아 층이 두텁습니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "tonkinese",
+    "bombay"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/burmese/burmese_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/burmese/burmese_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/burmese/burmese_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/burmese/burmese_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/burmese/burmese_variant_full_body.webp"
+}

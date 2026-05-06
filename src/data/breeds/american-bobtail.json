@@ -1,0 +1,116 @@
+{
+  "id": "american-bobtail",
+  "name_en": "American Bobtail",
+  "name_ko": "아메리칸 밥테일",
+  "aliases_ko": [
+    "야생의 짧은꼬리",
+    "골든 레트리버 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "substantial",
+  "coat_length": "short_to_long",
+  "coat_texture": "shaggy_and_dense",
+  "common_patterns": [
+    "all_patterns",
+    "tabby"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 13,
+  "lifespan_max_years": 15,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "야생 살쾡이를 닮은 강인한 외모와 달리 성격이 매우 온순하고 가족에게 헌신적임",
+    "지능이 매우 높고 적응력이 뛰어나 여행이나 산책을 함께 즐기기에 최적화된 품종임",
+    "다른 반려동물이나 아이들과도 금방 친구가 되는 놀라운 사회성을 가졌음"
+  ],
+  "cons": [
+    "매우 드문 품종이라 전문 캐터리를 찾기가 어렵고 분양가가 높은 편임",
+    "짧은 꼬리(밥테일)는 유전적 특징이지만 척추 건강에 대한 주기적인 체크가 필요할 수 있음",
+    "활동량이 적지 않아 지루함을 느끼지 않도록 풍부한 놀이 환경이 제공되어야 함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The American Bobtail is an uncommon breed of domestic cat which was developed in the late 1960s. It is most notable for its stubby 'bobbed' tail and its dog-like personality.",
+  "summary_ko": "'야생의 외모를 가진 순둥이'로 불리며, 강아지처럼 영리하고 집사를 잘 따르는 짧은 꼬리 고양이입니다.",
+  "appearance_en": "Natural short tail (1/3 to 1/2 length), sturdy rectangular body, 'wild' look with a dense double coat.",
+  "appearance_ko": "자연적으로 짧은 꼬리(정상 길이의 1/3~1/2)와 직사각형의 튼튼한 몸집이 특징입니다. 이중모의 빽빽한 털 덕분에 야생적인 분위기를 풍깁니다.",
+  "personality_en": "Extremely social, intelligent, and easy-going. They are often compared to dogs because of their loyalty and ability to learn tricks or walk on a leash. They are very sensitive to human emotions and make excellent therapy cats.",
+  "personality_ko": "성격이 매우 대담하고 우호적입니다. 집사에 대한 애착이 강해 문 앞에서 기다리거나 물건을 물어오는 등 강아지 같은 행동을 자주 합니다. 환경 변화에 대한 적응력이 매우 뛰어나 함께 여행하거나 외출하는 것을 즐기기도 합니다.",
+  "care_en": "Requires regular brushing to manage their dense double coat, especially during shedding seasons. They need plenty of mental stimulation and interactive play to satisfy their high intelligence.",
+  "care_ko": "털이 빽빽하고 층이 많으므로 주 2~3회 이상의 정기적인 빗질이 필요합니다. 지능이 매우 높으므로 단순한 놀이보다는 난이도 있는 장난감이나 집사와 함께하는 훈련을 병행해 주는 것이 정서 발달에 매우 좋습니다.",
+  "known_risks": [
+    {
+      "name_en": "Spinal issues (due to short tail)",
+      "name_ko": "척추 질환",
+      "severity_note": "Low to Moderate"
+    },
+    {
+      "name_en": "Hip dysplasia",
+      "name_ko": "고관절 이형성증",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 산책이 가능한가요?",
+      "answer_ko": "네, 아메리칸 밥테일은 적응력이 매우 뛰어나고 호기심이 많아 하네스 교육을 통해 함께 산책하거나 여행하는 집사들이 많습니다."
+    },
+    {
+      "question_ko": "꼬리가 아예 없는 건가요?",
+      "answer_ko": "아니요, 맹크스와 달리 짧지만 분명한 꼬리가 존재하며, 이 꼬리는 매우 유연하게 움직입니다."
+    }
+  ],
+  "visual_comparison_tip": "재재패니즈 밥테일보다 덩치가 크고 근육질이며, 꼬리가 조금 더 길고 유연한지 확인하세요.",
+  "meta_tags": {
+    "title": "아메리칸 밥테일 도감: 성격, 짧은 꼬리의 특징, 야생적인 매력 가이드 | nyan",
+    "description": "거실의 레트리버, 아메리칸 밥테일의 모든 것. 짧은 꼬리의 비밀과 영리한 지능, 실제 분양가와 다정한 성격을 nyan에서 확인하세요.",
+    "keywords": [
+      "아메리칸밥테일",
+      "밥테일고양이",
+      "짧은꼬리고양이",
+      "개냥이추천",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/american-bobtail/american-bobtail_hero.webp",
+  "image_macro_path": "/images/Nyan/american-bobtail_macro.png",
+  "image_fullbody_path": "/images/Nyan/american-bobtail/american-bobtail_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/american-bobtail/american-bobtail_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생 종이라 대체로 건강하지만, 짧은 꼬리와 관련된 척추 문제가 발생할 수 있으므로 주의 깊은 관찰이 필요합니다.",
+  "local_rarity_ko": "국내에서 매우 보기 힘든 희귀 품종입니다. 야생적인 카리스마와 개냥이의 다정함을 동시에 원하는 고급 집사들 사이에서 선망의 대상이 되는 품종입니다.",
+  "similar_breed_ids": [
+    "japanese-bobtail",
+    "pixie-bob",
+    "maine-coon"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/american-bobtail/american-bobtail_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/american-bobtail/american-bobtail_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/american-bobtail/american-bobtail_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/american-bobtail/american-bobtail_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/american-bobtail/american-bobtail_variant_full_body.webp"
+}

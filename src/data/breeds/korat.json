@@ -1,0 +1,115 @@
+{
+  "id": "korat",
+  "name_en": "Korat",
+  "name_ko": "코랏",
+  "aliases_ko": [
+    "태국의 행운 고양이",
+    "하트 고양이"
+  ],
+  "origin_country": "Thailand",
+  "size_category": "medium",
+  "body_type": "semi-cobby",
+  "coat_length": "short",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "silver_blue"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 4.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 3,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 2
+  },
+  "pros": [
+    "태국에서 '행운의 상징'으로 통하며 신비로운 은청색 털과 하트 모양 얼굴이 매우 아름다움",
+    "집사에 대한 충성심과 애착이 매우 강해 정서적으로 깊은 유대감을 형성할 수 있음",
+    "단모종에 속털이 없어 털 빠짐이 적고 관리가 매우 쉬우며 영리한 두뇌를 가짐"
+  ],
+  "cons": [
+    "소음이나 갑작스러운 변화에 매우 예민하여 조용하고 안정적인 환경이 필수적임",
+    "집사의 관심을 독점하려는 경향이 있어 다묘 가정에서는 질투심을 보일 수 있음",
+    "국내외적으로 개체 수가 매우 적어 순종 코랏을 만나기가 매우 어려운 희귀 품종임"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,000,000원 이상 (희귀 품종)",
+    "monthly_care_cost": "약 110,000원 - 170,000원"
+  },
+  "summary_en": "The Korat is a silver-blue-colored cat breed that originated in Thailand. It is a symbol of good luck and prosperity in its native country.",
+  "summary_ko": "태국에서 결혼 선물로 주어질 만큼 귀한 '행운의 메신저'입니다. 얼굴 전체가 사랑스러운 하트 모양을 띠고 있으며, 은빛 광택이 흐르는 푸른 털과 보석 같은 초록색 눈을 가진 신비로운 고양이입니다.",
+  "appearance_en": "Medium-sized with a muscular, semi-cobby body. They are famous for their silver-blue coat with silver-tipped hairs and their unique heart-shaped head. Their large eyes turn from amber to luminous green as they mature.",
+  "appearance_ko": "근육이 잘 발달한 '세미 코비(Semi-cobby)' 체형으로 작지만 단단한 느낌을 줍니다. 이마, 눈썹, 턱 라인이 모두 하트 모양을 그리는 독특한 얼굴형이 상징입니다. 털은 짧고 속털이 없으며, 털끝에 은빛이 돌아 움직일 때마다 빛이 납니다. 눈 색깔은 성묘가 되면 선명한 에메랄드 그린으로 변합니다.",
+  "personality_en": "Deeply affectionate, loyal, and social with their families. They have keen senses and prefer quiet environments. They are very intelligent and can be quite possessive of their owners.",
+  "personality_ko": "가족에 대한 사랑이 매우 깊고 충직합니다. 집사를 졸졸 따라다니며 교감하는 것을 좋아하지만, 예민한 감각을 가지고 있어 시끄러운 환경보다는 조용한 교감을 선호합니다. 영리하여 상황 판단이 빠르고 집사의 기분을 잘 살피는 섬세한 성격입니다.",
+  "care_en": "Minimal grooming is needed due to their single coat. They thrive in calm environments and require plenty of interaction. They are known for their exceptional hearing and sense of smell.",
+  "care_ko": "털 관리는 매우 쉽지만, 소음에 예민하므로 큰 소리가 나는 가전제품이나 복잡한 환경은 피하는 것이 좋습니다. 집사와의 긴밀한 유대감을 원하므로 매일 규칙적인 놀이와 대화 시간을 갖는 것이 정서 안정에 큰 도움이 됩니다.",
+  "known_risks": [
+    {
+      "name_en": "Gangliosidosis",
+      "name_ko": "강글리오시드증",
+      "severity_note": "Moderate to High"
+    },
+    {
+      "name_en": "Anesthesia sensitivity",
+      "name_ko": "마취 민감성",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "러시안 블루와 어떻게 다른가요?",
+      "answer_ko": "가장 큰 차이는 얼굴형입니다. 러블은 쐐기형 얼굴인 반면 코랏은 하트 모양입니다. 또한 코랏은 속털이 없는 싱글 코트라 털이 몸에 더 밀착되어 있습니다."
+    },
+    {
+      "question_ko": "행운을 정말 가져다주나요?",
+      "answer_ko": "태국 전통에 따르면 코랏은 번영과 행복을 상징합니다. 특히 농부들에게는 비를 부르는 영물로, 신혼부부에게는 행복한 가정을 부르는 행운의 상징으로 여겨졌습니다."
+    }
+  ],
+  "visual_comparison_tip": "러시안 블루와 비슷해 보이지만, 코랏은 얼굴이 하트 모양이고 눈 색깔이 반드시 '에메랄드 그린'인지 확인하세요.",
+  "meta_tags": {
+    "title": "코랏 도감: 성격, 하트 모양 얼굴, 태국의 행운 고양이 비밀 | nyan",
+    "description": "태국의 보물, 코랏의 모든 것. 은청색 실크 코트와 에메랄드 눈, 실제 분양가와 예민한 성격 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "코랏",
+      "태국고양이",
+      "은청색고양이",
+      "하트얼굴고양이",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/korat/korat_hero.webp",
+  "image_macro_path": "/images/Nyan/korat_macro.png",
+  "image_fullbody_path": "/images/Nyan/korat/korat_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/korat/korat_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "매우 드물게 강글리오시드증(GM1/GM2)이라는 유전병이 나타날 수 있으므로 브리더를 통한 확인이 필요합니다.",
+  "local_rarity_ko": "국내에서 거의 찾아보기 힘든 희귀 품종입니다. 러시안 블루와 혼동되는 경우가 많지만, 하트 모양의 얼굴과 눈 색깔의 차이를 아는 매니아들에게는 최고의 보물로 여겨집니다.",
+  "similar_breed_ids": [
+    "russian-blue",
+    "chartreux",
+    "british-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/korat/korat_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/korat/korat_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/korat/korat_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/korat/korat_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/korat/korat_variant_full_body.webp"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "russian-blue",
+  "name_en": "Russian Blue",
+  "name_ko": "러시안 블루",
+  "aliases_ko": [
+    "러블",
+    "은빛 고양이"
+  ],
+  "origin_country": "Russia",
+  "size_category": "medium",
+  "body_type": "foreign",
+  "coat_length": "short",
+  "coat_texture": "double_and_plush",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "blue"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 15,
+  "lifespan_max_years": 20,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 3,
+  "playfulness_level": 3,
+  "affection_level": 4,
+  "independence_level": 4,
+  "vocal_level": 1,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 4,
+    "dogs_score": 3,
+    "strangers_score": 2
+  },
+  "pros": [
+    "매우 조용하고 헛울음이 없어 아파트 생활에 완벽함",
+    "지능이 높고 눈치가 빨라 집사의 감정을 잘 살핌",
+    "단모종 중 털 빠짐이 상대적으로 덜하고 관리가 쉬움"
+  ],
+  "cons": [
+    "낯가림이 심해 새로운 사람이나 환경에 적응하는 시간이 필요함",
+    "집사가 너무 무관심하면 외로움을 타고 우울해할 수 있음",
+    "한 사람에게만 깊게 애착을 보이는 해바라기 성향이 강함"
+  ],
+  "economics": {
+    "price_range_ko": "800,000원 - 2,000,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 100,000원 - 150,000원"
+  },
+  "summary_en": "The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey.",
+  "summary_ko": "은빛 광택이 도는 푸른색 털과 신비로운 초록색 눈을 가진 '은빛 귀족'입니다. 수줍음이 많지만 한 번 마음을 열면 무한한 애정을 쏟아내는 다정한 동반자입니다.",
+  "appearance_en": "Characterized by its short, dense, double coat that stands away from the body. They have a slender, elegant 'foreign' body type, emerald green eyes, and a distinct 'smile'.",
+  "appearance_ko": "가늘고 늘씬한 뼈대에 탄탄한 근육을 가진 '포린(Foreign)' 체형입니다. 털은 짧지만 매우 빽빽한 이중모로, 털 끝에 은색 광택이 도는 것이 특징입니다. 선명한 초록색 눈과 입가가 살짝 올라간 듯한 '러시안 스마일'이 매력 포인트입니다.",
+  "personality_en": "Quiet, shy, and highly intelligent. They are known to be sensitive to human emotions and prefer a calm, predictable environment. They form strong bonds with their primary caregivers.",
+  "personality_ko": "매우 영리하고 조용합니다. 시끄러운 환경보다는 평화로운 일상을 선호하며, 집사의 기분을 살필 줄 아는 섬세한 성격입니다. 낯선 사람에게는 수줍어하지만 가족에게는 장난기 많고 다정한 모습을 보입니다.",
+  "care_en": "Requires minimal grooming, with weekly brushing to remove dead hair. They are very clean cats and are fastidious about their litter box. They enjoy high places and interactive play.",
+  "care_ko": "털 관리가 매우 쉬운 편이며 주 1~2회 빗질로 충분합니다. 결벽증에 가까울 정도로 깔끔한 성격이므로 화장실 청결에 각별히 신경 써야 합니다. 높은 곳을 좋아하므로 캣타워가 있으면 좋습니다.",
+  "known_risks": [
+    {
+      "name_en": "Obesity",
+      "name_ko": "비만",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Progressive Retinal Atrophy (PRA)",
+      "name_ko": "진행성 망막 위축증",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "눈 색깔이 변하나요?",
+      "answer_ko": "네, 아기 고양이 때는 청회색이었다가 노란색을 거쳐 생후 2년 정도가 되면 선명한 에메랄드 초록색으로 완성됩니다."
+    },
+    {
+      "question_ko": "정말 알레르기가 없나요?",
+      "answer_ko": "알레르기 유발 단백질(Fel d 1) 배출량이 다른 고양이보다 적다고 알려져 있지만, 아예 없는 것은 아닙니다. 반드시 사전 접촉을 통해 반응을 확인해야 합니다."
+    }
+  ],
+  "visual_comparison_tip": "브리티시 숏헤어 블루보다 훨씬 날렵한 체형과 에메랄드빛 초록색 눈을 가졌는지 확인하세요.",
+  "meta_tags": {
+    "title": "러시안 블루 도감: 성격, 수명, 초록색 눈의 비밀 | nyan",
+    "description": "은빛 귀족 러시안 블루의 모든 것. 왜 초보 집사에게 최고의 선택인지, 실제 분양가와 조용한 성격의 장점을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "러시안블루",
+      "러블",
+      "은색고양이",
+      "초보집사추천",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/russian-blue/russian-blue_hero.webp",
+  "image_macro_path": "/images/Nyan/russian-blue_macro.png",
+  "image_fullbody_path": "/images/Nyan/russian-blue/russian-blue_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/russian-blue/russian-blue_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "유전병이 거의 없는 건강한 품종이지만, 식탐이 많아 비만이 되기 쉬우므로 주의해야 합니다.",
+  "local_rarity_ko": "국내에서 가장 대중적이고 사랑받는 품종 중 하나입니다. 단모종 중 알레르기를 덜 유발한다는 평이 있어 알레르기가 있는 예비 집사들의 첫 번째 고려 대상이 되기도 합니다.",
+  "similar_breed_ids": [
+    "chartreux",
+    "british-shorthair",
+    "korat"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/russian-blue/russian-blue_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/russian-blue/russian-blue_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/russian-blue/russian-blue_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/russian-blue/russian-blue_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/russian-blue/russian-blue_variant_full_body.webp"
+}

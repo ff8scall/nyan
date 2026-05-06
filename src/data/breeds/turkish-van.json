@@ -1,0 +1,117 @@
+{
+  "id": "turkish-van",
+  "name_en": "Turkish Van",
+  "name_ko": "터키시 반",
+  "aliases_ko": [
+    "수영하는 고양이",
+    "터키의 보물"
+  ],
+  "origin_country": "Turkey",
+  "size_category": "large",
+  "body_type": "substantial",
+  "coat_length": "long",
+  "coat_texture": "silky_and_water_repellent",
+  "common_patterns": [
+    "van_pattern"
+  ],
+  "common_colors": [
+    "red",
+    "cream",
+    "black",
+    "blue"
+  ],
+  "weight_min_kg": 4.5,
+  "weight_max_kg": 9.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 17,
+  "grooming_level": 3,
+  "shedding_level": 4,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 3,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "물을 매우 좋아하여 수영을 즐기는 등 독특하고 재미있는 습성을 가짐",
+    "지능이 높고 에너지가 넘쳐 집사와 함께하는 동적인 놀이에 최고임",
+    "장모종임에도 속털이 없어 털 엉킴이 적고 관리가 매우 쉬움"
+  ],
+  "cons": [
+    "활동량이 매우 많아 좁은 공간에서는 스트레스를 받거나 사고를 칠 수 있음",
+    "덩치가 크고 힘이 세서 물건을 떨어뜨리거나 집안을 어지럽히기 쉬움",
+    "관심받는 것을 좋아해 집사가 바쁠 때도 계속해서 놀이를 요구함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Turkish Van is a semi-long-haired breed of domestic cat, which was developed in the United Kingdom from a selection of cats obtained from various cities of modern Turkey.",
+  "summary_ko": "터키 반 호수 근처에서 유래한 '수영하는 고양이'로, 강인한 체력과 독특한 무늬, 그리고 물에 대한 두려움이 없는 용맹한 품종입니다.",
+  "appearance_en": "Large muscular 'swimming cat', cashmere-like texture coat, color only on head and tail (Van pattern).",
+  "appearance_ko": "머리와 꼬리에만 무늬가 있고 몸은 하얀 '반(Van)' 패턴이 상징입니다. 방수 기능이 있는 캐시미어 같은 털을 가졌으며, 고양이 중 드물게 물놀이를 즐기는 것으로 유명합니다.",
+  "personality_en": "Extremely active, intelligent, and social. They are known for their love of water and their desire to participate in all household activities. They are often described as having dog-like loyalty.",
+  "personality_ko": "에너지가 넘치고 매우 영리합니다. 물에 대한 거부감이 전혀 없어 함께 목욕이나 물놀이를 즐길 수 있는 유일무이한 고양이입니다. 집사에게 매우 헌신적이며, 높은 곳을 정복하고 뛰어다니는 것을 즐기는 활동가입니다.",
+  "care_en": "Requires regular brushing to maintain their silky coat, although it mats less than other long-haired breeds. They need plenty of space and mental stimulation. Their love for water means they may try to join you in the shower.",
+  "care_ko": "속털이 없어 털 관리는 매우 쉽지만, 대형묘 특유의 활동량을 해소해 줄 수 있는 넓은 공간과 튼튼한 캣타워가 필수입니다. 물을 좋아하므로 화장실 변기 뚜껑을 닫아두거나 어항 관리에 주의해야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Obesity",
+      "name_ko": "비만",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 수영을 하나요?",
+      "answer_ko": "네, 많은 터키시 반들이 욕조나 수영장에서 스스로 헤엄을 치는 모습을 보입니다. 이는 야생 시절 호수에서 물고기를 잡던 습성이 남아있기 때문입니다."
+    },
+    {
+      "question_ko": "터키시 앙고라와 다른 점이 무엇인가요?",
+      "answer_ko": "가장 큰 차이는 덩치와 무늬입니다. 터키시 반은 훨씬 크고 묵직하며, 몸통이 비어 있고 머리와 꼬리에만 색이 있는 '반 패턴'이 필수적입니다."
+    }
+  ],
+  "visual_comparison_tip": "터키시 앙고라와 비슷하지만 덩치가 훨씬 크고, 머리와 꼬리에만 무늬가 있는 '반(Van)' 패턴인지 확인하세요.",
+  "meta_tags": {
+    "title": "터키시 반 도감: 성격, 수영하는 습성, 반(Van) 패턴의 비밀 | nyan",
+    "description": "수영하는 고양이 터키시 반의 모든 것. 물을 좋아하는 독특한 성격과 강인한 체력, 실제 분양가와 관리 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "터키시반",
+      "수영하는고양이",
+      "반패턴",
+      "대형묘",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/turkish-van/turkish-van_hero.webp",
+  "image_macro_path": "/images/Nyan/turkish-van_macro.png",
+  "image_fullbody_path": "/images/Nyan/turkish-van/turkish-van_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/turkish-van/turkish-van_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "전체적으로 매우 건강한 품종이지만, 대형묘에게 흔한 비대성 심근증(HCM) 정기 검진은 권장됩니다.",
+  "local_rarity_ko": "국내에서 매우 희귀하고 특별한 대접을 받는 품종입니다. 수영하는 습성 덕분에 유튜브나 SNS에서 큰 화제가 되기도 하며, 강인한 체력과 독특한 외모를 선호하는 집사들에게 최고의 워너비 품종입니다.",
+  "similar_breed_ids": [
+    "turkish-angora",
+    "maine-coon",
+    "norwegian-forest-cat"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/turkish-van/turkish-van_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/turkish-van/turkish-van_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/turkish-van/turkish-van_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/turkish-van/turkish-van_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/turkish-van/turkish-van_variant_full_body.webp"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "siamese",
+  "name_en": "Siamese",
+  "name_ko": "샴",
+  "aliases_ko": [
+    "샤미즈",
+    "타이 고양이",
+    "달의 다이아몬드"
+  ],
+  "origin_country": "Thailand",
+  "size_category": "medium",
+  "body_type": "oriental",
+  "coat_length": "short",
+  "coat_texture": "fine_and_glossy",
+  "common_patterns": [
+    "colorpoint"
+  ],
+  "common_colors": [
+    "seal",
+    "blue",
+    "chocolate",
+    "lilac"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 20,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 5,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "매우 사교적이고 집사에게 말을 거는 등 상호작용이 최고 수준임",
+    "털 관리가 거의 필요 없을 정도로 관리가 쉬운 단모종임",
+    "지능이 매우 높아 훈련이나 산책(일부)이 가능할 정도임"
+  ],
+  "cons": [
+    "목소리가 매우 크고 말이 많아 조용한 환경을 원하는 집사에게는 부적합함",
+    "외로움을 매우 많이 타서 1인 가구가 장시간 비우면 분리불안이 생길 수 있음",
+    "주목받는 것을 좋아해 집사가 다른 일을 할 때 계속 방해할 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "600,000원 - 1,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 100,000원 - 150,000원"
+  },
+  "summary_en": "The Siamese cat is one of the first distinctly recognized breeds of Asian cat, derived from the Wichianmat landrace.",
+  "summary_ko": "태국 왕실의 사랑을 받았던 '고양이의 여왕'입니다. 짙은 포인트 컬러와 사파이어처럼 푸른 눈, 그리고 집사에게 끊임없이 말을 거는 수다스러운 성격이 매력적인 대표적 개냥이입니다.",
+  "appearance_en": "Features an elegant, slender, and athletic body with almond-shaped blue eyes and a triangle-shaped head. They are famous for their colorpoint pattern, where color is restricted to the ears, face, paws, and tail.",
+  "appearance_ko": "가늘고 긴 뼈대와 날렵한 몸매를 가진 '오리엔탈(Oriental)' 체형입니다. 삼각형 머리와 크고 뾰족한 귀, 사파이어색 아몬드형 눈이 특징입니다. 온도에 반응하여 귀, 얼굴, 발, 꼬리에만 짙은 색이 나타나는 포인트 무늬가 상징입니다.",
+  "personality_en": "Highly social, intelligent, and vocal. They crave human companionship and are known to follow their owners around the house, 'talking' to them in a loud, distinctive voice.",
+  "personality_ko": "사람을 미칠 듯이 좋아하고 교감 능력이 매우 뛰어납니다. 집사가 가는 곳마다 따라다니며 특유의 크고 독특한 목소리로 말을 거는 '수다쟁이'입니다. 외로움을 많이 타서 집사와 항상 함께하고 싶어 합니다.",
+  "care_en": "Their short, fine coat needs minimal grooming—a quick weekly brush is enough. They are highly active and need lots of mental stimulation and interactive play to stay happy.",
+  "care_ko": "털 관리가 매우 쉬워 빗질보다는 쓰다듬어 주는 것만으로도 관리가 됩니다. 에너지가 넘치고 지능이 높으므로 단순한 놀이보다는 지능적인 놀이나 풍부한 환경 구성이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Amyloidosis",
+      "name_ko": "아밀로이드증",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Dental Disease",
+      "name_ko": "치과 질환",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "왜 이렇게 많이 우나요?",
+      "answer_ko": "샴에게 울음소리는 의사소통 수단입니다. 배가 고프거나, 심심하거나, 단순히 집사의 관심을 원할 때 끊임없이 말을 거는 성격 때문입니다."
+    },
+    {
+      "question_ko": "나이가 들면 털색이 진해지나요?",
+      "answer_ko": "네, 샴의 포인트 컬러는 체온이 낮은 부위에서 더 진하게 나타납니다. 나이가 들면서 체온 조절 능력이 변하거나 환경에 따라 몸 전체의 색이 조금씩 진해질 수 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "발리네즈와 무늬는 똑같지만 털이 아주 짧고 몸매가 더 날렵한 '오리엔탈' 체형인지 확인하세요.",
+  "meta_tags": {
+    "title": "샴 고양이 도감: 성격, 울음소리, 포인트 컬러의 비밀 | nyan",
+    "description": "고양이계의 수다쟁이 샴의 모든 것. 집사와의 깊은 유대감과 똑똑한 성격, 실제 분양가와 울음소리 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "샴고양이",
+      "샤미즈",
+      "수다쟁이고양이",
+      "개냥이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/siamese/siamese_hero.webp",
+  "image_macro_path": "/images/Nyan/siamese_macro.png",
+  "image_fullbody_path": "/images/Nyan/siamese/siamese_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/siamese/siamese_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, long hair, bulky body, green eyes",
+  "health_notes_ko": "치과 질환과 아밀로이드증(간 질환)에 대한 정기적인 모니터링이 권장됩니다.",
+  "local_rarity_ko": "국내에서 가장 인지도 높은 품종 중 하나입니다. 합리적인 분양가와 뛰어난 애교 덕분에 국민 고양이 수준으로 사랑받고 있으며, 초보 집사들에게도 강력 추천되는 품종입니다.",
+  "similar_breed_ids": [
+    "oriental-shorthair",
+    "balinese",
+    "burmese"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/siamese/siamese_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/siamese/siamese_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/siamese/siamese_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/siamese/siamese_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/siamese/siamese_variant_full_body.webp"
+}

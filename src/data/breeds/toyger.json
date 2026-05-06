@@ -1,0 +1,115 @@
+{
+  "id": "toyger",
+  "name_en": "Toyger",
+  "name_ko": "토이거",
+  "aliases_ko": [
+    "거실 위의 호랑이",
+    "미니 타이거"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "substantial",
+  "coat_length": "short",
+  "coat_texture": "smooth_and_glittery",
+  "common_patterns": [
+    "mackerel_tabby_modified"
+  ],
+  "common_colors": [
+    "orange_and_black"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 3,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "호랑이의 수직 줄무늬를 완벽하게 재현한 압도적이고 경이로운 외모를 가짐",
+    "야생적인 외모와 달리 성격이 매우 온화하고 사람을 잘 따르며 사교적임",
+    "지능이 높고 건강하며, 집안에서도 맹수의 카리스마를 느낄 수 있는 특별한 존재감"
+  ],
+  "cons": [
+    "호랑이와 흡사한 줄무늬(브랜치 타이거 스트라이프) 퀄리티에 따라 분양가가 매우 높음",
+    "활동량이 많아 수직 공간과 충분한 놀이 공간이 확보되지 않으면 스트레스를 받을 수 있음",
+    "국내외적으로 전문 브리더가 매우 적어 입양을 위해 긴 대기 시간이 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 5,000,000원 이상 (프리미엄 퀄리티)",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Toyger is a breed of domestic cat, the result of breeding domestic shorthaired tabbies to make them resemble a 'toy tiger'.",
+  "summary_ko": "호랑이의 야성미를 집 안에서 즐길 수 있도록 만들어진 예술적인 품종으로, 외모와 달리 매우 침착하고 친화력이 뛰어난 신사입니다.",
+  "appearance_en": "Miniature tiger look, modified mackerel tabby with circular stripes, muscular body, and glittery soft coat.",
+  "appearance_ko": "'거실용 호랑이'를 목표로 개량되어 몸 전체를 감싸는 둥근 줄무늬(로제트)와 근육질 체형이 완벽한 호랑이의 축소판입니다. 털에서 금빛 광택(Glitter)이 납니다.",
+  "personality_en": "Extremely laid-back, social, and intelligent. Toygers are known for being easy to train and get along very well with people and other pets. They are often described as having a dependable and calm nature.",
+  "personality_ko": "호랑이를 닮은 외모와는 달리 매우 차분하고 사교적입니다. 집사와의 교감을 무척 좋아하며 지능이 높아 하네스 산책이나 복잡한 놀이도 금방 배웁니다. 낯선 환경에서도 대범하게 행동하며 가족 모두에게 신뢰를 주는 든든한 성격의 소유자입니다.",
+  "care_en": "Requires minimal grooming due to their short, dense coat. They need regular exercise and interactive play to maintain their muscular build and mental health.",
+  "care_ko": "털 관리는 주 1~2회 빗질만으로도 충분합니다. 다만 근육질의 탄탄한 몸매를 유지하기 위해 활동적인 놀이가 권장되며, 똑똑한 두뇌를 자극할 수 있는 다양한 놀잇감을 제공해 주어야 합니다. 사회성이 좋아 혼자 두는 것보다 함께 시간을 보내는 것을 추천합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Progressive Retinal Atrophy (PRA)",
+      "name_ko": "진행성 망막 위축증",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "진짜 호랑이 피가 섞였나요?",
+      "answer_ko": "아니요, 토이거는 100% 집고양이 혈통입니다. 호랑이를 닮게 하기 위해 선별적으로 교배된 품종일 뿐 야생 DNA는 전혀 없습니다."
+    },
+    {
+      "question_ko": "뱅갈과 무엇이 다른가요?",
+      "answer_ko": "뱅갈은 '점무늬(로제트)'가 특징이지만, 토이거는 호랑이 같은 '수직 줄무늬'가 특징입니다. 또한 토이거가 조금 더 차분하고 느긋한 성격을 가진 경우가 많습니다."
+    }
+  ],
+  "visual_comparison_tip": "일반적인 태비 고양이와 달리 줄무늬가 수직으로 길게 내려오며, 줄무늬 끝이 갈라지는 '브랜치(Branch)' 형태인지 확인하세요.",
+  "meta_tags": {
+    "title": "토이거 도감: 성격, 호랑이 줄무늬의 비밀, 미니 타이거 가이드 | nyan",
+    "description": "거실의 호랑이, 토이거의 모든 것. 수직 줄무늬의 아름다움과 반전 있는 다정한 성격, 실제 분양가와 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "토이거",
+      "호랑이고양이",
+      "줄무늬고양이",
+      "희귀고양이",
+      "미니타이거",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/toyger/toyger_hero.webp",
+  "image_macro_path": "/images/Nyan/toyger_macro.png",
+  "image_fullbody_path": "/images/Nyan/toyger/toyger_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/toyger/toyger_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "뱅갈 혈통에서 기인할 수 있는 심장병(HCM)이나 안구 질환에 대한 정기적인 모니터링이 필요할 수 있습니다.",
+  "local_rarity_ko": "국내에서 매우 귀한 초희귀 품종입니다. 뱅갈보다도 호랑이에 더 가까운 외모를 원하는 집사들에게 최고의 품종으로 여겨지며, 압도적인 비주얼만큼이나 높은 입양 가치를 지닙니다.",
+  "similar_breed_ids": [
+    "bengal",
+    "egyptian-mau",
+    "ocicat"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/toyger/toyger_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/toyger/toyger_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/toyger/toyger_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/toyger/toyger_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/toyger/toyger_variant_full_body.webp"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ocicat",
+  "name_en": "Ocicat",
+  "name_ko": "오시캣",
+  "aliases_ko": [
+    "미니 오셀롯",
+    "야생적인 집고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "substantial",
+  "coat_length": "short",
+  "coat_texture": "smooth_and_satin",
+  "common_patterns": [
+    "spotted"
+  ],
+  "common_colors": [
+    "tawny",
+    "chocolate",
+    "cinnamon",
+    "blue",
+    "lavender",
+    "fawn"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 6.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 2,
+  "vocal_level": 3,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 3,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "야생 고양이와 같은 압도적인 외모를 가졌으나 실제 성격은 매우 온순하고 사교적임",
+    "지능이 매우 높고 영리하여 '가져와' 놀이나 하네스 산책 등 강아지 같은 훈련이 가능함",
+    "단모종이라 털 관리가 매우 쉽고 건강 체질이라 잔병치레가 적음"
+  ],
+  "cons": [
+    "활동량이 매우 많아 매일 에너지를 해소해 주지 않으면 지루함을 느껴 말썽을 피울 수 있음",
+    "사람과 함께 있는 것을 무척 좋아해 혼자 오래 방치되는 환경에는 부적합함",
+    "덩치가 크고 근육질이라 점프력이 좋아 집안 높은 곳의 물건 관리에 주의가 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원",
+    "monthly_care_cost": "약 120,000원 - 200,000원"
+  },
+  "summary_en": "The Ocicat is an all-domestic breed of cat which resembles a wild cat but has no wild DNA in its gene pool.",
+  "summary_ko": "야생의 오셀롯을 빼닮은 당당한 외모를 가졌지만, 실제로는 100% 집고양이 혈통인 '반전 매력'의 소유자입니다. 강인한 근육질 몸매와 선명한 점무늬, 그리고 강아지처럼 똑똑하고 사교적인 성격이 특징입니다.",
+  "appearance_en": "A large, athletic cat with a powerful build. They are famous for their spotted coat which features distinct, thumbprint-shaped spots. Their short, smooth coat has a satin-like sheen.",
+  "appearance_ko": "크고 근육질인 '서브스탠셜(Substantial)' 체형으로 매우 탄탄한 느낌을 줍니다. 온몸을 덮고 있는 선명한 점무늬는 마치 야생의 맹수를 보는 듯한 착각을 불러일으키며, 털은 짧고 매끄러워 비단 같은 광택이 납니다.",
+  "personality_en": "Extremely social, intelligent, and confident. Ocicats are often described as 'dogs in cat's clothing' because they can be trained to fetch, walk on a leash, and respond to voice commands.",
+  "personality_ko": "성격은 매우 대담하고 사교적입니다. 낯선 사람이나 다른 반려동물과도 금방 친구가 되며, 집사와 함께 소통하는 것을 진심으로 즐깁니다. 매우 영리하여 다양한 훈련이 가능한 '고양이 탈을 쓴 강아지' 같은 품종입니다.",
+  "care_en": "Very low grooming needs due to their short coat. They require significant mental and physical stimulation to keep them happy and prevent boredom.",
+  "care_ko": "털 관리는 주 1회 가벼운 빗질만으로도 충분합니다. 다만 지능이 높고 활동량이 어마어마하므로, 수직 공간 확보와 지적인 자극을 주는 장난감, 그리고 집사와 함께하는 활발한 놀이 시간이 필수적입니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Renal Amyloidosis",
+      "name_ko": "신장 아밀로이드증",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 야생 피가 안 섞였나요?",
+      "answer_ko": "네, 오시캣은 아비시니안, 샴, 아메리칸 쇼트헤어의 교배로 탄생한 순수 집고양이 품종입니다. 야생 DNA는 전혀 없으므로 안심하고 반려할 수 있습니다."
+    },
+    {
+      "question_ko": "산책이 가능한가요?",
+      "answer_ko": "네, 오시캣은 영리하고 대담하여 하네스 교육 성취도가 매우 높습니다. 많은 집사들이 함께 산책이나 여행을 즐기기도 합니다."
+    }
+  ],
+  "visual_comparison_tip": "뱅갈 고양이와 비슷해 보일 수 있지만, 오시캣은 도넛 모양의 로제트가 아닌 '엄지손가락 모양의 점무늬'가 전신에 퍼져 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "오시캣 도감: 성격, 무늬의 특징, 야생적인 매력 완벽 가이드 | nyan",
+    "description": "거실의 오셀롯, 오시캣의 모든 것. 야생적인 비주얼 뒤에 숨겨진 다정함과 똑똑한 지능, 실제 분양가와 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "오시캣",
+      "점박이고양이",
+      "오셀롯닮은고양이",
+      "똑똑한고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/ocicat/ocicat_hero.webp",
+  "image_macro_path": "/images/Nyan/ocicat_macro.png",
+  "image_fullbody_path": "/images/Nyan/ocicat/ocicat_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/ocicat/ocicat_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "전체적으로 매우 건강한 편이지만, 신장 질환(PKD)이나 심장 질환(HCM)에 대한 정기적인 모니터링은 권장됩니다.",
+  "local_rarity_ko": "국내에서 희소성이 높은 편이며, 야생적인 외모를 선호하면서도 다정한 성격을 원하는 집사들에게 최고의 선택지로 꼽힙니다. 뱅갈과는 또 다른 클래식한 점박이의 매력을 가졌습니다.",
+  "similar_breed_ids": [
+    "bengal",
+    "egyptian-mau",
+    "abyssinian"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/ocicat/ocicat_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/ocicat/ocicat_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/ocicat/ocicat_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/ocicat/ocicat_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/ocicat/ocicat_variant_full_body.webp"
+}

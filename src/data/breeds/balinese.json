@@ -1,0 +1,118 @@
+{
+  "id": "balinese",
+  "name_en": "Balinese",
+  "name_ko": "발리네즈",
+  "aliases_ko": [
+    "장모종 샴",
+    "발레리나 고양이"
+  ],
+  "origin_country": "United States / Thailand",
+  "size_category": "medium",
+  "body_type": "oriental",
+  "coat_length": "long",
+  "coat_texture": "silky_and_single",
+  "common_patterns": [
+    "colorpoint"
+  ],
+  "common_colors": [
+    "seal",
+    "blue",
+    "chocolate",
+    "lilac"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 20,
+  "grooming_level": 3,
+  "shedding_level": 3,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 5,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "샴의 영리함과 우아한 긴 털을 동시에 가졌으며 속털이 없어 털 엉킴이 적음",
+    "사람을 매우 좋아하고 감수성이 풍부하여 집사와 깊은 정서적 유대감을 형성함",
+    "지능이 매우 높아 훈련이 가능하며 집사와 대화하는 것을 즐기는 사교적인 성격"
+  ],
+  "cons": [
+    "목소리가 크고 수다스러워 조용한 환경을 원하는 집사에게는 스트레스가 될 수 있음",
+    "외로움을 매우 많이 타서 혼자 오래 두면 분리불안이나 우울감을 느낄 수 있음",
+    "에너지가 넘쳐서 집안 곳곳을 누비며 관심을 요구하므로 많은 놀이 시간이 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Balinese is a long-haired breed of domestic cat with Siamese-style point coloration and sapphire-blue eyes.",
+  "summary_ko": "샴의 영리함과 장모종의 화려함을 동시에 갖춘 품종으로, 발레리나처럼 우아한 움직임 때문에 '발리니즈'라는 이름을 얻었습니다.",
+  "appearance_en": "Elegant lithe body, essentially a longhaired Siamese with a distinctive plumed tail and deep blue eyes.",
+  "appearance_ko": "샴 고양이의 장모종 버전으로, 우아하고 날씬한 몸매와 화려하고 풍성한 깃털 같은 꼬리가 특징입니다. 깊고 푸른 사파이어색 눈을 가졌습니다.",
+  "personality_en": "Highly social, intelligent, and vocal. They form very strong bonds with their owners and are often described as 'velcro cats' who follow their people everywhere.",
+  "personality_ko": "성격은 샴과 매우 비슷하여 매우 수다스럽고 사교적입니다. 집사에게 자신의 감정을 목소리로 표현하는 것을 좋아하며, 항상 곁에 머물고 싶어 하는 '껌딱지' 성향이 강합니다. 지능이 높아 집사의 기분을 잘 살피는 섬세한 성격입니다.",
+  "care_en": "Their single coat is easy to maintain with regular brushing as it doesn't mat easily. They need significant mental stimulation and companionship to thrive.",
+  "care_ko": "속털이 없어 털 엉킴이 적으므로 주 2회 정도의 빗질로도 충분히 아름다운 자태를 유지할 수 있습니다. 하지만 매우 영리하고 사교적이므로 혼자 두는 시간을 최소화하고 지적인 놀이를 지속적으로 제공해 주어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Amyloidosis",
+      "name_ko": "아밀로이드증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Dental Disease",
+      "name_ko": "치과 질환",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "진짜 발리 출신인가요?",
+      "answer_ko": "아니요, 미국에서 개발된 품종입니다. 움직임이 발리 섬의 무용수처럼 우아하다고 해서 '발리네즈'라는 이름이 붙여졌습니다."
+    },
+    {
+      "question_ko": "알레르기가 적나요?",
+      "answer_ko": "일부 연구에 따르면 샴과 발리네즈는 알레르기 유발 단백질을 적게 배출한다고 알려져 있습니다. 하지만 개인차가 크므로 반드시 사전에 확인이 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "샴과 무늬와 눈 색깔은 같지만, 털이 길고 특히 꼬리가 깃털처럼 화려한지 확인하세요.",
+  "meta_tags": {
+    "title": "발리네즈 고양이 도감: 성격, 털 빠짐, 샴과의 차이점 완벽 가이드 | nyan",
+    "description": "우아한 발레리나 발리네즈의 모든 것. 샴의 지능과 장모종의 아름다움을 가진 발리네즈의 실제 분양가와 수다스러운 성격 관리법을 확인하세요.",
+    "keywords": [
+      "발리네즈",
+      "발리네즈고양이",
+      "장모샴",
+      "우아한고양이",
+      "개냥이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/balinese/balinese_hero.webp",
+  "image_macro_path": "/images/Nyan/balinese_macro.png",
+  "image_fullbody_path": "/images/Nyan/balinese/balinese_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/balinese/balinese_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "치과 질환과 아밀로이드증에 대한 주의가 필요하며, 정기적인 건강 검진이 권장됩니다.",
+  "local_rarity_ko": "국내에서 샴에 비해 훨씬 희귀하며 전문 캐터리가 적어 입양을 위해서는 긴 기다림이 필요할 수 있습니다. 희소성과 우아한 외모 덕분에 매니아층이 매우 확고한 품종입니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "javanese",
+    "somali"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/balinese/balinese_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/balinese/balinese_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/balinese/balinese_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/balinese/balinese_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/balinese/balinese_variant_full_body.webp"
+}

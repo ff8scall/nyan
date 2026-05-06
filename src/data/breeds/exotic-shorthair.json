@@ -1,0 +1,115 @@
+{
+  "id": "exotic-shorthair",
+  "name_en": "Exotic Shorthair",
+  "name_ko": "엑조틱 숏헤어",
+  "aliases_ko": [
+    "엑조틱",
+    "게으른 자의 페르시안",
+    "가필드 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "cobby",
+  "coat_length": "short",
+  "coat_texture": "dense_and_plush",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.5,
+  "weight_max_kg": 6.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 2,
+  "playfulness_level": 3,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 1,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "페르시안의 외모를 가졌으면서도 털 관리가 매우 쉬워 실용적임",
+    "매우 차분하고 조용하여 아파트나 좁은 공간에서 키우기 최적임",
+    "집사 곁에서 조용히 시간을 보내는 것을 즐기는 애교 많은 성격임"
+  ],
+  "cons": [
+    "눌린 코 구조(단두종)로 인해 눈물 자국 관리가 매일 필요함",
+    "더위에 취약하고 호흡기 질환이나 안구 질환에 걸리기 쉬움",
+    "활동량이 매우 적어 비만이 되기 쉬우므로 식단 관리가 필수적임"
+  ],
+  "economics": {
+    "price_range_ko": "1,200,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Exotic Shorthair is a breed of cat developed to be a short-haired version of the Persian.",
+  "summary_ko": "페르시안의 우아한 얼굴과 짧고 빽빽한 털을 동시에 가진 '현대적인 반려묘'입니다. 털 관리의 수고는 줄이고 페르시안 특유의 온순함은 그대로 유지하여 바쁜 현대인들에게 가장 사랑받는 품종 중 하나입니다.",
+  "appearance_en": "Matches the Persian in every way except for the coat, which is short, thick, and plush. They have a round head, flat face, short nose, and chubby cheeks.",
+  "appearance_ko": "짧고 굵은 다리와 단단한 가슴을 가진 '코비(Cobby)' 체형입니다. 얼굴은 페르시안처럼 납작한 코와 둥근 이마, 빵빵한 볼살이 특징입니다. 털은 짧지만 매우 빽빽하고 탄력이 있어 만지면 테디베어 같은 느낌을 줍니다.",
+  "personality_en": "Quiet, sweet, and peaceful. They are generally more active and curious than the Persian but still enjoy long naps and quiet companionship.",
+  "personality_ko": "매우 조용하고 온화합니다. 페르시안보다는 약간 더 활동적이고 호기심이 많지만, 여전히 대부분의 시간을 집사 옆에서 평화롭게 누워 지내는 것을 즐기는 '프로 집순이/집돌이'입니다.",
+  "care_en": "Low-maintenance coat compared to Persians, needing only weekly brushing. However, their flat faces require daily eye cleaning to prevent tear staining and irritation.",
+  "care_ko": "털 관리는 주 1~2회 빗질만으로 충분할 정도로 쉽습니다. 다만 단두종 특유의 눈물 자국이 생기기 쉬우므로 매일 눈가를 깨끗이 닦아주어야 하며, 코 구조상 호흡이 힘들 수 있으므로 격렬한 운동은 피해야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Brachycephalic Syndrome",
+      "name_ko": "단두종 증후군",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "왜 '게으른 자의 페르시안'인가요?",
+      "answer_ko": "페르시안의 예쁜 얼굴을 좋아하지만 매일 긴 털을 빗겨줄 자신이 없는 사람들을 위해 탄생한 품종이기 때문입니다. 외모는 페르시안, 관리는 단모종의 장점만 모았습니다."
+    },
+    {
+      "question_ko": "코를 많이 고나요?",
+      "answer_ko": "네, 코가 짧은 단두종 구조상 잠잘 때 코를 고는 경우가 많습니다. 이는 자연스러운 현상이지만 숨소리가 너무 거칠어지면 수의사와 상담이 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "페르시안과 얼굴은 똑같지만 털이 짧고 빵빵하며, 브리티시 숏헤어보다 코가 훨씬 더 눌려 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "엑조틱 숏헤어 도감: 성격, 눈물 자국 관리법, 단두종 건강 가이드 | nyan",
+    "description": "귀여운 가필드 고양이 엑조틱 숏헤어의 모든 것. 페르시안의 매력과 단모종의 편리함을 동시에! 실제 분양가와 건강 관리 팁을 확인하세요.",
+    "keywords": [
+      "엑조틱숏헤어",
+      "엑조틱",
+      "가필드고양이",
+      "단두종고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_hero.webp",
+  "image_macro_path": "/images/Nyan/exotic-shorthair_macro.png",
+  "image_fullbody_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "다낭성 신장병(PKD)과 안구 질환(결막염 등)에 대한 정기적인 모니터링이 필요합니다.",
+  "local_rarity_ko": "국내에서 '엑조틱'이라는 애칭으로 불리며 인기가 매우 높습니다. 특히 아파트 거주자가 많은 한국 환경에서 조용하고 털 관리가 쉬운 엑조틱은 최고의 반려묘로 꼽힙니다.",
+  "similar_breed_ids": [
+    "persian",
+    "selkirk-rex",
+    "british-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/exotic-shorthair/exotic-shorthair_variant_full_body.webp"
+}

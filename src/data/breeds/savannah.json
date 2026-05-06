@@ -1,0 +1,117 @@
+{
+  "id": "savannah",
+  "name_en": "Savannah",
+  "name_ko": "사바나 캣",
+  "aliases_ko": [
+    "서벌 하이브리드"
+  ],
+  "origin_country": "United States",
+  "size_category": "large",
+  "body_type": "long_tall",
+  "coat_length": "short",
+  "coat_texture": "coarse",
+  "common_patterns": [
+    "spotted"
+  ],
+  "common_colors": [
+    "brown_spotted_tabby",
+    "silver_spotted_tabby",
+    "black",
+    "black_smoke"
+  ],
+  "weight_min_kg": 5.0,
+  "weight_max_kg": 11.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 20,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 3,
+  "independence_level": 4,
+  "vocal_level": 4,
+  "beginner_friendly_score": 1,
+  "apartment_fit_score": 2,
+  "family_fit_score": 3,
+  "multi_pet_fit_score": 3,
+  "social_compatibility": {
+    "kids_score": 3,
+    "cats_score": 3,
+    "dogs_score": 5,
+    "strangers_score": 2
+  },
+  "pros": [
+    "집 안에서 서벌과 같은 야성적인 매력을 느낄 수 있는 압도적인 비주얼",
+    "지능이 매우 높아 문을 열거나 수도꼭지를 트는 등 고도의 문제 해결 능력을 보임",
+    "물을 좋아하고 산책이 가능할 정도로 활동적이며 집사와의 다이나믹한 놀이가 가능함"
+  ],
+  "cons": [
+    "상상 이상의 엄청난 활동량과 점프력을 가지고 있어 일반적인 가정환경에서 감당하기 어려울 수 있음",
+    "야생성이 남아 있어 서벌의 피가 진한 세대(F1, F2)는 초보자가 키우기에 매우 위험하고 힘듦",
+    "분양가가 매우 비싸고, 식단이나 환경 조성에 막대한 비용과 노력이 소요됨"
+  ],
+  "economics": {
+    "price_range_ko": "5,000,000원 - 30,000,000원 이상 (세대에 따라 차이)",
+    "monthly_care_cost": "약 250,000원 - 500,000원"
+  },
+  "summary_en": "The Savannah is a hybrid cat breed. It is a cross between a serval and a domestic cat.",
+  "summary_ko": "압도적인 크기와 카리스마 넘치는 외모로 '고양이계의 슈퍼모델'이라 불리며, 강아지처럼 산책이 가능할 정도의 활동량과 지능을 가졌습니다.",
+  "appearance_en": "Serval hybrid, exceptionally tall and lean, large ears, hooded eyes, and distinctive spotted pattern.",
+  "appearance_ko": "아프리카 서벌과의 교배로 태어나 고양이 중 가장 키가 크고 날씬합니다. 커다란 귀와 눈가의 눈물 자국(Tear streak), 그리고 화려한 스포티드 무늬가 야생 그 자체입니다.",
+  "personality_en": "Highly active, curious, and intelligent. They are often compared to dogs for their loyalty and ability to learn commands.",
+  "personality_ko": "에너지가 폭발적이며 지루한 것을 참지 못합니다. 집사와 함께 수영을 하거나 산책을 나가는 것을 즐기며, 매우 논리적이고 영리한 사고방식을 가지고 있습니다.",
+  "care_en": "Requires a significant amount of space and mental stimulation. Their diet often requires high-quality protein and sometimes raw feeding.",
+  "care_ko": "단순한 실내 사육보다는 넓은 공간과 다양한 놀이 기구가 필수입니다. 높은 곳을 아주 잘 올라가므로 집 안의 모든 물건을 안전하게 배치해야 하며, 세대에 따라 법적 규제가 있을 수 있습니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Taurine deficiency",
+      "name_ko": "타우린 결핍",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "얼마나 커지나요?",
+      "answer_ko": "F1 세대의 경우 어깨높이가 40~45cm에 달하며, 몸길이도 일반 고양이의 두 배 이상 커질 수 있습니다."
+    },
+    {
+      "question_ko": "강아지랑 잘 지내나요?",
+      "answer_ko": "네, 활동량이 비슷하고 성격이 대범한 대형견들과는 아주 좋은 친구가 될 수 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "뱅갈 고양이와 비슷해 보일 수 있지만, 사바나 캣은 다리가 훨씬 더 길고 귀가 훨씬 크며, 전체적인 체구가 훨씬 더 거대하고 슬림합니다.",
+  "meta_tags": {
+    "title": "사바나 캣 도감: 야생의 서벌을 닮은 초거대 고양이의 매력 | nyan",
+    "description": "거실 위의 표범, 사바나 캣. 압도적인 크기와 지능을 가진 사바나 캣의 세대별 특징과 케어 노하우를 nyan에서 확인하세요.",
+    "keywords": [
+      "사바나캣",
+      "대형고양이",
+      "서벌",
+      "하이브리드고양이",
+      "산책고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/savannah/savannah_hero.webp",
+  "image_macro_path": "/images/Nyan/savannah_macro.png",
+  "image_fullbody_path": "/images/Nyan/savannah/savannah_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/savannah/savannah_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "하이브리드 종이라 유전병은 적지만, 심장 비대증(HCM)에 대한 정기적인 스크리닝이 권장됩니다.",
+  "local_rarity_ko": "한국에서는 극소수만 사육되는 초희귀 품종이며, F1~F4 세대는 야생동물 보호법에 따라 사육 허가가 필요할 수 있습니다.",
+  "similar_breed_ids": [
+    "bengal",
+    "egyptian-mau",
+    "abyssinian"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/savannah/savannah_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/savannah/savannah_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/savannah/savannah_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/savannah/savannah_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/savannah/savannah_variant_full_body.webp"
+}

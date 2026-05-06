@@ -1,0 +1,116 @@
+{
+  "id": "selkirk-rex",
+  "name_en": "Selkirk Rex",
+  "name_ko": "셀커크 렉스",
+  "aliases_ko": [
+    "양 고양이",
+    "푸들 캣",
+    "나쁜 머리 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium_to_large",
+  "body_type": "cobby",
+  "coat_length": "short_to_long",
+  "coat_texture": "thick_and_curly",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 4,
+  "shedding_level": 4,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "양처럼 빽빽하고 곱슬거리는 털이 시각적으로 매우 포근하고 독보적인 귀여움을 선사함",
+    "성격이 매우 온화하고 인내심이 강해 아이들이나 다른 반려동물과도 아주 잘 지냄",
+    "단단하고 묵직한 체형을 가져 건강미가 넘치며 집사의 무릎을 좋아하는 애교쟁이임"
+  ],
+  "cons": [
+    "털이 매우 빽빽하고 곱슬거려 엉키기 매우 쉬우므로 매일 세심한 빗질이 필수적임",
+    "눈 주변이나 귀의 털도 곱슬거려 눈물 관리나 귀 청소 등 위생 관리에 신경을 써야 함",
+    "털 빠짐이 적지 않으며 곱슬털 사이에 죽은 털이 갇혀 있어 꼼꼼한 케어가 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 220,000원"
+  },
+  "summary_en": "The Selkirk Rex is a breed of cat with highly curled hair. It is distinguished from other Rex breeds by its heavy, sturdy build and round head.",
+  "summary_ko": "자고 일어난 듯 헝클어진 머리가 매력인 '양 고양이'입니다. 다른 렉스종과 달리 브리티시 쇼트헤어의 골격을 물려받아 튼튼하고 묵직한 체형을 가졌으며, 온몸을 덮은 빽빽한 곱슬털은 만질 때마다 구름 같은 포근함을 선사합니다.",
+  "appearance_en": "A large, sturdy cat with a cobby body type. They have a round head, round eyes, and a distinctive coat that is densely curled and soft to the touch. Their whiskers are also curled.",
+  "appearance_ko": "단단하고 굵은 골격을 가진 '코비(Cobby)' 체형입니다. 얼굴은 동글동글하며 뺨이 통통하게 올라와 있습니다. 가장 큰 특징은 역시 '양털' 같은 곱슬털로, 단모와 장모 모두 존재하며 수염까지 곱슬거리는 것이 특징입니다. 인위적인 느낌보다는 자연스럽게 헝클어진 듯한 컬이 매력 포인트입니다.",
+  "personality_en": "Patient, loving, and tolerant. Selkirk Rexes have a sweet and mellow temperament, inheriting the laid-back nature of the British Shorthair and the playfulness of the Persian.",
+  "personality_ko": "매우 느긋하고 참을성이 많습니다. 사람의 손길을 좋아하고 안겨있는 것을 즐기는 전형적인 '무릎 고양이'입니다. 공격성이 낮고 다른 반려동물과도 금방 친구가 되는 사교적인 성격이라 다묘 가정이나 아이가 있는 집에도 아주 잘 어울립니다.",
+  "care_en": "Requires regular, gentle brushing to prevent mats without straightening the curls. They need more frequent baths than some other breeds due to the oiliness of their thick coat.",
+  "care_ko": "털이 매우 빽빽하여 주 3회 이상의 꼼꼼한 빗질이 필요합니다. 다만 너무 세게 빗으면 컬이 풀릴 수 있으므로 부드럽게 엉킨 곳을 풀어주는 것이 노하우입니다. 피부에서 유분이 많이 나오는 편이라 주기적인 목욕과 귀 청소가 권장됩니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "털이 안 빠지는 편인가요?",
+      "answer_ko": "아니요, 셀커크 렉스는 털이 상당히 많이 빠지는 편에 속합니다. 곱슬털 사이에 빠진 털이 갇혀 있는 경우가 많으므로 주기적으로 빗질해서 제거해 주어야 합니다."
+    },
+    {
+      "question_ko": "직모인 개체도 태어나나요?",
+      "answer_ko": "네, 같은 배에서 태어난 새끼 중에서도 곱슬털이 아닌 직모(Straight)를 가진 아이들이 태어날 수 있습니다. 이들은 '셀커크 스트레이트'라고 불립니다."
+    }
+  ],
+  "visual_comparison_tip": "다른 렉스종보다 덩치가 훨씬 크고 골격이 굵으며, 브리티시 쇼트헤어처럼 얼굴이 둥근 곱슬 고양이인지 확인하세요.",
+  "meta_tags": {
+    "title": "셀커크 렉스 도감: 양 닮은 고양이, 성격, 곱슬털 관리 비법 | nyan",
+    "description": "복슬복슬한 양의 매력, 셀커크 렉스의 모든 것. 빽빽한 곱슬털의 비밀과 인내심 강한 성격, 실제 분양가를 nyan에서 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "셀커크렉스",
+      "양고양이",
+      "곱슬고양이",
+      "브리티시렉스",
+      "푸들고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/selkirk-rex/selkirk-rex_hero.webp",
+  "image_macro_path": "/images/Nyan/selkirk-rex_macro.png",
+  "image_fullbody_path": "/images/Nyan/selkirk-rex/selkirk-rex_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/selkirk-rex/selkirk-rex_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 다낭성 신장병(PKD)에 대한 유전적 모니터링이 필요합니다.",
+  "local_rarity_ko": "국내 프리미엄 캐터리 시장에서 인기가 급상승 중인 품종입니다. 양을 닮은 독특한 비주얼과 천사 같은 성격 덕분에 '워너비 반려묘'로 꼽히는 경우가 많습니다.",
+  "similar_breed_ids": [
+    "british-shorthair",
+    "persian",
+    "laperm"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/selkirk-rex/selkirk-rex_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/selkirk-rex/selkirk-rex_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/selkirk-rex/selkirk-rex_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/selkirk-rex/selkirk-rex_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/selkirk-rex/selkirk-rex_variant_full_body.webp"
+}

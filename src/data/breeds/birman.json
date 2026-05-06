@@ -1,0 +1,117 @@
+{
+  "id": "birman",
+  "name_en": "Birman",
+  "name_ko": "버만",
+  "aliases_ko": [
+    "버마의 성스러운 고양이",
+    "미얀마 고양이"
+  ],
+  "origin_country": "Myanmar (Burma)",
+  "size_category": "medium_to_large",
+  "body_type": "substantial",
+  "coat_length": "long",
+  "coat_texture": "silky_and_single",
+  "common_patterns": [
+    "colorpoint"
+  ],
+  "common_colors": [
+    "seal",
+    "blue",
+    "chocolate",
+    "lilac"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 6.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 3,
+  "shedding_level": 3,
+  "activity_level": 2,
+  "playfulness_level": 3,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "장모종임에도 속털이 없어 털 엉킴이 거의 없고 관리가 매우 쉬움",
+    "성격이 매우 온화하고 침착하여 아이들이 있는 가정에 완벽한 반려묘임",
+    "흰 양말을 신은 듯한 독특한 발 무늬와 우아한 외모가 시각적으로 매우 아름다움"
+  ],
+  "cons": [
+    "애교는 많지만 가끔 고집이 세고 원하는 것이 있을 때 집요할 수 있음",
+    "신장 관련 유전병 위험이 있어 정기적인 수분 섭취와 검진이 중요함",
+    "렉돌과 외모가 비슷하여 일반인들이 구분하기 어려울 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Birman, also called the 'Sacred Cat of Burma', is a domestic cat breed. The Birman is a long-haired, color-pointed cat distinguished by its silky coat and white paws.",
+  "summary_ko": "푸른 눈과 흰 양말이 상징인 '버마의 성스러운 고양이'입니다. 전설에 따르면 사원의 여신으로부터 신비로운 외모를 부여받았다고 전해지며, 그 이름에 걸맞게 고귀하고 온화한 품격을 지닌 반려묘입니다.",
+  "appearance_en": "Medium to large cat with a heavy, substantial body. They have a round face, deep blue eyes, and a silky coat with point coloration. Their most unique feature is their white paws, known as 'gloves' and 'laces'.",
+  "appearance_ko": "튼튼하고 묵직한 '서브스탠셜(Substantial)' 체형입니다. 얼굴은 둥글둥글하며 깊고 푸른 눈이 특징입니다. 가장 큰 매력은 네 발에 신은 하얀 양말(Gloves)과 뒷발의 긴 줄무늬(Laces)입니다. 털은 장모종이지만 속털이 없어 비단결처럼 매끄럽습니다.",
+  "personality_en": "Gentle, quiet, and affectionate. They are known for being people-oriented and enjoy following their owners around without being overly demanding.",
+  "personality_ko": "매우 부드럽고 차분합니다. 집사의 활동을 조용히 지켜보고 곁에 머무는 것을 즐기는 '침착한 동반자'입니다. 샴처럼 수다스럽지 않으면서도 렉돌만큼이나 다정하여 초보 집사에게 이상적인 품종입니다.",
+  "care_en": "Requires regular grooming, though their silky coat is less prone to matting than other long-haired breeds. They enjoy a peaceful environment and consistent routine.",
+  "care_ko": "털이 잘 엉키지 않는 실크 같은 재질이라 장모종치고 관리가 매우 쉽습니다. 주 2~3회 빗질만으로도 충분합니다. 조용하고 안정적인 환경을 선호하므로 시끄러운 환경보다는 차분한 가정에 더 잘 어울립니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Low to Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "렉돌과 어떻게 다른가요?",
+      "answer_ko": "가장 큰 차이는 발의 하얀 양말입니다. 버만은 반드시 네 발 모두에 하얀 양말이 있어야 하며, 렉돌보다 덩치가 조금 더 작고 털이 속털 없이 더 매끄럽습니다."
+    },
+    {
+      "question_ko": "성격이 정말 조용한가요?",
+      "answer_ko": "네, 고양이 중에서도 특히 차분하고 조용한 편에 속합니다. 헛울음이 거의 없고 집사 곁에 조용히 앉아있는 것을 즐기는 성격입니다."
+    }
+  ],
+  "visual_comparison_tip": "렉돌보다 덩치가 약간 작고, 네 발 모두에 눈처럼 하얀 '장갑(Gloves)' 무늬가 대칭적으로 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "버만 고양이 도감: 성격, 렉돌과의 차이점, 흰 양말의 비밀 | nyan",
+    "description": "버마의 성스러운 고양이 버만의 모든 것. 렉돌과 닮았지만 다른 매력, 실제 분양가와 온순한 성격, 관리 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "버만",
+      "버마고양이",
+      "흰양말고양이",
+      "개냥이추천",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/birman/birman_hero.webp",
+  "image_macro_path": "/images/Nyan/birman_macro.png",
+  "image_fullbody_path": "/images/Nyan/birman/birman_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/birman/birman_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 신장 질환에 대한 정기적인 모니터링이 권장됩니다.",
+  "local_rarity_ko": "국내에서는 렉돌과 비슷해 보이지만 조금 더 클래식하고 신비로운 매력을 찾는 집사들에게 인기가 높습니다. 개체 수가 아주 많지는 않아 전문 브리더를 통해 입양하는 경우가 많습니다.",
+  "similar_breed_ids": [
+    "ragdoll",
+    "siamese",
+    "himalayan"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/birman/birman_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/birman/birman_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/birman/birman_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/birman/birman_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/birman/birman_variant_full_body.webp"
+}

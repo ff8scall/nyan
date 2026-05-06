@@ -1,0 +1,109 @@
+{
+  "id": "havana-brown",
+  "name_en": "Havana Brown",
+  "name_ko": "하바나 브라운",
+  "aliases_ko": [
+    "초콜릿 고양이",
+    "마호가니 고양이"
+  ],
+  "origin_country": "United Kingdom",
+  "size_category": "medium",
+  "body_type": "semi_foreign",
+  "coat_length": "short",
+  "coat_texture": "smooth_and_glossy",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "chocolate",
+    "mahogany"
+  ],
+  "weight_min_kg": 2.7,
+  "weight_max_kg": 4.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 3,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "세상에서 유일하게 전신이 초콜릿색인 유니크한 외모",
+    "매우 똑똑하고 집사의 기분을 잘 살피는 섬세한 성격",
+    "수염까지 갈색인 신비로운 디테일을 감상하는 즐거움"
+  ],
+  "cons": [
+    "전 세계적으로 개체 수가 매우 적어 분양을 받기가 매우 어려움",
+    "외로움을 많이 타는 편이라 혼자 오래 두면 스트레스를 받을 수 있음",
+    "초록색 눈과 갈색 털의 조화를 유지하기 위한 건강 관리가 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원 이상 (희귀 품종)",
+    "monthly_care_cost": "약 110,000원 - 180,000원"
+  },
+  "summary_en": "The Havana Brown is a breed of cat well known for its chocolate brown coat and striking green eyes. It is an affectionate and intelligent breed that thrives on human interaction.",
+  "summary_ko": "시가(Cigar)의 대명사 '하바나'에서 이름을 따온 세상에서 가장 맛있는 색깔의 고양이입니다. 온몸이 깊고 진한 초콜릿 색이며 심지어 수염까지 갈색인 이 고양이는, 고풍스러운 마호가니 가구와 같은 우아함과 다정함을 동시에 지닌 희귀 품종입니다.",
+  "appearance_en": "They possess a short, smooth, mahogany-brown coat. Their muzzle is uniquely shaped, often described as 'lightbulb' or 'corn-cob' like, and they have stunning emerald green eyes.",
+  "appearance_ko": "중형급의 탄탄한 몸매를 가졌으며, 가장 큰 특징은 머리부터 발끝, 심지어 수염까지 일관된 짙은 갈색(Chocolate)이라는 점입니다. 에메랄드빛 초록색 눈이 갈색 털과 대비되어 매우 신비롭습니다.",
+  "personality_en": "Havana Browns are highly social and often use their paws to get their owner's attention. They are soft-spoken, curious, and very affectionate.",
+  "personality_ko": "지적이고 다정하며 사람의 관심을 즐깁니다. 부드러운 목소리로 집사에게 말을 걸기도 하는 수다쟁이 면모가 있으며, 매우 사교적인 성격입니다.",
+  "care_en": "Their short coat requires minimal grooming, but they need plenty of interactive play and companionship to prevent loneliness.",
+  "care_ko": "단모종이라 털 관리는 쉬운 편이지만, 피부에 유분이 생길 수 있어 정기적인 목욕과 귀 세정이 필요합니다. 사람과 함께 있는 것을 좋아하므로 충분한 놀이 시간이 필수입니다.",
+  "known_risks": [
+    {
+      "name_en": "Urinary Tract Stones",
+      "name_ko": "요로 결석",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 수염까지 갈색인가요?",
+      "answer_ko": "네, 하바나 브라운은 고양이 중 유일하게 수염까지 완벽한 갈색인 것으로 유명합니다."
+    },
+    {
+      "question_ko": "성격이 사교적인가요?",
+      "answer_ko": "네, 매우 다정하고 집사를 졸졸 따라다니는 '개냥이' 성격이 강합니다."
+    }
+  ],
+  "visual_comparison_tip": "일반적인 갈색 고양이와 달리 수염까지 갈색이며, 얼굴형이 위쪽보다 아래쪽이 좁은 독특한 '전구 모양'인지 확인하세요.",
+  "meta_tags": {
+    "title": "하바나 브라운 고양이 도감: 진한 초콜릿 빛 수염의 매력 | nyan",
+    "description": "시가(Cigar)에서 유래한 세상에서 가장 맛있는 색깔의 고양이, 하바나 브라운. 마호가니 가구 같은 우아함과 다정한 성격, 희귀 품종의 관리법을 알아보세요.",
+    "keywords": [
+      "하바나브라운",
+      "갈색고양이",
+      "초콜릿고양이",
+      "희귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/havana-brown/havana-brown_hero.webp",
+  "image_macro_path": "/images/Nyan/havana-brown_macro.png",
+  "image_fullbody_path": "/images/Nyan/havana-brown/havana-brown_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/havana-brown/havana-brown_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비교적 건강한 편이나 요로 결석에 주의해야 하며 정기적인 건강 검진이 권장됩니다.",
+  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 찾기 힘든 품종으로, 초콜릿 고양이를 꿈꾸는 이들에게 로망과 같은 존재입니다.",
+  "similar_breed_ids": [
+    "siamese",
+    "burmese"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/havana-brown/havana-brown_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/havana-brown/havana-brown_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/havana-brown/havana-brown_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/havana-brown/havana-brown_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/havana-brown/havana-brown_variant_full_body.webp"
+}

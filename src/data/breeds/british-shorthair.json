@@ -1,0 +1,123 @@
+{
+  "id": "british-shorthair",
+  "name_en": "British Shorthair",
+  "name_ko": "브리티시 숏헤어",
+  "aliases_ko": [
+    "브리티시 블루",
+    "영국 신사"
+  ],
+  "origin_country": "United Kingdom",
+  "size_category": "medium_to_large",
+  "body_type": "cobby",
+  "coat_length": "short",
+  "coat_texture": "dense_and_plush",
+  "common_patterns": [
+    "solid",
+    "tabby",
+    "bicolor",
+    "colorpoint"
+  ],
+  "common_colors": [
+    "blue",
+    "black",
+    "white",
+    "red",
+    "cream",
+    "silver",
+    "golden"
+  ],
+  "weight_min_kg": 4.0,
+  "weight_max_kg": 8.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 17,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 2,
+  "playfulness_level": 3,
+  "affection_level": 4,
+  "independence_level": 4,
+  "vocal_level": 1,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "매우 차분하여 아파트 생활에 최적화됨",
+    "독립심이 강해 1인 가구(직장인)에게 적합",
+    "단모종이라 털 엉킴이 거의 없음"
+  ],
+  "cons": [
+    "식탐이 강해 비만이 되기 매우 쉬움",
+    "먼저 다가와 안기는 '무릎 고양이' 성향은 적음",
+    "완전한 성묘가 되기까지 성장이 매우 느림"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 150,000원 - 200,000원"
+  },
+  "summary_en": "The British Shorthair is the pedigreed version of the traditional British farm cat, with a distinctively stocky body, dense coat, and broad face.",
+  "summary_ko": "테디베어를 닮은 동글동글한 외모와 영국 신사다운 차분한 성격으로, 전 세계 집사들의 마음을 사로잡은 스테디셀러 품종입니다.",
+  "appearance_en": "Known for its 'cobby' build, the British Shorthair has a broad chest, short legs, and a thick tail. Its most famous feature is the dense, plush coat and round face with prominent cheeks.",
+  "appearance_ko": "짧고 굵은 목과 탄탄한 가슴, 그리고 무엇보다 빵빵한 볼살이 매력적인 둥근 얼굴이 특징입니다. 만지면 융단 같은 느낌을 주는 빽빽하고 탄력 있는 털을 가졌습니다.",
+  "personality_en": "Calm, easy-going, and dignified. They are not as demanding of attention as other breeds and enjoy their independence while still being affectionate with their owners.",
+  "personality_ko": "매우 차분하고 독립적이며 예의가 바릅니다. 집사 곁에 머무는 것을 좋아하지만 안기는 것보다는 옆을 지키는 것을 선호하는 성숙한 성격의 소유자입니다.",
+  "care_en": "Requires minimal grooming compared to longhaired breeds, but regular brushing is still needed to remove dead hair. Careful diet management is necessary as they are prone to obesity.",
+  "care_ko": "털 빠짐은 보통이지만 털이 빽빽하므로 주 1~2회 빗질이 권장됩니다. 식탐이 많은 편이라 비만이 되지 않도록 엄격한 체중 관리가 필요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "브리티시 쇼트헤어는 왜 안기는 걸 싫어하나요?",
+      "answer_ko": "독립심이 강한 품종 특성상 속박되는 것을 싫어할 뿐, 집사를 싫어하는 것이 아닙니다. 억지로 안기보다 곁에 앉아 교감하는 방식을 선호합니다."
+    },
+    {
+      "question_ko": "성장이 느린 편인가요?",
+      "answer_ko": "네, 완전히 성묘가 되어 특유의 동그란 체형을 갖추기까지 보통 3년에서 5년 정도가 걸리는 대기만성형 품종입니다."
+    }
+  ],
+  "visual_comparison_tip": "러시안 블루보다 머리가 훨씬 크고 둥글며, 다리가 짧고 굵은 '코비(Cobby)' 체형임을 확인하세요.",
+  "meta_tags": {
+    "title": "브리티시 숏헤어 도감: 성격, 털 빠짐, 유전병 완벽 가이드 | nyan",
+    "description": "영국 신사 브리티시 숏헤어의 모든 것. 아파트 거주자에게 왜 최고의 선택인지, 실제 유지 비용과 유전병 예방 팁을 확인하세요.",
+    "keywords": [
+      "브리티시숏헤어",
+      "고양이품종",
+      "개냥이추천",
+      "고양이유전병",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/british-shorthair/british-shorthair_hero.webp",
+  "image_macro_path": "/images/Nyan/british-shorthair_macro.png",
+  "image_fullbody_path": "/images/Nyan/british-shorthair/british-shorthair_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/british-shorthair/british-shorthair_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 신장 관련 질환에 대한 정기적인 모니터링이 필요합니다.",
+  "local_rarity_ko": "국내에서 매우 대중적인 품종으로 우수한 캐터리가 많습니다. 조용하고 헛울음이 없어 한국의 아파트나 오피스텔 거주자들에게 인기가 매우 높습니다.",
+  "similar_breed_ids": [
+    "chartreux",
+    "russian-blue",
+    "scottish-fold"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/british-shorthair/british-shorthair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/british-shorthair/british-shorthair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/british-shorthair/british-shorthair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/british-shorthair/british-shorthair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/british-shorthair/british-shorthair_variant_full_body.webp"
+}

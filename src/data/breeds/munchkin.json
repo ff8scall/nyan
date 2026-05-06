@@ -1,0 +1,114 @@
+{
+  "id": "munchkin",
+  "name_en": "Munchkin",
+  "name_ko": "먼치킨",
+  "aliases_ko": [
+    "숏다리 고양이",
+    "위저드 캣"
+  ],
+  "origin_country": "United States",
+  "size_category": "small_to_medium",
+  "body_type": "semi-foreign",
+  "coat_length": "short_or_long",
+  "coat_texture": "all_textures",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 2.0,
+  "weight_max_kg": 4.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 3,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "짧은 다리로 아장아장 걷는 모습이 매우 귀여워 보는 것만으로도 힐링됨",
+    "성격이 매우 밝고 사람을 좋아하며 공격성이 거의 없는 순둥이임",
+    "다리는 짧지만 기동성이 뛰어나고 점프를 제외한 모든 활동을 잘함"
+  ],
+  "cons": [
+    "높은 곳에 올라가는 능력이 부족하여 캣타워 구성 시 계단이 필수적임",
+    "허리나 관절에 무리가 가기 쉬우므로 비만 관리에 매우 엄격해야 함",
+    "이종교배 품종이라 건강 상태가 부모 묘에 따라 편차가 클 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 4,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Munchkin cat is a relatively new breed of cat characterized by its very short legs, which are caused by a genetic mutation.",
+  "summary_ko": "짧은 다리로 고양이계의 '웰시코기'라 불리는 먼치킨입니다. 외모만큼이나 성격도 명랑하고 사교적이며, 다리가 짧다고 해서 활동량이 적을 것이라는 편견을 깨주는 반전 매력의 소유자입니다.",
+  "appearance_en": "Short legs with a medium-sized body and large, walnut-shaped eyes. They can have either short or long coats in any color or pattern.",
+  "appearance_ko": "일반 고양이보다 눈에 띄게 짧은 다리가 가장 큰 특징입니다. 하지만 몸통은 일반 고양이와 비슷하며, 얼굴은 둥글고 큰 호두 모양의 눈을 가졌습니다. 털 길이나 색깔, 무늬는 부모 묘에 따라 매우 다양하게 나타납니다.",
+  "personality_en": "Out-going, sweet-natured, and playful. They are known for their intelligence and ability to run fast despite their short legs. They love people and get along well with other pets.",
+  "personality_ko": "매우 외향적이고 사람을 잘 따릅니다. 다리가 짧아도 달리기 속도가 매우 빠르며, 호기심이 많아 집안 곳곳을 누비는 것을 좋아합니다. 공격성이 적고 다른 고양이들과도 원만하게 지내는 사교 퀸/킹입니다.",
+  "care_en": "Requires regular grooming depending on coat length. They need low-entry litter boxes and easy access to high spots via pet stairs. Maintaining a healthy weight is crucial to prevent joint strain.",
+  "care_ko": "다리가 짧아 일반 화장실 턱이 높을 수 있으므로 낮은 화장실을 준비해 주어야 합니다. 높은 곳을 오르내릴 때 관절에 무리가 가지 않도록 고양이용 계단을 설치해 주는 것이 좋으며, 비만은 관절염의 주범이므로 체중 관리에 각별히 신경 써야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Lordosis",
+      "name_ko": "척추 전만증",
+      "severity_note": "Moderate to High"
+    },
+    {
+      "name_en": "Pectus Excavatum",
+      "name_ko": "오목가슴",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "점프를 아예 못하나요?",
+      "answer_ko": "아니요, 일반 고양이만큼 높이는 아니지만 소파나 침대 정도는 충분히 점프해서 올라갈 수 있습니다. 다만 무리가 갈 수 있으므로 보조 기구를 사용하는 것이 권장됩니다."
+    },
+    {
+      "question_ko": "유전병이 심한가요?",
+      "answer_ko": "다리가 짧은 것은 돌연변이이며, 강아지와 달리 척추 문제는 적다고 알려져 있습니다. 다만 가슴 뼈 기형이나 비만으로 인한 합병증은 주의해야 합니다."
+    }
+  ],
+  "visual_comparison_tip": "다리가 짧은 것은 유전적 돌연변이이므로, 다리 길이를 제외한 몸통과 얼굴 형태는 매우 다양할 수 있음을 인지하세요.",
+  "meta_tags": {
+    "title": "먼치킨 고양이 도감: 성격, 다리 길이, 유전병 완벽 가이드 | nyan",
+    "description": "세상에서 가장 귀여운 짧은 다리 먼치킨의 모든 것. 성격과 활동량, 실제 분양가와 허리 건강 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "먼치킨",
+      "먼치킨고양이",
+      "숏다리고양이",
+      "먼치킨분양가",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/munchkin/munchkin_hero.webp",
+  "image_macro_path": "/images/Nyan/munchkin_macro.png",
+  "image_fullbody_path": "/images/Nyan/munchkin/munchkin_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/munchkin/munchkin_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "척추 전만증(Lordosis)과 오목가슴(Pectus excavatum)에 대한 주의가 필요합니다.",
+  "local_rarity_ko": "국내에서 인기가 매우 높은 품종으로, 귀여운 외모 덕분에 분양이 매우 활발합니다. 최근에는 다른 품종과 교배한 미뉴엣(나폴레옹), 킬트 등 하이브리드 품종으로도 많이 소개되고 있습니다.",
+  "similar_breed_ids": [
+    "skookum",
+    "bambino",
+    "genetta"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/munchkin/munchkin_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/munchkin/munchkin_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/munchkin/munchkin_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/munchkin/munchkin_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/munchkin/munchkin_variant_full_body.webp"
+}

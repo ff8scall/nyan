@@ -1,0 +1,123 @@
+{
+  "id": "maine-coon",
+  "name_en": "Maine Coon",
+  "name_ko": "메인쿤",
+  "aliases_ko": [
+    "메인주 고양이",
+    "거인 신사"
+  ],
+  "origin_country": "United States",
+  "size_category": "giant",
+  "body_type": "long_and_substantial",
+  "coat_length": "long",
+  "coat_texture": "heavy_and_shaggy",
+  "common_patterns": [
+    "tabby",
+    "solid",
+    "bicolor",
+    "tortoiseshell"
+  ],
+  "common_colors": [
+    "brown",
+    "black",
+    "silver",
+    "red",
+    "blue",
+    "cream",
+    "white"
+  ],
+  "weight_min_kg": 6.0,
+  "weight_max_kg": 11.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 4,
+  "shedding_level": 5,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 2,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "압도적인 크기와 존재감으로 집안의 주인공이 됨",
+    "지능이 높고 훈련이 가능하며 물을 좋아함",
+    "성격이 매우 온화하여 강아지나 아이들과 완벽하게 어울림"
+  ],
+  "cons": [
+    "대형묘 특유의 배설물 양과 사료 소비량이 엄청남",
+    "심장 및 관절 관련 유전병 관리가 필수적임",
+    "공간을 많이 차지하여 좁은 주거 환경에서는 스트레스를 받을 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 6,000,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 200,000원 - 350,000원"
+  },
+  "summary_en": "The Maine Coon is the largest domesticated cat breed, known for its distinctive physical appearance and valuable hunting skills.",
+  "summary_ko": "고양이 세계의 '거인 신사'로 불리는 메인쿤은, 압도적인 크기와 카리스마 넘치는 외모 뒤에 숨겨진 똑똑하고 다정한 성격이 매력입니다.",
+  "appearance_en": "Large to giant size with a sturdy, rectangular body and a long, flowing coat. They are characterized by their large ears with lynx-like tufts and a long, bushy tail.",
+  "appearance_ko": "고양이 중 가장 큰 체구를 자랑하며, 각진 턱과 귀 끝의 장식털(Lynx tips)이 야성적인 분위기를 자아냅니다. 몸만큼이나 긴 장식털이 풍성한 꼬리가 특징입니다.",
+  "personality_en": "Friendly, sociable, and highly intelligent. They are often called 'gentle giants' and are known for their dog-like behavior and ability to be trained.",
+  "personality_ko": "지능이 매우 높고 사교적이며, 크기와 달리 매우 온순하여 '젠틀 자이언트'라는 별명을 가지고 있습니다. 물을 좋아하고 훈련이 가능할 만큼 집사와의 상호작용이 뛰어납니다.",
+  "care_en": "Frequent grooming is necessary to maintain their heavy coat. They require significant living space and mental stimulation due to their size and intelligence.",
+  "care_ko": "털 빠짐이 많고 털이 잘 엉키므로 매일 빗질이 권장됩니다. 큰 체구를 수용할 수 있는 넓은 생활 공간과 활동량을 채워줄 수 있는 놀이 시간이 필수적입니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Hip Dysplasia",
+      "name_ko": "고관절 이형성증",
+      "severity_note": "Moderate to High"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "얼마나 커지나요?",
+      "answer_ko": "성묘 수컷의 경우 몸무게가 10kg을 훨씬 넘기기도 하며, 꼬리를 포함한 전체 길이가 1미터에 달할 만큼 거대해집니다. 완전히 성숙하는 데 약 3~5년이 걸립니다."
+    },
+    {
+      "question_ko": "정말 산책이 가능한가요?",
+      "answer_ko": "일부 메인쿤은 가슴줄 적응 훈련을 통해 산책이 가능할 정도로 똑똑하고 대범합니다. 하지만 고양이 산책은 영역 동물의 특성상 매우 신중해야 하며, 실내에서의 충분한 활동이 우선입니다."
+    }
+  ],
+  "visual_comparison_tip": "노르웨이 숲보다 주둥이(Muzzle)가 훨씬 더 각져 있고, 귀 끝의 장식털(Lynx tips)이 훨씬 길게 발달해 있습니다.",
+  "meta_tags": {
+    "title": "메인쿤(Maine Coon) 고양이 도감: 성격, 크기, 분양가 및 건강 가이드 | nyan",
+    "description": "세상에서 가장 큰 고양이 메인쿤의 모든 것. 압도적인 크기와 온순한 성격, 실제 유지 비용과 유전병 예방 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "메인쿤",
+      "거대고양이",
+      "고양이종류",
+      "메인쿤분양가",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/maine-coon/maine-coon_hero.webp",
+  "image_macro_path": "/images/Nyan/maine-coon_macro.png",
+  "image_fullbody_path": "/images/Nyan/maine-coon/maine-coon_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/maine-coon/maine-coon_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 고관절 이형성증에 대한 정기적인 정밀 검사가 중요합니다.",
+  "local_rarity_ko": "한국의 프리미엄 펫 시장에서 선망의 대상인 품종이지만, 대형묘 특성상 관리가 까다로워 전문 브리더를 통한 신중한 입양이 필요합니다.",
+  "similar_breed_ids": [
+    "norwegian-forest-cat",
+    "siberian",
+    "ragdoll"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/maine-coon/maine-coon_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/maine-coon/maine-coon_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/maine-coon/maine-coon_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/maine-coon/maine-coon_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/maine-coon/maine-coon_variant_full_body.webp"
+}

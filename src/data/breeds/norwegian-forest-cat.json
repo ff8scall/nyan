@@ -1,0 +1,114 @@
+{
+  "id": "norwegian-forest-cat",
+  "name_en": "Norwegian Forest Cat",
+  "name_ko": "노르웨이 숲",
+  "aliases_ko": [
+    "놀숲",
+    "위기(Wegie)"
+  ],
+  "origin_country": "Norway",
+  "size_category": "large",
+  "body_type": "substantial",
+  "coat_length": "long",
+  "coat_texture": "dense_and_water-repellent",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 4.0,
+  "weight_max_kg": 9.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 4,
+  "shedding_level": 5,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 4,
+  "apartment_fit_score": 3,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "매우 건강하고 유전병이 적은 강인한 품종",
+    "지능이 높아 집사와의 정서적 교감이 뛰어남",
+    "야생적인 아름다움과 온순한 성격의 완벽한 조화"
+  ],
+  "cons": [
+    "이중모 특성상 환절기 털 빠짐이 매우 심함",
+    "높은 곳을 오르내리는 본능이 강해 튼튼한 캣타워 필수",
+    "대형묘라 사료 및 용품 비용이 일반 고양이보다 많이 듦"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 150,000원 - 220,000원"
+  },
+  "summary_en": "The Norwegian Forest Cat is a breed of domestic cat native to Northern Europe, adapted to a very cold climate.",
+  "summary_ko": "북유럽 신화 속 여신의 수레를 끌었다는 전설의 주인공입니다. 혹독한 추위를 견뎌내기 위한 방수 코트와 튼튼한 근육을 가진, 숲의 정령 같은 신비로움을 간직한 품종입니다.",
+  "appearance_en": "A large, strong cat with a sturdy body, long legs, and a bushy tail. They have a distinctive double coat that is water-repellent and a triangular-shaped head.",
+  "appearance_ko": "단단한 골격과 웅장한 실루엣을 가진 대형묘입니다. 물을 튕겨내는 방수 기능의 빽빽한 이중모와 목 주변의 화려한 장식털이 특징이며, 정삼각형에 가까운 머리 형태가 메인쿤과 구분되는 포인트입니다.",
+  "personality_en": "Intelligent, friendly, and independent. They are natural climbers and enjoy being at high vantage points, yet they remain very devoted to their families.",
+  "personality_ko": "지능이 매우 높고 상황 판단이 빠릅니다. 집사 곁을 지키는 다정한 면모와 혼자만의 시간을 즐기는 독립적인 면모가 공존하며, 나무를 타듯 높은 곳에 오르는 것을 매우 좋아합니다.",
+  "care_en": "Their thick coat requires regular brushing, especially during shedding seasons. As active large cats, they need sturdy climbing structures and high-quality nutrition.",
+  "care_ko": "털이 잘 엉키는 편은 아니지만 모량이 많아 주 2~3회 이상의 정기적인 빗질이 필요합니다. 대형묘 전용 캣타워와 같이 활동량을 해소할 수 있는 수직 공간이 반드시 확보되어야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Glycogen Storage Disease IV",
+      "name_ko": "글리코겐 저장 질환 IV",
+      "severity_note": "Low (Genetic)"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "메인쿤과 어떻게 다른가요?",
+      "answer_ko": "노르웨이 숲은 콧날이 직선이고 얼굴이 삼각형인 반면, 메인쿤은 콧날이 꺾여 있고 주둥이가 더 각진 형태입니다. 또한 노르웨이 숲의 뒷다리가 앞다리보다 약간 더 깁니다."
+    },
+    {
+      "question_ko": "아파트에서 키우기엔 너무 크지 않나요?",
+      "answer_ko": "체구는 크지만 성격이 조용하고 차분하여 실내 생활에 매우 잘 적응합니다. 다만 평면적인 면적보다 수직적인 높이(캣타워 등)를 확보해 주는 것이 중요합니다."
+    }
+  ],
+  "visual_comparison_tip": "메인쿤보다 얼굴형이 정삼각형에 가깝고, 콧날이 꺾이지 않고 직선으로 뻗어 있는지를 확인하세요.",
+  "meta_tags": {
+    "title": "노르웨이 숲 고양이 도감: 성격, 털 빠짐, 메인쿤과 차이점 | nyan",
+    "description": "북유럽 숲의 정령 노르웨이 숲 고양이의 모든 것. 강인한 건강 상태와 똑똑한 성격, 실제 분양가와 유지 비용을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "노르웨이숲",
+      "놀숲",
+      "대형묘",
+      "고양이비교",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_hero.webp",
+  "image_macro_path": "/images/Nyan/norwegian-forest-cat_macro.png",
+  "image_fullbody_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "비대성 심근증(HCM)과 당뇨병에 대한 정기적인 건강 검진이 권장됩니다.",
+  "local_rarity_ko": "국내에서 '놀숲'이라는 애칭으로 큰 인기를 얻고 있으며, 한국의 기후와도 잘 맞아 건강하게 키우기 좋은 품종으로 평가받습니다.",
+  "similar_breed_ids": [
+    "maine-coon",
+    "siberian",
+    "turkish-angora"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/norwegian-forest-cat/norwegian-forest-cat_variant_full_body.webp"
+}

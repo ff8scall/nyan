@@ -1,0 +1,120 @@
+{
+  "id": "turkish-angora",
+  "name_en": "Turkish Angora",
+  "name_ko": "터키시 앙고라",
+  "aliases_ko": [
+    "터앙",
+    "귀족 고양이"
+  ],
+  "origin_country": "Turkey",
+  "size_category": "medium",
+  "body_type": "foreign",
+  "coat_length": "long",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "solid",
+    "tabby",
+    "bicolor"
+  ],
+  "common_colors": [
+    "white",
+    "black",
+    "blue",
+    "red",
+    "cream"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 18,
+  "grooming_level": 3,
+  "shedding_level": 4,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "장모종 중 속털이 거의 없어 털 관리가 상대적으로 수월함",
+    "지능이 매우 높고 영리하여 집사의 행동을 잘 관찰하고 배움",
+    "우아한 외모와 달리 장난기 많고 활동적인 반전 매력을 가짐"
+  ],
+  "cons": [
+    "흰색 털에 파란 눈을 가진 개체는 선천적 청각 장애(난청) 위험이 큼",
+    "매우 고집이 세고 영리하여 원하는 것을 얻을 때까지 집사를 괴롭힐 수 있음",
+    "높은 곳에 올라가는 것을 광적으로 좋아해 집안 물건 파손 주의 필요"
+  ],
+  "economics": {
+    "price_range_ko": "800,000원 - 1,800,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 120,000원 - 170,000원"
+  },
+  "summary_en": "The Turkish Angora is a breed of domestic cat that originated in central Turkey, in the Ankara region.",
+  "summary_ko": "터키 왕실에서 기르던 우아함의 상징입니다. 실크처럼 가볍고 부드러운 하얀 털과 발레리나 같은 우아한 몸짓을 가졌지만, 내면은 누구보다 용감하고 장난기 가득한 지적인 품종입니다.",
+  "appearance_en": "Slender, elegant body with long, silky fur. They are known for their almond-shaped eyes, which can be blue, green, amber, or odd-eyed, and their large, pointed ears.",
+  "appearance_ko": "가늘고 우아한 '포린(Foreign)' 체형을 가졌습니다. 아몬드 모양의 신비로운 눈매와 크고 뾰족한 귀가 특징이며, 특히 깃털처럼 가볍고 긴 꼬리가 아름답습니다. 속털이 없어 털이 뭉치지 않고 하늘거리는 것이 특징입니다.",
+  "personality_en": "Highly intelligent, social, and energetic. They are determined cats who like to be the center of attention and are known for their problem-solving abilities.",
+  "personality_ko": "매우 영리하고 사교적입니다. 집사의 모든 일에 참견하고 싶어 하며, 스스로 문을 열거나 물건을 가져오는 등 지능적인 활동을 즐깁니다. 높은 곳을 좋아하고 호기심이 많아 집안을 활발하게 뛰어다닙니다.",
+  "care_en": "Requires regular brushing to maintain their silky coat, although it mats less than other long-haired breeds. They need plenty of mental stimulation and interactive play.",
+  "care_ko": "장모종임에도 속털이 없어 주 2~3회 빗질만으로도 충분히 관리가 가능합니다. 하지만 지능이 높고 활동량이 많으므로 수직 공간 확보와 지적인 놀이가 동반되지 않으면 지루함을 느껴 말썽을 피울 수 있습니다.",
+  "known_risks": [
+    {
+      "name_en": "Congenital Deafness",
+      "name_ko": "선천적 난청",
+      "severity_note": "High for White/Blue-eyed"
+    },
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 귀가 안 들리나요?",
+      "answer_ko": "모든 터키시 앙고라가 그런 것은 아닙니다. 주로 하얀 털에 파란 눈을 가진 개체에서 높은 확률로 난청이 나타나며, 오드아이의 경우 파란 눈 쪽 귀만 안 들리는 경우도 있습니다."
+    },
+    {
+      "question_ko": "털 빠짐이 심한가요?",
+      "answer_ko": "장모종이므로 털 빠짐은 분명히 존재합니다. 하지만 속털이 없어 털 날림이 뭉치기보다 공중에 뜨는 경향이 있으므로 공기 청정기와 꾸준한 빗질이 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "페르시안보다 얼굴이 갸름하고 코가 오똑하며, 털이 훨씬 가볍고 하늘거리는지 확인하세요.",
+  "meta_tags": {
+    "title": "터키시 앙고라 도감: 성격, 난청 확인법, 털 관리 가이드 | nyan",
+    "description": "우아한 실크 자태 터키시 앙고라의 모든 것. 똑똑한 지능과 활동량, 실제 분양가와 난청 유전병 예방 팁을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "터키시앙고라",
+      "터앙",
+      "흰고양이",
+      "똑똑한고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/turkish-angora/turkish-angora_hero.webp",
+  "image_macro_path": "/images/Nyan/turkish-angora_macro.png",
+  "image_fullbody_path": "/images/Nyan/turkish-angora/turkish-angora_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/turkish-angora/turkish-angora_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "선천적 난청(특히 흰 고양이)과 비대성 심근증(HCM)에 대한 정기적인 검진이 필요합니다.",
+  "local_rarity_ko": "국내에서 하얀 고양이의 대명사로 불리며 꾸준한 사랑을 받고 있습니다. 외모가 아름다워 광고나 영화에도 자주 등장하며, 성격까지 활발해 젊은 집사들에게 인기가 높습니다.",
+  "similar_breed_ids": [
+    "turkish-van",
+    "balinese",
+    "russian-white"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/turkish-angora/turkish-angora_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/turkish-angora/turkish-angora_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/turkish-angora/turkish-angora_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/turkish-angora/turkish-angora_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/turkish-angora/turkish-angora_variant_full_body.webp"
+}

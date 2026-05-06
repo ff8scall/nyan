@@ -1,0 +1,122 @@
+{
+  "id": "korean-shorthair",
+  "name_en": "Korean Shorthair",
+  "name_ko": "코리안 쇼트헤어",
+  "aliases_ko": [
+    "코숏",
+    "참고양이"
+  ],
+  "origin_country": "South Korea",
+  "size_category": "medium",
+  "body_type": "semi_foreign",
+  "coat_length": "short",
+  "coat_texture": "hard_dense",
+  "common_patterns": [
+    "tabby",
+    "bicolor",
+    "solid",
+    "calico",
+    "tortoiseshell"
+  ],
+  "common_colors": [
+    "yellow",
+    "black",
+    "white",
+    "gray"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 7.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 18,
+  "grooming_level": 1,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "한국 기후와 환경에 완벽히 적응하여 유전병이 거의 없고 면역력이 매우 뛰어남",
+    "매우 영리하고 눈치가 빠르며 집사의 성향에 맞춰 행동하는 유연함을 가짐",
+    "털 관리가 매우 쉽고 별도의 미용이 거의 필요하지 않음"
+  ],
+  "cons": [
+    "품종 표준이 정해지지 않은 자연 발생종이라 개체마다 성격 차이가 매우 큼",
+    "활동량이 많아 충분한 놀이 공간과 수직 공간이 확보되지 않으면 스트레스를 받을 수 있음",
+    "식탐이 강한 개체가 많아 사료량을 조절하지 않으면 금방 비만이 됨 (일명 '돼냥이')"
+  ],
+  "economics": {
+    "price_range_ko": "무료 분양 - 100,000원 (보통 입양)",
+    "monthly_care_cost": "약 80,000원 - 150,000원"
+  },
+  "summary_en": "The Korean Shorthair is a natural breed of domestic cat from South Korea, known for its resilience and diverse coat patterns.",
+  "summary_ko": "우리 곁에서 가장 친숙하게 만날 수 있는 '코숏'으로, 개성 넘치는 무늬와 강한 면역력, 그리고 영리한 눈치로 사랑받는 한국의 고양이입니다.",
+  "appearance_en": "Native Korean domestic cat, diverse patterns (cheese, tuxedo, mackerel), medium sturdy build, active and healthy.",
+  "appearance_ko": "한국 토종 고양이로 고등어, 치즈, 턱시도 등 매우 다양한 무늬를 가집니다. 특정 표준은 없지만 대체로 근육질에 영리하며 한국 환경에 최적화된 강한 생존력을 보입니다.",
+  "personality_en": "Highly intelligent, adaptable, and active. They are known for being very affectionate to their families once trust is established.",
+  "personality_ko": "생존 본능에서 기인한 뛰어난 지능과 적응력을 가졌습니다. 처음에는 경계심이 있을 수 있으나, 마음을 열면 그 누구보다 깊은 유대감을 형성하는 따뜻한 성격입니다.",
+  "care_en": "Requires minimal grooming. Regular play sessions are essential to satisfy their high activity levels.",
+  "care_ko": "특별한 관리가 필요 없을 정도로 스스로 그루밍을 잘합니다. 다만 활동량이 많으므로 사냥 놀이를 통해 에너지를 발산해 주어야 건강을 유지할 수 있습니다.",
+  "known_risks": [
+    {
+      "name_en": "Obesity",
+      "name_ko": "비만",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Dental issues",
+      "name_ko": "구강 질환",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "코숏도 품종 고양이인가요?",
+      "answer_ko": "공식적으로 등록된 순종(Pedigree)은 아니지만, 한국의 자연 발생종으로서 독자적인 정체성을 인정받고 있습니다."
+    },
+    {
+      "question_ko": "어떤 무늬가 가장 인기가 많나요?",
+      "answer_ko": "밝고 다정한 느낌의 '치즈 태비'와 똑똑해 보이는 '고등어 태비', 세련된 '턱시도'가 골고루 사랑받고 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "치즈 태비, 고등어 태비, 턱시도, 삼색이 등 한국인에게 가장 친숙한 무늬를 가졌으며, 아메리칸 쇼트헤어보다 얼굴이 더 갸름하고 다리가 긴 편입니다.",
+  "meta_tags": {
+    "title": "코리안 쇼트헤어 도감: 한국의 소중한 반려묘 코숏의 모든 것 | nyan",
+    "description": "가장 친근하지만 가장 특별한 우리 고양이, 코리안 쇼트헤어. 건강하고 영리한 코숏의 성격과 관리법을 nyan에서 확인하세요.",
+    "keywords": [
+      "코리안쇼트헤어",
+      "코숏",
+      "고등어태비",
+      "치즈태비",
+      "한국고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/korean-shorthair/korean-shorthair_hero.webp",
+  "image_macro_path": "/images/Nyan/korean-shorthair_macro.png",
+  "image_fullbody_path": "/images/Nyan/korean-shorthair/korean-shorthair_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/korean-shorthair/korean-shorthair_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생종이라 유전적 결함이 거의 없으며, 전 세계 고양이 중에서도 건강 상태가 최상위에 속합니다.",
+  "local_rarity_ko": "한국에서 가장 많이 볼 수 있는 친근한 존재이며, 유기묘 보호소나 길거리 구조를 통해 가족이 되는 경우가 가장 많습니다.",
+  "similar_breed_ids": [
+    "american-shorthair",
+    "japanese-bobtail",
+    "bengal"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/korean-shorthair/korean-shorthair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/korean-shorthair/korean-shorthair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/korean-shorthair/korean-shorthair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/korean-shorthair/korean-shorthair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/korean-shorthair/korean-shorthair_variant_full_body.webp"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "egyptian-mau",
+  "name_en": "Egyptian Mau",
+  "name_ko": "이집션 마우",
+  "aliases_ko": [
+    "파라오의 고양이",
+    "가장 빠른 고양이"
+  ],
+  "origin_country": "Egypt",
+  "size_category": "medium",
+  "body_type": "semi-foreign",
+  "coat_length": "short",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "naturally_spotted"
+  ],
+  "common_colors": [
+    "silver",
+    "bronze",
+    "smoke"
+  ],
+  "weight_min_kg": 2.7,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 4,
+  "independence_level": 3,
+  "vocal_level": 3,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 4,
+    "dogs_score": 3,
+    "strangers_score": 2
+  },
+  "pros": [
+    "인위적인 교배 없이 자연 발생한 유일한 점박이 고양이로 희소가치가 매우 높음",
+    "집고양이 중 가장 빠른 속도(시속 약 48km)를 낼 수 있는 놀라운 신체 능력을 가짐",
+    "구즈베리 그린(연녹색) 눈과 신비로운 외모로 고대 이집트의 우아함을 느낄 수 있음"
+  ],
+  "cons": [
+    "매우 예민하고 낯가림이 심해 낯선 사람이나 큰 소리에 큰 스트레스를 받을 수 있음",
+    "엄청난 활동량을 가지고 있어 좁은 공간보다는 에너지를 발산할 수 있는 환경이 필요함",
+    "국내외적으로 개체 수가 매우 적어 입양을 위해 긴 대기 시간과 높은 비용이 소요됨"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 5,500,000원 이상 (희귀 품종)",
+    "monthly_care_cost": "약 130,000원 - 200,000원"
+  },
+  "summary_en": "The Egyptian Mau is a small-to-medium-sized short-haired cat breed. They are one of the few naturally spotted breeds of domesticated cat.",
+  "summary_ko": "고대 이집트 벽화 속 고양이의 직계 후손으로, 신비로운 점박이 무늬와 엄청난 순발력을 가진 살아있는 역사입니다.",
+  "appearance_en": "Natural spotted coat, distinctive gooseberry green eyes, athletic and graceful build, fast runner with skin flap.",
+  "appearance_ko": "인위적 교배 없이 자연적으로 발생한 점박이 무늬와 '구즈베리' 빛의 초록색 눈이 상징입니다. 뒷다리 사이에 피부 플랩이 있어 고양이 중 가장 빠른 속도로 달릴 수 있습니다.",
+  "personality_en": "Extremely loyal, sensitive, and intelligent. They are known for their 'musical' voices and their tendency to wag their tails like dogs when happy. They are shy with strangers but deeply devoted to their families.",
+  "personality_ko": "가족에게는 매우 헌신적이고 다정하지만, 낯선 사람에게는 매우 수줍음을 많이 타는 예민한 성격입니다. 기분이 좋으면 강아지처럼 꼬리를 흔들기도 하며, 노래하는 듯한 독특한 목소리로 집사와 대화하는 것을 좋아합니다.",
+  "care_en": "Minimal grooming is required, but they need significant mental stimulation and interactive play to prevent anxiety. They are sensitive to anesthesia and cold temperatures.",
+  "care_ko": "털 관리는 매우 쉽지만, 성격이 예민하므로 조용하고 안정적인 환경을 조성해 주는 것이 중요합니다. 엄청난 활동량을 해소해 줄 수 있는 놀이가 필수적이며, 추위에 약하므로 겨울철 온습도 관리에 신경 써야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Anesthesia sensitivity",
+      "name_ko": "마취 민감성",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Leukodystrophy",
+      "name_ko": "백질이양증",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "얼마나 빠른가요?",
+      "answer_ko": "시속 48km 이상으로 달릴 수 있어 집고양이 중에서는 단연 1위입니다. 이는 특유의 다리 구조와 강력한 뒷다리 근육 덕분입니다."
+    },
+    {
+      "question_ko": "목소리가 특이한가요?",
+      "answer_ko": "네, 일반적인 '야옹' 소리보다는 짹짹거리거나 노래하는 듯한 다양한 소리를 내며 집사와 끊임없이 소통하려 합니다."
+    }
+  ],
+  "visual_comparison_tip": "다른 점박이 고양이와 달리 눈 색깔이 반드시 '구즈베리 그린(연녹색)'이어야 하며, 뒷다리 사이에 피부가 늘어진 '플랩(Flap)'이 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "이집션 마우 도감: 성격, 속도, 고대 이집트의 신비로운 외모 | nyan",
+    "description": "파라오가 사랑한 고양이, 이집션 마우의 모든 것. 자연 발생 점무늬와 놀라운 속도, 실제 분양가와 예민한 성격 관리법을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "이집션마우",
+      "가장빠른고양이",
+      "자연발생점박이",
+      "이집트고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/egyptian-mau/egyptian-mau_hero.webp",
+  "image_macro_path": "/images/Nyan/egyptian-mau_macro.png",
+  "image_fullbody_path": "/images/Nyan/egyptian-mau/egyptian-mau_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/egyptian-mau/egyptian-mau_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자연 발생 종이라 매우 건강하지만, 마취에 예민한 특성이 있으므로 병원 방문 시 주의가 필요합니다.",
+  "local_rarity_ko": "국내뿐만 아니라 전 세계적으로도 매우 귀한 품종입니다. 파라오의 고양이라는 수식어에 걸맞게 높은 분양가와 희소성을 가지며, 고양이 전문가들 사이에서도 선망의 대상이 되는 품종입니다.",
+  "similar_breed_ids": [
+    "ocicat",
+    "abyssinian",
+    "bengal"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/egyptian-mau/egyptian-mau_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/egyptian-mau/egyptian-mau_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/egyptian-mau/egyptian-mau_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/egyptian-mau/egyptian-mau_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/egyptian-mau/egyptian-mau_variant_full_body.webp"
+}

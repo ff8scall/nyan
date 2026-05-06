@@ -1,0 +1,72 @@
+{
+  "id": "oriental-shorthair",
+  "name_en": "Oriental Shorthair",
+  "name_ko": "오리엔탈 쇼트헤어",
+  "aliases_ko": ["오리엔탈", "박쥐 고양이"],
+  "origin_country": "Thailand / United States",
+  "size_category": "medium",
+  "body_type": "oriental",
+  "coat_length": "short",
+  "coat_texture": "fine",
+  "common_patterns": ["solid", "tabby", "bicolor", "shaded"],
+  "common_colors": ["over 300 color combinations"],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 4.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 5,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "매우 영리하고 집사와의 소통 능력이 뛰어남",
+    "털 관리가 매우 쉬워 알레르기에 민감한 집사에게 유리함",
+    "애교가 넘치며 항상 집사의 관심을 끌려 함"
+  ],
+  "cons": [
+    "목소리가 매우 크고 수다스러워 조용한 환경에는 부적합할 수 있음",
+    "외로움을 많이 타서 장시간 혼자 두면 스트레스를 받음",
+    "추위에 민감하여 겨울철 체온 관리가 필수적임"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원",
+    "monthly_care_cost": "약 100,000원 - 180,000원"
+  },
+  "summary_en": "The Oriental Shorthair is a sleek, intelligent, and highly social cat known for its large ears and vocal personality.",
+  "summary_ko": "커다란 귀와 날렵한 몸매를 가진 '고양이계의 모델'로, 집사와 대화하는 것을 즐기는 세상에서 가장 수다스럽고 사랑스러운 동반자입니다.",
+  "appearance_en": "Slender, tubular body with fine bones and long, whip-like tail. Distinctive large, flared ears and almond-shaped eyes.",
+  "appearance_ko": "가늘고 긴 뼈대와 근육질의 날렵한 몸매가 특징입니다. 얼굴의 절반을 차지할 듯한 커다란 박쥐 귀와 매혹적인 아몬드형 눈이 독특한 매력을 뽐냅니다.",
+  "personality_en": "Extremely social, curious, and vocal. They crave attention and love to be involved in everything their owners do.",
+  "personality_ko": "극도로 사교적이고 호기심이 많습니다. 집사의 모든 일에 참견하고 싶어 하며, 끊임없이 대화를 시도하는 에너지가 넘치는 성격입니다.",
+  "care_en": "Requires minimal grooming. Focus on mental stimulation and keeping them warm in cool environments.",
+  "care_ko": "털이 매우 짧고 부드러워 주 1회 가벼운 빗질만으로 충분합니다. 대신 지능이 높으므로 지루하지 않게 다양한 장난감과 수직 공간을 제공해 주어야 합니다.",
+  "known_risks": [
+    { "name_en": "Progressive Retinal Atrophy (PRA)", "name_ko": "진행성 망막 위축증", "severity_note": "Moderate" },
+    { "name_en": "Amyloidosis", "name_ko": "아밀로이드증 (간 질환)", "severity_note": "Moderate" }
+  ],
+  "faq": [
+    { "question_ko": "정말 그렇게 말이 많나요?", "answer_ko": "네, 고양이 중에서도 독보적인 수다쟁이입니다. 집사의 말을 알아듣는 듯한 대답을 자주 들으실 수 있습니다." },
+    { "question_ko": "혼자 두어도 괜찮을까요?", "answer_ko": "외로움을 매우 많이 타는 품종입니다. 다묘 가정이거나 집에 사람이 상주하는 환경이 가장 좋습니다." }
+  ],
+  "image_master_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_hero.webp",
+  "image_frontal_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_face_portrait.webp",
+  "image_fullbody_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_full_body_front.webp",
+  "image_fullbody_side_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/oriental-shorthair/oriental-shorthair_variant_full_body.webp"
+}

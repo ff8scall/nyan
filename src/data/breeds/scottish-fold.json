@@ -1,0 +1,115 @@
+{
+  "id": "scottish-fold",
+  "name_en": "Scottish Fold",
+  "name_ko": "스코티시 폴드",
+  "aliases_ko": [
+    "폴드",
+    "올빼미 고양이",
+    "테디베어 캣"
+  ],
+  "origin_country": "United Kingdom (Scotland)",
+  "size_category": "medium",
+  "body_type": "semi-cobby",
+  "coat_length": "short_or_long",
+  "coat_texture": "plush_and_soft",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 6.0,
+  "lifespan_min_years": 11,
+  "lifespan_max_years": 15,
+  "grooming_level": 3,
+  "shedding_level": 3,
+  "activity_level": 2,
+  "playfulness_level": 3,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "동그란 얼굴과 접힌 귀로 인한 압도적인 귀여움과 포근한 인상",
+    "성격이 매우 온순하고 조용하여 아파트 생활에 최적화됨",
+    "집사 곁에 머물기를 좋아하는 다정한 성격으로 정서적 만족감이 높음"
+  ],
+  "cons": [
+    "접힌 귀의 원인인 골연골 이형성증(유전병) 발병 위험이 매우 높음",
+    "지속적인 관절 통증으로 인해 관리가 까다롭고 의료비 부담이 클 수 있음",
+    "귀 안쪽 습기 관리가 되지 않으면 외이염 등 귓병에 취약함"
+  ],
+  "economics": {
+    "price_range_ko": "1,000,000원 - 3,000,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 150,000원 - 300,000원 (영양제 포함)"
+  },
+  "summary_en": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to 'fold'.",
+  "summary_ko": "접힌 귀와 동그란 눈으로 전 세계인의 사랑을 독차지하는 '올빼미 고양이'입니다. 하지만 그 귀여운 귀는 뼈 마디마디에 영향을 주는 유전병과 연결되어 있어, 집사의 깊은 책임감과 세심한 관리가 필요한 품종입니다.",
+  "appearance_en": "Known for its unique ears that fold forward and down towards the face. They have a well-rounded body, large round eyes, and a sweet, wide-eyed expression often described as looking like an owl.",
+  "appearance_ko": "앞으로 굽어 얼굴 쪽으로 착 붙은 귀가 가장 큰 특징입니다. 동그란 얼굴과 커다란 눈매 덕분에 올빼미나 테디베어 같은 인상을 줍니다. 짧고 통통한 '세미 코비(Semi-cobby)' 체형을 가졌습니다.",
+  "personality_en": "Sweet-tempered, docile, and affectionate. They enjoy the company of their owners and are known for their unusual sitting positions, such as the 'Buddha sit' where they sit on their hind legs with their paws on their belly.",
+  "personality_ko": "매우 온순하고 느긋합니다. 집사를 졸졸 따라다니기보다 조용히 곁을 지키는 편이며, 사람처럼 엉덩이를 바닥에 붙이고 앉는 '부처님 자세'를 자주 보여주는 것으로 유명합니다.",
+  "care_en": "Requires regular grooming to manage shedding. Special attention must be paid to their ears and overall joint health due to potential genetic issues. They prefer a calm and loving environment.",
+  "care_ko": "귀가 접혀 있어 안쪽에 습기가 차기 쉬우므로 정기적인 귀 청소가 필수입니다. 무엇보다 관절 건강을 위해 고단백 식단보다는 적절한 영양제(콘드로이친 등) 급여와 과도한 점프를 방해하지 않는 환경 구성이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Osteochondrodysplasia",
+      "name_ko": "골연골 이형성증",
+      "severity_note": "Critical"
+    },
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "귀가 접히지 않은 폴드도 있나요?",
+      "answer_ko": "네, 이를 '스코티시 스트레이트'라고 부릅니다. 폴드끼리 교배하면 유전병 위험이 너무 커지기 때문에, 귀가 서 있는 스트레이트와 교배하는 것이 브리딩의 원칙입니다."
+    },
+    {
+      "question_ko": "앉아있는 모습이 왜 사람 같나요?",
+      "answer_ko": "특유의 '부처 자세'는 귀여워 보이지만, 사실 관절의 통증을 줄이기 위해 허리에 무리를 주지 않으려 취하는 자세일 수도 있습니다. 정기적인 관절 건강 체크가 필요합니다."
+    }
+  ],
+  "visual_comparison_tip": "브리티시 숏헤어와 닮았지만 귀가 앞으로 접혀 있는지, 그리고 꼬리와 관절이 유연한지(유전병 징후 확인) 꼭 체크하세요.",
+  "meta_tags": {
+    "title": "스코티시 폴드 도감: 성격, 유전병, 접힌 귀의 비밀 | nyan",
+    "description": "올빼미를 닮은 스코티시 폴드의 모든 것. 귀여움 뒤에 숨겨진 골연골 이형성증 관리법과 실제 분양가, 유지 비용을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "스코티시폴드",
+      "폴드",
+      "유전병고양이",
+      "접힌귀고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/scottish-fold/scottish-fold_hero.webp",
+  "image_macro_path": "/images/Nyan/scottish-fold_macro.png",
+  "image_fullbody_path": "/images/Nyan/scottish-fold/scottish-fold_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/scottish-fold/scottish-fold_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "스코티시 폴드 골연골 이형성증(Osteochondrodysplasia)에 대한 정기적인 엑스레이 검사와 통증 관리가 필수적입니다.",
+  "local_rarity_ko": "국내에서 압도적인 인기를 구가하는 품종입니다. 하지만 유전병 이슈로 인해 최근에는 '폴드-스트레이트' 교배나 다른 품종과의 교배를 통해 건강을 우선시하는 경향이 생기고 있습니다.",
+  "similar_breed_ids": [
+    "british-shorthair",
+    "american-shorthair",
+    "exotic-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/scottish-fold/scottish-fold_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/scottish-fold/scottish-fold_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/scottish-fold/scottish-fold_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/scottish-fold/scottish-fold_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/scottish-fold/scottish-fold_variant_full_body.webp"
+}

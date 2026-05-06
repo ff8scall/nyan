@@ -1,0 +1,115 @@
+{
+  "id": "pixie-bob",
+  "name_en": "Pixie-bob",
+  "name_ko": "픽시밥",
+  "aliases_ko": [
+    "미니 밥캣",
+    "다지증 고양이"
+  ],
+  "origin_country": "United States",
+  "size_category": "large",
+  "body_type": "substantial",
+  "coat_length": "short_to_long",
+  "coat_texture": "dense_and_woolly",
+  "common_patterns": [
+    "spotted_tabby"
+  ],
+  "common_colors": [
+    "brown_spotted_tabby"
+  ],
+  "weight_min_kg": 4.0,
+  "weight_max_kg": 8.0,
+  "lifespan_min_years": 13,
+  "lifespan_max_years": 15,
+  "grooming_level": 2,
+  "shedding_level": 3,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 5,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 5,
+    "strangers_score": 4
+  },
+  "pros": [
+    "북미 살쾡이(Bobcat)를 쏙 빼닮은 거칠고 야생적인 외모가 시각적으로 매우 압도적임",
+    "성격이 매우 온순하고 집사에 대한 충성심이 강해 '개냥이'의 정석으로 불림",
+    "고양이 중 드물게 발가락이 더 많은 '다지증'이 허용되는 품종이라 매우 유니크함"
+  ],
+  "cons": [
+    "덩치가 크고 근육질이라 충분한 활동 공간과 수직 공간이 확보되어야 함",
+    "야생적인 외모 때문에 무서울 것이라는 편견을 가질 수 있으나 실제로는 매우 다정함",
+    "다지증 개체의 경우 발톱 관리에 더 많은 정성이 필요하며 주기적인 체크가 필수적임"
+  ],
+  "economics": {
+    "price_range_ko": "2,000,000원 - 4,500,000원",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Pixie-bob is a breed of domestic cat claimed by brand founder Carol Ann Brewer to be the progeny of naturally occurring hybrid matings between bobcats and domestic cats.",
+  "summary_ko": "야생적인 겉모습과 달리 '가족 바보'라고 불릴 정도로 헌신적이고 조용한 성격을 가진 반전 매력의 고양이입니다.",
+  "appearance_en": "Resembles North American Bobcat, short tail, heavy hooded eyes, and polydactyl (extra toes) often present.",
+  "appearance_ko": "북미의 야생 살쾡이(밥캣)를 쏙 빼닮은 외모와 짧은 꼬리, 그리고 무거운 눈꺼풀이 특징입니다. 발가락이 더 많은 '다지증'이 공식적으로 허용되는 유일한 품종입니다.",
+  "personality_en": "Extremely social, intelligent, and loyal. Pixie-bobs are often described as 'dog-like' because they love to follow their owners and can be taught to walk on a leash. They are very gentle and patient with children.",
+  "personality_ko": "외모와 성격의 갭차이가 가장 큰 품종 중 하나입니다. 집사밖에 모르는 '바라기' 성격으로, 집안 어디든 집사를 따라다니며 교감하기를 원합니다. 지능이 매우 높아 '앉아', '손' 같은 훈련이 가능하며 물건을 물어오는 놀이도 매우 좋아합니다. 아이들에게도 매우 관대하고 다정합니다.",
+  "care_en": "Requires regular brushing to manage their dense woolly coat. Polydactyl paws need special attention to ensure claws are trimmed regularly. They need mental stimulation and enjoy interactive games.",
+  "care_ko": "털이 빽빽하고 양털 같은 질감이므로 주 2~3회 이상의 빗질이 필요합니다. 특히 다지증 개체의 경우 발가락 사이사이에 숨은 발톱이 살을 파고들지 않도록 정기적으로 발톱을 깎아주어야 합니다. 에너지가 많으므로 충분한 놀이와 지적인 자극이 필요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Polydactyl claw issues",
+      "name_ko": "다지증 발톱 관리",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 살쾡이의 새끼인가요?",
+      "answer_ko": "품종 설립 초기에는 살쾡이와의 교배설이 있었으나, DNA 검사 결과 현재의 픽시밥은 100% 집고양이 혈통인 것으로 밝혀졌습니다. 살쾡이를 닮게 선별적으로 개량된 품종입니다."
+    },
+    {
+      "question_ko": "다지증이 건강에 나쁜가요?",
+      "answer_ko": "아니요, 픽시밥에게 다지증은 품종의 정상적인 특징 중 하나입니다. 발톱 관리만 잘해준다면 생활하는 데 전혀 지장이 없으며 오히려 '왕발'의 귀여운 매력이 됩니다."
+    }
+  ],
+  "visual_comparison_tip": "밥캣처럼 눈꺼풀이 처진 '후드형 눈(Hooded eyes)'과 짧은 꼬리, 그리고 발가락이 6~7개인 '왕발'인지 확인하세요.",
+  "meta_tags": {
+    "title": "픽시밥 도감: 미니 밥캣의 모든 것, 성격, 다지증의 비밀 | nyan",
+    "description": "야생의 전설 픽시밥의 모든 것. 살쾡이 닮은 외모와 반전 있는 다정한 성격, 다지증의 특징과 실제 분양가를 nyan에서 확인하세요.",
+    "keywords": [
+      "픽시밥",
+      "픽시밥고양이",
+      "밥캣고양이",
+      "다지증고양이",
+      "왕발고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/pixie-bob/pixie-bob_hero.webp",
+  "image_macro_path": "/images/Nyan/pixie-bob_macro.png",
+  "image_fullbody_path": "/images/Nyan/pixie-bob/pixie-bob_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/pixie-bob/pixie-bob_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "대체로 건강하고 튼튼하지만, 다지증과 관련된 발톱 관리 및 비대성 심근증(HCM)에 대한 정기 검진이 권장됩니다.",
+  "local_rarity_ko": "국내에서 거의 찾아보기 힘든 초희귀 품종입니다. 살쾡이의 야생미와 다지증의 유니크함, 그리고 강아지 같은 충성심을 모두 원하는 집사들에게 최고의 품종입니다.",
+  "similar_breed_ids": [
+    "american-bobtail",
+    "maine-coon",
+    "bengal"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/pixie-bob/pixie-bob_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/pixie-bob/pixie-bob_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/pixie-bob/pixie-bob_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/pixie-bob/pixie-bob_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/pixie-bob/pixie-bob_variant_full_body.webp"
+}

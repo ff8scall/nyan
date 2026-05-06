@@ -1,0 +1,115 @@
+{
+  "id": "bombay",
+  "name_en": "Bombay",
+  "name_ko": "봄베이",
+  "aliases_ko": [
+    "거실 위의 흑표범",
+    "검은 판다"
+  ],
+  "origin_country": "United States",
+  "size_category": "medium",
+  "body_type": "cobby_to_semi_cobby",
+  "coat_length": "short",
+  "coat_texture": "glossy_and_satin",
+  "common_patterns": [
+    "solid"
+  ],
+  "common_colors": [
+    "black"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.5,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 16,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 3,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "흑표범을 축소해 놓은 듯한 압도적으로 시크하고 세련된 외모를 가짐",
+    "털이 매우 짧고 몸에 밀착되어 있어 관리가 거의 필요 없으며 윤기가 흐름",
+    "외모와 달리 매우 다정하고 사람을 잘 따르는 전형적인 개냥이 성격을 가짐"
+  ],
+  "cons": [
+    "관심받는 것을 무척 좋아해 집사가 바쁠 때도 계속해서 애교를 부리며 방해할 수 있음",
+    "식탐이 많은 편이라 비만이 되기 쉬우며 체중 관리에 신경을 써야 함",
+    "추위에 민감하여 겨울철에는 따뜻한 실내 환경 유지가 필수적임"
+  ],
+  "economics": {
+    "price_range_ko": "1,200,000원 - 2,800,000원 (캐터리 기준)",
+    "monthly_care_cost": "약 110,000원 - 180,000원"
+  },
+  "summary_en": "The Bombay cat is a type of short-haired cat developed by breeding sable Burmese and black American Shorthair cats, to resemble a miniature black panther.",
+  "summary_ko": "흑표범을 닮은 외모와 달리 매우 사교적이고 애교가 많아 '벨크로 고양이'라는 별명이 있을 정도로 집사 곁을 떠나지 않습니다.",
+  "appearance_en": "Miniature black panther appearance, muscular body, jet-black glossy coat, and bright copper or gold eyes.",
+  "appearance_ko": "'거실 위의 작은 흑표범'으로 불리는 칠흑 같은 검은 털과 구리색 혹은 금색의 둥근 눈이 상징입니다. 새틴처럼 매끄럽고 윤기 나는 짧은 털이 몸에 밀착되어 있습니다.",
+  "personality_en": "Extremely affectionate, social, and intelligent. They are known for being 'velcro cats' and get along well with children and other pets. They are often described as having a dog-like devotion.",
+  "personality_ko": "성격이 매우 온화하고 사람 중심적입니다. 가족의 곁을 떠나지 않으려 하는 '껌딱지' 성향이 강하며, 낯선 사람에게도 사교적입니다. 똑똑하여 집사가 하는 일을 관찰하고 참여하는 것을 즐깁니다.",
+  "care_en": "Requires very little grooming due to their short coat; a weekly brush or simply petting them can maintain their shine. They need social interaction and can get lonely if left alone.",
+  "care_ko": "털 관리는 주 1회 가벼운 빗질이나 손으로 쓰다듬어 주는 것만으로도 광택을 유지할 수 있을 정도로 쉽습니다. 하지만 외로움을 많이 타므로 충분한 교감 시간과 함께 놀아줄 동반자가 필요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Hypertrophic Cardiomyopathy (HCM)",
+      "name_ko": "비대성 심근증",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Craniofacial defect",
+      "name_ko": "안면 기형",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "길고양이 중 검은 고양이와 무엇이 다른가요?",
+      "answer_ko": "봄베이는 얼굴이 훨씬 둥글고 눈 색깔이 반드시 구리색이나 금색이어야 합니다. 또한 털이 매우 짧고 몸에 밀착되어 흐르는 듯한 '새틴' 광택이 훨씬 강합니다."
+    },
+    {
+      "question_ko": "성격이 무섭지 않나요?",
+      "answer_ko": "전혀 그렇지 않습니다. 외모는 흑표범을 닮아 무거워 보일 수 있지만, 실제로는 고양이 중 가장 다정하고 사람을 좋아하는 품종 중 하나입니다."
+    }
+  ],
+  "visual_comparison_tip": "일반 검은 고양이보다 얼굴이 더 둥글고 눈 색깔이 구리색(Copper)에 가까운 짙은 오렌지빛인지 확인하세요.",
+  "meta_tags": {
+    "title": "봄베이 고양이 도감: 거실의 흑표범, 성격, 눈 색깔의 비밀 | nyan",
+    "description": "미니 흑표범 봄베이의 모든 것. 윤기 흐르는 검은 털과 신비로운 구리색 눈을 가진 봄베이의 실제 분양가와 다정한 성격을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "봄베이",
+      "봄베이고양이",
+      "흑고양이",
+      "검은고양이품종",
+      "흑표범고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/bombay/bombay_hero.webp",
+  "image_macro_path": "/images/Nyan/bombay_macro.png",
+  "image_fullbody_path": "/images/Nyan/bombay/bombay_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/bombay/bombay_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "버미즈 혈통에서 기인한 안면 기형이나 심장 질환(HCM)에 대한 주의가 필요합니다.",
+  "local_rarity_ko": "국내에서 '올블랙' 고양이를 선호하는 집사들에게 최고의 드림묘로 꼽히지만, 혈통 있는 봄베이는 매우 귀하며 일반적인 검은 고양이와는 확연히 다른 고급스러운 광택을 자랑합니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "american-shorthair",
+    "british-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/bombay/bombay_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/bombay/bombay_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/bombay/bombay_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/bombay/bombay_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/bombay/bombay_variant_full_body.webp"
+}

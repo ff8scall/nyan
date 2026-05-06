@@ -1,0 +1,117 @@
+{
+  "id": "burmilla",
+  "name_en": "Burmilla",
+  "name_ko": "버밀라",
+  "aliases_ko": [
+    "실버 버미즈",
+    "보석 고양이"
+  ],
+  "origin_country": "United Kingdom",
+  "size_category": "medium",
+  "body_type": "semi-cobby",
+  "coat_length": "short",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "shaded",
+    "tipped"
+  ],
+  "common_colors": [
+    "silver",
+    "golden"
+  ],
+  "weight_min_kg": 3.0,
+  "weight_max_kg": 6.0,
+  "lifespan_min_years": 10,
+  "lifespan_max_years": 15,
+  "grooming_level": 2,
+  "shedding_level": 2,
+  "activity_level": 3,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 3,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 4,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "버미즈의 애교와 친칠라 페르시안의 우아함을 동시에 갖춘 완벽한 반려묘임",
+    "은색으로 빛나는 털과 짙은 아이라인이 그려진 초록색 눈이 보석처럼 아름다움",
+    "성격이 매우 온화하고 느긋하여 처음 고양이를 키우는 초보 집사에게 최적임"
+  ],
+  "cons": [
+    "장기적으로 신장 질환(PKD)의 유전적 위험이 있어 정기적인 관리가 필요함",
+    "사람과 함께 있는 것을 좋아해 혼자 오래 두면 소외감을 느끼고 우울해할 수 있음",
+    "국내에서는 개체 수가 많지 않아 전문 캐터리를 찾는 노력이 필요함"
+  ],
+  "economics": {
+    "price_range_ko": "1,500,000원 - 3,500,000원",
+    "monthly_care_cost": "약 110,000원 - 180,000원"
+  },
+  "summary_en": "The Burmilla is a breed of domestic cat which originated in the United Kingdom in 1981. It is a cross between the Chinchilla Persian and the Burmese.",
+  "summary_ko": "버미즈와 페르시안의 우연한 만남으로 탄생한 '은빛 보석' 같은 고양이로, 반짝이는 털과 차분한 성격이 매력적입니다.",
+  "appearance_en": "Sparkling silver-white coat with shading, green eyes with distinctive 'eyeliner' outlines, elegant foreign build.",
+  "appearance_ko": "은색 바탕에 은은하게 들어간 쉐이딩(Shading) 코트와 선명한 아이라인을 그린 듯한 초록색 눈이 특징입니다. 버미즈의 체격과 페르시안의 우아함이 조화를 이룹니다.",
+  "personality_en": "Easy-going, affectionate, and social. Burmillas are less demanding than Burmese but more active than Persians. They are very intelligent and enjoy interactive play.",
+  "personality_ko": "성격이 매우 원만하고 다정합니다. 집사 곁에 머무는 것을 좋아하지만 과하게 보채지 않는 성숙한 애교를 보여줍니다. 지능이 높고 호기심이 많아 새로운 놀이나 환경에도 빠르게 적응하는 사교적인 고양이입니다.",
+  "care_en": "Requires minimal grooming—a weekly brush is usually enough to maintain their silky coat. They need regular dental care and health checkups, particularly for potential kidney issues.",
+  "care_ko": "속털이 거의 없어 털 관리가 매우 쉽습니다. 주 1~2회 빗질만으로도 충분히 아름다운 자태를 유지할 수 있습니다. 다만 영리하고 사람을 좋아하므로 지적인 놀이와 충분한 교감 시간을 제공해 주는 것이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Polycystic Kidney Disease (PKD)",
+      "name_ko": "다낭성 신장병",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Allergies",
+      "name_ko": "알레르기",
+      "severity_note": "Low"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "눈에 화장을 한 건가요?",
+      "answer_ko": "아니요, 타고난 무늬입니다. 버밀라는 눈과 코 주변에 짙은 색의 라인이 선천적으로 발달하여 마치 정교하게 화장을 한 듯한 아름다운 인상을 줍니다."
+    },
+    {
+      "question_ko": "털이 많이 빠지나요?",
+      "answer_ko": "단모종 중에서도 털 빠짐이 적은 편에 속합니다. 비단 같은 부드러운 털은 관리가 매우 수월하여 초보 집사들도 부담 없이 키울 수 있습니다."
+    }
+  ],
+  "visual_comparison_tip": "버미즈보다 얼굴이 더 둥글고, 털끝에만 색이 들어간 '쉐이디드(Shaded)' 패턴과 짙은 아이라인을 확인하세요.",
+  "meta_tags": {
+    "title": "버밀라 도감: 보석 같은 눈을 가진 은빛 고양이, 성격 및 관리법 | nyan",
+    "description": "버미즈와 친칠라의 우연한 만남으로 탄생한 보석, 버밀라의 모든 것. 은빛 코트의 비밀과 온순한 성격, 실제 분양가를 nyan에서 확인하세요.",
+    "keywords": [
+      "버밀라",
+      "버밀라고양이",
+      "실버고양이",
+      "아이라인고양이",
+      "개냥이추천",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/burmilla/burmilla_hero.webp",
+  "image_macro_path": "/images/Nyan/burmilla_macro.png",
+  "image_fullbody_path": "/images/Nyan/burmilla/burmilla_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/burmilla/burmilla_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "친칠라 페르시안 혈통에서 올 수 있는 다낭성 신장병(PKD)에 대한 정기적인 검사가 권장됩니다.",
+  "local_rarity_ko": "국내에서 매우 희귀한 품종 중 하나입니다. 버미즈의 매력과 페르시안의 아름다움을 모두 원하는 집사들에게 최고의 선택지이며, 그만큼 입양을 위해서는 세심한 노력이 필요합니다.",
+  "similar_breed_ids": [
+    "burmese",
+    "persian",
+    "british-shorthair"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/burmilla/burmilla_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/burmilla/burmilla_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/burmilla/burmilla_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/burmilla/burmilla_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/burmilla/burmilla_variant_full_body.webp"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "peterbald",
+  "name_en": "Peterbald",
+  "name_ko": "피터볼드",
+  "aliases_ko": [
+    "상트페테르부르크의 무모종",
+    "엘프 고양이"
+  ],
+  "origin_country": "Russia",
+  "size_category": "medium",
+  "body_type": "oriental",
+  "coat_length": "hairless_to_short",
+  "coat_texture": "skin_or_velour",
+  "common_patterns": [
+    "all_patterns"
+  ],
+  "common_colors": [
+    "all_colors"
+  ],
+  "weight_min_kg": 2.5,
+  "weight_max_kg": 5.0,
+  "lifespan_min_years": 12,
+  "lifespan_max_years": 15,
+  "grooming_level": 4,
+  "shedding_level": 1,
+  "activity_level": 5,
+  "playfulness_level": 5,
+  "affection_level": 5,
+  "independence_level": 1,
+  "vocal_level": 5,
+  "beginner_friendly_score": 3,
+  "apartment_fit_score": 4,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 5,
+    "cats_score": 5,
+    "dogs_score": 4,
+    "strangers_score": 4
+  },
+  "pros": [
+    "오리엔탈 타입의 우아하고 날씬한 몸매와 무모종 특유의 유니크한 아름다움을 가짐",
+    "성격이 매우 사교적이고 지능이 높아 집사와 끊임없이 소통하고 대화하는 것을 즐김",
+    "털이 거의 없어 털 빠짐 스트레스가 없으며 집사의 체온을 나누는 것을 좋아하는 따뜻한 성격임"
+  ],
+  "cons": [
+    "피부에서 나오는 유분을 제거하기 위해 정기적인 목욕과 세심한 피부 관리가 필수적임",
+    "털이 없어 온도 변화에 매우 민감하므로 여름에는 자외선 차단, 겨울에는 보온에 각별히 신경 써야 함",
+    "외로움을 매우 많이 타는 '껌딱지' 성격이라 혼자 오래 두면 심한 분리불안을 느낄 수 있음"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 5,500,000원 이상 (초희귀 품종)",
+    "monthly_care_cost": "약 150,000원 - 250,000원"
+  },
+  "summary_en": "The Peterbald is a cat breed of Russian origin. It was created in Saint Petersburg in 1994 from an experimental mating of an Oriental Shorthair and a Don Sphynx.",
+  "summary_ko": "러시아에서 탄생한 우아한 무모종으로, 털 날림이 거의 없고 지능이 매우 높으며 집사와 대화하는 것을 즐기는 다정한 품종입니다.",
+  "appearance_en": "Hairless or minimal velvet coat, long tapering oriental lines, extra-large flared ears, slender and graceful.",
+  "appearance_ko": "털이 없거나 아주 미세한 솜털로 덮여 있으며, 샴처럼 길고 가느다란 오리엔탈 체형과 커다란 귀가 상징입니다. 우아한 선과 독특한 피부 질감이 특징입니다.",
+  "personality_en": "Highly social, intelligent, and vocal. Peterbalds are very people-oriented and are often described as 'dog-like' because they love to follow their owners and be involved in everything they do.",
+  "personality_ko": "성격은 매우 외향적이고 다정합니다. 집사와의 소통을 무척 좋아하여 다양한 목소리로 대화를 시도하며, 집사의 어깨 위에 올라타거나 무릎을 차지하는 것을 즐기는 '껌딱지' 성향이 매우 강합니다. 지능이 높아 상황 판단이 빠르고 감수성이 풍부합니다.",
+  "care_en": "Requires regular sponge baths or full baths to manage skin oils, as they lack fur to absorb them. They are sensitive to extreme temperatures and need protection from both cold and direct sunlight.",
+  "care_ko": "피부에서 유분이 많이 나오므로 주 1~2회 정도 따뜻한 물로 닦아주거나 목욕을 시켜주어야 피부 질환을 예방할 수 있습니다. 털이 없어 외부 충격에 피부가 다치기 쉬우므로 실내 환경을 안전하게 유지해야 하며, 항상 보온에 각별히 신경 써야 합니다.",
+  "known_risks": [
+    {
+      "name_en": "Skin sensitivity",
+      "name_ko": "피부 민감성",
+      "severity_note": "High"
+    },
+    {
+      "name_en": "Anesthesia sensitivity",
+      "name_ko": "마취 민감성",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "스핑크스와 무엇이 다른가요?",
+      "answer_ko": "스핑크스는 체형이 조금 더 묵직한 반면, 피터볼드는 훨씬 더 날씬하고 긴 '오리엔탈' 체형입니다. 또한 피터볼드는 털이 아예 없는 것부터 짧은 털이 있는 것까지 피부 타입이 더 다양합니다."
+    },
+    {
+      "question_ko": "추위를 많이 타나요?",
+      "answer_ko": "네, 털이 없어 체온 조절 능력이 낮으므로 겨울철에는 반드시 옷을 입혀주거나 실내 온도를 높게 유지해 주어야 합니다."
+    }
+  ],
+  "visual_comparison_tip": "스핑크스보다 얼굴과 몸이 더 길쭉하고 가느다란 '오리엔탈' 체형이며, 귀가 훨씬 더 크고 뾰족한지 확인하세요.",
+  "meta_tags": {
+    "title": "피터볼드 도감: 우아한 무모종, 성격, 피부 관리, 스핑크스와의 차이점 | nyan",
+    "description": "러시아의 신비, 피터볼드의 모든 것. 오리엔탈 바디와 큰 귀, 실제 분양가와 다정한 성격을 nyan에서 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "피터볼드",
+      "피터볼드고양이",
+      "무모종고양이",
+      "러시아고양이",
+      "오리엔탈고양이",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/peterbald/peterbald_hero.webp",
+  "image_macro_path": "/images/Nyan/peterbald_macro.png",
+  "image_fullbody_path": "/images/Nyan/peterbald/peterbald_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/peterbald/peterbald_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "유전적으로 건강한 편이지만 무모종 특성상 피부 건조증이나 햇빛 화상에 대한 주의가 필요합니다.",
+  "local_rarity_ko": "국내에서 스핑크스보다 훨씬 희귀한 초희귀 품종입니다. 오리엔탈 품종 특유의 긴 실루엣을 사랑하는 전문 집사들 사이에서 최고의 드림묘로 꼽히는 품종입니다.",
+  "similar_breed_ids": [
+    "oriental-shorthair",
+    "sphynx",
+    "siamese"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/peterbald/peterbald_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/peterbald/peterbald_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/peterbald/peterbald_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/peterbald/peterbald_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/peterbald/peterbald_variant_full_body.webp"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "singapura",
+  "name_en": "Singapura",
+  "name_ko": "싱가푸라",
+  "aliases_ko": [
+    "싱가포르의 보물",
+    "세상에서 가장 작은 고양이"
+  ],
+  "origin_country": "Singapore",
+  "size_category": "small",
+  "body_type": "cobby_to_semi_cobby",
+  "coat_length": "short",
+  "coat_texture": "fine_and_silky",
+  "common_patterns": [
+    "ticked_tabby"
+  ],
+  "common_colors": [
+    "sepia"
+  ],
+  "weight_min_kg": 2.0,
+  "weight_max_kg": 4.0,
+  "lifespan_min_years": 11,
+  "lifespan_max_years": 15,
+  "grooming_level": 1,
+  "shedding_level": 2,
+  "activity_level": 4,
+  "playfulness_level": 4,
+  "affection_level": 5,
+  "independence_level": 2,
+  "vocal_level": 2,
+  "beginner_friendly_score": 5,
+  "apartment_fit_score": 5,
+  "family_fit_score": 5,
+  "multi_pet_fit_score": 4,
+  "social_compatibility": {
+    "kids_score": 4,
+    "cats_score": 5,
+    "dogs_score": 4,
+    "strangers_score": 3
+  },
+  "pros": [
+    "세상에서 가장 작은 품종으로 아파트나 작은 주거 공간에서 기르기에 최적화됨",
+    "성묘가 되어도 아기 고양이 같은 외모와 작은 덩치를 유지하여 보호 본능을 자극함",
+    "사교성이 매우 좋고 조용한 성격으로 가족들과 평화롭게 어울림"
+  ],
+  "cons": [
+    "덩치가 너무 작아 문 틈에 끼거나 밟히는 등 불의의 사고 위험이 있어 세심한 주의가 필요함",
+    "번식력이 낮고 개체 수가 적어 분양가가 매우 비싸고 입양하기가 어려움",
+    "추위에 매우 취약하므로 항상 일정한 실내 온도를 유지해 주어야 함"
+  ],
+  "economics": {
+    "price_range_ko": "2,500,000원 - 6,000,000원 이상 (희귀 품종)",
+    "monthly_care_cost": "약 100,000원 - 160,000원"
+  },
+  "summary_en": "The Singapura is the smallest breed of domestic cat, noted for its large eyes and ears, brown-ticked coat, and blunt tail.",
+  "summary_ko": "싱가포르 하수구에서 발견된 작은 고양이에서 시작된 기적의 품종으로, 작은 몸집에 넘치는 에너지와 호기심을 가진 사랑스러운 동반자입니다.",
+  "appearance_en": "Smallest recognized breed, sepia agouti ticked coat, exceptionally large eyes and ears relative to body.",
+  "appearance_ko": "세계에서 가장 작은 고양이로 알려져 있으며, 몸에 비해 거대한 눈과 귀가 만화 캐릭터 같은 귀여움을 줍니다. 금색 바탕의 틱(Ticked) 무늬 코트가 단 하나만 허용됩니다.",
+  "personality_en": "Active, curious, and playful. Despite their small size, they are very social and enjoy being around people and other pets.",
+  "personality_ko": "덩치는 작지만 에너지가 넘치고 호기심이 많습니다. 사람을 무척 좋아하고 사교적이라 항상 집사의 어깨 위나 무릎 위를 차지하려 드는 다정한 성격입니다. 목소리는 작지만 집사와의 소통을 즐기는 영리한 고양이입니다.",
+  "care_en": "Requires minimal grooming due to their short, fine coat. Because of their small size, they are strictly indoor cats and need to be protected from extreme cold.",
+  "care_ko": "털 관리는 매우 쉬운 편이지만, 워낙 작고 연약하므로 집안 환경의 안전성에 각별히 유의해야 합니다. 추위에 매우 취약하므로 겨울철 의류나 따뜻한 잠자리를 마련해 주는 것이 중요합니다.",
+  "known_risks": [
+    {
+      "name_en": "Uterine Inertia",
+      "name_ko": "자궁 수축 부전",
+      "severity_note": "Moderate"
+    },
+    {
+      "name_en": "Pyruvate Kinase Deficiency (PKD)",
+      "name_ko": "피루베이트 키나아제 결핍증",
+      "severity_note": "Moderate"
+    }
+  ],
+  "faq": [
+    {
+      "question_ko": "정말 성묘가 되어도 그렇게 작나요?",
+      "answer_ko": "네, 암컷의 경우 2kg 초반, 수컷도 3.5kg를 넘기 힘든 경우가 많아 일반 고양이의 절반 정도 크기라고 보시면 됩니다."
+    },
+    {
+      "question_ko": "다른 고양이랑 잘 지내나요?",
+      "answer_ko": "네, 사교성이 아주 좋아서 덩치 큰 다른 고양이들과도 평화롭게 잘 어울리는 편입니다."
+    }
+  ],
+  "visual_comparison_tip": "아비시니안과 비슷해 보이지만 훨씬 작고, 눈과 귀가 덩치에 비해 매우 크며, 눈가에 짙은 아이라인이 있는지 확인하세요.",
+  "meta_tags": {
+    "title": "싱가푸라 고양이 도감: 세상에서 가장 작은 고양이, 성격, 세피아 틱 | nyan",
+    "description": "포켓 캣 싱가푸라의 모든 것. 성묘가 되어도 2kg대인 작은 덩치와 지능적인 성격, 실제 분양가와 희귀성을 박물관급 디테일로 확인하세요.",
+    "keywords": [
+      "싱가푸라",
+      "가장작은고양이",
+      "세피아틱",
+      "싱가포르고양이",
+      "포켓캣",
+      "nyan"
+    ]
+  },
+  "image_master_path": "/images/Nyan/singapura/singapura_hero.webp",
+  "image_macro_path": "/images/Nyan/singapura_macro.png",
+  "image_fullbody_path": "/images/Nyan/singapura/singapura_full_body_front.webp",
+  "image_frontal_path": "/images/Nyan/singapura/singapura_face_portrait.webp",
+  "negative_prompt": "(worst quality, low quality:1.4), text, watermark, blurry, deformed paws, extra toes, cartoon, painting, asymmetric ears, (human, person, woman, man:1.5), (flower, plant:1.5), (dog, canine, bird:1.5), furniture, house, background objects",
+  "health_notes_ko": "자궁 수축 부전과 피루베이트 키나아제 결핍증(PKD)에 대한 유전적 모니터링이 필요합니다.",
+  "local_rarity_ko": "국내에서 매우 희귀한 품종으로, 입양 비용이 매우 높고 전문 캐터리도 극소수입니다. '포켓 캣'으로서의 매력 덕분에 많은 집사들의 워너비 묘종으로 손꼽힙니다.",
+  "similar_breed_ids": [
+    "abyssinian",
+    "somali",
+    "burmese"
+  ],
+  "image_fullbody_side_path": "/images/Nyan/singapura/singapura_full_body_side.webp",
+  "image_strict_profile_path": "/images/Nyan/singapura/singapura_strict_profile.webp",
+  "image_eye_macro_path": "/images/Nyan/singapura/singapura_eye_macro.webp",
+  "image_coat_texture_path": "/images/Nyan/singapura/singapura_coat_texture.webp",
+  "image_variant_path": "/images/Nyan/singapura/singapura_variant_full_body.webp"
+}
