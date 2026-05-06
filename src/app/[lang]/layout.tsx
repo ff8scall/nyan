@@ -26,6 +26,8 @@ export default async function LocaleLayout({
     <html lang={lang} className={`${notoSerifKr.variable}`}>
       <head>
         <link rel="stylesheet" as="style" crossOrigin="anonymous" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+        <meta name="msvalidate.01" content="048AB450B6B91E03CAF13FDE8415F954" />
+        <meta name="naver-site-verification" content="ee79503faae1cb9a109359acbd834f82d3058073" />
       </head>
       <body>
         <SmoothScroll>
