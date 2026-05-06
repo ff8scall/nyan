@@ -350,13 +350,13 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '3rem', marginBottom: '6rem' }}>
               {breed.expert_sources?.map((source, i) => (
                 <div key={i} style={{ padding: '2.5rem', background: '#0a0a0a', border: '1px solid #1a1a1a', borderRadius: '1rem', display: 'flex', flexDirection: 'column' }}>
-                   <div style={{ fontSize: '0.8rem', color: '#aaa', marginBottom: '1rem', letterSpacing: '0.2em', fontWeight: 400, textTransform: 'uppercase' }}>{source.organization}</div>
-                   <div style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '2rem', fontWeight: 300, lineHeight: '1.5', flexGrow: 1 }}>{source.title}</div>
+                   <div style={{ fontSize: '0.8rem', color: '#aaa', marginBottom: '1rem', letterSpacing: '0.2em', fontWeight: 400, textTransform: 'uppercase' }}>{source.source_name}</div>
+                   <div style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '2rem', fontWeight: 300, lineHeight: '1.5', flexGrow: 1 }}>{source.source_name} {dict.breed.visitOfficial}</div>
                    <a 
                      href={source.url} target="_blank" rel="noopener noreferrer"
                      style={{ fontSize: '0.9rem', color: 'var(--accent)', textDecoration: 'none', fontWeight: 500, display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}
                    >
-                     {source.organization} {dict.breed.visitOfficial} →
+                     {source.source_name} {dict.breed.visitOfficial} →
                    </a>
                 </div>
               ))}
