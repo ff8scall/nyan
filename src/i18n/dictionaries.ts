@@ -71,6 +71,11 @@ export const dictionaries = {
       thinkTwice: "이런 점은 고려해 보세요",
       expertSources: "참조 및 전문 출처",
       visitOfficial: "공식 표준 확인",
+      officialRecognition: "공식 협회 인증",
+      recognitionStatus: "인증 등급",
+      recognitionYear: "인정 연도",
+      cfaFull: "CFA (The Cat Fanciers' Association)",
+      ticaFull: "TICA (The International Cat Association)",
       vetDisclaimer: "본 가이드는 품종 일반의 특성을 설명하며, 의학적 결정은 반드시 수의사와 상의하십시오."
     },
     data: {
@@ -186,6 +191,11 @@ export const dictionaries = {
       thinkTwice: "THINK TWICE IF",
       expertSources: "REFERENCES & SOURCES",
       visitOfficial: "VIEW OFFICIAL STANDARD",
+      officialRecognition: "OFFICIAL RECOGNITION",
+      recognitionStatus: "STATUS",
+      recognitionYear: "YEAR",
+      cfaFull: "CFA (The Cat Fanciers' Association)",
+      ticaFull: "TICA (The International Cat Association)",
       vetDisclaimer: "This guide describes general breed characteristics. For medical decisions, always consult a professional veterinarian."
     },
     data: {

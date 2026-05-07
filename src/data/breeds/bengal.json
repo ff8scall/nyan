@@ -220,5 +220,17 @@
     "eye_macro": "Macro shot of the intense eyes and iris patterns of a Bengal",
     "coat_texture": "Macro photo showing the glitter effect and silky texture of the Bengal coat",
     "variant_full_body": "Full body view showing various color variants of the Bengal"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2016,
+      "url": "https://cfa.org/bengal/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1986,
+      "url": "https://tica.org/breeds/browse-breeds/item/195-bengal"
+    }
   }
 }

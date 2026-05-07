@@ -222,5 +222,17 @@
     "eye_macro": "Macro shot of the alert eyes and iris patterns of an American Shorthair",
     "coat_texture": "Macro photo of the short, thick, and hard coat texture",
     "variant_full_body": "Full body view showing various color variants of the American Shorthair"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1906,
+      "url": "https://cfa.org/american-shorthair/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/191-american-shorthair"
+    }
   }
 }

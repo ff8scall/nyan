@@ -235,5 +235,17 @@
     "variant_full_body": "Showcase of the diverse colors and patterns found in the Ragamuffin breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2011,
+      "url": "https://cfa.org/ragamuffin/"
+    },
+    "tica": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    }
+  }
 }

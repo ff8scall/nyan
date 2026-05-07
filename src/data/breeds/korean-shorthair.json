@@ -245,5 +245,17 @@
     "variant_full_body": "Showcase of the various patterns like Tuxedo or Cheese Tabby found in the breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    }
+  }
 }

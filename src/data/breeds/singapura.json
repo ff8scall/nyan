@@ -236,5 +236,17 @@
     "variant_full_body": "Showcase of the consistent sepia color pattern in the Singapura breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1988,
+      "url": "https://cfa.org/singapura/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/254-singapura"
+    }
+  }
 }

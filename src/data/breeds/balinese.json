@@ -217,5 +217,17 @@
     "eye_macro": "Macro shot of the deep blue eyes and iris patterns of a Balinese cat",
     "coat_texture": "Macro photo of the silky, single-layer longhair coat",
     "variant_full_body": "Full body view showing various color point variants of the Balinese"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1961,
+      "url": "https://cfa.org/balinese/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/194-balinese"
+    }
   }
 }

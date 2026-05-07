@@ -215,5 +215,17 @@
     "eye_macro": "Macro shot of the expressive eyes and iris patterns of an American Bobtail cat",
     "coat_texture": "Macro photo of the dense, shaggy double coat texture",
     "variant_full_body": "Full body view showing various tabby patterns of the American Bobtail"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2006,
+      "url": "https://cfa.org/american-bobtail/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1989,
+      "url": "https://tica.org/breeds/browse-breeds/item/215-american-bobtail"
+    }
   }
 }

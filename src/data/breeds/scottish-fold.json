@@ -237,5 +237,17 @@
     "variant_full_body": "Full body view showing various color variants of the Scottish Fold"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1978,
+      "url": "https://cfa.org/scottish-fold/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/246-scottish-fold"
+    }
+  }
 }

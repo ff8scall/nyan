@@ -347,6 +347,60 @@ export default function BreedClientPage({ breed, lang, slug }: { breed: BreedDat
           </div>
         </section>
 
+        {/* 7.5 OFFICIAL RECOGNITION: Authority Badges */}
+        {breed.official_recognition && (
+          <section style={{ margin: '15rem 0 10rem 0', padding: '6rem 5vw', background: 'linear-gradient(135deg, #080808, #111)', borderRadius: '2rem', border: '1px solid #1a1a1a' }}>
+            <h3 style={{ fontSize: '1rem', letterSpacing: '0.5em', color: '#666', marginBottom: '5rem', textAlign: 'center', textTransform: 'uppercase' }}>
+              {dict.breed.officialRecognition}
+            </h3>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '3rem' }}>
+              {/* CFA Badge */}
+              {breed.official_recognition.cfa && breed.official_recognition.cfa.status !== "Not Recognized" && (
+                <motion.div 
+                  whileHover={{ y: -10 }}
+                  style={{ padding: '3.5rem', background: 'rgba(255,255,255,0.02)', borderRadius: '1.5rem', border: '1px solid rgba(255,255,255,0.05)', position: 'relative' }}
+                >
+                  <div style={{ fontSize: '0.7rem', color: '#999', fontWeight: 600, letterSpacing: '0.2em', marginBottom: '2rem', textTransform: 'uppercase' }}>{dict.breed.cfaFull}</div>
+                  <div style={{ fontSize: '2.4rem', fontWeight: 100, marginBottom: '3rem', color: '#fff', letterSpacing: '-0.02em' }}>{breed.official_recognition.cfa.status}</div>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+                    <div>
+                      <div style={{ fontSize: '0.65rem', color: '#555', textTransform: 'uppercase', letterSpacing: '0.15em', marginBottom: '0.5rem' }}>{dict.breed.recognitionYear}</div>
+                      <div style={{ fontSize: '1.4rem', fontWeight: 300, color: '#aaa' }}>{breed.official_recognition.cfa.year || 'N/A'}</div>
+                    </div>
+                    {breed.official_recognition.cfa.url && (
+                      <a href={breed.official_recognition.cfa.url} target="_blank" rel="noopener noreferrer" style={{ color: '#eee', textDecoration: 'none', fontSize: '0.85rem', borderBottom: '1px solid #333', paddingBottom: '4px', transition: 'border-color 0.3s' }}>
+                        {dict.breed.visitOfficial} →
+                      </a>
+                    )}
+                  </div>
+                </motion.div>
+              )}
+              
+              {/* TICA Badge */}
+              {breed.official_recognition.tica && breed.official_recognition.tica.status !== "Not Recognized" && (
+                <motion.div 
+                  whileHover={{ y: -10 }}
+                  style={{ padding: '3.5rem', background: 'rgba(255,255,255,0.02)', borderRadius: '1.5rem', border: '1px solid rgba(255,255,255,0.05)', position: 'relative' }}
+                >
+                  <div style={{ fontSize: '0.7rem', color: '#999', fontWeight: 600, letterSpacing: '0.2em', marginBottom: '2rem', textTransform: 'uppercase' }}>{dict.breed.ticaFull}</div>
+                  <div style={{ fontSize: '2.4rem', fontWeight: 100, marginBottom: '3rem', color: '#fff', letterSpacing: '-0.02em' }}>{breed.official_recognition.tica.status}</div>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+                    <div>
+                      <div style={{ fontSize: '0.65rem', color: '#555', textTransform: 'uppercase', letterSpacing: '0.15em', marginBottom: '0.5rem' }}>{dict.breed.recognitionYear}</div>
+                      <div style={{ fontSize: '1.4rem', fontWeight: 300, color: '#aaa' }}>{breed.official_recognition.tica.year || 'N/A'}</div>
+                    </div>
+                    {breed.official_recognition.tica.url && (
+                      <a href={breed.official_recognition.tica.url} target="_blank" rel="noopener noreferrer" style={{ color: '#eee', textDecoration: 'none', fontSize: '0.85rem', borderBottom: '1px solid #333', paddingBottom: '4px', transition: 'border-color 0.3s' }}>
+                        {dict.breed.visitOfficial} →
+                      </a>
+                    )}
+                  </div>
+                </motion.div>
+              )}
+            </div>
+          </section>
+        )}
+
         {/* 8. EXPERT SOURCES & DISCLAIMER */}
         <section style={{ margin: '15rem 0 10rem 0', borderTop: '1px solid #111', paddingTop: '8rem' }}>
            <h3 style={{ fontSize: '1rem', letterSpacing: '0.4em', color: '#ccc', marginBottom: '5rem', textAlign: 'center', textTransform: 'uppercase' }}>{dict.breed.expertSources}</h3>

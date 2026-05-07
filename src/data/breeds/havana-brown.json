@@ -209,5 +209,17 @@
     "eye_macro": "Macro shot of the vivid green eyes and iris patterns of a Havana Brown cat",
     "coat_texture": "Macro photo of the short, smooth, and mahogany-colored coat",
     "variant_full_body": "Full body view showing the consistent chocolate color variant of the Havana Brown"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1964,
+      "url": "https://cfa.org/havana-brown/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/214-havana"
+    }
   }
 }

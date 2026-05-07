@@ -237,5 +237,17 @@
     "variant_full_body": "Full body view showing various color variants of the Selkirk Rex"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2000,
+      "url": "https://cfa.org/selkirk-rex/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1992,
+      "url": "https://tica.org/breeds/browse-breeds/item/250-selkirk-rex"
+    }
+  }
 }

@@ -214,5 +214,17 @@
     "eye_macro": "Macro shot of the expressive eyes and iris patterns of a Cornish Rex cat",
     "coat_texture": "Macro photo of the soft, rippled 'washboard' down fur texture",
     "variant_full_body": "Full body view showing various color variants of the Cornish Rex"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1964,
+      "url": "https://cfa.org/cornish-rex/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/208-cornish-rex"
+    }
   }
 }

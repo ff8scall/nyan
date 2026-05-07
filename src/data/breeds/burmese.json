@@ -216,5 +216,17 @@
     "eye_macro": "Macro shot of the expressive golden/yellow eyes of a Burmese cat",
     "coat_texture": "Macro photo of the short, fine, and satin-textured coat",
     "variant_full_body": "Full body view showing various color variants of the Burmese cat"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1936,
+      "url": "https://cfa.org/burmese/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/202-burmese"
+    }
   }
 }

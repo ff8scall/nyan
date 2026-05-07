@@ -235,5 +235,17 @@
     "variant_full_body": "Showcase of various skin patterns and textures found in the breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Miscellaneous",
+      "year": null,
+      "url": "https://cfa.org/peterbald/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2005,
+      "url": "https://tica.org/breeds/browse-breeds/item/240-peterbald"
+    }
+  }
 }

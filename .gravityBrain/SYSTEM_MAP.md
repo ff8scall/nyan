@@ -1,4 +1,4 @@
-﻿# 🗺️ SYSTEM_MAP (nyan - Museum-Grade Cat Encyclopedia)
+# 🗺️ SYSTEM_MAP (nyan - Museum-Grade Cat Encyclopedia)
 
 ## 1. 프로젝트 개요 (Overview)
 - **목표**: 52종의 고양이 품종에 대한 박물관급 초실사 도감 서비스 제공.
@@ -18,7 +18,8 @@
   - ClientPage.tsx: 박물관급 UI 렌더링 및 인터랙션 처리.
 - app/sitemap.ts: 동적 사이트맵 생성 시스템.
 - app/rss.xml/route.ts: 동적 RSS 피드 생성 시스템.
-- app/robots.txt: 검색 로봇 수집 규칙 정의.
+- **Robots.txt**: 검색 봇의 수집 범위를 제어하고 사이트맵 위치를 고지합니다.
+- **Official Authority Integration**: CFA/TICA의 공식 표준 데이터를 `official_recognition` 객체로 구조화하여 정보의 권위성(Authority)을 확보하고, 시각적 배지(Badges)와 딥링크를 통해 신뢰도를 높입니다.
 - i18n/dictionaries.ts: 영문/국문 UI 라벨 및 데이터 매핑 사전.
 - lib/breeds.ts: JSON 데이터 로드 및 타입 정의 (BreedData).
 - data/breeds/: 52종의 품종별 마스터 JSON 데이터 저장소.
@@ -58,5 +59,5 @@ graph TD
 
 ## 5. 핵심 모듈 간 관계 (Module Relationships)
 1. Next.js & i18n: dictionaries.ts가 모든 UI 텍스트와 데이터 매핑(원산지, 체형 등)을 중앙 집중 관리하여 다국어 일관성을 보장함.
-2. SEO & Data: page.tsx가 JSON 데이터를 읽어 실시간으로 Article, FAQ, Breadcrumb 스키마를 생성하여 구글/빙 노출을 극대화함.
-3. Responsive Grid: ClientPage.tsx가 3열 그리드 시스템을 통해 케어 지수, 사회성, 경제성 정보를 수평 정렬하여 박물관 도감의 심미성을 구현함.
+2. SEO & Data: page.tsx가 JSON 데이터를 읽어 실시간으로 Article, FAQ, Breadcrumb 스키마를 생성하며, CFA/TICA 공식 인증 데이터를 통해 정보의 권위성을 보강함.
+3. Responsive Grid: ClientPage.tsx가 3열 그리드 시스템과 Authority Badges를 통해 정보의 신뢰도와 박물관 도감의 심미성을 구현함.

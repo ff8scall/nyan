@@ -1,4 +1,4 @@
-﻿# 🧠 CORE_LOGIC (Museum Archive & SEO Optimization)
+# 🧠 CORE_LOGIC (Museum Archive & SEO Optimization)
 
 ## 1. 설계 의도 (Design Intent)
 박물관급 고양이 도감으로서 **정보의 권위성(Authority)**과 **시각적 완성도(Aesthetics)**를 동시에 달성하는 것을 목표로 합니다. 특히 검색 엔진(Google/Bing)과 AI 챗봇(Copilot)이 데이터를 가장 효율적으로 수집할 수 있는 기술적 토대를 구축했습니다.
@@ -22,6 +22,7 @@
 - **Sitemap.ts**: 모든 품종 ID와 다국어 경로를 조합하여 실시간 사이트맵을 생성합니다.
 - **RSS Route**: 최신 아카이브 업데이트 소식을 XML 규격으로 배포하여 콘텐츠 신디케이션을 지원합니다.
 - **Robots.txt**: 검색 봇의 수집 범위를 제어하고 사이트맵 위치를 고지합니다.
+- **Official Authority Integration**: CFA/TICA의 공식 표준 데이터를 `official_recognition` 객체로 구조화하여 정보의 권위성(Authority)을 확보하고, 시각적 배지(Badges)와 딥링크를 통해 신뢰도를 높입니다.
 
 ## 3. 데이터 흐름 상세 (Data Flow Detail)
 

@@ -209,5 +209,17 @@
     "eye_macro": "Macro shot of the expressive eyes and iris patterns of a LaPerm cat",
     "coat_texture": "Macro photo of the springy, curly, and soft coat texture",
     "variant_full_body": "Full body view showing various color and pattern variants of the LaPerm"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2008,
+      "url": "https://cfa.org/laperm/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2003,
+      "url": "https://tica.org/breeds/browse-breeds/item/225-laperm"
+    }
   }
 }

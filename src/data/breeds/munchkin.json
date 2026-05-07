@@ -236,5 +236,17 @@
     "variant_full_body": "Full body view showing various color and coat variants of the Munchkin"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2003,
+      "url": "https://tica.org/breeds/browse-breeds/item/232-munchkin"
+    }
+  }
 }

@@ -238,5 +238,17 @@
     "variant_full_body": "Showcase of the diverse color patterns available in the Oriental Shorthair breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1977,
+      "url": "https://cfa.org/oriental/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/238-oriental-shorthair"
+    }
+  }
 }

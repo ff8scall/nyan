@@ -232,5 +232,17 @@
     "variant_full_body": "Showcase of the point and white pattern variations in the Snowshoe breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1994,
+      "url": "https://tica.org/breeds/browse-breeds/item/255-snowshoe"
+    }
+  }
 }

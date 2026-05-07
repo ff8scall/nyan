@@ -214,5 +214,17 @@
     "eye_macro": "Macro shot of the luminous green eyes and iris patterns of a Korat cat",
     "coat_texture": "Macro photo of the fine, silky, silver-blue single coat",
     "variant_full_body": "Full body view showing the classic silver-blue appearance of the Korat"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1966,
+      "url": "https://cfa.org/korat/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/222-korat"
+    }
   }
 }

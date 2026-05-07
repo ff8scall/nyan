@@ -239,5 +239,17 @@
     "variant_full_body": "Showcase of the Mink, Pointed, and Solid pattern variations in the Tonkinese breed"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1984,
+      "url": "https://cfa.org/tonkinese/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/260-tonkinese"
+    }
+  }
 }

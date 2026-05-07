@@ -218,5 +218,17 @@
     "eye_macro": "Macro shot of the brilliant blue eyes and iris patterns of a Himalayan cat",
     "coat_texture": "Macro photo of the fine, silky, and long coat texture",
     "variant_full_body": "Full body view showing various point color variants of the Himalayan"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Persian Division",
+      "year": 1984,
+      "url": "https://cfa.org/persian/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/216-himalayan"
+    }
   }
 }

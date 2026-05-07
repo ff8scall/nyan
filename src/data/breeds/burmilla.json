@@ -216,5 +216,17 @@
     "eye_macro": "Macro shot of the vivid green eyes and iris patterns of a Burmilla cat",
     "coat_texture": "Macro photo of the fine, silky silver coat texture",
     "variant_full_body": "Full body view showing various shading levels of the Burmilla"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 2014,
+      "url": "https://cfa.org/burmilla/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/203-burmilla"
+    }
   }
 }

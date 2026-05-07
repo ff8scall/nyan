@@ -216,5 +216,17 @@
     "eye_macro": "Macro shot of the vivid gooseberry green eyes and iris patterns of an Egyptian Mau",
     "coat_texture": "Macro photo of the fine, silky, and naturally spotted coat texture",
     "variant_full_body": "Full body view showing various silver and bronze variants of the Egyptian Mau"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1968,
+      "url": "https://cfa.org/egyptian-mau/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/212-egyptian-mau"
+    }
   }
 }

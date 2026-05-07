@@ -236,5 +236,17 @@
     "variant_full_body": "Full body showcase of the Australian Mist's elegant and unique coat variations"
   },
   "image_generation_priority": "medium",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2014,
+      "url": "https://tica.org/breeds/browse-breeds/item/193-australian-mist"
+    }
+  }
 }

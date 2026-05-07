@@ -209,5 +209,17 @@
     "eye_macro": "Macro shot of the brilliant emerald eyes and iris patterns of a Nebelung",
     "coat_texture": "Macro photo of the shimmering, fine, and silky silver-blue coat texture",
     "variant_full_body": "Full body view showing the characteristic silver-blue solid variant of the Nebelung"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1997,
+      "url": "https://tica.org/breeds/browse-breeds/item/234-nebelung"
+    }
   }
 }

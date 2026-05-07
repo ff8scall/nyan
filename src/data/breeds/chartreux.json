@@ -214,5 +214,17 @@
     "eye_macro": "Macro shot of the intense copper/orange eyes of a Chartreux cat",
     "coat_texture": "Macro photo of the dense, water-repellent, wool-like coat texture",
     "variant_full_body": "Full body view showing the characteristic slate-gray color of the Chartreux"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1987,
+      "url": "https://cfa.org/chartreux/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/205-chartreux"
+    }
   }
 }

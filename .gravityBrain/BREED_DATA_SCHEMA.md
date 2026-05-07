@@ -122,6 +122,17 @@ Risk object:
 - **expert_sources**: (Array) [source_name, url] 구조의 공신력 있는 출처 리스트.
 - **vet_disclaimer_ko**: (String) 수의사 전문 면책 고지 문구.
 
+### Official Recognition (CFA/TICA)
+- **official_recognition**: (Object) 공식 협회 인증 정보.
+  - **cfa**: (Object)
+    - **status**: (String) CFA 인증 등급 (e.g., "Championship", "Miscellaneous").
+    - **year**: (Number/String) CFA 최초 등록/승인 연도.
+    - **url**: (String) CFA 공식 품종 페이지 딥링크.
+  - **tica**: (Object)
+    - **status**: (String) TICA 인증 등급 (e.g., "Championship Breed").
+    - **year**: (Number/String) TICA 최초 승인 연도.
+    - **url**: (String) TICA 공식 품종 페이지 딥링크.
+
 ### FAQ
 Each FAQ object:
 - **question_en**

@@ -219,5 +219,17 @@
     "eye_macro": "Macro shot of the almond-shaped eyes and iris patterns of an Ocicat",
     "coat_texture": "Macro photo of the short, smooth, and distinctively spotted coat texture",
     "variant_full_body": "Full body view showing various color variants (tawny, chocolate, silver) of the Ocicat"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1987,
+      "url": "https://cfa.org/ocicat/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/236-ocicat"
+    }
   }
 }

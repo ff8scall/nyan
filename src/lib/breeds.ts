@@ -139,6 +139,18 @@ export interface BreedData {
   schema_data?: any;
   image_alts_ko?: { [key: string]: string };
   image_alts_en?: { [key: string]: string };
+  official_recognition?: {
+    cfa?: {
+      status: string;
+      year: number | null;
+      url: string | null;
+    };
+    tica?: {
+      status: string;
+      year: number | null;
+      url: string | null;
+    };
+  };
 
   // Compatibility layer for old UI
   name?: { en: string; ko: string };

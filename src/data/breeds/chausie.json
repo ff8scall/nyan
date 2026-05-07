@@ -217,5 +217,17 @@
     "eye_macro": "Macro shot of the alert and mysterious eyes of a Chausie cat",
     "coat_texture": "Macro photo of the coarse and resilient short coat texture",
     "variant_full_body": "Full body view showing various ticked and solid variants of the Chausie"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2013,
+      "url": "https://tica.org/breeds/browse-breeds/item/206-chausie"
+    }
   }
 }

@@ -214,5 +214,17 @@
     "eye_macro": "Macro shot of the expressive eyes and iris patterns of a Cymric cat",
     "coat_texture": "Macro photo of the dense, plush, and long double coat texture",
     "variant_full_body": "Full body view showing various color variants of the Cymric"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Manx Variant",
+      "year": null,
+      "url": "https://cfa.org/manx/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/209-cymric"
+    }
   }
 }

@@ -233,5 +233,17 @@
     "variant_full_body": "Showcase of different Savannah generations and color patterns"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "high"
+  "visual_accuracy_difficulty": "high",
+  "official_recognition": {
+    "cfa": {
+      "status": "Not Recognized",
+      "year": null,
+      "url": null
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 2012,
+      "url": "https://tica.org/breeds/browse-breeds/item/245-savannah"
+    }
+  }
 }

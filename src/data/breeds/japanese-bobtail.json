@@ -220,5 +220,17 @@
     "eye_macro": "Macro shot of the alert eyes and iris patterns of a Japanese Bobtail",
     "coat_texture": "Macro photo of the silky single coat texture",
     "variant_full_body": "Full body view showing the 'Mi-Ke' (calico) pattern variant of the Japanese Bobtail"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1976,
+      "url": "https://cfa.org/japanese-bobtail/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/219-japanese-bobtail"
+    }
   }
 }

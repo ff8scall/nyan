@@ -215,5 +215,17 @@
     "eye_macro": "Macro shot of the large, almond-shaped eyes of a Devon Rex cat",
     "coat_texture": "Macro photo of the soft, rippled 'velvet' coat texture",
     "variant_full_body": "Full body view showing various color variants of the Devon Rex"
+  },
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1979,
+      "url": "https://cfa.org/devon-rex/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/210-devon-rex"
+    }
   }
 }

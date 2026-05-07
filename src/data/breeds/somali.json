@@ -238,5 +238,17 @@
     "variant_full_body": "Full body view showing various color variants (Ruddy, Red, etc.) of the Somali"
   },
   "image_generation_priority": "high",
-  "visual_accuracy_difficulty": "medium"
+  "visual_accuracy_difficulty": "medium",
+  "official_recognition": {
+    "cfa": {
+      "status": "Championship",
+      "year": 1979,
+      "url": "https://cfa.org/somali/"
+    },
+    "tica": {
+      "status": "Championship Breed",
+      "year": 1979,
+      "url": "https://tica.org/breeds/browse-breeds/item/256-somali"
+    }
+  }
 }
